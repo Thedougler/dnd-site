@@ -1,6 +1,10 @@
 ---
 title: Welcome to Quartz
 ---
+# The Shattered Sea
+## Monsters
+- [[Blight]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Places
+- [[Ashwall-Islands]]
+- [[Aruhe]]

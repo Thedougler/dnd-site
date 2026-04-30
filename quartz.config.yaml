@@ -1,7 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Shatted Sea
-  pageTitleSuffix: Wiki
+  pageTitle: The Shattered Sea
   enableSPA: true
   enablePopovers: true
   analytics:

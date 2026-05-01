@@ -13,7 +13,7 @@ const CONTENT_DIR = path.resolve(ROOT, process.env.LLM_CONTENT_DIR ?? "content")
 const OUTPUT_DIR = path.resolve(ROOT, process.env.LLM_OUTPUT_DIR ?? "public")
 const CONFIG_PATH = path.resolve(ROOT, process.env.LLM_QUARTZ_CONFIG ?? "quartz.config.yaml")
 
-const REQUIRED_FIELDS = ["title", "type", "publish", "visibility", "summary"]
+const REQUIRED_FIELDS = ["title", "publish"]
 const EXCLUDED_VISIBILITIES = new Set(["private", "dm_only"])
 const EXCLUDED_AUDIENCES = new Set(["dm"])
 const COLLECTIONS = {
@@ -33,14 +33,22 @@ async function main() {
   for (const file of files) {
     const raw = await fs.readFile(file, "utf8")
     const parsed = parseMarkdown(raw, file)
-    if (!parsed.frontmatter.publish) continue
+    if (!isPublishEnabled(parsed.frontmatter.publish)) continue
     if (isPrivate(parsed.frontmatter)) continue
 
     const relative = path.relative(CONTENT_DIR, file)
+    const errorCount = errors.length
     validateFrontmatter(parsed.frontmatter, relative)
+    if (errors.length > errorCount) continue
 
     const page = buildPageRecord(parsed, relative, cfg)
     pages.push(page)
+  }
+
+  if (errors.length > 0) {
+    for (const warning of warnings) console.warn(`Warning: ${warning}`)
+    for (const error of errors) console.error(`Error: ${error}`)
+    process.exit(1)
   }
 
   pages.sort((a, b) => a.title.localeCompare(b.title))
@@ -133,7 +141,7 @@ function shouldIgnore(relative, ignored) {
 }
 
 function parseMarkdown(raw, file) {
-  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/)
+  const match = raw.match(/^\uFEFF?---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/)
   if (!match) {
     errors.push(`${path.relative(ROOT, file)} is missing YAML frontmatter`)
     return { frontmatter: {}, body: raw }
@@ -152,10 +160,18 @@ function parseMarkdown(raw, file) {
 
 function isPrivate(frontmatter) {
   return (
-    frontmatter.publish === false ||
+    isPublishDisabled(frontmatter.publish) ||
     EXCLUDED_VISIBILITIES.has(String(frontmatter.visibility ?? "").toLowerCase()) ||
     EXCLUDED_AUDIENCES.has(String(frontmatter.audience ?? "").toLowerCase())
   )
+}
+
+function isPublishEnabled(value) {
+  return value === true || String(value).toLowerCase() === "true"
+}
+
+function isPublishDisabled(value) {
+  return value === false || String(value).toLowerCase() === "false"
 }
 
 function validateFrontmatter(frontmatter, relative) {
@@ -171,11 +187,14 @@ function validateFrontmatter(frontmatter, relative) {
     }
   }
 
-  if (frontmatter.publish !== true) {
+  if (!isPublishEnabled(frontmatter.publish)) {
     errors.push(`${relative} must set publish: true to appear in the LLM distribution layer`)
   }
 
-  if (frontmatter.visibility !== "public") {
+  if (
+    frontmatter.visibility !== undefined &&
+    String(frontmatter.visibility).toLowerCase() !== "public"
+  ) {
     errors.push(`${relative} must set visibility: public to appear in the LLM distribution layer`)
   }
 
@@ -197,7 +216,7 @@ function buildPageRecord(parsed, relative, cfg) {
   const body = stripPrivateMarkdown(parsed.body)
   const content = normalizeMarkdownBody(body)
   const url = withBasePath(cfg, fileSlug === "index" ? "/" : `/${encodeURI(fileSlug)}/`)
-  const type = String(parsed.frontmatter.type)
+  const type = String(parsed.frontmatter.type ?? inferPageType(relative, parsed.frontmatter.tags))
   const tags = arrayOfStrings(parsed.frontmatter.tags)
   const aliases = arrayOfStrings(parsed.frontmatter.aliases)
   const relationships = [
@@ -218,16 +237,63 @@ function buildPageRecord(parsed, relative, cfg) {
     title,
     aliases,
     url,
-    visibility: "public",
+    visibility: String(parsed.frontmatter.visibility ?? "public").toLowerCase(),
     audience: parsed.frontmatter.audience ?? "players",
     canonical: parsed.frontmatter.canonical ?? true,
     status: parsed.frontmatter.status ?? "known",
-    summary: String(parsed.frontmatter.summary),
+    summary: getPageSummary(parsed.frontmatter, body, title),
     tags,
     relationships,
     source_path: `content/${relative}`,
     content,
   }
+}
+
+function inferPageType(relative, tags) {
+  const [topLevel] = relative.split("/")
+  const tagSet = new Set(arrayOfStrings(tags).map((tag) => tag.toLowerCase()))
+
+  if (relative === "index.md") return "index"
+  if (tagSet.has("species") || topLevel === "species") return "species"
+  if (tagSet.has("rules") || tagSet.has("mechanics") || topLevel === "rules") return "rules"
+  if (topLevel === "lore") return "lore"
+  return topLevel || "page"
+}
+
+function getPageSummary(frontmatter, body, title) {
+  if (frontmatter.summary !== undefined && frontmatter.summary !== null) {
+    const summary = String(frontmatter.summary).trim()
+    if (summary) return summary
+  }
+
+  const summarySection = extractSection(body, "Summary")
+  if (summarySection) {
+    const summary = firstProseBlock(summarySection)
+    if (summary) return summary
+  }
+
+  return firstProseBlock(body) || String(title)
+}
+
+function firstProseBlock(markdown) {
+  const cleaned = normalizeMarkdownBody(markdown)
+    .split(/\n{2,}/)
+    .map((block) => block.trim())
+    .find(
+      (block) =>
+        block &&
+        !block.startsWith("#") &&
+        !block.startsWith("|") &&
+        !block.startsWith("---") &&
+        !block.startsWith("```"),
+    )
+
+  if (!cleaned) return ""
+  return cleaned
+    .replace(/^>\s?/gm, "")
+    .replace(/^[-*]\s+/gm, "")
+    .replace(/\s+/g, " ")
+    .trim()
 }
 
 function stripPrivateMarkdown(markdown) {

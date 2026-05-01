@@ -14,7 +14,7 @@ tags:
 
 The **Shattered Sea** is a high-magic nautical sandbox campaign set in **1495 DR**: sixty thousand square miles of reefs, deep channels, cliff ports, free harbours, lost ruins, colonial ledgers, old gods, hungry storms, and ships with too many secrets in the hold.
 
-This is a campaign about sailing into places where the map lies. You will bargain with captains who smile while counting your exits, dodge patrol officers who treat extortion as paperwork, hear prayers muttered into saltwater before every voyage, and learn which islands welcome strangers only because they have not decided what to charge yet.
+This is a campaign about sailing past the edges of the map. You will bargain with captains who smile while counting your exits, dodge patrol officers who treat extortion as paperwork, hear prayers muttered into saltwater before every voyage, and learn which islands welcome strangers only because they have not decided what to charge yet.
 
 The sea is beautiful. The sea is expensive. The sea remembers.
 

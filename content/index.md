@@ -51,7 +51,7 @@ This campaign uses the 2024 _Dungeon Master's Guide_ [[Bastions]] rules, adapted
 
 You are beginning the campaign at **Level 3**. In addition to the canon DND 2024 species you may play as these homebrew [[Grung|Grung]], [[Rattkin]], [[Tabaxi]], and [[Aarakocra]]
 
-As the campaign opens, you find yourselves aboard the _Saltwright_, a hard-used two-masted merchant brig captained by an alligator-snapping tortle named Beaumont.
+As the campaign opens, you find yourselves aboard the _[[Saltwright]]_, a hard-used two-masted merchant brig captained by an alligator-snapping tortle named Beaumont.
 
 Whether you are a paying passenger, a shipwrecked survivor pulled from the water, or a stowaway hiding in the hold, the _Saltwright_ is where your stories collide.
 

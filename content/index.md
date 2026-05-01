@@ -1,5 +1,6 @@
 ---
 publish: true
+title: The Shattered Sea
 created: 2026-04-29
 modified: 2026-05-01
 tags:
@@ -11,7 +12,7 @@ tags:
 
 ![[raw/assets/banners/The-Shattered-Sea.webp]]
 
-The **Shattered Sea** is a high-magic nautical sandbox set in **1495 DR**: sixty thousand square miles of reefs, deep channels, cliff ports, free harbours, lost ruins, colonial ledgers, old gods, hungry storms, and ships with too many secrets in the hold.
+The **Shattered Sea** is a high-magic nautical sandbox campaign set in **1495 DR**: sixty thousand square miles of reefs, deep channels, cliff ports, free harbours, lost ruins, colonial ledgers, old gods, hungry storms, and ships with too many secrets in the hold.
 
 This is a campaign about sailing into places where the map lies. You will bargain with captains who smile while counting your exits, dodge patrol officers who treat extortion as paperwork, hear prayers muttered into saltwater before every voyage, and learn which islands welcome strangers only because they have not decided what to charge yet.
 
@@ -21,7 +22,7 @@ The sea is beautiful. The sea is expensive. The sea remembers.
 
 ## What Kind of Story Is This?
 
-The Shattered Sea is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of unpaid debt. Merchant princes speak softly because they already own the room. Priests of [[Umberlee|Umberlee]] bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
+The Shattered Sea is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of unpaid debt. Merchant princes speak softly because they already own the room. Priests of [[lore/Umberlee|Umberlee]] bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
 
 Expect:
 
@@ -30,8 +31,6 @@ Expect:
 - **Colonial pressure** without a clean map of good and evil. Institutions want taxes, leverage, obedience, labour, souls, or silence. Individuals inside them may want something smaller and messier.
 - **Ancient mysteries** visible at the edges: impossible stone, wrong currents, missing ships, old records, and sailors who refuse to say what they saw east of the charts.
 - **Player-driven trouble.** There is no single correct route. Your alliances, grudges, bargains, and mistakes will decide what kind of legends you become.
-
-Tone touchstone: competent people making dangerous decisions for embarrassingly personal reasons.
 
 ---
 
@@ -147,7 +146,7 @@ You do not need to memorize every faction before Session 1. You only need to kno
 
 **[[The-Grung|The Grung]]** hold the rainforest interiors of the Verdant Teeth in the Midchain. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
 
-**[[Umberlee|Umberlee]] and the Waveservants** are the religious fact of life at sea. Umberlee is the Bitch Queen, goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
+**[[lore/Umberlee|Umberlee]] and the Waveservants** are the religious fact of life at sea. Umberlee is the Bitch Queen, goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
 **The Sentinels of the Eyrie** are an aarakocra monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
 
@@ -159,7 +158,7 @@ You do not need to memorize every faction before Session 1. You only need to kno
 
 Standard 2024 D\&D species are available. This campaign also includes several player-facing homebrew species with strong ties to the setting:
 
-- **[[Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
+- **[[species/Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
 - **[[Rattkin]]**: small, flexible, hard to catch, and native to the hidden infrastructure of port life. Rattkin make excellent smugglers, scouts, couriers, spies, sailors, and people who were definitely not in that locked room.
 - **[[Tabaxi]]**: feline humanoids with ancient roots in the Shattered Sea, especially among the isolated island tribes of the Sunken Crown.
 - **[[Aarakocra]]**: winged people whose relationship to height, distance, and danger is fundamentally different from ground-bound folk.
@@ -170,7 +169,7 @@ If you want to play something stranger, ask. The Shattered Sea has room for oddi
 
 ## Ships, Home, and Upgrades
 
-This is a ship campaign. Your vessel is not just transportation; it is shelter, leverage, reputation, storage, escape route, and eventually home.
+This is a nautical campaign. Your vessel is not just transportation; it is shelter, leverage, reputation, storage, escape route, and eventually home.
 
 At higher levels, the party ship uses the 2024 **[[Bastions]]** rules adapted into a shared mobile base:
 
@@ -236,10 +235,10 @@ Once you have a concept, schedule a short character interview with the DM. The g
 - [[Bastions]]
 - [[Ship-Bastion|Ship Bastion]]
 - [[Ship-Stats]]
-- [[Grung|Playable Grung]]
+- [[species/Grung|Playable Grung]]
 - [[Rattkin]]
 - [[Tabaxi]]
 - [[Aarakocra]]
-- [[Umberlee|Umberlee and the Waveservants]]
+- [[lore/Umberlee|Umberlee and the Waveservants]]
 - [[The-Passage]]
 - [[The-Grung]]

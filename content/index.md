@@ -9,7 +9,9 @@ tags:
 
 # The Shattered Sea
 
-Welcome to the **Shattered Sea**, a high magic nautical sandbox dnd campaign. Set in the year 1495 DR, this campaign blends naval exploration, colonial tension, ancient mysteries, and divine wrath.
+![[raw/assets/banners/The-Shattered-Sea.webp]]
+
+elcome to the **Shattered Sea**, a high magic nautical sandbox dnd campaign. Set in the year 1495 DR, this campaign blends naval exploration, colonial tension, ancient mysteries, and divine wrath.
 
 ## The World: The Shattered Sea
 

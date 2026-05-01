@@ -123,7 +123,7 @@ This is Maw-adjacent country: longline grounds, serious pilots, salvage staging,
 
 To the east lies the Drowned Maw, a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. The surface can go flat in weather that should chop it to pieces. Sailors cross it regularly. Most have no trouble. The ones who do have trouble tend to become warnings rather than sources.
 
-The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The Sentinels of the Eyrie watch it from high stone. The Waveservants do not like questions about it. Every chart grows less confident near the edge.
+The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[Sentinels-Of-The-Eyrie#What Everyone Knows|Sentinels of the Eyrie]] watch it from the [[The-High-Eyrie#What Everyone Knows|High Eyrie]]. The Waveservants do not like questions about it. Every chart grows less confident near the edge.
 
 ### [[Outer-Reach|The Outer Reach]] and [[Sunken-Crown|Sunken Crown]]
 
@@ -150,6 +150,8 @@ You do not need to memorize every faction before Session 1. You only need to kno
 **[[Umberlee|Umberlee]] and the Waveservants** are the religious fact of life at sea. Umberlee is the Bitch Queen, goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
 **The Sentinels of the Eyrie** are an aarakocra monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
+
+**The High Eyrie** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
 
 ---
 
@@ -183,7 +185,13 @@ Early on, expect to think like sailors even before you own the deck under your f
 
 ## The Starting Situation
 
-The campaign begins at **Level 3** aboard the _Saltwright_, a hard-used two-masted merchant brig captained by **Beaumont Sel**, an alligator-snapping tortle who has survived eleven years on the Midchain route by treating danger as weather: notice it early, respect it, and do not waste breath being offended by it.
+The campaign begins at **Level 3** aboard the _Saltwright_.
+
+![[raw/assets/banners/Saltwright.webp|730|892x502]]
+
+A hard-used two-masted merchant brig captained by **Beaumont Sel**, an alligator-snapping tortle who has survived eleven years on the Midchain route by treating danger as weather: notice it early, respect it, and do not waste breath being offended by it.
+
+![[raw/assets/portraits/Beaumont-Sel.webp]]
 
 You might be a paying passenger, a working hand, a shipwrecked survivor, a stowaway, a fugitive, a pilgrim, a hired blade, a scholar with bad funding, or someone who got on the wrong boat and has decided to make that everyone else's problem.
 

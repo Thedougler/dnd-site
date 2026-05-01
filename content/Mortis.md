@@ -22,15 +22,6 @@ A session zero option pairing a permanent mechanical disadvantage (the **Mark**)
 
 ---
 
-## Current Party Mortises
-
-| Character | Mark | Gift |
-|---|---|---|
-| [[Perrin-Black-Jaw]] | Disadvantage on Strength checks and saves | +2 Charisma |
-| [[Jean-Claude-Tabarnack]] | Disadvantage on Persuasion and Deception | Advantage on Perception and Survival |
-
----
-
 ## Design Rules
 
 **Mark and Gift describe the same person.** Read only the Mark — you should still be able to sketch the character. Both halves name the same truth from opposite ends.
@@ -56,9 +47,7 @@ A session zero option pairing a permanent mechanical disadvantage (the **Mark**)
 
 ## Running It
 
-The Mark goes on the character sheet as a standard disadvantage note. The Gift goes in feats/features. No tokens, no tracking, no mid-session lookups.
-
-**The DM applies the Mark** — the player does not self-report. When the situation arises, the DM calls it.
+The Mark goes on the character sheet as a standard mechanical note. Disadvantage/proficiency/etc, integrated into your character sheet math for easy quick look ups, you shouldn't need to think about it.
 
 ---
 
@@ -86,13 +75,13 @@ The Mark goes on the character sheet as a standard disadvantage note. The Gift g
 
 ## Example Mortises
 
-| Name | Concept | Mark | Gift |
-|---|---|---|---|
-| **The Reckless** | All offence, no self-preservation | Cannot take the Dodge action | +2 to all melee attack rolls |
-| **The Loud** | Subtlety is not in them | Disadv. on Stealth checks | Inspiring Leader feat |
-| **The Impulsive** | Acts before they think | Disadv. on Insight checks | +5 Initiative; cannot be surprised while conscious |
-| **The Obsessive** | Tunnelled into their craft | Disadv. on Perception checks | Expertise in one skill (player's choice) |
-| **The Frail** | Not built to absorb punishment | Max HP –1 per character level (scales) | +2 to one ability score (player's choice) |
+| Name                  | Concept                                    | Mark                                         | Gift                                                                              |
+| --------------------- | ------------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------------------- |
+| **The Reckless**      | All offence, no self-preservation          | Cannot take the Dodge action                 | +2 to all melee attack rolls                                                      |
+| **The Loud**          | Subtlety is not in them                    | Disadv. on Stealth checks                    | Inspiring Leader feat                                                             |
+| **The Impulsive**     | Acts before they think                     | Disadv. on Insight checks                    | +5 Initiative; cannot be surprised while conscious                                |
+| **The Obsessive**     | Tunnelled into their craft                 | Disadv. on Perception checks                 | Expertise in one skill (player's choice)                                          |
+| **The Frail**         | Not built to absorb punishment             | Max HP –1 per character level (scales)       | +2 to one ability score (player's choice)                                         |
 | **The Scholar-Blade** | Every hour on the blade, none on the books | Disadv. on History, Arcana, Nature, Religion | One combat feat (Dual Wielder / Polearm Master / Shield Master / Crossbow Expert) |
 
 ---

@@ -11,7 +11,7 @@ tags:
 
 ![[raw/assets/banners/The-Shattered-Sea.webp]]
 
-elcome to the **Shattered Sea**, a high magic nautical sandbox dnd campaign. Set in the year 1495 DR, this campaign blends naval exploration, colonial tension, ancient mysteries, and divine wrath.
+Welcome to the **Shattered Sea**, a high magic nautical sandbox dnd campaign. Set in the year 1495 DR, this campaign blends naval exploration, colonial tension, ancient mysteries, and divine wrath.
 
 ## The World: The Shattered Sea
 
@@ -29,9 +29,11 @@ The primary setting is **The Shattered Sea**, a sprawling archipelago covering s
 You will navigate a complex web of powers. Who you align with, or anger, will shape your journey:
 
 - **The Dravosi Crown:** The dominant colonial power in the Crown Islands. Their authority is built on naval superiority and absolute bureaucratic obsession. To the Crown, resistance is "administrative non-compliance" that can be met with devastating force—after the paperwork is filed.
+- **The Tessarine Concordat:** The primary trade and intelligence power in the region.
 - **The Passage:** An invisible, unmapped intelligence and smuggling network run entirely by the Rattkin. They operate beneath the notice of the colonial authorities, using scratch-notation on ceramics to pass messages. You cannot tax a passage that leaves no record.
 - **[[The-Grung]]:** Raiding clans originating from the Verdant Teeth in the Midchain. They run an aggressive slave economy, identified by their strict color-based caste system, with blue-caste scouts moving in absolute silence to mark targets.
 - **The Waveservants:** The transactional, strictly neutral clergy of Umberlee, the Bitch Queen. They collect tribute at every port entry. Remember: sailors who do not pay do not sail.
+- [[Sentinels-Of-The-Eyrie]]: The Watchers of the Maw.
 
 ---
 

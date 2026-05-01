@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29
-modified: 2026-04-29
+modified: 2026-04-30
 tags:
   - index
   - player-resource
@@ -11,64 +11,143 @@ tags:
 
 ![[raw/assets/banners/The-Shattered-Sea.webp]]
 
-Welcome to the **Shattered Sea**, a high magic nautical sandbox dnd campaign. Set in the year 1495 DR, this campaign blends naval exploration, colonial tension, ancient mysteries, and divine wrath.
+The **Shattered Sea** is a high-magic nautical sandbox set in **1495 DR**: sixty thousand square miles of reefs, deep channels, cliff ports, free harbours, lost ruins, colonial ledgers, old gods, hungry storms, and ships with too many secrets in the hold.
 
-## The World: The Shattered Sea
+This is a campaign about sailing into places where the map lies. You will bargain with captains who smile while counting your exits, dodge patrol officers who treat extortion as paperwork, hear prayers muttered into saltwater before every voyage, and learn which islands welcome strangers only because they have not decided what to charge yet.
 
-The primary setting is **The Shattered Sea**, a sprawling archipelago covering sixty thousand square miles of reef and deep water. The air is warm and salt-heavy, smelling of rainforest canopy until you sail too far east. The west is bounded by **the Galewall**, A permanent, violent tropical storm belt. The colonial homelands lie beyond it, and crossing takes three perilous weeks, and 1 in every 3 voyages is expected to be lost. For most, this is the hard western boundary of the world. **The Drowned Maw** A terrifying 40-to-90-mile deep-sea trench where compasses fail, the water goes dark, and the largest oceanic predators roam, only small islands and open ocean lie further east.
-
-**Key Regions:**
-
-- **The Crown Islands:** The northern arc. Five large, mountainous islands heavily administered by colonial powers. Here lies **Port Tidefall**, the heavily fortified Dravosi capital built directly into a cliff face.
-- **The Midchain:** The southern arc. Dozens of small, ungoverned islands packed closely together. It is home to free ports like **Kalowe**, the Grung territories of the Verdant Teeth, and unregulated trade.
+The sea is beautiful. The sea is expensive. The sea remembers.
 
 ---
 
-## Major Factions
+## What Kind of Story Is This?
 
-You will navigate a complex web of powers. Who you align with, or anger, will shape your journey:
+The Shattered Sea is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of unpaid debt. Merchant princes speak softly because they already own the room. Priests bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
 
-- **The Dravosi Crown:** The dominant colonial power in the Crown Islands. Their authority is built on naval superiority and absolute bureaucratic obsession. To the Crown, resistance is "administrative non-compliance" that can be met with devastating force—after the paperwork is filed.
-- **The Tessarine Concordat:** The primary trade and intelligence power in the region.
-- **The Passage:** An invisible, unmapped intelligence and smuggling network run entirely by the Rattkin. They operate beneath the notice of the colonial authorities, using scratch-notation on ceramics to pass messages. You cannot tax a passage that leaves no record.
-- **[[The-Grung]]:** Raiding clans originating from the Verdant Teeth in the Midchain. They run an aggressive slave economy, identified by their strict color-based caste system, with blue-caste scouts moving in absolute silence to mark targets.
-- **The Waveservants:** The transactional, strictly neutral clergy of Umberlee, the Bitch Queen. They collect tribute at every port entry. Remember: sailors who do not pay do not sail.
-- [[Sentinels-Of-The-Eyrie]]: The Watchers of the Maw.
+Expect:
+
+- **Nautical exploration** across islands, reefs, storms, trenches, and ports that do not agree about who owns them.
+- **High magic in practical hands**: enchanted instruments, divine tribute, old ruins, ship upgrades, strange species, and magic treated as part of the economy.
+- **Colonial pressure** without a clean map of good and evil. Institutions want taxes, leverage, obedience, labour, souls, or silence. Individuals inside them may want something smaller and messier.
+- **Ancient mysteries** visible at the edges: impossible stone, wrong currents, missing ships, old records, and sailors who refuse to say what they saw east of the charts.
+- **Player-driven trouble.** There is no single correct route. Your alliances, grudges, bargains, and mistakes will decide what kind of legends you become.
+
+Tone touchstone: competent people making dangerous decisions for embarrassingly personal reasons.
 
 ---
 
-## Special Campaign Mechanics
+## The Sea Itself
 
-**1. [[Mortis|The Mortis System]] (Session Zero Option)**
-A unique home-brew rule for character creation. A Mortis is not a curse or a punishment; it is a fact about who your character is. You pair a permanent mechanical disadvantage (the **Mark**) with a targeted mechanical benefit (the **Gift**). For example, a character who is frail but fiercely charismatic might take disadvantage on Strength checks in exchange for a +2 to Charisma. This locks in at Session Zero.
+The Shattered Sea is an archipelago scattered between two hard boundaries.
 
-**2. Ships as Mobile Bastions**
-This campaign uses the 2024 _Dungeon Master's Guide_ [[Bastions]] rules, adapted for life at sea.
+To the **west** stands **the Galewall**, a permanent tropical storm belt between the Scatter and the colonial homelands. Crossing it takes about three weeks in good order, and everyone knows a ship that did not make it. For most sailors, the Galewall is not a route. It is a dare with a fee attached.
 
-- Your party's [[Ship-Bastion|ship]] serves as your shared Bastion.
-- As you level up, you pool your facility slots to customize the vessel (e.g., adding a Cook's Galley, Armored Hulls, or specialized magical upgrades).
-- "Bastion Turns" resolve weekly, handling ship upkeep, crew wages, and maritime events like encounters with hostile vessels or passing merchants, see [[Ship-Stats]] for more info
+To the **east** lies **the Drowned Maw**, a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, science, desperation, and profit. Fewer return with clean answers.
+
+Between them, the islands run in two great arcs:
+
+- **The Crown Islands** form the northern arc: larger, mountainous, heavily administered, and watched by colonial flags. Their fortress-port, **Port Tidefall**, is carved into a cliff face at the western mouth of the Central Strait. Every ship entering the Strait learns the same lesson: the Crown has a form for that.
+- **The Midchain** forms the southern arc: smaller islands packed close together, harder to govern, rich in hidden channels and local arrangements. Free ports like **Kalowe** survive here because everybody needs somewhere that asks fewer questions.
+
+The air changes before land appears: warm, salt-heavy, green with rainforest carried over the water. Then the islands rise in pieces: pale limestone, black basalt, dark jungle, reef water bright enough to hurt your eyes, and deep channels where the colour drops away all at once.
+
+---
+
+## Powers on the Water
+
+You do not need to memorize every faction before Session 1. You only need to know that every dock has a price, every flag means something, and neutrality is usually just a business model.
+
+**The Dravosi Crown** controls much of the Crown Islands through naval force, fortress ports, and a bureaucracy that treats paperwork like divine law. Their officers open a ledger before they say hello. Resistance becomes "administrative non-compliance," and administrative non-compliance can become cannon fire once properly filed.
+
+**The Tessarine Concordat** prefers debt to conquest. Its factors dress plainly, speak warmly, and always know the current price of what you are carrying. They do not need to seize a city if they can lend to it until the votes come due.
+
+**[[The-Passage|The Passage]]** is the Rattkin network beneath and between the ports: runs, holds, courier routes, hidden caches, and scratch-notation no colonial clerk can read. The Passage does not appear on maps because maps are made by people who think streets are the only way through a city.
+
+**[[The-Grung|The Grung]]** hold the rainforest interiors of the Verdant Teeth in the Midchain. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
+
+**The Waveservants** are Umberlee's clergy in the Shattered Sea. Their shrines sit near port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
+
+**The Sentinels of the Eyrie** are an aarakocra monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
+
+---
+
+## Peoples of the Shattered Sea
+
+Standard 2024 D\&D species are available. This campaign also includes several player-facing homebrew species with strong ties to the setting:
+
+- **[[Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
+- **[[Rattkin]]**: small, flexible, hard to catch, and native to the hidden infrastructure of port life. Rattkin make excellent smugglers, scouts, couriers, spies, sailors, and people who were definitely not in that locked room.
+- **[[Tabaxi]]**: feline humanoids with ancient roots in the Shattered Sea, especially among the isolated island tribes of the Sunken Crown.
+- **[[Aarakocra]]**: winged people whose relationship to height, distance, and danger is fundamentally different from ground-bound folk.
+
+If you want to play something stranger, ask. The Shattered Sea has room for oddities, but the character still needs a reason to stay with the crew.
+
+---
+
+## Ships, Home, and Upgrades
+
+This is a ship campaign. Your vessel is not just transportation; it is shelter, leverage, reputation, storage, escape route, and eventually home.
+
+At higher levels, the party ship uses the 2024 **[[Bastions]]** rules adapted into a shared mobile base:
+
+- Your ship becomes a combined **[[Ship-Bastion|Ship Bastion]]**.
+- Facility slots are pooled across the party.
+- Weekly Bastion Turns handle upkeep, crew wages, facility orders, repairs, trade, visitors, and maritime events.
+- Ship size matters. A sloop cannot hold the same life, guns, cargo, and magical infrastructure as a frigate. See **[[Ship-Stats]]** for the tier system.
+
+Early on, expect to think like sailors even before you own the deck under your feet. Crew, cargo, water, repairs, charts, port fees, bribes, and grudges all matter.
 
 ---
 
 ## The Starting Situation
 
-You are beginning the campaign at **Level 3**. In addition to the canon DND 2024 species you may play as these homebrew [[Grung|Grung]], [[Rattkin]], [[Tabaxi]], and [[Aarakocra]]
+The campaign begins at **Level 3** aboard the _Saltwright_, a hard-used two-masted merchant brig captained by **Beaumont Sel**, an alligator-snapping tortle who has survived eleven years on the Midchain route by treating danger as weather: notice it early, respect it, and do not waste breath being offended by it.
 
-As the campaign opens, you find yourselves aboard the _Saltwright_, a hard-used two-masted merchant brig captained by an alligator-snapping tortle named Beaumont.
+You might be a paying passenger, a working hand, a shipwrecked survivor, a stowaway, a fugitive, a pilgrim, a hired blade, a scholar with bad funding, or someone who got on the wrong boat and has decided to make that everyone else's problem.
 
-Whether you are a paying passenger, a shipwrecked survivor pulled from the water, or a stowaway hiding in the hold, the _Saltwright_ is where your stories collide.
+Whatever brought you aboard, the _Saltwright_ is where your stories collide.
+
+---
+
+## Character Creation
+
+- Use **D\&D 2024 rules by default**. 2014 material is allowed if adapted cleanly to 2024.
+- Start at **Level 3**.
+- Roll stats with **4d6 drop lowest**. You may roll three arrays; if you hate all three, use point buy.
+- Take standard starting equipment plus **one uncommon magic item** from your previous adventures.
+- Official sourcebook content is static. Homebrew or adjusted content may be tuned during play if balance gets weird.
+- Powerful, strange, optimized, comedic, or highly specific builds are welcome. The one hard requirement: make a character with some reason to work with the party.
+- Character death is possible. The DM will not aim to kill you, but the sea, the dice, and your decisions will not be padded. Death will be treated with narrative weight, and resurrection or a new same-level character are both on the table.
+
+### Optional: [[Mortis|The Mortis System]]
+
+A Mortis is a Session Zero option that pairs a permanent mechanical drawback with a targeted mechanical benefit. It is not a curse and not a punishment. It is a fact about your character expressed through mechanics: the same truth that limits them also makes them exceptional.
+
+Mortises require DM approval and lock in at Session Zero.
 
 ---
 
-## From your DM
+## Before Session Zero
 
-- DND 2024 rules by default, 2014 allowed but must be adapted to 2024. If its in a source book its fine.
-- Roll your stats, 4d6 drop the lowest, you can do that three times and if you hate all of them go with point buy. Honor system on the rolls.
-- Give me your most min/maxed, busted, overpowered, jokey, meme character builds you've always wanted to play, I can work with that, just don't be Batman. Make a character who has some, any reason, to work with your fellow players.
-- If your using any home-brewed, or adjusted to 2024 content, expect to work with me on any balance issues that may arise during play, TLDR: non official content may be tweaked or change during play. All sourcebook content is completely static.
-- Build your character at level 3, include all the standard starting equipment + an uncommon magic item that you got from your previous adventures from levels 1-3
-- While I will never try and kill your character, I also will not protect your from your own decisions and the dice. Consequently player character death is a possibility, and it wont be retconned. This is not the end for your character however, Revivify, quests, or if you feel this was a thematic and fitting end for your character, it will be given appropriate narrative weight and depth and you may create a new character of the same level to join the party in the next session.
-- Let me know when you have an idea of your character and a spare hour, I briefly interview all my players about there characters so I can build a world that relevant to them.
+Come with a character idea strong enough to answer a few questions:
+
+- Why are you aboard the _Saltwright_?
+- What do you want badly enough to cross dangerous water for?
+- What kind of trouble follows you onto a ship?
+- What would make you stay with a crew when leaving would be easier?
+
+Once you have a concept, schedule a short character interview with the DM. The goal is to make the world relevant to your character, not to trap you in homework.
 
 ---
+
+## Player-Facing Links
+
+- [[Mortis|The Mortis System]]
+- [[Bastions]]
+- [[Ship-Bastion|Ship Bastion]]
+- [[Ship-Stats]]
+- [[Grung|Playable Grung]]
+- [[Rattkin]]
+- [[Tabaxi]]
+- [[Aarakocra]]
+- [[The-Passage]]
+- [[The-Grung]]

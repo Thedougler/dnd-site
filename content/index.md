@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-29
-modified: 2026-04-30
+modified: 2026-05-01
 tags:
   - index
   - player-resource
@@ -21,7 +21,7 @@ The sea is beautiful. The sea is expensive. The sea remembers.
 
 ## What Kind of Story Is This?
 
-The Shattered Sea is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of unpaid debt. Merchant princes speak softly because they already own the room. Priests bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
+The Shattered Sea is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of unpaid debt. Merchant princes speak softly because they already own the room. Priests of [[Umberlee|Umberlee]] bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
 
 Expect:
 
@@ -39,16 +39,99 @@ Tone touchstone: competent people making dangerous decisions for embarrassingly 
 
 The Shattered Sea is an archipelago scattered between two hard boundaries.
 
-To the **west** stands **the Galewall**, a permanent tropical storm belt between the Scatter and the colonial homelands. Crossing it takes about three weeks in good order, and everyone knows a ship that did not make it. For most sailors, the Galewall is not a route. It is a dare with a fee attached.
-
-To the **east** lies **the Drowned Maw**, a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, science, desperation, and profit. Fewer return with clean answers.
-
-Between them, the islands run in two great arcs:
-
-- **The Crown Islands** form the northern arc: larger, mountainous, heavily administered, and watched by colonial flags. Their fortress-port, **Port Tidefall**, is carved into a cliff face at the western mouth of the Central Strait. Every ship entering the Strait learns the same lesson: the Crown has a form for that.
-- **The Midchain** forms the southern arc: smaller islands packed close together, harder to govern, rich in hidden channels and local arrangements. Free ports like **Kalowe** survive here because everybody needs somewhere that asks fewer questions.
+![[raw/assets/maps/Shattered-Sea-Map.webp]]
 
 The air changes before land appears: warm, salt-heavy, green with rainforest carried over the water. Then the islands rise in pieces: pale limestone, black basalt, dark jungle, reef water bright enough to hurt your eyes, and deep channels where the colour drops away all at once.
+
+The heart of the campaign is the **Verdant Scatter**, the main island chain between the Galewall and the Drowned Maw. It runs in two arcs: the larger, more administered **Crown Islands** to the north and the denser, harder-to-govern **Midchain** to the south. Between them runs the **Central Strait**, the main shipping road of the region.
+
+### [[The-Galewall|The Galewall]]
+
+![[raw/assets/banners/Ashwall-Islands.webp]]
+
+To the west stands the Galewall, a permanent tropical storm belt between the Scatter and the colonial homelands. It appears first as a dark line across the horizon, then as stacked grey weather systems with cold water underneath and wind that builds in stages.
+
+Crossing it takes about three weeks with an experienced pilot. Everyone knows a ship that did not make it. For most sailors, the Galewall is not a route. It is a dare with a fee attached.
+
+### [[Crown-Islands|The Crown Islands]]
+
+![[raw/assets/banners/Crown-Islands.webp]]
+
+The northern arc is made of five broad, mountainous islands with forested highlands, deep natural harbours, reef systems, and Dravosi flags at every major anchorage. The islands are rich enough to feed cities and steep enough to fortify, which is why the colonial powers have never stopped caring about them.
+
+Publicly, the Crown Islands mean administration: ratings, inspections, port fees, naval patrols, trade houses, and harbours where authority has a uniform. They are safer than the Midchain in the way a locked room is safer than an open road.
+
+### [[Port-Tidefall|Port Tidefall]]
+
+![[raw/assets/banners/Port-Tidefall.webp]]
+
+Port Tidefall is the Dravosi fortress-port at the western mouth of the Central Strait, carved directly into the cliff face of Calder's Tooth. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and Fort Crestwall above with cannon looking seaward.
+
+This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The Harbourmaster's Office sells charts and ratings; the Waveservants keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
+
+### [[Calveno]]
+
+![[raw/assets/banners/Calveno.webp]]
+
+Calveno is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
+
+Everything here is visible. That is the point. Deals are witnessed, alliances are performed, and the right association seen by the right people can matter as much as the cargo itself. The Tessarine Concordat has deep roots here, and the Rattkin Passage has deeper ones below.
+
+### [[Central-Strait|The Central Strait]]
+
+![[raw/assets/banners/Central-Strait.webp]]
+
+The Central Strait is the broad corridor of pale blue-green water between the Crown Islands and the Midchain. It runs forty to eighty miles wide depending on where you cross, deep enough for the largest vessels in the region and sheltered enough that smaller ships use it constantly.
+
+This is the Scatter's main east-west highway. The current pushes east whether you want it to or not, spinner dolphins work the shipping lanes, and Dravosi inspection at the western mouth makes the Strait profitable before a single cargo changes hands.
+
+### [[The-Midchain|The Midchain]]
+
+![[raw/assets/banners/The-Midchain.webp]]
+
+The southern arc is dozens of small and medium islands packed close together: limestone, coral, jungle, reef, hidden channels, and local arrangements that do not survive contact with paperwork. Most islands are a half-day's sail from the next. Fresh water, shelter, and trouble are always nearby.
+
+The Midchain is difficult to govern from outside. Colonial powers hold strategic points and send patrols through the channels, but most of the region belongs to island councils, free ports, smugglers, pilots, family networks, and whoever knows the reef better than the person chasing them.
+
+### [[Kalowe]]
+
+![[raw/assets/banners/Kalowe.webp]]
+
+Kalowe is the primary Midchain free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
+
+If Tidefall is where papers become chains, Kalowe is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
+
+### [[Verdant-Teeth|The Verdant Teeth]]
+
+![[raw/assets/banners/Sorn.webp]]
+
+Two days south of Kalowe sit the Verdant Teeth, five closely grouped islands held by Grung clans. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
+
+Outsiders trade at designated beaches and stay at the waterline. The Grung touch is poisonous, their caste protocols are strict, and the coastal settlements of the Midchain know that raid activity has worsened. Everyone has heard enough to avoid the interior. Some merchants still go to the beach.
+
+### [[The-Tail|The Tail]]
+
+![[raw/assets/banners/The-Tail.webp]]
+
+The Tail is where both arcs of the Scatter narrow toward the Drowned Maw. The islands grow fewer, taller, colder, and more wind-exposed. High cliffs drop straight to deep water, morning fog burns off by midday, and the sea takes on a harder colour near the shelf edge.
+
+This is Maw-adjacent country: longline grounds, serious pilots, salvage staging, cliff communities, and people who have lived close enough to the trench to stop treating unease as useful information. From here, the east stops feeling like direction and starts feeling like depth.
+
+### [[The-Drowned-Maw|The Drowned Maw]]
+
+![[raw/assets/banners/The-Drowned-Maw.webp]]
+
+To the east lies the Drowned Maw, a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. The surface can go flat in weather that should chop it to pieces. Sailors cross it regularly. Most have no trouble. The ones who do have trouble tend to become warnings rather than sources.
+
+The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The Sentinels of the Eyrie watch it from high stone. The Waveservants do not like questions about it. Every chart grows less confident near the edge.
+
+### [[Outer-Reach|The Outer Reach]] and [[Sunken-Crown|Sunken Crown]]
+
+![[raw/assets/banners/Sunken-Crown.webp]]
+
+East of the Maw, the charts thin out into open ocean. The Outer Reach has no colonial presence, no reliable resupply, and few landmarks a western pilot would trust. Getting there means crossing the Maw and then committing to days of open water.
+
+The best-known region beyond is the Sunken Crown: five low islands around a deep blue hole, black stone and pale reef around water that drops too cleanly to be comfortable. It is associated with old Umberlee worship, isolated tabaxi communities, and local navigation that outsiders routinely underestimate.
 
 ---
 
@@ -64,7 +147,7 @@ You do not need to memorize every faction before Session 1. You only need to kno
 
 **[[The-Grung|The Grung]]** hold the rainforest interiors of the Verdant Teeth in the Midchain. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
 
-**The Waveservants** are Umberlee's clergy in the Shattered Sea. Their shrines sit near port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
+**[[Umberlee|Umberlee]] and the Waveservants** are the religious fact of life at sea. Umberlee is the Bitch Queen, goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
 **The Sentinels of the Eyrie** are an aarakocra monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
 
@@ -139,7 +222,7 @@ Once you have a concept, schedule a short character interview with the DM. The g
 
 ---
 
-## Player-Facing Links
+## Links
 
 - [[Mortis|The Mortis System]]
 - [[Bastions]]
@@ -149,5 +232,6 @@ Once you have a concept, schedule a short character interview with the DM. The g
 - [[Rattkin]]
 - [[Tabaxi]]
 - [[Aarakocra]]
+- [[Umberlee|Umberlee and the Waveservants]]
 - [[The-Passage]]
 - [[The-Grung]]

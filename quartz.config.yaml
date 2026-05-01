@@ -6,7 +6,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: thedougler.github.io
+  baseUrl: thedougler.github.io/dnd-site
   ignorePatterns:
     - private
     - templates

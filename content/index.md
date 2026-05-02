@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Shattered Sea Index
+title: Index of The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-01
-published: 2026-05-01T19:39:48.111-07:00
+published: 2026-05-01T19:46:12.758-07:00
 tags:
   - player-resource
   - index
@@ -15,19 +15,17 @@ campaign: shattered-sea
 updated: 2026-05-01
 ---
 
-# The Shattered Sea Campaign
+# Index of The Shattered Sea
 
-\*High-magic nautical sandbox. 1495 DR. Sixty thousand square miles of reef, deep channel, cliff port, and lost ruin — held together by debt, tribute, and blood.
+_A High-magic nautical sandbox. 1495 DR. Set in sixty thousand square miles of reef, deep channel, cliff port, and lost ruin — held together by debt, tribute, and blood._
 
 ---
 
-## Start Here
+## New Players Start Here
 
 **[[player-primer|The Shattered Sea Player Primer]]** — read this first. Full onboarding: tone, geography, factions, character creation, ship rules, and what kind of trouble to expect.
 
 **[[campaign-overview|Campaign Overview]]** — dense reference. Geography, powers, religion, the starting situation, and the edges of the map, all in one page with links out to everything.
-
----
 
 ## Character Creation
 

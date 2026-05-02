@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Shattered Sea Campaign Overview
+title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-01T19:15:32.806-07:00
+published: 2026-05-01T19:38:19.846-07:00
 tags:
   - player-resource
   - campaign-overview

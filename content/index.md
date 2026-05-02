@@ -3,21 +3,21 @@ publish: true
 title: Shattered Sea Index
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-01
-published: 2026-05-01T19:32:02.227-07:00
+published: 2026-05-01T19:39:48.111-07:00
 tags:
   - player-resource
   - index
 visibility: public
 audience: players
-summary: Public navigation index for the Shattered Sea campaign resources, including the player primer and subfolder indexes.
+summary: Navigation index for the Shattered Sea campaign resources, including the player primer and subfolder indexes.
 type: index
 campaign: shattered-sea
 updated: 2026-05-01
 ---
 
-# The Shattered Sea Player Primer
+# The Shattered Sea Campaign
 
-_High-magic nautical sandbox. 1495 DR. Sixty thousand square miles of reef, deep channel, cliff port, and lost ruin — held together by debt, tribute, and the things sailors agree not to say out loud._
+\*High-magic nautical sandbox. 1495 DR. Sixty thousand square miles of reef, deep channel, cliff port, and lost ruin — held together by debt, tribute, and blood.
 
 ---
 

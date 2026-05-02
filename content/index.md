@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-01
-published: 2026-05-01T19:47:55.668-07:00
+published: 2026-05-01T19:54:41.401-07:00
 tags:
   - player-resource
   - index
@@ -21,13 +21,21 @@ _A High-magic nautical sandbox. 1495 DR. Set in sixty thousand square miles of r
 
 ---
 
+## Lore
+
+- [[characters/index|Characters]] — player characters and crew
+- [[factions/index|Factions]] — all powers of the Shattered Sea
+- [[lore/index|Lore]] — religion, culture, and world knowledge
+- [[places/index|Places]] — ports, islands, straits, and the deep water beyond
+- [[species/index|Species]] — full species write-ups
+
 ## New Players Start Here
 
 **[[player-primer|The Shattered Sea Player Primer]]** — read this first. Full onboarding: tone, geography, factions, character creation, ship rules, and what kind of trouble to expect.
 
 **[[campaign-overview|Campaign Overview]]** — dense reference. Geography, powers, religion, the starting situation, and the edges of the map, all in one page with links out to everything.
 
-## Character Creation
+### Character Creation
 
 **Species** — in addition to standard 2024 options, these homebrew species are available:
 
@@ -36,37 +44,14 @@ _A High-magic nautical sandbox. 1495 DR. Set in sixty thousand square miles of r
 - [[species/Rattkin|Rattkin]] — small, fast, built for impossible spaces
 - [[species/Tabaxi|Tabaxi]] — feline, ancient roots in the Shattered Sea
 
-**Powers and factions** — useful context before choosing backgrounds or allegiances:
-
-- [[factions/Dravosi-Crown-Summary|The Dravosi Crown]] — law, naval force, fortress ports, and bureaucracy as weaponry
-- [[factions/Tessarine-Concordat-Summary|The Tessarine Concordat]] — credit, contracts, and debts that become politics
-- [[factions/Waveservants-Summary|The Waveservants]] — Umberlee's clergy, harbour shrines, tribute without warmth
-- [[factions/Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]] — aarakocra observers of the Drowned Maw
-- [[factions/The-Passage-Summary|The Passage]] — Rattkin courier networks and hidden spaces beneath the ports
-- [[factions/Grung-Clans-Summary|The Grung Clans]] — Verdant Teeth clans, waterline trade, and worsening raids
-
 ---
 
-## Ship Rules
-
-Every crew operates a ship. These rules apply at the table:
+## Homebrew Rules
 
 - [[rules/Ship-Stats|Ship Stats]] — hull, speed, crew requirements, weapons, and upgrades
 - [[rules/Ship-Bastion|Ship Bastion]] — your ship as a mobile base of operations
-- [[rules/Bastions|Bastions]] — general bastion rules (ship context)
+- [[rules/Bastions|Bastions]] — general bastion rules (ship context), not homebrew, official reference.
 - [[rules/Mortis|Mortis]] — death and dying rules in use for this campaign
-
----
-
-## Reference Indexes
-
-Browse by category as things come up in play:
-
-- [[characters/index|Characters]] — player characters and crew
-- [[factions/index|Factions]] — all powers of the Shattered Sea
-- [[lore/index|Lore]] — religion, culture, and world knowledge
-- [[places/index|Places]] — ports, islands, straits, and the deep water beyond
-- [[species/index|Species]] — full species write-ups
 
 ---
 

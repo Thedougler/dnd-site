@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-02
-published: 2026-05-01T21:31:58.471-07:00
+published: 2026-05-01T21:41:15.512-07:00
 tags:
   - player-resource
   - index
@@ -17,6 +17,7 @@ updated: 2026-05-02
 
 # The Shattered Sea
 
+![[raw/assets/banners/The-Shattered-Sea.webp]]
 _A high-magic nautical sandbox. 1495 DR. Sixty thousand square miles of reef, deep channel, cliff port, and lost ruin, held together by debt, tribute, and blood._
 
 Welcome to the public campaign wiki. This is the player-facing side: safe onboarding material, setting references, character creation resources, and the rules systems you need at the table.

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Public Characters
+title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-02
-published: 2026-05-01T21:27:21.951-07:00
+published: 2026-05-01T21:35:39.842-07:00
 tags:
   - player-resource
   - index
@@ -16,7 +16,7 @@ campaign: shattered-sea
 updated: 2026-05-02
 ---
 
-# Public Characters
+# Player Characters
 
 - [[characters/belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
 - [[characters/delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.

@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-01
-published: 2026-05-01T19:47:35.379-07:00
+published: 2026-05-01T21:41:10.479-07:00
 tags:
   - player-resource
 visibility: public
@@ -15,7 +15,7 @@ campaign: shattered-sea
 updated: 2026-05-01
 ---
 
-# Shatterd Sea Player Primer
+# Shattered Sea Player Primer
 
 ![[raw/assets/banners/The-Shattered-Sea.webp]]
 

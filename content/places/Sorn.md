@@ -3,7 +3,7 @@ publish: true
 title: Sorn
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T15:26:12.751-07:00
+published: 2026-05-02T16:29:03.083-07:00
 tags:
   - location
   - island
@@ -37,7 +37,7 @@ confidence_level: medium
 
 From the water, Sorn reads as an unbroken wall of green — limestone ridge above the canopy, jungle running all the way to the reef line, no harbour, no smoke, nothing that looks like an invitation. The western shore has a strip of pale sand where the treeline has been cut back a few metres, wide enough for a few boats to pull up. That is the only point on the island where outsiders are expected to conduct business, and the canopy closes again immediately behind it.
 
-Sorn is the agricultural interior of the [[places/Verdant-Teeth|Verdant Teeth]] — the island where the Grung work runs. A purple-caste garrison maintains the beach. [[The-Midchain|Midchain]] sailors who have made the run report efficient transactions, no eye contact from anyone inland, and a clear sense that the trade beach exists because the Grung decided it does. The interior is not mapped. Charts from the last thirty years mark it with some version of _do not approach_. The raids out of the Teeth have been getting worse, and Sorn is not where the raids come from, which is one of the few pieces of information about it that most traders find reassuring.
+Sorn is the agricultural interior of the [[places/Verdant-Teeth|Verdant Teeth]] — the island where the Grung work runs. A purple-caste garrison maintains the beach. [[places/The-Midchain|Midchain]] sailors who have made the run report efficient transactions, no eye contact from anyone inland, and a clear sense that the trade beach exists because the Grung decided it does. The interior is not mapped. Charts from the last thirty years mark it with some version of _do not approach_. The raids out of the Teeth have been getting worse, and Sorn is not where the raids come from, which is one of the few pieces of information about it that most traders find reassuring.
 
 ---
 

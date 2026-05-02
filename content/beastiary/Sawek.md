@@ -3,7 +3,7 @@ publish: true
 title: Sawek
 created: 2026-04-12
 modified: 2026-04-21
-published: 2026-05-02T15:26:12.755-07:00
+published: 2026-05-02T16:29:03.101-07:00
 tags:
   - creature
   - monstrosity
@@ -24,7 +24,7 @@ sources: []
 source_count: 1
 confidence_level: medium
 cr: 5
-habitat: "[[Central-Strait]]"
+habitat: "[[private/places/Central-Strait]]"
 campaign: shattered-sea
 creature_type: monstrosity
 statblock: inline
@@ -46,21 +46,21 @@ The front half is shark: broad, muscle-dense, jaws wide enough to take a man at 
 
 ## Lore
 
-[[Kalowe|Kalowe]]'s reef divers call it the sawek, Colonial sailors call it the blue devil, after it's preference for using the caves that line blue holes as its lair.
+[[private/places/Kalowe|Kalowe]]'s reef divers call it the sawek, Colonial sailors call it the blue devil, after it's preference for using the caves that line blue holes as its lair.
 
 The front half is shark: broad, muscle-dense, jaws wide enough to take a man at the shoulder. The rear half is octopus: eight tentacles, each twenty feet long at full extension. It fits inside a cave entrance that looks too small to hold anything of note.
 
 It is an ambush predator, the tentacles emerge from the entrance and grab whatever is within range. The shark half takes over once prey is in reach.
 
-[[Kalowe|Kalowe]] divers mark claimed holes with a length of cord tied to a reef stake.
+[[private/places/Kalowe|Kalowe]] divers mark claimed holes with a length of cord tied to a reef stake.
 
 ---
 
 ## Connections
 
 - [[Coralyra-Dranra]] — was inked by a sawek prior to the campaign
-- [[Kalowe]] — reef divers here use the indigenous name; mark claimed holes with knotted cord
+- [[private/places/Kalowe]] — reef divers here use the indigenous name; mark claimed holes with knotted cord
 - [[The-Grandfather-Hole]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
-- [[Whip-Shark]] — co-listed in [[The-Midchain|Midchain]] maritime creature lore
+- [[Whip-Shark]] — co-listed in [[private/places/The-Midchain|Midchain]] maritime creature lore
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[Perrin-Black-Jaw]] carries this text
-- [[Clyde]]
+- [[Argibald-Reginald-Clyde-Secrets]]

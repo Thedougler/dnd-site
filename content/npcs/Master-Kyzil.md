@@ -5,7 +5,7 @@ aliases:
 title: Master Kyzil
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T15:26:12.749-07:00
+published: 2026-05-02T16:29:03.144-07:00
 tags:
   - npc
   - aarakocra
@@ -14,7 +14,7 @@ tags:
   - player-resource
 visibility: public
 audience: players
-summary: Senior master of the Sentinels of the Eyrie — barn owl aarakocra, quiet authority, two daggers that orbit him without a hand on them, and the man who assigned Crisdalynn her pilgrimage.
+summary: Senior master of the Sentinels of the Eyrie — barn owl aarakocra, quiet authority, and the man who assigned Crisdalynn her pilgrimage.
 type: npc
 subtype: npc-summary
 status: active
@@ -43,17 +43,17 @@ species: aarakocra
 |                |                                                         |
 | -------------- | ------------------------------------------------------- |
 | **Species**    | Aarakocra (barn owl)                                    |
-| **Role**       | Senior Master, [[Sentinels-Of-The-Eyrie]]               |
-| **Home**       | [[The-High-Eyrie]]                                      |
-| **Currently**  | [[Port-Tidefall]]                                       |
+| **Role**       | Senior Master, [[Sentinels-Of-The-Eyrie-Summary\|Sentinels of the Eyrie]] |
+| **Home**       | [[private/places/The-High-Eyrie]]                                      |
+| **Currently**  | [[private/places/Port-Tidefall]]                                       |
 
 ---
 
 ## Overview
 
-Master Kyzil is a senior master of the [[Sentinels-Of-The-Eyrie]], the aarakocra observation order out of [[The-High-Eyrie]]. He assigned [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] her pilgrimage — map the [[The-Drowned-Maw|Drowned Maw]] from inside a storm — and staked his own reputation on her readiness when he did it. He approved the banishment that followed. Before she left, he pressed his crystal dreidel into her talons.
+Master Kyzil is a senior master of the [[Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]], the aarakocra observation order out of [[private/places/The-High-Eyrie]]. He assigned [[Crisdalynn-Khinriss]] her pilgrimage — map the [[private/places/The-Drowned-Maw|Drowned Maw]] from inside a storm — and staked his own reputation on her readiness when he did it. Before she left, he pressed his crystal dreidel into her talons.
 
-He tracked her by current and weather patterns after the _Red Lady_ went down, deduced where she would wash ashore, and came to [[Port-Tidefall]] to find her.
+He tracked her by current and weather patterns after the _Red Lady_ went down, deduced where she would wash ashore, and came to [[private/places/Port-Tidefall]] to find her.
 
 ## Appearance
 
@@ -73,8 +73,8 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 
 ## Connections
 
-- **[[Sentinels-Of-The-Eyrie]]** — senior master
-- **[[The-High-Eyrie]]** — home; the monastery on the basalt sea stack at the northeastern Crown coast
-- **[[Crissdalynn-Khinriss]]** — his pilgrim; gave her his dreidel; in Port-Tidefall to hear her account
-- **[[The-Drowned-Maw]]** — subject of Crisdalynn's pilgrimage; two centuries of Sentinel observation
-- **[[Port-Tidefall]]** — where he is now
+- **[[Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]]** — senior master
+- **[[private/places/The-High-Eyrie]]** — home; the monastery on the basalt sea stack at the northeastern Crown coast
+- **[[Crisdalynn-Khinriss]]** — his pilgrim; gave her his dreidel; in Port-Tidefall to hear her account
+- **[[private/places/The-Drowned-Maw]]** — subject of Crisdalynn's pilgrimage; two centuries of Sentinel observation
+- **[[private/places/Port-Tidefall]]** — where he is now

@@ -5,7 +5,7 @@ aliases:
 title: The Verdant Teeth
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T15:26:12.751-07:00
+published: 2026-05-02T16:29:03.079-07:00
 tags:
   - location
   - islands
@@ -35,9 +35,9 @@ confidence_level: medium
 
 ## Overview
 
-Five closely grouped islands two days south of [[places/Kalowe|Kalowe]], rising from low reef-fringed coasts to elevated limestone ridges that disappear under dense rainforest canopy. Charts from the last thirty years mark all five interiors with some version of the same annotation. The [[Grung-Clans-Summary|Grung clans]] have held this territory as long as the [[The-Midchain|Midchain]] has been settled, and the interiors belong to them completely. Outsiders who have gone past the tree line have not come back.
+Five closely grouped islands two days south of [[places/Kalowe|Kalowe]], rising from low reef-fringed coasts to elevated limestone ridges that disappear under dense rainforest canopy. Charts from the last thirty years mark all five interiors with some version of the same annotation. The [[Grung-Clans|Grung clans]] have held this territory as long as the [[places/The-Midchain|Midchain]] has been settled, and the interiors belong to them completely. Outsiders who have gone past the tree line have not come back.
 
-The only sanctioned point of contact is the west beach on Veth, the largest island. Blue-caste intermediaries come to the waterline while the trees remain full of unseen watchers. Trade goes through them — bring what they want, do not bring extra people, do not address gold grung directly. The grung are poisonous to touch, which is biological and not a threat display; the caste protocols matter just as much. Coastal settlements in the [[The-Midchain|Midchain]] have noticed the raids getting worse in recent years. Veth's beach is still open for business. Leave while the canopy still sounds alive.
+The only sanctioned point of contact is the west beach on Veth, the largest island. Blue-caste intermediaries come to the waterline while the trees remain full of unseen watchers. Trade goes through them — bring what they want, do not bring extra people, do not address gold grung directly. The grung are poisonous to touch, which is biological and not a threat display; the caste protocols matter just as much. Coastal settlements in the [[places/The-Midchain|Midchain]] have noticed the raids getting worse in recent years. Veth's beach is still open for business. Leave while the canopy still sounds alive.
 
 ---
 

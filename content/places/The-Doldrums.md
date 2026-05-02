@@ -3,7 +3,7 @@ publish: true
 title: The Doldrums
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T15:26:12.751-07:00
+published: 2026-05-02T16:29:03.092-07:00
 tags:
   - location
   - sea-hazard
@@ -33,9 +33,9 @@ confidence_level: medium
 
 ## Overview
 
-The Doldrums are a windless band of flat water running east-west below the [[The-Midchain|Midchain]]'s southern edge. The surface goes mirror-still. Sails hang slack. The absence of wind is total, and sound crosses the flat water in ways that unsettle crews — voices from a quarter mile away arrive clearly, and the ship's own sounds seem louder than they should. The boundary is not marked on most charts. One watch you're in trade winds; the next, nothing. Frigate birds circling overhead in numbers are the standard warning. Jellyfish blooms collect in the still water, sometimes dense enough to foul a hull.
+The Doldrums are a windless band of flat water running east-west below the [[places/The-Midchain|Midchain]]'s southern edge. The surface goes mirror-still. Sails hang slack. The absence of wind is total, and sound crosses the flat water in ways that unsettle crews — voices from a quarter mile away arrive clearly, and the ship's own sounds seem louder than they should. The boundary is not marked on most charts. One watch you're in trade winds; the next, nothing. Frigate birds circling overhead in numbers are the standard warning. Jellyfish blooms collect in the still water, sometimes dense enough to foul a hull.
 
-The band drifts 50 to 100 miles north or south by season. Experienced captains track its position and route around it through the [[The-Midchain|Midchain]] back channels. Ships that don't know where it is sail into it and wait. Becalmed vessels have limited options: tow with boats, jettison weight, or sit. Most carry enough water to do this without disaster. Most.
+The band drifts 50 to 100 miles north or south by season. Experienced captains track its position and route around it through the [[places/The-Midchain|Midchain]] back channels. Ships that don't know where it is sail into it and wait. Becalmed vessels have limited options: tow with boats, jettison weight, or sit. Most carry enough water to do this without disaster. Most.
 
 ---
 

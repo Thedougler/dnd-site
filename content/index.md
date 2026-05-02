@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-02T00:52:50.920-07:00
 modified: 2026-05-02
-published: 2026-05-02T15:26:12.749-07:00
+published: 2026-05-02T16:29:03.030-07:00
 tags:
   - player-resource
   - index
@@ -36,7 +36,7 @@ New to the campaign? Read these first.
 
 ## At The Table
 
-You start at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used merchant brig working a dangerous [[The-Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
+You start at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used merchant brig working a dangerous [[places/The-Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
 
 - [[players/index|Characters]] — public player character summaries.
 - [[rules/index|Rules Index]] — all public campaign rules references.
@@ -47,7 +47,7 @@ You start at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-use
 
 ## Character Creation
 
-Standard 2024 species are available, plus these [[The-Shattered-Sea|Shattered Sea]] options:
+Standard 2024 species are available, plus these [[places/The-Shattered-Sea|Shattered Sea]] options:
 
 - [[species/Aarakocra|Aarakocra]] — Bird people.
 - [[species/Grung|Grung]] — Poison Dart Frog People.
@@ -65,7 +65,7 @@ For the full list, see [[species/index|Playable Species]].
 - [[lore/index|Lore]] — religion, culture, ships, and common world knowledge.
 - [[players/index|Characters]] — public player character references.
 - [[npcs/index|NPCs]] — recurring non-player characters the party has met.
-- [[beastiary/index|Beastiary]] — player-facing creature references for the [[The-Shattered-Sea|Shattered Sea]].
+- [[beastiary/index|Beastiary]] — player-facing creature references for the [[places/The-Shattered-Sea|Shattered Sea]].
 
 ## Player Characters
 
@@ -81,20 +81,20 @@ The Scatter has no single throne. It has interests. Old money, long memories, an
 
 | Power                                                                                            | What They Control                                                                |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| [[factions/Dravosi-Crown-Summary\|The Dravosi Crown]]               | inspection law, fortress harbours, naval pressure, and official violence         |
-| [[factions/Tessarine-Concordat-Summary\|The Tessarine Concordat]]   | contracts, debt, insurance, route money, and polite coercion                     |
-| [[factions/Waveservants-Summary\|The Waveservants]]                 | [[Umberlee\|Umberlee]]'s tribute, harbour shrines, blessings, and the price of sailing         |
-| [[factions/Sentinels-Of-The-Eyrie-Summary\|Sentinels of the Eyrie]] | observation, records, skyborne watchers, and the edge of the [[The-Drowned-Maw\|Drowned Maw]]         |
-| [[factions/The-Passage-Summary\|The Passage]]                       | Rattkin courier routes, hidden infrastructure, and information below the streets |
-| [[factions/Grung-Clans-Summary\|The Grung Clans]]                   | [[Verdant-Teeth\|Verdant Teeth]] territory, waterline trade, poison, caste law, and worsening raids |
+| [[Dravosi-Crown\|The Dravosi Crown]]               | inspection law, fortress harbours, naval pressure, and official violence         |
+| [[Tessarine-Concordat\|The Tessarine Concordat]]   | contracts, debt, insurance, route money, and polite coercion                     |
+| [[Waveservants\|The Waveservants]]                 | [[Umberlee\|Umberlee]]'s tribute, harbour shrines, blessings, and the price of sailing         |
+| [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] | observation, records, skyborne watchers, and the edge of the [[The-Drowned-Maw\|Drowned Maw]]         |
+| [[Passage\|The Passage]]                       | Rattkin courier routes, hidden infrastructure, and information below the streets |
+| [[Grung-Clans\|The Grung Clans]]                   | [[Verdant-Teeth\|Verdant Teeth]] territory, waterline trade, poison, caste law, and worsening raids |
 
 ## Quick Lore
 
 **[[lore/Umberlee|Umberlee and the Waveservants]]**
 She doesn't answer prayers. She collects tribute, and the difference matters when you're three days from the nearest shrine and the weather turns. Her clergy run every harbour blessing in the Scatter. Ships that skip the tithe have a way of not coming home.
 
-**[[Grung-Clans-Summary|The Grung Clans]]**
-The clans of the [[Verdant-Teeth|Verdant Teeth]] operate by colour-caste: birthright, poison, bondage, and a social order that makes perfect sense to them and has gotten a lot of outsiders killed. Raids have been increasing. Walking inland without an invitation is not something you do twice.
+**[[Grung-Clans|The Grung Clans]]**
+The clans of the [[places/Verdant-Teeth|Verdant Teeth]] operate by colour-caste: birthright, poison, bondage, and a social order that makes perfect sense to them and has gotten a lot of outsiders killed. Raids have been increasing. Walking inland without an invitation is not something you do twice.
 
 **[[lore/Saltwright|Saltwright]]**
 Your ship. Hard-used, understaffed, working a route that no one with better options would run. She's still floating, which is more than can be said for the last two vessels your crew called home.

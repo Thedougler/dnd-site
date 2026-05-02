@@ -3,7 +3,7 @@ publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
 modified: 2026-05-01
-published: 2026-05-02T15:26:12.749-07:00
+published: 2026-05-02T16:29:03.098-07:00
 tags:
   - player-resource
   - faq
@@ -44,7 +44,7 @@ You do not need to memorize the setting. You only need a character with a reason
 
 ## What species can I play?
 
-Standard 2024 species are available, plus the [[The-Shattered-Sea|Shattered Sea]] options in [[species/index|Playable Species]]:
+Standard 2024 species are available, plus the [[places/The-Shattered-Sea|Shattered Sea]] options in [[species/index|Playable Species]]:
 
 - [[species/Aarakocra|Aarakocra]]
 - [[species/Grung|Grung]]

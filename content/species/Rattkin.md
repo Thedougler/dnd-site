@@ -3,7 +3,7 @@ publish: true
 title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
-published: 2026-05-02T15:26:12.753-07:00
+published: 2026-05-02T16:29:03.010-07:00
 tags:
   - species
   - playable
@@ -35,7 +35,7 @@ _Small Humanoid_
 
 Rattkin get into places they are not supposed to be. A city's walls keep out armies. They don't keep out Rattkin. A locked cargo hold is a delay, not a barrier. A ship's bilge, a drainage pipe, a gap between walls that a human would dismiss as impassable — to a Rattkin, these are hallways. Combined with senses calibrated for threat detection and a survival instinct sharpened across generations of being hunted, Rattkin are as close to uncatchable as a creature comes.
 
-In the [[The-Shattered-Sea|Shattered Sea]], Rattkin are the oldest continuous presence in every major port. See [[The-Passage]] for the canonical Rattkin faction — the traveling network of Runs and Holds that spans every sea in the scatter.
+In the [[private/places/The-Shattered-Sea|Shattered Sea]], Rattkin are the oldest continuous presence in every major port. See [[Passage-Secrets]] for the canonical Rattkin faction — the traveling network of Runs and Holds that spans every sea in the scatter.
 
 ---
 
@@ -79,7 +79,7 @@ When a creature you can see within 5 feet of you is hit by another creature, you
 
 ## Rattkin Variety
 
-Three distinct varieties are recognized across the [[The-Shattered-Sea|Shattered Sea]]. Choose one at character creation.
+Three distinct varieties are recognized across the [[private/places/The-Shattered-Sea|Shattered Sea]]. Choose one at character creation.
 
 ---
 
@@ -99,7 +99,7 @@ Black Rats think in three dimensions. They default to elevation — top of the m
 
 _Stocky, coarse brown or grey fur, blunt nose, small ears, tail shorter than their body. Largest variety. Built for ground-level and subsurface work._
 
-Brown Rats go below. Sewers, bilge lines, drainage networks, flooded tunnels — environments that repel other creatures are workplaces to them. Within the Passage, Brown Rats maintain the Holds, extend tunnel networks, and map every new harbour construction before the Passage uses it. [[The-Warren|The Warren]]'s tunneling is Brown Rat work.
+Brown Rats go below. Sewers, bilge lines, drainage networks, flooded tunnels — environments that repel other creatures are workplaces to them. Within the Passage, Brown Rats maintain the Holds, extend tunnel networks, and map every new harbour construction before the Passage uses it. [[private/places/The-Warren|The Warren]]'s tunneling is Brown Rat work.
 
 **Darkvision.** You have Darkvision with a range of 60 feet.
 
@@ -111,7 +111,7 @@ Brown Rats go below. Sewers, bilge lines, drainage networks, flooded tunnels —
 
 _Variable coloring — spotted, hooded, solid, roan — and softer features. Often slightly smaller than Brown Rats. Docile by temperament and significantly more readable to non-Rattkin._
 
-Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on physical access, Fancy Rats rely on social access. They read people the way Black Rats read rooflines: as terrain with paths through it. [[The-Passage-Summary|The Passage]] reserves Fancy Rats for long-term outside relationships. They are not sent on single-use jobs. A Fancy Rat who has cultivated a contact inside a Tessarine factor office for three years is not sent to retrieve stolen cargo.
+Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on physical access, Fancy Rats rely on social access. They read people the way Black Rats read rooflines: as terrain with paths through it. [[Passage|The Passage]] reserves Fancy Rats for long-term outside relationships. They are not sent on single-use jobs. A Fancy Rat who has cultivated a contact inside a Tessarine factor office for three years is not sent to retrieve stolen cargo.
 
 **Adaptable.** You gain Proficiency in two skills of your choice and one language of your choice.
 
@@ -132,16 +132,16 @@ Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on p
 
 ## See Also
 
-- [[The-Passage]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
-- [[The-Warren]] — the only fixed Rattkin settlement, beneath [[Calveno]]
-- [[Perrin-Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[Calveno|Calveno]] Run
+- [[Passage-Secrets]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
+- [[private/places/The-Warren]] — the only fixed Rattkin settlement, beneath [[private/places/Calveno]]
+- [[Perrin-Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[private/places/Calveno|Calveno]] Run
 
 ## Overview
 
-Small humanoids calibrated for getting into places they are not supposed to be. Three varieties — Black (climbers), Brown (burrowers), Fancy (social infiltration). Oldest continuous presence in every major [[The-Shattered-Sea|Shattered Sea]] port. See [[The-Passage]] for the canonical Rattkin faction.
+Small humanoids calibrated for getting into places they are not supposed to be. Three varieties — Black (climbers), Brown (burrowers), Fancy (social infiltration). Oldest continuous presence in every major [[private/places/The-Shattered-Sea|Shattered Sea]] port. See [[Passage-Secrets]] for the canonical Rattkin faction.
 
 ## Connections
 
-- [[The-Passage]] — the traveling network of Runs and Holds spanning the Scatter
-- [[The-Warren]] — the only fixed Rattkin settlement, beneath [[Calveno]]
-- [[Perrin-Black-Jaw]] — Fancy Rat PC; from the [[Calveno|Calveno]] Run
+- [[Passage-Secrets]] — the traveling network of Runs and Holds spanning the Scatter
+- [[private/places/The-Warren]] — the only fixed Rattkin settlement, beneath [[private/places/Calveno]]
+- [[Perrin-Black-Jaw]] — Fancy Rat PC; from the [[private/places/Calveno|Calveno]] Run

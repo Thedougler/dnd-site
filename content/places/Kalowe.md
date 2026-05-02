@@ -3,7 +3,7 @@ publish: true
 title: Kalowe
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T15:27:16.891-07:00
+published: 2026-05-02T16:29:03.068-07:00
 tags:
   - location
   - port
@@ -34,7 +34,7 @@ confidence_level: medium
 
 ## Overview
 
-Kalowe is built across three low limestone islands connected by stone causeways over a lagoon that sits dead calm behind its reef. The reef breaks the ocean swell before it reaches the harbour; inside, the water is flat enough to mirror the palms, and the dry-dock cranes are the first thing visible above the treeline on approach. It is the only Tier 2 dry dock in the [[The-Midchain|Midchain]] outside colonial administration, which is why ships that cannot afford to be seen at Tidefall end up here. Unregistered vessels, hired crews, cargo that skipped the ledger, and people working hard to be difficult to locate — Kalowe is where those things move.
+Kalowe is built across three low limestone islands connected by stone causeways over a lagoon that sits dead calm behind its reef. The reef breaks the ocean swell before it reaches the harbour; inside, the water is flat enough to mirror the palms, and the dry-dock cranes are the first thing visible above the treeline on approach. It is the only Tier 2 dry dock in the [[places/The-Midchain|Midchain]] outside colonial administration, which is why ships that cannot afford to be seen at Tidefall end up here. Unregistered vessels, hired crews, cargo that skipped the ledger, and people working hard to be difficult to locate — Kalowe is where those things move.
 
 There is no colonial authority here, which is not the same as no authority. The Island Council runs nine seats on a non-interference doctrine, the harbour has its own bosses and money and grudges, and enough people are watching at any given moment to keep most disputes verbal until well after dark. Missing papers are forgiven faster than missing payment. That is roughly the whole philosophy of the place.
 

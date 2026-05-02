@@ -1,0 +1,58 @@
+---
+publish: true
+aliases:
+  - Rael
+title: Rael Corven
+created: 2026-05-02
+modified: 2026-05-02
+published: 2026-05-02T16:29:03.292-07:00
+tags:
+  - npc
+  - player-resource
+  - captain
+  - fisk-fleet
+  - sorcerer
+  - soul-in-fisk
+visibility: public
+audience: players
+summary: Sorcerer and flag captain of the Red Lady, Fisk's flagship — the only captain who entered Umberlee's shrine alongside Fisk. Drowned at the Drowned Maw. His soul is inside Delmar Fisk, and of the five it is the loudest.
+type: npc
+subtype: npc-summary
+status: deceased
+campaign: shattered-sea
+relationships:
+  - relation: captain_of
+    target: Red Lady
+  - relation: member_of
+    target: Fisk's Fleet
+  - relation: soul_in
+    target: Delmar Fisk
+updated: 2026-05-02
+sources:
+  - Homebrew
+species: human
+---
+
+# Rael Corven
+
+---
+
+|              |                                                          |
+| ------------ | -------------------------------------------------------- |
+| **Role**     | Flag Captain, _[[Red-Lady]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
+| **Status**   | Deceased — soul inside [[Delmar-Fisk]]                   |
+
+---
+
+## What Delmar Knows
+
+Rael captained the _[[Red-Lady]]_, the flagship. Sorcerer. He was Fisk's flag captain — the closest to the Admiral operationally of the five. He was the only captain who entered Umberlee's shrine alongside Fisk, navigating to the Pearl using Detect Magic. He was standing next to Fisk when it ended.
+
+He drowned in the Maw when Umberlee closed the water over all five ships. His soul was pressed into Delmar at the moment of sinking. Of the five captains now inside Fisk, Rael's voice is the loudest — he was there, he knows exactly what they took, and he was the last one Fisk saw before the water came in.
+
+## Connections
+
+- [[Delmar-Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
+- [[Red-Lady]] — his ship; wreck at the Shelfworks descent
+- [[Fisks-Fleet]] — the fleet he served
+- [[private/places/The-Drowned-Maw]] — where he died

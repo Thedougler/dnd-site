@@ -5,7 +5,7 @@ aliases:
 title: The Warren
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T15:26:12.752-07:00
+published: 2026-05-02T15:56:20.789-07:00
 tags:
   - location
   - calveno
@@ -35,7 +35,7 @@ confidence_level: medium
 
 ## Overview
 
-In [[places/Calveno|Calveno]], people talk about the Warren the way they talk about the drainage channels beneath the Saltmarsh district: present, older than the current city, and not something anyone above ground has fully mapped. The Rattkin call outsiders Dry. Most Dry know rumours at best — that somewhere beneath the old city bones there are routes, shelters, and memory running deeper than the canals above, and that this is the ground floor of something called [[factions/The-Passage-Summary|The Passage]].
+In [[places/Calveno|Calveno]], people talk about the Warren the way they talk about the drainage channels beneath the Saltmarsh district: present, older than the current city, and not something anyone above ground has fully mapped. The Rattkin call outsiders Dry. Most Dry know rumours at best — that somewhere beneath the old city bones there are routes, shelters, and memory running deeper than the canals above, and that this is the ground floor of something called [[Passage|The Passage]].
 
 Access is not obtained by asking. A person may be shown a door and still know almost nothing about what lies past it. Do not mark a suspected entrance. Do not boast about being invited. Do not mistake a rumour for permission.
 
@@ -44,5 +44,5 @@ Access is not obtained by asking. A person may be shown a door and still know al
 ## See Also
 
 - [[places/Calveno|Calveno]]
-- [[factions/The-Passage-Summary|The Passage]]
+- [[Passage|The Passage]]
 - [[species/Rattkin|Rattkin]]

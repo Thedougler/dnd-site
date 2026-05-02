@@ -3,7 +3,7 @@ publish: true
 title: Bisou
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T15:26:12.749-07:00
+published: 2026-05-02T16:29:03.142-07:00
 tags:
   - npc
   - beast
@@ -37,14 +37,14 @@ species: capuchin monkey
 |                |                                            |
 | -------------- | ------------------------------------------ |
 | **Species**    | Capuchin monkey                            |
-| **Role**       | Companion to [[Beaumont-Sel]]              |
+| **Role**       | Companion to [[npcs/Beaumont-Sel]]              |
 | **Location**   | His left shoulder, primarily               |
 
 ---
 
 ## Overview
 
-Bisou is a small capuchin monkey who has ridden [[Beaumont-Sel]]'s left shoulder for the full eleven years he has run the [[The-Midchain|Midchain]] route. She is not a pet in any passive sense. She moves with precision and purpose, makes decisions quickly, and has zero hesitation about stealing the pipe from the corner of Beaumont's mouth. He corrects this with the weary patience of a man who has lost this argument many times.
+Bisou is a small capuchin monkey who has ridden [[npcs/Beaumont-Sel]]'s left shoulder for the full eleven years he has run the [[private/places/The-Midchain|Midchain]] route. She is not a pet in any passive sense. She moves with precision and purpose, makes decisions quickly, and has zero hesitation about stealing the pipe from the corner of Beaumont's mouth. He corrects this with the weary patience of a man who has lost this argument many times.
 
 Her tail stays looped once around his neck when she is settled. She goes where he goes.
 
@@ -60,5 +60,5 @@ She has an opinion about coin tricks. The results depend on how good the trick i
 
 ## Connections
 
-- **[[Beaumont-Sel]]** — her captain; his shoulder is her default location and has been for eleven years
+- **[[npcs/Beaumont-Sel]]** — her captain; his shoulder is her default location and has been for eleven years
 - **[[Saltwright]]** — the ship she calls home; she has free run of the hold and keeps a hoard somewhere in it

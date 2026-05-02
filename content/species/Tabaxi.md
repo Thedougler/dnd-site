@@ -3,7 +3,7 @@ publish: true
 title: Tabaxi
 created: 2026-04-19
 modified: 2026-04-22
-published: 2026-05-02T15:26:12.753-07:00
+published: 2026-05-02T16:29:03.015-07:00
 tags:
   - species
   - playable
@@ -35,7 +35,7 @@ _Medium Humanoid_
 
 Created by the Cat Lord — a divine being of the Upper Planes — to blend the qualities of humanoids and cats. Tabaxi are felines given reason and language, yet retain the predatory instincts of their kind. They are curious, territorial, and deadly. Some live among other peoples and adopt their ways; most follow their nature — hunting, competing, surviving on their own terms.
 
-In the [[The-Shattered-Sea|Shattered Sea]], Tabaxi presence is sparse but ancient. The tribes of the [[Sunken-Crown]] islands have inhabited those waters for generations beyond counting, isolated from other tabaxi populations.
+In the [[private/places/The-Shattered-Sea|Shattered Sea]], Tabaxi presence is sparse but ancient. The tribes of the [[Sunken-Crown]] islands have inhabited those waters for generations beyond counting, isolated from other tabaxi populations.
 
 ---
 

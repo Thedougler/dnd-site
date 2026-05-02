@@ -3,7 +3,7 @@ publish: true
 title: Whip Shark
 created: 2026-04-12
 modified: 2026-04-21
-published: 2026-05-01T22:25:15.930-07:00
+published: 2026-05-01T23:09:14.396-07:00
 tags:
   - creature
   - monstrosity
@@ -31,7 +31,7 @@ statblock: inline
 
 # Whip Shark (Welak)
 
-![[raw/assets/banners/Welak.webp]]
+![[raw/assets/banners/Whip-Shark-2.webp]]
 
 ---
 

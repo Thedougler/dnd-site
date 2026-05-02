@@ -3,7 +3,7 @@ publish: true
 title: Belmore
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-01T21:30:45.214-07:00
+published: 2026-05-01T23:42:43.906-07:00
 tags:
   - player-character
   - pc
@@ -27,7 +27,7 @@ confidence_level: medium
 
 # Belmore
 
----
+## ![[raw/assets/banners/Belmore-Archer.webp]]
 
 |                     |                  |
 | ------------------- | ---------------- |

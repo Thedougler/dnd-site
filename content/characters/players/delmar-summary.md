@@ -3,7 +3,7 @@ publish: true
 title: Delmar Atticus Fisk
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-01T21:29:43.709-07:00
+published: 2026-05-01T23:43:04.982-07:00
 tags:
   - player-character
   - pc
@@ -25,6 +25,8 @@ confidence_level: medium
 ---
 
 # Delmar Atticus Fisk
+
+![[raw/assets/banners/Delmar-Fisk-Archer.webp]]
 
 > _Youngest Admiral in living memory. Nobody official gave him the title — he just wore it long enough that it became true._
 

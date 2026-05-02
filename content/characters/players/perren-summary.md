@@ -3,7 +3,7 @@ publish: true
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-01T22:39:18.375-07:00
+published: 2026-05-01T23:44:00.978-07:00
 tags:
   - player-character
   - pc
@@ -25,6 +25,8 @@ confidence_level: medium
 ---
 
 # Perrin Black-Jaw
+
+![[raw/assets/banners/Perrin-Archer.webp]]
 
 > _Built a ship to fish and support his family. Lost it to something vast coming up from below. Now hunting it._
 

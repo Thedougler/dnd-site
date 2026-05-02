@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-01T21:29:55.443-07:00
+published: 2026-05-01T23:43:39.844-07:00
 tags:
   - player-character
   - pc
@@ -26,6 +26,8 @@ confidence_level: medium
 
 # Jean-Claude Tabarnack
 
+![[raw/assets/banners/Jean-Claude-Archer.webp]]
+
 > _He moves through human ports wearing a beret and a fake moustache. His reasoning is internally consistent._
 
 ---
@@ -45,9 +47,9 @@ Jean-Claude is small even among many sailors' expectations of danger: three feet
 
 ## Appearance
 
-Jean-Claude has toxic-blue Grung skin, a compact scarred frame, and the alert posture of someone who expects the room to change without warning. His scars are visible and worn without apology.
+Jean-Claude has toxic-blue Grung skin, a compact scarred frame, and the alert posture of someone who expects the room to change without warning. His scars are visible and worn without apology. He has the lean agile build common of the poison dart frog like Grung.
 
-In human ports, he often wears a beret and fake moustache. The choice is not a joke to him. Grung society marks caste and social role through colour, and Jean-Claude appears to have reasoned that other peoples distinguish identity through comparable visible signals.
+In human ports, he often wears a red beret and fake moustache. The choice is not a joke to him. Grung society marks caste and social role through colour, and Jean-Claude appears to have reasoned that other peoples distinguish identity through comparable visible signals, and no Grung naturally grow moustaches making his disguise perfect.
 
 ## Background
 

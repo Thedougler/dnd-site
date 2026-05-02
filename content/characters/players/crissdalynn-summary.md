@@ -3,7 +3,7 @@ publish: true
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-01T21:29:19.931-07:00
+published: 2026-05-01T23:43:24.545-07:00
 tags:
   - player-character
   - pc
@@ -25,6 +25,8 @@ confidence_level: medium
 ---
 
 # Crisdalynn Khinriss
+
+![[raw/assets/banners/Crissdalynn-Archer.webp]]
 
 > _Strangers hide their children. Crewmates know she'll pocket anything that catches the light._
 

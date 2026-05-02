@@ -3,7 +3,7 @@ publish: true
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-02
-published: 2026-05-01T22:42:40.655-07:00
+published: 2026-05-01T23:42:23.077-07:00
 tags:
   - player-resource
   - index
@@ -19,10 +19,10 @@ updated: 2026-05-02
 
 # Player Characters
 
-- [[belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-- [[delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
-- [[crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
-- [[jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
-- [[perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
+- [[belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.![[raw/assets/banners/Belmore-Archer.webp]]
+- [[delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.![[raw/assets/banners/Delmar-Fisk-Archer.webp]]
+- [[crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.![[raw/assets/banners/Crissdalynn-Archer.webp]]
+- [[jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.![[raw/assets/banners/Jean-Claude-Archer.webp]]
+- [[perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.![[raw/assets/banners/Perrin-Archer.webp]]
 
 For the campaign starting situation and the _Saltwright_, see [[player-primer|The Shattered Sea Player Primer]] and [[lore/Saltwright|Saltwright]].

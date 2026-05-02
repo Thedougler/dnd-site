@@ -1,9 +1,9 @@
 ---
 publish: true
 title: NPCs
-created: 2026-05-02T01:54:20.958-07:00
+created: 2026-05-02T02:04:59.868-07:00
 modified: 2026-05-02
-published: 2026-05-02T01:54:20.959-07:00
+published: 2026-05-02T02:04:59.868-07:00
 tags:
   - player-resource
   - index
@@ -28,3 +28,4 @@ updated: 2026-05-02
 | [[Maggie-Porcelain-Pots\|Maggie 'Porcelain' Pots]] | Dragonborn potter, three generations of kilns, and the woman who left Delmar Fisk with a shiner that lasted a week |
 | [[Master-Kyzil\|Master Kyzil]] | Senior master of the Sentinels of the Eyrie — quiet authority, two orbiting daggers, and the man who assigned Crisdalynn her pilgrimage |
 | [[Nona-Black-Jaw\|Nona Black-Jaw]] | Rattkin matriarch, head of the Black-Jaw Run, most senior voice in the Warren — Perrin's grandmother, and the person he is not ready to call |
+| [[Serafina-Windfall-Fisk\|Serafina Windfall Fisk]] | Aasimar fortune-teller and compelled wanderer, Delmar Fisk's wife — drawn to specific places by a precognitive pull she has stopped trying to fight |

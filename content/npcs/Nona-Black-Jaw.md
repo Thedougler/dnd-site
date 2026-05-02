@@ -3,7 +3,7 @@ publish: true
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T01:56:50.952-07:00
+published: 2026-05-02T02:02:52.536-07:00
 tags:
   - npc
   - rattkin
@@ -28,12 +28,13 @@ species: rattkin
 
 ---
 
-|                |                                                      |
-| -------------- | ---------------------------------------------------- |
-| **Species**    | Rattkin                                              |
-| **Role**       | Matriarch, Black-Jaw Run; senior elder, the Tangle   |
-| **Location**   | [[The-Warren]], beneath [[Calveno]]                  |
--------------------------------------------------------------------------
+|              |                                                                                                                                |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Species**  | Rattkin                                                                                                                        |
+| **Role**     | Matriarch, Black-Jaw Run; senior elder, the Tangle                                                                             |
+| **Location** | [[places/The-Warren\|The-Warren]], under [[places/Calveno\|Calveno]] |
+
+---
 
 ## Overview
 

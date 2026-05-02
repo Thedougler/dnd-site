@@ -3,7 +3,7 @@ publish: true
 title: Algernon Reginald Clyde
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T01:41:20.231-07:00
+published: 2026-05-02T02:01:44.962-07:00
 tags:
   - npc
   - scholar
@@ -71,7 +71,7 @@ He hates frogs most of all.
 
 Seventeen copies sold in three days across Port-Tidefall. He has had the same argument at every port — the Scatter's relationship with its marine life, the naming traditions, the evident fondness — and he finds it professionally baffling and personally exhausting.
 
-He is easy to find at the docks. He is usually the one losing an argument to someone's pet.
+He is easy to find at the docks. He is usually the one in an argument about someone's pet.
 
 ## Connections
 

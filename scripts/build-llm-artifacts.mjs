@@ -45,8 +45,8 @@ async function main() {
   }
 
   await fs.mkdir(path.join(OUTPUT_DIR, "data"), { recursive: true })
-  await writeJsonl("entities.jsonl", pages.map(({ content, ...p }) => p))
-  await writeJsonl("data/pages.jsonl", pages.map(({ content, ...p }) => p))
+  await writeJsonl("entities.jsonl", pages.map(({ content, wikilinks, ...p }) => p))
+  await writeJsonl("data/pages.jsonl", pages.map(({ content, wikilinks, ...p }) => p))
   await writeCollectionFiles(pages)
   await writeJson("graph.json", buildGraph(pages))
   await writeText("llms.txt", buildLlmsTxt(cfg, pages))
@@ -100,7 +100,7 @@ function isPrivate(fm) {
 
 function buildPageRecord(fm, rawBody, relative, cfg) {
   const fileSlug = relative.replace(/\.md$/, "")
-  const id = slugify(fileSlug === "index" ? cfg.site : fileSlug.split("/").at(-1))
+  const id = slugify(fileSlug === "index" ? cfg.site : fileSlug)
   const title = String(fm.title ?? fileSlug.split("/").at(-1))
   const body = stripPrivateMarkdown(rawBody)
   const content = normalizeMarkdownBody(body)
@@ -109,6 +109,8 @@ function buildPageRecord(fm, rawBody, relative, cfg) {
   const tags = arrayOfStrings(fm.tags)
   const aliases = arrayOfStrings(fm.aliases)
   const relationships = relationshipsFromFrontmatter(fm.relationships)
+
+  const wikilinks = extractWikilinks(body)
 
   return {
     id,
@@ -123,6 +125,7 @@ function buildPageRecord(fm, rawBody, relative, cfg) {
     summary: getSummary(fm, body, title),
     tags,
     relationships,
+    wikilinks,
     source_path: `content/${relative}`,
     content,
   }
@@ -178,6 +181,21 @@ function normalizeMarkdownBody(markdown) {
     .trim()
 }
 
+function extractWikilinks(markdown) {
+  const seen = new Set()
+  const results = []
+  const regex = /\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g
+  let match
+  while ((match = regex.exec(markdown)) !== null) {
+    const target = match[1].trim().split("/").at(-1)
+    if (target && !seen.has(target)) {
+      seen.add(target)
+      results.push(target)
+    }
+  }
+  return results
+}
+
 function relationshipsFromFrontmatter(relationships) {
   if (!Array.isArray(relationships)) return []
   return relationships
@@ -191,8 +209,19 @@ function buildGraph(pages) {
     for (const key of [page.id, page.title, ...page.aliases]) {
       lookup.set(slugify(key), page.id)
     }
+    // Also index by the last segment of the source path slug
+    const lastSegment = page.source_path.replace(/^content\//, "").replace(/\.md$/, "").split("/").at(-1)
+    if (lastSegment) lookup.set(slugify(lastSegment), page.id)
   }
   const edges = []
+  const edgeSeen = new Set()
+  function addEdge(source, relation, target) {
+    const key = `${source}||${relation}||${target}`
+    if (!edgeSeen.has(key) && source !== target) {
+      edgeSeen.add(key)
+      edges.push({ source, relation, target })
+    }
+  }
   for (const page of pages) {
     for (const rel of page.relationships) {
       const target = lookup.get(slugify(rel.target))
@@ -200,20 +229,39 @@ function buildGraph(pages) {
         errors.push(`${page.source_path}: relationship "${rel.relation}" -> unknown target "${rel.target}"`)
         continue
       }
-      edges.push({ source: page.id, relation: slugify(rel.relation), target })
+      addEdge(page.id, slugify(rel.relation), target)
+    }
+    // Add edges from wikilinks in content
+    for (const link of page.wikilinks ?? []) {
+      const target = lookup.get(slugify(link))
+      if (target) addEdge(page.id, "mentions", target)
     }
   }
-  return { nodes: pages.map(({ content, ...p }) => p), edges }
+  return { nodes: pages.map(({ content, wikilinks, ...p }) => p), edges }
 }
 
 async function writeCollectionFiles(pages) {
   const collections = { characters: [], factions: [], locations: [], lore: [] }
-  for (const { content, ...page } of pages) {
+  for (const { content, wikilinks, ...page } of pages) {
     const type = page.type.toLowerCase()
-    if (COLLECTIONS.characters.has(type)) collections.characters.push(page)
-    else if (COLLECTIONS.factions.has(type)) collections.factions.push(page)
-    else if (COLLECTIONS.locations.has(type)) collections.locations.push(page)
-    else collections.lore.push(page)
+    const tagSet = new Set(page.tags.map((t) => t.toLowerCase()))
+    if (COLLECTIONS.characters.has(type) || tagSet.has("character") || tagSet.has("npc") || tagSet.has("person")) {
+      collections.characters.push(page)
+    } else if (COLLECTIONS.factions.has(type) || type === "factions" || tagSet.has("faction")) {
+      collections.factions.push(page)
+    } else if (
+      COLLECTIONS.locations.has(type) ||
+      type === "places" ||
+      tagSet.has("location") ||
+      tagSet.has("port") ||
+      tagSet.has("island") ||
+      tagSet.has("sea") ||
+      tagSet.has("waterway")
+    ) {
+      collections.locations.push(page)
+    } else {
+      collections.lore.push(page)
+    }
   }
   for (const [name, collection] of Object.entries(collections)) {
     await writeJson(`data/${name}.json`, collection)
@@ -255,7 +303,7 @@ function buildLlmsTxt(cfg, pages) {
 - Rumors, myths, and legends must not be treated as confirmed fact unless marked canonical.
 
 ## Start Here
-${start.map((page) => `- [${page.title}](${page.url})`).join("\n")}
+${start.map((page) => `- [${page.title}](${page.url}) — ${page.summary.replace(/\n/g, " ").slice(0, 120)}`).join("\n")}
 
 ## Major Collections
 - [Characters](${withBasePath(cfg, "/data/characters.json")})
@@ -271,25 +319,43 @@ ${start.map((page) => `- [${page.title}](${page.url})`).join("\n")}
 - [Page Records](${withBasePath(cfg, "/data/pages.jsonl")})
 - [Sitemap](${withBasePath(cfg, "/sitemap.xml")})
 
+## Navigation Tips
+- Start with the Player Primer for full campaign onboarding.
+- Use the Campaign Overview for a dense geography and factions reference.
+- Browse by category using the index pages: Factions, Places, Species, Rules, Lore.
+- The Full Context Bundle contains every page in one file — load it if you need comprehensive coverage.
+- The Entity Graph (graph.json) includes a mentions-edge for every wikilink, enabling relationship traversal.
+
 ## LLM Instructions
 - Prefer explicit summaries, aliases, tags, and relationships over inference.
 - Do not invent hidden lore.
 - Treat uncertain content as uncertain.
 - Cite or link the page used when answering.
+- When asked about a place, faction, or species, prefer the dedicated page over index summaries.
 `
 }
 
 function selectStartPages(pages) {
-  const preferred = ["the-shattered-sea", "ship-bastion", "ship-stats"]
-  const selected = preferred.map((id) => pages.find((page) => page.id === id)).filter(Boolean)
-  for (const page of pages) {
-    if (selected.length >= 5) break
-    if (!selected.includes(page)) selected.push(page)
-  }
+  const rootIndex = pages.find((p) => p.source_path === "content/index.md")
+  const preferredIds = [
+    rootIndex?.id,
+    "player-primer",
+    "campaign-overview",
+    slugify("factions/index"),
+    slugify("places/index"),
+    slugify("species/index"),
+    slugify("rules/index"),
+    slugify("lore/index"),
+  ].filter(Boolean)
+  const selected = preferredIds.map((id) => pages.find((page) => page.id === id)).filter(Boolean)
   return selected
 }
 
 function buildFullText(cfg, pages) {
+  const toc = pages
+    .map((page) => `- [${page.title}](${page.url}) — ${page.summary.split("\n")[0].slice(0, 100)}`)
+    .join("\n")
+
   const sections = pages.map((page) => {
     const relationships = page.relationships.length
       ? page.relationships
@@ -321,6 +387,11 @@ ${page.content}
 Generated from public published notes for ${cfg.site}.
 Private DM content is excluded.
 
+## Table of Contents
+
+${toc}
+
+---
 ${sections.join("\n")}`
 }
 
@@ -368,10 +439,13 @@ ${urls
 }
 
 function buildRobots(cfg) {
+  const origin = cfg.baseUrl ? `https://${cfg.baseUrl.split("/")[0]}` : ""
+  const sitemapPath = withBasePath(cfg, "/sitemap.xml")
+  const sitemapUrl = origin ? new URL(sitemapPath, `${origin}/`).toString() : sitemapPath
   return `User-agent: *
 Allow: /
 
-Sitemap: ${withBasePath(cfg, "/sitemap.xml")}
+Sitemap: ${sitemapUrl}
 `
 }
 

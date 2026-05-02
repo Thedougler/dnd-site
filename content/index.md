@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-02
-published: 2026-05-01T22:16:55.526-07:00
+published: 2026-05-01T22:42:14.818-07:00
 tags:
   - player-resource
   - index
@@ -36,7 +36,7 @@ Read these in order if you are new to the campaign.
 
 The campaign begins at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used merchant brig on a dangerous Midchain route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with a crew when leaving would be easier.
 
-- [[characters/index|Characters]] — public player character summaries.
+- [[characters/players/index|Characters]] — public player character summaries.
 - [[rules/index|Rules Index]] — all public campaign rules references.
 - [[rules/Ship-Stats|Ship Stats]] — ship tiers, vehicle statistics, crew, upkeep, cargo, weapons, and upgrades.
 - [[rules/Ship-Bastion|Ship Bastion]] — the party ship as a shared mobile base.
@@ -61,16 +61,16 @@ For the full list, see [[species/index|Playable Species]].
 - [[places/index|Places]] — ports, islands, straits, storm belts, salvage grounds, and the deep water beyond.
 - [[factions/index|Factions]] — the powers that tax, bless, lend, hunt, hide, record, and raid across the Scatter.
 - [[lore/index|Lore]] — religion, culture, ships, and common world knowledge.
-- [[characters/index|Characters]] — public player character references.
+- [[characters/players/index|Characters]] — public player character references.
 - [[beastiary/index|Beastiary]] — player-facing creature references for the Shattered Sea.
 
 ## Player Characters
 
-- [[characters/belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-- [[characters/delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
-- [[characters/crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
-- [[characters/jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
-- [[characters/perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
+- [[belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
+- [[delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
+- [[crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
+- [[jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
+- [[perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
 
 ## Major Powers
 
@@ -91,7 +91,7 @@ For the full list, see [[species/index|Playable Species]].
 
 ## Browse Everything
 
-- [[characters/index|Characters]]
+- [[characters/players/index|Characters]]
 - [[beastiary/index|Beastiary]]
 - [[factions/index|Factions]]
 - [[lore/index|Lore]]

@@ -7,7 +7,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const baseDir = url.pathname
 
   return (
-    <article class="popover-hint">
+    <article class="popover-hint" style="text-align:center">
       <h1>404</h1>
       <p>
         <strong>This page likely contains DM-only content or spoilers not yet released to players.</strong>
@@ -16,7 +16,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
       <img
         src="https://media1.tenor.com/m/EOjYt7c15kYAAAAC/the-simpsons-homer-simpson.gif"
         alt="Homer Simpson slowly backing into bushes"
-        style="display:block;max-width:480px;width:100%;margin:1.5rem 0;border-radius:6px"
+        style="display:block;max-width:480px;width:100%;margin:1.5rem auto;border-radius:6px"
       />
       <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
       <script

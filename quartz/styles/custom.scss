@@ -273,7 +273,106 @@ a.tag-link,
   }
 
   .page > #quartz-body .sidebar.left {
-    gap: 0.45rem;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding: 0.75rem 0;
+    background: color-mix(in srgb, var(--light) 94%, transparent);
+    backdrop-filter: blur(14px);
+  }
+
+  .page > #quartz-body .sidebar.left .page-title {
+    display: none;
+  }
+
+  .page > #quartz-body .sidebar.left > .mobile-only {
+    display: none;
+  }
+
+  .page > #quartz-body .sidebar.left > .flex-component {
+    justify-self: end;
+    min-width: 0;
+  }
+
+  .page > #quartz-body .sidebar.left > .flex-component .search {
+    max-width: 9rem;
+  }
+
+  .page > #quartz-body .sidebar.left > .flex-component .search-button {
+    min-height: 2.25rem;
+    padding-right: 0.65rem;
+  }
+
+  .page > #quartz-body .sidebar.left > .flex-component .search-button p {
+    display: none;
+  }
+
+  .page > #quartz-body .sidebar.left .explorer {
+    order: -1;
+    align-self: center;
+    flex: 0 0 auto;
+    min-height: 0;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    border: 0;
+    background: transparent;
+  }
+
+  .page > #quartz-body .sidebar.left .explorer button.mobile-explorer {
+    position: relative;
+    z-index: 31;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.6rem;
+    height: 2.6rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .page > #quartz-body .sidebar.left .explorer button.desktop-explorer {
+    display: none;
+  }
+
+  .page > #quartz-body .sidebar.left .explorer.collapsed > .explorer-content {
+    visibility: hidden;
+    transform: translateX(-100%);
+  }
+
+  .page > #quartz-body .sidebar.left .explorer:not(.collapsed) > .explorer-content {
+    visibility: visible;
+    transform: translateX(0);
+  }
+
+  .page > #quartz-body .sidebar.left .explorer .explorer-content {
+    position: fixed;
+    inset: 0 auto 0 0;
+    z-index: 30;
+    box-sizing: border-box;
+    width: min(22rem, 88vw);
+    max-width: 88vw;
+    height: 100dvh;
+    max-height: 100dvh;
+    margin: 0;
+    padding: 4.5rem 1rem 1.25rem;
+    overflow: auto;
+    background: var(--light);
+    border-right: 1px solid var(--rule-soft);
+    border-radius: 0;
+    box-shadow: 18px 0 48px rgba(0, 0, 0, 0.28);
+    transition:
+      transform 200ms ease,
+      visibility 200ms ease;
+  }
+
+  .page > #quartz-body.lock-scroll > :not(.sidebar.left:has(.explorer)) {
+    transform: none;
   }
 
   .article-title {

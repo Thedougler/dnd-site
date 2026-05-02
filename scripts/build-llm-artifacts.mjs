@@ -20,6 +20,7 @@ const COLLECTIONS = {
   factions: new Set(["faction", "organization", "guild", "crew"]),
   locations: new Set(["location", "region", "settlement", "port", "island", "sea"]),
 }
+const GENERATED_PAGE_DIR = "data/pages"
 
 const errors = []
 
@@ -38,6 +39,7 @@ async function main() {
   }
 
   pages.sort((a, b) => a.title.localeCompare(b.title))
+  validateUniquePageIds(pages)
 
   if (errors.length > 0) {
     for (const error of errors) console.error(`Error: ${error}`)
@@ -45,13 +47,21 @@ async function main() {
   }
 
   await fs.mkdir(path.join(OUTPUT_DIR, "data"), { recursive: true })
-  await writeJsonl("entities.jsonl", pages.map(({ content, wikilinks, ...p }) => p))
-  await writeJsonl("data/pages.jsonl", pages.map(({ content, wikilinks, ...p }) => p))
+  await writeJsonl(
+    "entities.jsonl",
+    pages.map(({ content, wikilinks, ...p }) => p),
+  )
+  await writeJsonl(
+    "data/pages.jsonl",
+    pages.map(({ content, wikilinks, ...p }) => p),
+  )
+  await writePageTextFiles(pages)
   await writeCollectionFiles(pages)
   await writeJson("graph.json", buildGraph(pages))
   await writeText("llms.txt", buildLlmsTxt(cfg, pages))
   await writeText("llms-full.txt", buildFullText(cfg, pages))
   await writeJson("llms.json", buildManifest(cfg, pages))
+  await writeText("player-ai-prompt.txt", buildPlayerPrompt(cfg))
   await writeText("sitemap.xml", buildSitemap(cfg, pages))
   await writeText("robots.txt", buildRobots(cfg))
 
@@ -104,7 +114,8 @@ function buildPageRecord(fm, rawBody, relative, cfg) {
   const title = String(fm.title ?? fileSlug.split("/").at(-1))
   const body = stripPrivateMarkdown(rawBody)
   const content = normalizeMarkdownBody(body)
-  const url = withBasePath(cfg, fileSlug === "index" ? "/" : `/${encodeURI(fileSlug)}/`)
+  const url = publicUrl(cfg, fileSlug === "index" ? "/" : `/${encodeURI(fileSlug)}/`)
+  const contentUrl = publicUrl(cfg, `/${GENERATED_PAGE_DIR}/${id}.md`)
   const type = String(fm.type ?? inferPageType(relative, fm.tags))
   const tags = arrayOfStrings(fm.tags)
   const aliases = arrayOfStrings(fm.aliases)
@@ -118,6 +129,7 @@ function buildPageRecord(fm, rawBody, relative, cfg) {
     title,
     aliases,
     url,
+    content_url: contentUrl,
     visibility: String(fm.visibility ?? "public").toLowerCase(),
     audience: fm.audience ?? "players",
     canonical: fm.canonical ?? true,
@@ -128,6 +140,18 @@ function buildPageRecord(fm, rawBody, relative, cfg) {
     wikilinks,
     source_path: `content/${relative}`,
     content,
+  }
+}
+
+function validateUniquePageIds(pages) {
+  const seen = new Map()
+  for (const page of pages) {
+    const existing = seen.get(page.id)
+    if (existing) {
+      errors.push(`${page.source_path}: page id "${page.id}" collides with ${existing.source_path}`)
+    } else {
+      seen.set(page.id, page)
+    }
   }
 }
 
@@ -152,9 +176,20 @@ function firstProseBlock(markdown) {
   const block = normalizeMarkdownBody(markdown)
     .split(/\n{2,}/)
     .map((b) => b.trim())
-    .find((b) => b && !b.startsWith("#") && !b.startsWith("|") && !b.startsWith("---") && !b.startsWith("```"))
+    .find(
+      (b) =>
+        b &&
+        !b.startsWith("#") &&
+        !b.startsWith("|") &&
+        !b.startsWith("---") &&
+        !b.startsWith("```"),
+    )
   if (!block) return ""
-  return block.replace(/^>\s?/gm, "").replace(/^[-*]\s+/gm, "").replace(/\s+/g, " ").trim()
+  return block
+    .replace(/^>\s?/gm, "")
+    .replace(/^[-*]\s+/gm, "")
+    .replace(/\s+/g, " ")
+    .trim()
 }
 
 function extractSection(body, heading) {
@@ -210,7 +245,11 @@ function buildGraph(pages) {
       lookup.set(slugify(key), page.id)
     }
     // Also index by the last segment of the source path slug
-    const lastSegment = page.source_path.replace(/^content\//, "").replace(/\.md$/, "").split("/").at(-1)
+    const lastSegment = page.source_path
+      .replace(/^content\//, "")
+      .replace(/\.md$/, "")
+      .split("/")
+      .at(-1)
     if (lastSegment) lookup.set(slugify(lastSegment), page.id)
   }
   const edges = []
@@ -226,7 +265,9 @@ function buildGraph(pages) {
     for (const rel of page.relationships) {
       const target = lookup.get(slugify(rel.target))
       if (!target) {
-        errors.push(`${page.source_path}: relationship "${rel.relation}" -> unknown target "${rel.target}"`)
+        errors.push(
+          `${page.source_path}: relationship "${rel.relation}" -> unknown target "${rel.target}"`,
+        )
         continue
       }
       addEdge(page.id, slugify(rel.relation), target)
@@ -245,7 +286,12 @@ async function writeCollectionFiles(pages) {
   for (const { content, wikilinks, ...page } of pages) {
     const type = page.type.toLowerCase()
     const tagSet = new Set(page.tags.map((t) => t.toLowerCase()))
-    if (COLLECTIONS.characters.has(type) || tagSet.has("character") || tagSet.has("npc") || tagSet.has("person")) {
+    if (
+      COLLECTIONS.characters.has(type) ||
+      tagSet.has("character") ||
+      tagSet.has("npc") ||
+      tagSet.has("person")
+    ) {
       collections.characters.push(page)
     } else if (COLLECTIONS.factions.has(type) || type === "factions" || tagSet.has("faction")) {
       collections.factions.push(page)
@@ -266,6 +312,44 @@ async function writeCollectionFiles(pages) {
   for (const [name, collection] of Object.entries(collections)) {
     await writeJson(`data/${name}.json`, collection)
   }
+}
+
+async function writePageTextFiles(pages) {
+  await fs.mkdir(path.join(OUTPUT_DIR, GENERATED_PAGE_DIR), { recursive: true })
+  for (const page of pages) {
+    await writeText(`${GENERATED_PAGE_DIR}/${page.id}.md`, buildPageText(page))
+  }
+}
+
+function buildPageText(page) {
+  const relationships = page.relationships.length
+    ? page.relationships
+        .map((relationship) => `- ${relationship.relation} -> ${relationship.target}`)
+        .join("\n")
+    : "- None declared"
+
+  return `# ${page.title}
+
+URL: ${page.url}
+Content URL: ${page.content_url}
+Type: ${page.type}
+Aliases: ${page.aliases.join(", ") || "None"}
+Tags: ${page.tags.join(", ") || "None"}
+Status: ${page.status}
+Canonical: ${page.canonical}
+Audience: ${page.audience}
+Visibility: ${page.visibility}
+Source: ${page.source_path}
+
+Summary:
+${page.summary}
+
+Relationships:
+${relationships}
+
+Content:
+${page.content}
+`
 }
 
 async function readQuartzConfig() {
@@ -293,12 +377,17 @@ function basePathFromBaseUrl(baseUrl) {
 
 function buildLlmsTxt(cfg, pages) {
   const start = selectStartPages(pages)
+  const fullTextUrl = publicUrl(cfg, "/llms-full.txt")
+  const playerPromptUrl = publicUrl(cfg, "/player-ai-prompt.txt")
   return `# ${cfg.site}
 
 > Public player-facing campaign wiki for ${cfg.site}, optimized for both human Quartz browsing and agent retrieval.
 
 ## Quick Start for LLMs
-Load the full wiki in one request: https://${cfg.baseUrl}/llms-full.txt
+Load the full wiki in one request: ${fullTextUrl}
+
+## Player Setup Prompt
+Players can copy a chatbot setup prompt from ${playerPromptUrl}
 
 ## Scope
 - Public player-facing content only.
@@ -309,23 +398,25 @@ Load the full wiki in one request: https://${cfg.baseUrl}/llms-full.txt
 ${start.map((page) => `- [${page.title}](${page.url}) — ${page.summary.replace(/\n/g, " ").slice(0, 120)}`).join("\n")}
 
 ## Major Collections
-- [Characters](${withBasePath(cfg, "/data/characters.json")})
-- [Factions](${withBasePath(cfg, "/data/factions.json")})
-- [Locations](${withBasePath(cfg, "/data/locations.json")})
-- [Lore](${withBasePath(cfg, "/data/lore.json")})
+- [Characters](${publicUrl(cfg, "/data/characters.json")})
+- [Factions](${publicUrl(cfg, "/data/factions.json")})
+- [Locations](${publicUrl(cfg, "/data/locations.json")})
+- [Lore](${publicUrl(cfg, "/data/lore.json")})
 
 ## Machine-Readable Resources
-- [Full Context Bundle](${withBasePath(cfg, "/llms-full.txt")})
-- [Structured Index](${withBasePath(cfg, "/llms.json")})
-- [Entity Graph](${withBasePath(cfg, "/graph.json")})
-- [Entity Records](${withBasePath(cfg, "/entities.jsonl")})
-- [Page Records](${withBasePath(cfg, "/data/pages.jsonl")})
-- [Sitemap](${withBasePath(cfg, "/sitemap.xml")})
+- [Full Context Bundle](${fullTextUrl})
+- [Structured Index](${publicUrl(cfg, "/llms.json")})
+- [Entity Graph](${publicUrl(cfg, "/graph.json")})
+- [Entity Records](${publicUrl(cfg, "/entities.jsonl")})
+- [Page Records](${publicUrl(cfg, "/data/pages.jsonl")})
+- [Player AI Prompt](${playerPromptUrl})
+- [Sitemap](${publicUrl(cfg, "/sitemap.xml")})
 
 ## Navigation Tips
 - Start with the Player Primer for full campaign onboarding.
 - Use the Campaign Overview for a dense geography and factions reference.
 - Browse by category using the index pages: Factions, Places, Species, Rules, Lore.
+- For targeted retrieval, read Page Records first, then fetch the matching page's content_url.
 - The Full Context Bundle contains every page in one file — load it if you need comprehensive coverage.
 - The Entity Graph (graph.json) includes a mentions-edge for every wikilink, enabling relationship traversal.
 
@@ -338,10 +429,37 @@ ${start.map((page) => `- [${page.title}](${page.url}) — ${page.summary.replace
 `
 }
 
+function buildPlayerPrompt(cfg) {
+  return `You are assisting a player in ${cfg.site}, a D&D campaign.
+
+Use this public campaign wiki as your authoritative source:
+${publicUrl(cfg, "/")}
+
+When I ask a campaign question, look up the relevant details before answering.
+
+Best retrieval order:
+1. Start with the LLM index:
+${publicUrl(cfg, "/llms.txt")}
+2. For targeted lookup, use the structured page index and fetch the relevant content_url:
+${publicUrl(cfg, "/data/pages.jsonl")}
+3. For broad questions or session setup, fetch the full public context bundle:
+${publicUrl(cfg, "/llms-full.txt")}
+
+Rules:
+- The wiki is the only canonical source. Do not invent lore not found there.
+- Rumors and myths in the wiki are in-world and may not be true; only content marked canonical should be treated as fact.
+- When answering about a place, faction, species, rule, or historical event, cite or link the page you used.
+- DM secrets are intentionally excluded from the wiki. Do not speculate about hidden content.
+- If the wiki does not cover something, say so rather than guessing.
+- Keep answers player-facing unless I explicitly ask for a rules summary or source list.
+`
+}
+
 function selectStartPages(pages) {
   const rootIndex = pages.find((p) => p.source_path === "content/index.md")
   const preferredIds = [
     rootIndex?.id,
+    slugify("player-ai-guide"),
     "player-primer",
     "campaign-overview",
     slugify("factions/index"),
@@ -401,54 +519,55 @@ ${sections.join("\n")}`
 function buildManifest(cfg, pages) {
   return {
     site: cfg.site,
+    site_url: publicUrl(cfg, "/"),
     audience: "players",
     canon_scope: "public_player_facing",
     generated_at: new Date().toISOString(),
     entrypoints: {
-      llms_txt: withBasePath(cfg, "/llms.txt"),
-      full_text: withBasePath(cfg, "/llms-full.txt"),
-      graph: withBasePath(cfg, "/graph.json"),
-      entities: withBasePath(cfg, "/entities.jsonl"),
-      sitemap: withBasePath(cfg, "/sitemap.xml"),
+      llms_txt: publicUrl(cfg, "/llms.txt"),
+      full_text: publicUrl(cfg, "/llms-full.txt"),
+      player_prompt: publicUrl(cfg, "/player-ai-prompt.txt"),
+      graph: publicUrl(cfg, "/graph.json"),
+      entities: publicUrl(cfg, "/entities.jsonl"),
+      sitemap: publicUrl(cfg, "/sitemap.xml"),
     },
     collections: {
-      pages: withBasePath(cfg, "/data/pages.jsonl"),
-      characters: withBasePath(cfg, "/data/characters.json"),
-      factions: withBasePath(cfg, "/data/factions.json"),
-      locations: withBasePath(cfg, "/data/locations.json"),
-      lore: withBasePath(cfg, "/data/lore.json"),
+      pages: publicUrl(cfg, "/data/pages.jsonl"),
+      page_content_directory: publicUrl(cfg, `/${GENERATED_PAGE_DIR}/`),
+      characters: publicUrl(cfg, "/data/characters.json"),
+      factions: publicUrl(cfg, "/data/factions.json"),
+      locations: publicUrl(cfg, "/data/locations.json"),
+      lore: publicUrl(cfg, "/data/lore.json"),
     },
+    pages: pages.map(({ content, wikilinks, ...page }) => page),
     page_count: pages.length,
   }
 }
 
 function buildSitemap(cfg, pages) {
-  const origin = cfg.baseUrl ? `https://${cfg.baseUrl.split("/")[0]}` : "https://example.com"
   const urls = [
-    withBasePath(cfg, "/llms.txt"),
-    withBasePath(cfg, "/llms-full.txt"),
-    withBasePath(cfg, "/llms.json"),
-    withBasePath(cfg, "/graph.json"),
-    withBasePath(cfg, "/entities.jsonl"),
+    publicUrl(cfg, "/llms.txt"),
+    publicUrl(cfg, "/llms-full.txt"),
+    publicUrl(cfg, "/llms.json"),
+    publicUrl(cfg, "/player-ai-prompt.txt"),
+    publicUrl(cfg, "/graph.json"),
+    publicUrl(cfg, "/entities.jsonl"),
+    publicUrl(cfg, "/data/pages.jsonl"),
+    ...pages.map((page) => page.content_url),
     ...pages.map((page) => page.url),
   ]
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls
-  .map((url) => `  <url><loc>${escapeXml(new URL(url, `${origin}/`).toString())}</loc></url>`)
-  .join("\n")}
+${urls.map((url) => `  <url><loc>${escapeXml(url)}</loc></url>`).join("\n")}
 </urlset>
 `
 }
 
 function buildRobots(cfg) {
-  const origin = cfg.baseUrl ? `https://${cfg.baseUrl.split("/")[0]}` : ""
-  const sitemapPath = withBasePath(cfg, "/sitemap.xml")
-  const sitemapUrl = origin ? new URL(sitemapPath, `${origin}/`).toString() : sitemapPath
   return `User-agent: *
 Allow: /
 
-Sitemap: ${sitemapUrl}
+Sitemap: ${publicUrl(cfg, "/sitemap.xml")}
 `
 }
 
@@ -484,6 +603,12 @@ function withBasePath(cfg, urlPath) {
   if (!cfg.basePath) return normalized
   if (normalized === "/") return `${cfg.basePath}/`
   return `${cfg.basePath}${normalized}`
+}
+
+function publicUrl(cfg, urlPath) {
+  const pathWithBase = withBasePath(cfg, urlPath)
+  if (!cfg.baseUrl) return pathWithBase
+  return new URL(pathWithBase, `https://${cfg.baseUrl.split("/")[0]}/`).toString()
 }
 
 function escapeXml(value) {

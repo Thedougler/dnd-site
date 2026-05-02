@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-02
-published: 2026-05-01T22:42:14.818-07:00
+published: 2026-05-02T00:41:39.231-07:00
 tags:
   - player-resource
   - index
@@ -36,7 +36,7 @@ Read these in order if you are new to the campaign.
 
 The campaign begins at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used merchant brig on a dangerous Midchain route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with a crew when leaving would be easier.
 
-- [[characters/players/index|Characters]] — public player character summaries.
+- [[players/index|Characters]] — public player character summaries.
 - [[rules/index|Rules Index]] — all public campaign rules references.
 - [[rules/Ship-Stats|Ship Stats]] — ship tiers, vehicle statistics, crew, upkeep, cargo, weapons, and upgrades.
 - [[rules/Ship-Bastion|Ship Bastion]] — the party ship as a shared mobile base.
@@ -61,7 +61,7 @@ For the full list, see [[species/index|Playable Species]].
 - [[places/index|Places]] — ports, islands, straits, storm belts, salvage grounds, and the deep water beyond.
 - [[factions/index|Factions]] — the powers that tax, bless, lend, hunt, hide, record, and raid across the Scatter.
 - [[lore/index|Lore]] — religion, culture, ships, and common world knowledge.
-- [[characters/players/index|Characters]] — public player character references.
+- [[players/index|Characters]] — public player character references.
 - [[beastiary/index|Beastiary]] — player-facing creature references for the Shattered Sea.
 
 ## Player Characters
@@ -91,7 +91,7 @@ For the full list, see [[species/index|Playable Species]].
 
 ## Browse Everything
 
-- [[characters/players/index|Characters]]
+- [[players/index|Characters]]
 - [[beastiary/index|Beastiary]]
 - [[factions/index|Factions]]
 - [[lore/index|Lore]]

@@ -2,8 +2,8 @@
 publish: true
 title: Campaign Overview
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-01T19:47:30.081-07:00
+modified: 2026-05-02
+published: 2026-05-02T01:01:51.524-07:00
 tags:
   - player-resource
   - campaign-overview
@@ -13,7 +13,7 @@ summary: Dense reference overview of the Shattered Sea campaign — geography, p
 type: reference
 subtype: campaign-overview
 campaign: shattered-sea
-updated: 2026-05-01
+updated: 2026-05-02
 ---
 
 # Shattered Sea Campaign Overview
@@ -60,7 +60,7 @@ The [[places/The-Drowned-Maw|Drowned Maw]] is to the east: vast, dark, compass-d
 
 ## Powers on the Water
 
-Every dock has a price. Every flag means something. You do not need allegiances before Session 1, but knowing who is who matters the moment you make port.
+Every dock has a price. Every flag means something. You don't need allegiances on day one, but knowing who is who matters the moment you make port.
 
 | Power | Method | Stronghold | Disposition |
 |---|---|---|---|
@@ -87,7 +87,7 @@ _Sailors who do not pay do not sail confidently._
 
 ## Peoples of the Scatter
 
-Standard 2024 species plus homebrew options with strong setting roots:
+Most sourcebook species have a place in the Scatter. These homebrew options are native to the setting:
 
 - [[species/Aarakocra|Aarakocra]] — winged, wind-touched, with keen sight and a fundamentally different relationship to height and distance. Many Sentinels are aarakocra. Others work shipping lanes, lookout work, and independent courier routes.
 - [[species/Grung|Grung]] — amphibious, poisonous, colour-caste shaped. A Grung PC has a full society to reckon with. For social context, see [[lore/The-Grung|The Grung]] and [[factions/Grung-Clans-Summary|Grung Clans Summary]].
@@ -98,7 +98,7 @@ Standard 2024 species plus homebrew options with strong setting roots:
 
 ## The Starting Situation
 
-The campaign begins at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used two-masted merchant brig captained by **Beaumont Sel**, an alligator-snapping tortle who has survived eleven years on the Midchain route by treating danger as weather.
+You begin at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used two-masted merchant brig captained by **Beaumont Sel**, an alligator-snapping tortle who has survived eleven years on the Midchain route by treating danger as weather.
 
 You are aboard for your own reason — paying passenger, working hand, shipwrecked survivor, stowaway, fugitive, pilgrim, hired blade, scholar with bad funding, or someone who got on the wrong boat and has decided to make it everyone else's problem. The _Saltwright_ is where the stories collide.
 
@@ -117,7 +117,7 @@ The [[places/The-Drowned-Maw|Drowned Maw]] is the eastern boundary of what is ad
 
 The Maw itself is not forbidden. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[factions/Sentinels-Of-The-Eyrie-Summary|Sentinels]] watch it and record what they see. The [[factions/Waveservants-Summary|Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
-There are things in the Scatter that do not fit the economy yet: impossible stone, wrong currents, missing ships, old records, sailors who will not say what they saw east of the charts. The edges of the map are where the campaign goes when it decides to become something larger than a sailing story.
+There are things in the Scatter that do not fit the economy yet: impossible stone, wrong currents, missing ships, old records, sailors who will not say what they saw east of the charts. The edges of the map are where the sea stops being navigable and starts being a question.
 
 ---
 

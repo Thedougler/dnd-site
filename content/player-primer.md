@@ -2,8 +2,8 @@
 publish: true
 title: Player Primer
 created: 2026-04-29
-modified: 2026-05-01
-published: 2026-05-01T22:15:24.546-07:00
+modified: 2026-05-02
+published: 2026-05-02T01:03:47.382-07:00
 tags:
   - player-resource
 visibility: public
@@ -12,16 +12,16 @@ summary: Public player primer for the Shattered Sea campaign, a high-magic nauti
 type: reference
 subtype: player-facing
 campaign: shattered-sea
-updated: 2026-05-01
+updated: 2026-05-02
 ---
 
 # Shattered Sea Player Primer
 
 ![[raw/assets/banners/The-Shattered-Sea.webp]]
 
-The **Shattered Sea** is a high-magic nautical sandbox campaign set in **1495 DR**: sixty thousand square miles of reefs, deep channels, cliff ports, free harbours, lost ruins, colonial ledgers, old gods, hungry storms, and ships with too many secrets in the hold.
+The **Shattered Sea**, 1495 DR: sixty thousand square miles of reef, deep channel, cliff port, free harbour, lost ruin, colonial ledger, old god, hungry storm, and ships with too many secrets in the hold. Magic here is part of the infrastructure — enchanted instruments, divine tribute systems, ruins still running on power no one has claimed, and magic treated the same way everything else is treated out here: as leverage.
 
-This is a campaign about sailing past the edges of the map. You will bargain with captains who smile while counting your exits, dodge patrol officers who treat extortion as paperwork, hear prayers muttered into saltwater before every voyage, and learn which islands welcome strangers only because they have not decided what to charge yet.
+This is a sandbox campaign about sailing past the edges of the map. You will bargain with captains who smile while counting your exits, dodge patrol officers who treat extortion as paperwork, hear prayers muttered into saltwater before every voyage, and learn which islands welcome strangers only because they have not decided what to charge yet.
 
 The sea is beautiful. The sea is expensive. The sea remembers.
 
@@ -37,19 +37,19 @@ Expect:
 - **High magic in practical hands**: enchanted instruments, divine tribute, old ruins, ship upgrades, strange species, and magic treated as part of the economy.
 - **Colonial pressure** without a clean map of good and evil. Institutions want taxes, leverage, obedience, labour, souls, or silence. Individuals inside them may want something smaller and messier.
 - **Ancient mysteries** visible at the edges: impossible stone, wrong currents, missing ships, old records, and sailors who refuse to say what they saw east of the charts.
-- **Player-driven trouble.** There is no single correct route. Your alliances, grudges, bargains, and mistakes will decide what kind of legends you become.
+- **Player-driven trouble.** There is no single correct route. Your alliances, grudges, bargains, and mistakes are the plot.
 
 ---
 
 ## The Sea Itself
 
-The Shattered Sea is an archipelago scattered between two hard boundaries.
+Two hard boundaries define the Scatter. To the west, the Galewall. To the east, the Drowned Maw. Between them, everything else.
 
 ![[raw/assets/maps/Shattered-Sea-Map.webp]]
 
 The air changes before land appears: warm, salt-heavy, green with rainforest carried over the water. Then the islands rise in pieces: pale limestone, black basalt, dark jungle, reef water bright enough to hurt your eyes, and deep channels where the colour drops away all at once.
 
-The heart of the campaign is the **Verdant Scatter**, the main island chain between the Galewall and the Drowned Maw. It runs in two arcs: the larger, more administered **Crown Islands** to the north and the denser, harder-to-govern **Midchain** to the south. Between them runs the **Central Strait**, the main shipping road of the region.
+The main island chain is the **Verdant Scatter**, running between the Galewall and the Drowned Maw in two arcs: the larger, more administered **Crown Islands** to the north and the denser, harder-to-govern **Midchain** to the south. Between them runs the **Central Strait**, the main shipping road of the region.
 
 ### [[The-Galewall|The Galewall]]
 
@@ -143,7 +143,7 @@ The best-known region beyond is the Sunken Crown: five low islands around a deep
 
 ## Powers on the Water
 
-You do not need to memorize every faction before Session 1. You only need to know that every dock has a price, every flag means something, and neutrality is usually just a business model.
+You don't need to know every faction before you step aboard. You need to know this: every dock has a price, every flag means something, and neutrality is usually just a business model.
 
 **[[Dravosi-Crown-Summary|The Dravosi Crown]]** controls much of the Crown Islands through naval force, fortress ports, and a bureaucracy that treats paperwork like divine law. Their officers open a ledger before they say hello. Resistance becomes "administrative non-compliance," and administrative non-compliance can become cannon fire once properly filed.
 
@@ -153,17 +153,17 @@ You do not need to memorize every faction before Session 1. You only need to kno
 
 **[[The-Grung|The Grung]]** hold the rainforest interiors of the Verdant Teeth in the Midchain. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
 
-**[[lore/Umberlee|Umberlee]] and the [[Waveservants-Summary|Waveservants]]** are the religious fact of life at sea. Umberlee is the notorious 'Bitch Queen of the Sea' (it's canon), goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
+**[[lore/Umberlee|Umberlee]] and the [[Waveservants-Summary|Waveservants]]** are the religious fact of life at sea. Umberlee, called the Bitch Queen of the Sea, is the goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
 **[[Sentinels-Of-The-Eyrie-Summary|The Sentinels of the Eyrie]]** are an [[Aarakocra]] monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
 
-**[[places/The-High-Eyrie|The-High-Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
+**[[places/The-High-Eyrie|The High Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
 
 ---
 
 ## Peoples of the Shattered Sea
 
-Standard 2024 D\&D species are available. This campaign also includes several player-facing homebrew species with strong ties to the setting:
+Most species from the 2024 sourcebooks have a place in the Scatter. The following homebrew options are native to the setting:
 
 - **[[species/Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
 - **[[Rattkin]]**: small, flexible, hard to catch, and native to the hidden infrastructure of port life. Rattkin make excellent smugglers, scouts, couriers, spies, sailors, and people who were definitely not in that locked room.
@@ -176,11 +176,10 @@ If you want to play something stranger, ask. The Shattered Sea has room for oddi
 
 ## Ships, Home, and Upgrades
 
-This is a nautical campaign. Your vessel is not just transportation; it is shelter, leverage, reputation, storage, escape route, and eventually home.
+Your vessel is not just transportation. It is shelter, leverage, reputation, storage, escape route, and eventually home.
 
-At higher levels, the party ship uses the 2024 **[[Bastions]]** rules adapted into a shared mobile base:
+Once the ship is yours, it operates as a combined **[[Ship-Bastion|Ship Bastion]]**: the 2024 [[Bastions|Bastion]] rules adapted for a mobile vessel.
 
-- Your ship becomes a combined **[[Ship-Bastion|Ship Bastion]]**.
 - Facility slots are pooled across the party.
 - Weekly Bastion Turns handle upkeep, crew wages, facility orders, repairs, trade, visitors, and maritime events.
 - Ship size matters. A sloop cannot hold the same life, guns, cargo, and magical infrastructure as a frigate. See **[[Ship-Stats]]** for the tier system.
@@ -191,7 +190,7 @@ Early on, expect to think like sailors even before you own the deck under your f
 
 ## The Starting Situation
 
-The campaign begins at **Level 3** aboard the _Saltwright_.
+You begin at **Level 3** aboard the _Saltwright_.
 
 ![[raw/assets/banners/Saltwright.webp|730|892x502]]
 

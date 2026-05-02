@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-01
-published: 2026-05-01T21:41:10.479-07:00
+published: 2026-05-01T22:15:24.546-07:00
 tags:
   - player-resource
 visibility: public
@@ -145,19 +145,19 @@ The best-known region beyond is the Sunken Crown: five low islands around a deep
 
 You do not need to memorize every faction before Session 1. You only need to know that every dock has a price, every flag means something, and neutrality is usually just a business model.
 
-**The Dravosi Crown** controls much of the Crown Islands through naval force, fortress ports, and a bureaucracy that treats paperwork like divine law. Their officers open a ledger before they say hello. Resistance becomes "administrative non-compliance," and administrative non-compliance can become cannon fire once properly filed.
+**[[Dravosi-Crown-Summary|The Dravosi Crown]]** controls much of the Crown Islands through naval force, fortress ports, and a bureaucracy that treats paperwork like divine law. Their officers open a ledger before they say hello. Resistance becomes "administrative non-compliance," and administrative non-compliance can become cannon fire once properly filed.
 
-**The Tessarine Concordat** prefers debt to conquest. Its factors dress plainly, speak warmly, and always know the current price of what you are carrying. They do not need to seize a city if they can lend to it until the votes come due.
+**[[Tessarine-Concordat-Summary|The Tessarine Concordat]]** prefers leverage to conquest. Its factors dress plainly, speak warmly, and always know the current price of what you are carrying. They do not need to seize a city if they can own it.
 
 **[[The-Passage|The Passage]]** is the Rattkin network beneath and between the ports: runs, holds, courier routes, hidden caches, and scratch-notation no colonial clerk can read. The Passage does not appear on maps because maps are made by people who think streets are the only way through a city.
 
 **[[The-Grung|The Grung]]** hold the rainforest interiors of the Verdant Teeth in the Midchain. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
 
-**[[lore/Umberlee|Umberlee]] and the Waveservants** are the religious fact of life at sea. Umberlee is the Bitch Queen, goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
+**[[lore/Umberlee|Umberlee]] and the [[Waveservants-Summary|Waveservants]]** are the religious fact of life at sea. Umberlee is the notorious 'Bitch Queen of the Sea' (it's canon), goddess of storms, shipwrecks, and the sea's destructive appetite. Her Waveservants keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
-**The Sentinels of the Eyrie** are an aarakocra monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
+**[[Sentinels-Of-The-Eyrie-Summary|The Sentinels of the Eyrie]]** are an [[Aarakocra]] monastic order watching the Drowned Maw from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
 
-**The High Eyrie** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
+**[[places/The-High-Eyrie|The-High-Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
 
 ---
 

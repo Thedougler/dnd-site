@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-02
-published: 2026-05-01T22:07:00.726-07:00
+published: 2026-05-01T22:16:55.526-07:00
 tags:
   - player-resource
   - index
@@ -47,10 +47,10 @@ The campaign begins at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], 
 
 Standard 2024 species are available, plus these Shattered Sea options:
 
-- [[species/Aarakocra|Aarakocra]] — winged, wind-touched, long sight
-- [[species/Grung|Grung]] — amphibious, poisonous, colour-caste culture from the Verdant Teeth
-- [[species/Rattkin|Rattkin]] — small, fast, built for impossible spaces
-- [[species/Tabaxi|Tabaxi]] — feline, ancient roots in the Shattered Sea
+- [[species/Aarakocra|Aarakocra]] — Bird people.
+- [[species/Grung|Grung]] — Poison Dart Frog People.
+- [[species/Rattkin|Rattkin]] — Rat People.
+- [[species/Tabaxi|Tabaxi]] — Cat People.
 
 For the full list, see [[species/index|Playable Species]].
 

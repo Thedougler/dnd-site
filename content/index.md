@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-02
-published: 2026-05-01T21:41:15.512-07:00
+published: 2026-05-01T22:07:00.726-07:00
 tags:
   - player-resource
   - index
@@ -62,6 +62,7 @@ For the full list, see [[species/index|Playable Species]].
 - [[factions/index|Factions]] — the powers that tax, bless, lend, hunt, hide, record, and raid across the Scatter.
 - [[lore/index|Lore]] — religion, culture, ships, and common world knowledge.
 - [[characters/index|Characters]] — public player character references.
+- [[beastiary/index|Beastiary]] — player-facing creature references for the Shattered Sea.
 
 ## Player Characters
 
@@ -91,6 +92,7 @@ For the full list, see [[species/index|Playable Species]].
 ## Browse Everything
 
 - [[characters/index|Characters]]
+- [[beastiary/index|Beastiary]]
 - [[factions/index|Factions]]
 - [[lore/index|Lore]]
 - [[places/index|Places]]

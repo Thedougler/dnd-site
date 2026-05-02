@@ -3,74 +3,68 @@ publish: true
 title: The Dravosi Crown
 created: 2026-05-01
 modified: 2026-05-01
+published: 2026-05-01T18:32:21.823-07:00
 tags:
   - faction
   - player-resource
   - dravosi
   - crown-islands
+visibility: public
+audience: players
+summary: Public lore on the Dravosi Crown, the Shattered Sea's oldest colonial power, known for naval force, fortress ports, inspection law, and relentless paperwork.
+type: entity
+subtype: faction-summary
+status: active
+campaign: shattered-sea
+updated: 2026-05-01
+revised: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Dravosi Crown
 
-Ask a Tidefall officer what the Crown brings to the Shattered Sea and he will say order. Ask a harbour pilot and she will say inspection. Ask a smuggler and he will say ink, then spit over the rail.
-
-The Dravosi Crown is the oldest colonial power in the Scatter. Its flags fly across much of the [[Crown-Islands]], and its strongest hand rests on [[Port-Tidefall]], [[Fort-Crestwall]], and the western mouth of the [[Central-Strait]]. Every ship entering Crown waters is expected to be legible: name, master, registry, cargo, crew, destination, previous port, fees paid, papers stamped.
-
-The Crown does not merely rule by cannon. It rules by making the cannon the last line of a form.
+The Dravosi Crown is the oldest colonial power in the Scatter. Its flags fly across much of the [[Crown-Islands]], and its control of the western mouth of the [[Central-Strait]] is backed by stone fortifications, standing patrols, and a dense body of maritime law. The three anchors of Crown power in these waters are [[Port-Tidefall]], [[Fort-Crestwall]], and the inspection pier.
 
 ---
 
-## What the Docks Say
+## Overview
 
-The Crown keeps patrols on the Strait, sells charts through official offices, suppresses piracy where piracy interferes with tax, and makes the western passage predictable enough for merchants to keep using it. Those facts are why many captains complain about Dravosi law while still planning their routes around Dravosi ports.
+The Crown maintains patrols on the Strait, sells charts through licensed offices, and suppresses piracy where it interferes with trade. The western passage is reliable largely because the Crown enforces consistent rules along it, which is why it remains a preferred route for merchants despite the fees and paperwork.
 
-Its officers wear navy-blue coats with brass buttons and make themselves visible at a distance. A rating officer usually opens a ledger before he says hello. A missing stamp can become a fine. A fine can become a seizure. A seizure can become a hearing. A hearing can become a season lost to the impound yard.
-
-In Crown waters, being right is useful. Having the paper that proves it is better.
+Crown officers wear navy-blue coats with brass buttons. When a rating officer boards a vessel, he opens his ledger before he says hello. Unpaid fees become fines; disputed fines become seizures; seizures become hearings that can hold a ship in the impound yard for a season. In Crown waters, having the correct papers matters as much as being in the right.
 
 ---
 
-## Places of Strength
+## Territory
 
-The Crown is strongest where stone, road, pier, and cannon meet. Tidefall is the model: a fortress-port carved into the cliff face of Calder's Tooth, with Dockfront below, the Shelf above, and Fort Crestwall looking down over every mast in harbour.
+The Crown's strongest holdings are where stone, road, pier, and cannon meet. [[Port-Tidefall]] is a fortress-port cut into the cliff face of [[Calder's-Tooth]], with the Dockfront at the base and administrative buildings, warehouses, and residences along the Shelf above. [[Fort-Crestwall]] sits at the top, with a clear view over the harbour.
 
-Beyond the ports, Crown authority thins. A road can be taxed. A harbour can be watched. A cave route, mangrove cut, mudflat track, or fisher's path is harder to put in a ledger. Villages on the edges of Calder's Tooth often know exactly how far a Dravosi patrol likes to walk before the boots become inconvenient.
-
----
-
-## Common Dealings
-
-Most sailors meet the Crown through inspection. A patrol cutter comes alongside, a rating officer boards, and the conversation becomes official whether anyone wanted that or not.
-
-Common Crown instruments include:
-
-- **Rating inspections** for ship condition, papers, cargo, and route.
-- **Harbour manifests** recording what a vessel carries and where it claims to be going.
-- **Impound orders** for seized vessels, unpaid fees, or disputed cargo.
-- **Admiralty passes** granting access to restricted piers, roads, forts, or archives.
-- **Privateer commissions** letting approved captains enforce Crown interests in contested waters.
-
-There are honest Dravosi officers, corrupt Dravosi officers, bored clerks, hungry deckhands, and guards who know exactly which fee is nonsense. The system remains larger than any one of them.
+Beyond the ports, Crown authority is thinner. Roads and harbours can be taxed and watched. Back channels, mudflat tracks, and coastal paths are harder to police, and villages on the outer edges of Calder's Tooth operate with some distance from regular Crown patrols.
 
 ---
 
-## Relations with Other Powers
+## Dealings with the Crown
 
-The Crown and the [[Tessarine-Concordat-Summary|Tessarine Concordat]] are rivals, but their laws recognize enough of each other to make trouble portable. A debtor can become an inspection problem. An inspection problem can become a contract problem.
+Most sailors encounter the Crown through inspection. A patrol cutter comes alongside, a rating officer boards, and the vessel's name and registry, master's name, cargo manifest, last port, declared destination, and fee receipts are all required.
 
-The [[The-Passage-Summary|Passage]] is harder for the Crown to grasp. Rattkin routes do not present themselves at the inspection pier.
-
-The [[Waveservants-Summary|Waveservants]] are treated as ordinary harbour reality. The Crown may govern a port, but sailors still pay the sea.
-
-The [[Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]] remain independent. Crown officers have asked for aerial scout support before. The Eyrie has declined.
+The Crown issues rating certificates for ships in acceptable condition, harbour manifests, and impound orders for unpaid fees or disputed cargo. Admiralty passes grant access to restricted piers, forts, and archives. Privateer commissions authorize approved captains to act on Crown authority in contested waters.
 
 ---
 
-## Useful Advice
+## Other Powers
 
-Carry copies. Keep the stamp dry. Do not joke about forged papers in front of a bored clerk. If a Dravosi officer says a matter is administrative, assume it can still end with armed sailors on the gangplank.
+The Crown and the [[Tessarine-Concordat-Summary|Tessarine Concordat]] are rivals. Their legal systems recognize enough of each other that debts and disputes can cross jurisdictions — a problem in Concordat waters can surface as an inspection issue at a Dravosi pier.
 
-In Crown waters, the law is not always fair, but it is usually written down somewhere.
+The [[The-Passage-Summary|Passage]] operates largely outside Crown oversight. Rattkin trade routes do not use inspection piers. The [[Waveservants-Summary|Waveservants]] function independently within Crown ports; sailors pay harbour fees to the Crown and make separate arrangements with the Waveservants. The [[Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]] are independent and have not entered into cooperation agreements with the Crown.
+
+---
+
+## Advice
+
+Keep full copies of all papers. Make sure stamps are legible and dry. If a Crown officer describes a matter as administrative, it can still result in armed sailors boarding the vessel. In Crown waters, the law is usually written down — having a copy of the relevant text on hand is worth the trouble.
 
 ---
 

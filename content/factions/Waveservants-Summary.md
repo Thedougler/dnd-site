@@ -3,67 +3,56 @@ publish: true
 title: The Waveservants
 created: 2026-05-01
 modified: 2026-05-01
+published: 2026-05-01T18:33:30.199-07:00
 tags:
   - faction
   - player-resource
   - waveservants
   - umberlee
   - religion
+visibility: public
+audience: players
+summary: Public lore on the Waveservants, Umberlee's practical clergy in the Shattered Sea, who collect tribute, maintain harbour shrines, and bless sailors without warmth.
+type: entity
+subtype: faction-summary
+status: active
+campaign: shattered-sea
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Waveservants
 
-No one loves the storm because it is kind. Sailors pay [[lore/Umberlee|Umberlee]] because the sea kills, and because the sea sometimes does not.
-
-The Waveservants are the Bitch Queen's clergy in the Shattered Sea. Their shrines sit near harbour mouths and waterline gates, where a crew can make tribute before departure or pay trembling thanks after return. They are not warm priests. They are collectors, witnesses, and keepers of terms.
+The Waveservants are [[lore/Umberlee|Umberlee]]'s clergy in the Shattered Sea. Their shrines sit near harbour mouths and waterline gates, where crews can pay tribute before departure or after return. They collect offerings, witness payments, and issue blessings. A blessing is an acknowledgement that proper tribute has been paid, not a guarantee of safe passage.
 
 ---
 
 ## At the Shrine
 
-A Waveservant shrine usually smells of tallow, brine, wet stone, old rope, and coins handled by frightened hands. There is a basin of seawater, low candles, posted fees or spoken terms, and shelves crowded with offerings from ships that survived what they had no right to survive.
+Waveservant shrines are found near most working harbours. They maintain a basin of seawater, candles, posted or spoken tribute terms, and accumulated offerings from ships that returned from difficult crossings. The clergy wear salt-bleached grey robes. They accept payment without discussion and bless without conditions. They refuse almost no one — tribute from any source is accepted on equal terms.
 
-The clergy wear salt-bleached grey robes, damp at the hem. They handle coin without looking at it. They bless without smiling. They refuse almost no one, because tribute from an enemy spends as cleanly as tribute from a friend.
-
-A blessing is not a promise of safety. It is an acknowledgement that proper respect has been shown.
-
----
-
-## What Sailors Know
-
-Every sailor learns some version of the same rule: those who do not pay do not sail confidently.
-
-Payment is often coin, but offerings vary by port and desperation. Broken compass needles, brass buttons, fish bones, carved tokens, lengths of rope, storm glass, and private vows all find their way to Umberlee's shelves.
-
-Some captains curse Umberlee at sea and pay at every shrine. No contradiction is seen in this.
+Payment is typically coin, but offerings vary by port. Broken compass needles, brass buttons, carved tokens, rope lengths, storm glass, and private vows are all accepted. Captains who have strong opinions about Umberlee at sea still pay at shrines in port. This is considered normal practice.
 
 ---
 
 ## Neutrality
 
-The Waveservants collect from merchant, pirate, navy, smuggler, pilgrim, noble, fugitive, and fool. Their neutrality is not softness. It is doctrine sharpened by arithmetic. A shrine that takes sides stops collecting from half the harbour, and half the harbour's tribute is not enough.
-
-Harbour flags change. Governors die. Tariffs are rewritten. The Umberlee shrine remains close to the water.
+The Waveservants collect from merchants, pirates, naval vessels, smugglers, pilgrims, and private travellers without distinction. Their neutrality is doctrinal: a shrine that aligns with one faction stops receiving tribute from its opponents, and partial tribute is not sufficient to maintain operations. Harbour governance changes; the shrine near the water remains.
 
 ---
 
-## Relations with Other Powers
+## Other Powers
 
-The [[Dravosi-Crown-Summary|Dravosi Crown]] may control an inspection pier, but even Crown sailors pay before a dangerous crossing.
-
-The [[Tessarine-Concordat-Summary|Tessarine Concordat]] treats tribute as one more predictable cost, which is usually the wisest commercial view of it.
-
-The [[Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]] and the Waveservants both keep restraint around the [[The-Drowned-Maw|Drowned Maw]], though for different reasons.
-
-The [[The-Passage-Summary|Passage]] moves hidden sailors through hidden ways, but hidden sailors still sail.
+The [[Dravosi-Crown-Summary|Dravosi Crown]] governs inspection piers, but Crown sailors pay shrine tribute before dangerous crossings on the same terms as anyone else. The [[Tessarine-Concordat-Summary|Tessarine Concordat]] treats tribute as a standard operational cost. The [[Sentinels-Of-The-Eyrie-Summary|Sentinels of the Eyrie]] and the Waveservants both operate with restraint around the [[The-Drowned-Maw|Drowned Maw]], independently and for separate reasons. The [[The-Passage-Summary|Passage]] routes hidden sailors through hidden ways, but those sailors still sail on water.
 
 ---
 
-## Useful Advice
+## Advice
 
-Pay before the weather turns. Pay after survival. Do not ask a Waveservant whether the blessing worked. If you are alive to ask, the question is considered rude.
-
-The sea does not owe explanations.
+Pay tribute before departure and after safe return. Do not ask a Waveservant to assess whether a blessing was effective.
 
 ---
 

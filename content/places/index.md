@@ -1,5 +1,19 @@
 ---
-{"publish":true,"title":"Places Index","created":"2026-05-01T17:14:31.950-07:00","modified":"2026-05-01","published":"2026-05-01T18:05:03.966-07:00","tags":["player-resource","places","index"],"visibility":"public","audience":"players","summary":"Player-facing gazetteer index for public Shattered Sea places, written as in-world travel knowledge for players.","type":"index","campaign":"shattered-sea","updated":"2026-05-01"}
+publish: true
+title: Places
+created: 2026-05-01T17:14:31.950-07:00
+modified: 2026-05-01
+published: 2026-05-01T18:19:50.997-07:00
+tags:
+  - player-resource
+  - places
+  - index
+visibility: public
+audience: players
+summary: Player-facing gazetteer index for public Shattered Sea places, written as in-world travel knowledge for players.
+type: index
+campaign: shattered-sea
+updated: 2026-05-01
 ---
 
 # Places in the Shattered Sea

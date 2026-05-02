@@ -3,72 +3,71 @@ publish: true
 title: Sentinels of the Eyrie
 created: 2026-05-01
 modified: 2026-05-01
+published: 2026-05-01T18:32:21.827-07:00
 tags:
   - faction
   - player-resource
   - sentinels
   - aarakocra
   - drowned-maw
+visibility: public
+audience: players
+summary: Public lore on the Sentinels of the Eyrie, an aarakocra monastic observation order that watches the Drowned Maw and records without interpretation.
+type: entity
+subtype: faction-summary
+status: active
+campaign: shattered-sea
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # Sentinels of the Eyrie
 
-High above the northeastern Crown coast stands [[The-High-Eyrie]], a basalt stack rising from the sea wind. From that stone, the Sentinels have watched the [[The-Drowned-Maw|Drowned Maw]] for roughly two hundred years.
+[[The-High-Eyrie]] is a basalt stack on the northeastern Crown coast. From it, the Sentinels have observed the [[The-Drowned-Maw|Drowned Maw]] for roughly two hundred years.
 
-They are aarakocra monks, observers, ledger-keepers, and aerial fighters when defence requires it. They are not a navy. They are not a church. They are not a government. Their authority is the record.
+They are aarakocra monastics — observers, record-keepers, and aerial fighters when defence requires it. They are not a naval force, a religious institution, or a governing body.
 
 ---
 
 ## The Long Record
 
-The Sentinels write what they observe: weather, water, drift, wrecks, storms, compass failures, stillness, birds, ships, light, and the absence of explanation. Their ledgers are widely believed to be the most complete Maw record in the Scatter.
+The Sentinels record what they observe: weather, water, drift, wrecks, storms, compass failures, ship movements, light anomalies, and unexplained events. Their ledgers are considered the most complete record of the Maw in the Scatter.
 
-Outsiders often find the order maddening. A Sentinel may tell you that the surface went flat under a west wind for six minutes at a precise bearing, but refuse to say what it means. To the Eyrie, that refusal is discipline.
-
-The record says what happened. They do not impose there own interpretation or censorship.
+The order records what happened. It does not add interpretation or conclusions to the record. A Sentinel may accurately describe a six-minute surface calm at a specific bearing under a west wind and decline to explain what it signifies. That is standard practice, not evasion.
 
 ---
 
 ## Appearance and Manner
 
-Sentinels wear undyed grey linen. Long circuit work leaves salt in the feathers and wind in the posture. They carry sealed ledgers and speak with the care of people trained not to confuse certainty with attention.
-
-Their stillness is often more recognizable than any uniform: still in the air, still on stone, still when a harbour is shouting.
-
-When a Sentinel warning comes, it is usually brief, specific, and worth listening to.
+Sentinels wear undyed grey linen. Extended circuit work leaves salt in the feathers. They carry sealed ledgers and speak precisely, distinguishing between what was observed and what was inferred.
 
 ---
 
 ## Doctrine
 
-The order's discipline is sometimes called objective observation. Its common principles are known even outside the Eyrie:
+The order's observational discipline is understood outside the Eyrie. Its core principles are:
 
 - Record without conclusion.
 - Do not become part of the thing being observed.
 - Sharpen perception before judgement.
 - Let long memory correct quick certainty.
 
-This doctrine does not make the Sentinels helpless. They can fight, rescue, and defend their own. What they avoid is being turned into someone else's scouts, proof, banner, or weapon.
+The doctrine does not prevent the Sentinels from acting. They fight, conduct rescues, and defend their own. What they avoid is being used as scouts, witnesses, or instruments by outside parties.
 
 ---
 
-## Relations with Other Powers
+## Other Powers
 
-The [[Dravosi-Crown-Summary|Dravosi Crown]] has asked the Eyrie for aerial scout support and been refused.
-
-The [[Tessarine-Concordat-Summary|Tessarine Concordat]] would like access to the ledgers, as would every scholar with a theory and every merchant with cargo near the Maw.
-
-The [[Waveservants-Summary|Waveservants]] keep their own silence around the deep water. Between shrine and Eyrie there is restraint, not friendship.
-
-The [[The-Passage-Summary|Passage]] has no known formal relationship with the order. Rattkin routes sometimes benefit from powers that do not care to police port alleys.
+The [[Dravosi-Crown-Summary|Dravosi Crown]] has requested aerial scout support and been refused. The [[Tessarine-Concordat-Summary|Tessarine Concordat]] and various private interests have sought access to the ledgers; those requests have not been granted. The [[Waveservants-Summary|Waveservants]] maintain an independent relationship with the deep water around the Maw; the two groups are not allied. The [[The-Passage-Summary|Passage]] has no formal relationship with the order.
 
 ---
 
-## Useful Advice
+## Advice
 
-Do not ask a Sentinel to guess. Ask what was recorded.
-
-Do not mistake refusal for ignorance. A Sentinel who will not interpret a pattern may still have written down every piece of it.
+Ask what was recorded, not what it means. A Sentinel who declines to interpret an observation may still have a complete record of it.
 
 ---
 

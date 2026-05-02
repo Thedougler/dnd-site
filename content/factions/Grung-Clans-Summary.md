@@ -3,25 +3,38 @@ publish: true
 title: The Grung
 created: 2026-05-01
 modified: 2026-05-01
+published: 2026-05-01T18:32:21.823-07:00
 tags:
   - faction
   - player-resource
   - grung
   - verdant-teeth
   - midchain
+visibility: public
+audience: players
+summary: Public lore on the Grung clans of the Verdant Teeth, a poisonous amphibious society shaped by caste, strict protocol, waterline trade, and worsening raids.
+type: entity
+subtype: faction-summary
+status: active
+campaign: shattered-sea
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Grung
 
-Two days south of [[Kalowe]], the [[Verdant-Teeth]] rise green and wet from the Midchain. From the water they show reef, beach, rainforest, and little else. The interiors belong to the Grung.
+Two days south of [[Kalowe]], the [[Verdant-Teeth]] rise from the Midchain as reef, beach, and rainforest. The interiors belong to the Grung.
 
-The Grung are poisonous amphibious folk whose bright skin marks both body and station. They are not one crown or council, but many clans bound by the same colour-caste order. Outsiders trade at the waterline. Outsiders who go inland become warnings.
+The Grung are poisonous amphibious folk whose skin colour marks caste and station. They are not a single crown or council but many clans operating under a shared colour-caste order. Trade with outsiders takes place at the waterline. The interior is not open to visitors.
 
 ---
 
-## Colour and Place
+## Colour and Caste
 
-Grung caste is determined by skin colour at birth. The order is not a custom they put on for strangers. It governs speech, family, labour, punishment, command, and who may look directly at whom.
+Grung caste is determined by skin colour at birth. It governs speech, family, labour, punishment, authority, and social interaction across every aspect of Grung society.
 
 | Colour | Known Role |
 |---|---|
@@ -32,55 +45,45 @@ Grung caste is determined by skin colour at birth. The order is not a custom the
 | Blue | Scouts, messengers, traders, and handlers |
 | Green | Labourers and the lowest freeborn caste |
 
-Lower castes do not casually initiate speech with higher castes. A trader who wishes to address gold will usually speak to blue and wait. A stranger who ignores this may not receive a second lesson.
+Lower castes do not initiate speech with higher castes without going through an appropriate intermediary. A trader wishing to address gold caste will speak to blue caste and wait.
 
 ---
 
 ## The Waterline Trade
 
-The Grung trade, but they set the edge of the meeting. Designated beaches, especially on Veth, serve as contact points. Blue-caste intermediaries appear at the waterline while the rainforest remains full of unseen watchers.
+Trade with the Grung takes place at designated beaches, primarily on Veth. Blue-caste intermediaries conduct exchanges at the waterline. The interior remains off-limits to outside traders.
 
-Goods leaving Grung territory include carved bone, resin work, plant pigments, alchemical specimens, and materials difficult to gather elsewhere. Goods entering include preserved food, worked timber, rope, salvaged metal, tools, and other supplies useful to island settlements hidden under canopy.
+Goods leaving Grung territory include carved bone, resin work, plant pigments, alchemical specimens, and materials difficult to source elsewhere. Goods entering include preserved food, worked timber, rope, salvaged metal, and tools.
 
-Kalowe's markets carry Grung goods. Many buyers prefer not to ask which beach they crossed first.
+Grung trade goods are available in Kalowe's markets.
 
 ---
 
 ## Poison
 
-Every Grung is dangerous to touch. Their bodies secrete venom, and their poison-craft builds from that fact. Red-caste makers are said to maintain sealed stores of refined toxins, while purple warriors and blue scouts use poison for hunting, war, capture, and control.
+All Grung secrete venom through their skin. Red-caste specialists maintain stores of refined toxins. Purple warriors and blue scouts use poison in hunting, combat, capture, and restraint.
 
-The formulas are not sold. The methods are not taught. A vial offered as "Grung poison" in a dockside alley is more likely to be fraud, theft, or bait than a legitimate trade good.
+Poison formulas and methods are not traded or taught to outsiders. Grung poison sold through dockside markets is generally not what it claims to be.
 
 ---
 
 ## Raids and Bondage
 
-The Grung use slave labour openly within their society. Nearby islanders know this, though many speak of it quietly when trade money is near.
+The Grung use enslaved labour within their society. Slaves are taken in raids, acquired through coastal exchange, or, rarely, assigned through internal punishment. Blue-caste Grung are primarily responsible for scouting, acquisition, and handling.
 
-Slaves are taken in raids, purchased through coastal exchange, or, rarely, made through Grung punishment. Blue-caste Grung are commonly associated with scouting, acquisition, handling, and discipline.
-
-Raid activity in the Midchain has worsened over the last two years. Coastal camps near the Teeth have moved back from the shore. Some routes now carry warnings instead of cargo.
+Raid activity in the Midchain has increased over the past two years. Coastal settlements near the Verdant Teeth have pulled back from the shore, and some trade routes through the area now carry advisories.
 
 ---
 
-## Relations with Other Powers
+## Other Powers
 
-The [[Dravosi-Crown-Summary|Dravosi Crown]] increasingly treats Grung raids as a security matter as attacks push toward Crown Island waters.
-
-The [[Tessarine-Concordat-Summary|Tessarine Concordat]] sees disrupted routes, altered insurance, risky cargo, and opportunity.
-
-The [[The-Passage-Summary|Passage]] has little patience for any power that treats people as cargo.
-
-The [[Waveservants-Summary|Waveservants]] make no special exception for Grung waters. Storm, reef, hunger, and tribute remain what they are.
+The [[Dravosi-Crown-Summary|Dravosi Crown]] has begun treating Grung raids as a security concern as activity approaches Crown Island waters. The [[Tessarine-Concordat-Summary|Tessarine Concordat]] has adjusted insurance and cargo assessments for affected routes. The [[The-Passage-Summary|Passage]] does not engage with powers that trade in people. The [[Waveservants-Summary|Waveservants]] make no exceptions for Grung waters.
 
 ---
 
-## Useful Advice
+## Advice
 
-Trade at the beach. Bring what was requested. Do not bring extra people. Do not touch. Do not go inland.
-
-If the canopy goes quiet, leave.
+Trade at the designated beach. Bring what was arranged. Do not bring uninvited personnel. Physical contact with Grung is dangerous. Do not enter the interior.
 
 ---
 

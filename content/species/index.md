@@ -1,10 +1,24 @@
 ---
-{"publish":true,"title":"Species","created":"2026-05-01T16:53:43.377-07:00","modified":"2026-05-01","published":"2026-05-01T17:07:12.718-07:00","tags":["player-resource","index","species"],"visibility":"public","audience":"players","summary":"Public index for Shattered Sea playable species references.","type":"index","campaign":"shattered-sea","updated":"2026-05-01"}
+publish: true
+title: Species
+created: 2026-05-01T16:53:43.377-07:00
+modified: 2026-05-01
+published: 2026-05-01T18:21:11.899-07:00
+tags:
+  - player-resource
+  - index
+  - species
+visibility: public
+audience: players
+summary: Public index for Shattered Sea playable species references.
+type: index
+campaign: shattered-sea
+updated: 2026-05-01
 ---
 
-# Public Species
+# Playable Species
 
-Playable species references with Shattered Sea context.
+In addition to DND 2024 playable species, players may also select from these home brew options/updates to dnd 2024 format.
 
 - [[species/Aarakocra|Aarakocra]] - winged people with sustained flight, wind magic, keen sight, and skyward instincts.
 - [[species/Grung|Grung]] - amphibious, poisonous humanoids with caste-marked coloration and roots in the Verdant Teeth.

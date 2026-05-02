@@ -3,67 +3,60 @@ publish: true
 title: The Passage
 created: 2026-05-01
 modified: 2026-05-01
+published: 2026-05-01T18:32:21.827-07:00
 tags:
   - faction
   - player-resource
   - passage
   - rattkin
   - smuggling
+visibility: public
+audience: players
+summary: Public lore on the Passage, the Rattkin network of routes, holds, caches, couriers, and hidden infrastructure running beneath and between Shattered Sea ports.
+type: entity
+subtype: faction-summary
+status: active
+campaign: shattered-sea
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Passage
 
-The Passage is not marked on colonial charts because colonial charts are made by people who think roads are visible.
-
-Ask in the wrong tavern and you will hear it called a smuggling ring. Ask a Rattkin and you may hear nothing at all. The Passage is routes, Holds, caches, couriers, scratch-marks, ceramic shards, family memory, and the hidden infrastructure beneath and between the ports of the Shattered Sea.
-
-It is not a nation. It is not a guild. It is how Kin keep moving.
+The Passage is the Rattkin network of routes, shelters, caches, couriers, and hidden infrastructure running beneath and between the ports of the Shattered Sea. It does not appear on colonial charts. It is not a nation or a guild. It is the system by which Rattkin — who call themselves Kin — move people, cargo, and information across the region.
 
 ---
 
-## Kin, Dry, and the Run
+## Overview
 
-Rattkin call themselves Kin. Everyone else is Dry. A Dry can be trusted, valued, protected, paid, hidden, or loved. That does not make them Kin.
-
-The moving body of the Passage is the Run: travelling Rattkin families, crews, and vessels whose routes split and join across generations. The route is not only a line on water. It is who remembers which harbour wall has a crawlspace behind it, which dock beam carries a warning mark, which clerk looks away, which tide opens the low tunnel, and which name should not be spoken in a given port.
+The operational body of the Passage is the Run: travelling Rattkin families, crews, and vessels whose routes branch and connect across generations. A route is not only a path on water. It is institutional knowledge — which harbour wall has a crawlspace, which dock beam carries a warning mark, which clerk can be relied on, which tide opens a low tunnel, which names carry risk in a given port. That knowledge passes within Kin networks and is not shared with outsiders by default.
 
 ---
 
 ## Holds
 
-A Hold is a Rattkin-maintained cache or shelter inside a port's bones: drainage channels, dock supports, wall cavities, old foundations, roof voids, cistern mouths, abandoned culverts, or places a city has forgotten it built.
-
-When a city burns, rebuilds, or changes flag, the Passage adjusts. New foundations receive old memory. Routes are reseeded. The map remains wrong.
-
-[[The-Warren]] in [[Calveno]] is the great exception: the only fixed Rattkin settlement in the Shattered Sea and the deepest known anchor of Passage memory.
+A Hold is a Rattkin-maintained cache or shelter inside a port's structure: drainage channels, dock supports, wall cavities, old foundations, roof voids, cisterns, or spaces a city has forgotten. When a city rebuilds or changes hands, the Passage adapts. Routes are reseeded into new construction. [[The-Warren]] in [[Calveno]] is the only fixed Rattkin settlement in the Shattered Sea and the most established anchor of Passage memory in the region.
 
 ---
 
 ## The One Law
 
-The Rattkin do not move people in bondage.
-
-This is the line most often repeated outside Kin circles, because it is the one even Dry contacts are expected to understand. Cargo can be hidden. Messages can be carried. People can be smuggled to freedom. Slaves are not merchandise for the Passage.
+The Passage does not move people in bondage. Cargo can be hidden, messages carried, and people smuggled to freedom. Enslaved people are not a trade good the Passage will handle. This is the rule most widely known outside Kin circles.
 
 ---
 
-## Relations with Other Powers
+## Other Powers
 
-The [[Dravosi-Crown-Summary|Dravosi Crown]] is dangerous in Crown territories, where Rattkin can become a category in a ledger and a bounty on a wall.
-
-The [[Tessarine-Concordat-Summary|Tessarine Concordat]] has no official dealings with the Passage, which is often the point of using a Rattkin courier.
-
-The [[Waveservants-Summary|Waveservants]] collect from everyone who sails. Hidden routes do not exempt hidden sailors from the sea.
-
-The [[Grung-Clans-Summary|Grung]] are regarded with caution wherever bondage, raids, and coastal trade meet.
+The [[Dravosi-Crown-Summary|Dravosi Crown]] is a significant risk in Crown territories, where Rattkin can appear in official records as a category subject to fines and bounties. The [[Tessarine-Concordat-Summary|Tessarine Concordat]] has no formal dealings with the Passage, which is part of the reason Rattkin couriers are used for transactions that should not appear in Concordat ledgers. The [[Waveservants-Summary|Waveservants]] collect from everyone who sails; hidden routes do not exempt hidden sailors. The [[Grung-Clans-Summary|Grung]] are treated with caution given their involvement in coastal raids and bondage.
 
 ---
 
-## Useful Advice
+## Advice
 
-If a Rattkin shows you a route, do not assume you have learned the Passage. You have learned that one Rattkin, in that moment, wanted you to arrive somewhere.
-
-Do not mark a Hold on a map. Do not ask a courier to explain a shard. Do not use the word pest where Kin can hear you.
+Knowing one route shown by one Rattkin is not knowledge of the Passage. Do not mark a Hold on a map. Do not ask a courier to explain a message shard. Do not use the word "pest" where Kin are present.
 
 ---
 

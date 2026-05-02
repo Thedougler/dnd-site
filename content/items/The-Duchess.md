@@ -1,0 +1,37 @@
+---
+publish: true
+created: 2026-04-26
+modified: 2026-04-26
+published: 2026-05-02T02:18:15.197-07:00
+tags:
+  - item
+  - weapon
+  - ranged
+  - shattered-sea
+  - delmar-fisk
+type: entity
+subtype: item
+item_type: weapon
+rarity: uncommon
+sources:
+  - shattered-sea/player-characters/Delmar-Fisk
+confidence_level: high
+status: active
+updated: 2026-04-26
+summary: Delmar Fisk's signature musket; one of two named weapons he carries alongside The-Baroness.
+source_count: 1
+---
+
+# The Duchess
+
+**Musket** · _Delmar Fisk's signature ranged weapon_
+
+One of two named weapons carried by [[Delmar-Fisk]], alongside his rapier [[The-Baroness]]. A musket.
+
+---
+
+## Connections
+
+- [[Delmar-Fisk]] — owner
+- [[The-Baroness]] — paired weapon
+- [[raw/ingested/Musket]] — base weapon type

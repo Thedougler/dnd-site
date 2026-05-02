@@ -46,6 +46,8 @@ jobs:
         run: npx quartz build
       - name: Generate LLM distribution layer
         run: npm run build:llm
+      - name: Validate LLM distribution layer
+        run: npm run check:llm
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:

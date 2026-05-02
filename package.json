@@ -15,6 +15,7 @@
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
     "build:llm": "node scripts/build-llm-artifacts.mjs",
+    "check:llm": "node scripts/build-llm-artifacts.mjs --check",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

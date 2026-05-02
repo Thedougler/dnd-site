@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Shattered Sea Public Index
+title: Shattered Sea Index
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-01
-published: 2026-05-01T18:39:18.444-07:00
+published: 2026-05-01T18:43:15.287-07:00
 tags:
   - player-resource
   - index

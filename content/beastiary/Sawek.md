@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Sawek (Blue Devil)
+title: Sawek
 created: 2026-04-12
 modified: 2026-04-21
-published: 2026-05-01T22:17:33.455-07:00
+published: 2026-05-01T22:25:10.083-07:00
 tags:
   - creature
   - monstrosity
@@ -13,8 +13,6 @@ tags:
   - blue-hole
   - grapple
   - ink
-cssclasses:
-  - wiki-monster
 visibility: public
 audience: players
 summary: A large aquatic predator that lurks in the blue holes of the Midchain, striking with tentacles and dragging prey into its lair.
@@ -28,10 +26,6 @@ confidence_level: medium
 cr: 5
 habitat: "[[Central-Strait]]"
 campaign: shattered-sea
-player_gravity: 3
-gravity_sources:
-  Kaitlin: 1.5
-  Kaden: 1.5
 creature_type: monstrosity
 statblock: inline
 ---

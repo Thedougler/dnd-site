@@ -9,53 +9,214 @@ const require = createRequire(import.meta.url)
 const YAML = require("yaml")
 
 const ROOT = process.cwd()
+const CONTENT_DIR = path.resolve(ROOT, process.env.LLM_CONTENT_DIR ?? "content")
 const OUTPUT_DIR = path.resolve(ROOT, process.env.LLM_OUTPUT_DIR ?? "public")
 const CONFIG_PATH = path.resolve(ROOT, process.env.LLM_QUARTZ_CONFIG ?? "quartz.config.yaml")
+
+const EXCLUDED_VISIBILITIES = new Set(["private", "dm_only"])
+const EXCLUDED_AUDIENCES = new Set(["dm"])
+const COLLECTIONS = {
+  characters: new Set(["character", "npc", "person"]),
+  factions: new Set(["faction", "organization", "guild", "crew"]),
+  locations: new Set(["location", "region", "settlement", "port", "island", "sea"]),
+}
 
 const errors = []
 
 async function main() {
   const cfg = await readQuartzConfig()
+  const files = await listMarkdownFiles(CONTENT_DIR, cfg.ignorePatterns)
+  const pages = []
 
-  const pages = await loadPages()
-
-  for (const page of pages) {
-    page.content = await readPageContent(page.source_path)
+  for (const file of files) {
+    const raw = await fs.readFile(file, "utf8")
+    const { frontmatter, body } = parseMarkdown(raw)
+    if (!frontmatter || !isPublishEnabled(frontmatter.publish)) continue
+    if (isPrivate(frontmatter)) continue
+    const relative = path.relative(CONTENT_DIR, file)
+    pages.push(buildPageRecord(frontmatter, body, relative, cfg))
   }
 
-  await writeText("llms.txt", buildLlmsTxt(cfg, pages))
-  await writeText("llms-full.txt", buildFullText(cfg, pages))
-  await writeJson("llms.json", buildManifest(cfg, pages))
-  await writeText("sitemap.xml", buildSitemap(cfg, pages))
-  await writeText("robots.txt", buildRobots(cfg))
+  pages.sort((a, b) => a.title.localeCompare(b.title))
 
   if (errors.length > 0) {
     for (const error of errors) console.error(`Error: ${error}`)
     process.exit(1)
   }
 
+  await fs.mkdir(path.join(OUTPUT_DIR, "data"), { recursive: true })
+  await writeJsonl("entities.jsonl", pages.map(({ content, ...p }) => p))
+  await writeJsonl("data/pages.jsonl", pages.map(({ content, ...p }) => p))
+  await writeCollectionFiles(pages)
+  await writeJson("graph.json", buildGraph(pages))
+  await writeText("llms.txt", buildLlmsTxt(cfg, pages))
+  await writeText("llms-full.txt", buildFullText(cfg, pages))
+  await writeJson("llms.json", buildManifest(cfg, pages))
+  await writeText("sitemap.xml", buildSitemap(cfg, pages))
+  await writeText("robots.txt", buildRobots(cfg))
+
   console.log(
     `Generated LLM artifacts for ${pages.length} pages in ${path.relative(ROOT, OUTPUT_DIR)}`,
   )
 }
 
-async function loadPages() {
-  const raw = await fs.readFile(path.join(OUTPUT_DIR, "data", "pages.jsonl"), "utf8")
-  return raw
-    .split("\n")
-    .filter(Boolean)
-    .map((line) => JSON.parse(line))
+async function listMarkdownFiles(dir, ignorePatterns) {
+  const ignored = new Set((ignorePatterns ?? []).map((p) => p.replace(/^\/+|\/+$/g, "")))
+  const results = []
+  async function walk(current) {
+    const entries = await fs.readdir(current, { withFileTypes: true })
+    for (const entry of entries) {
+      const full = path.join(current, entry.name)
+      const relative = path.relative(dir, full).replaceAll(path.sep, "/")
+      if ([...ignored].some((pat) => relative === pat || relative.startsWith(`${pat}/`))) continue
+      if (entry.isDirectory()) await walk(full)
+      else if (entry.name.endsWith(".md")) results.push(full)
+    }
+  }
+  await walk(dir)
+  return results.sort()
 }
 
-async function readPageContent(sourcePath) {
-  const full = path.resolve(ROOT, sourcePath)
+function parseMarkdown(raw) {
+  const match = raw.match(/^\uFEFF?---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/)
+  if (!match) return { frontmatter: null, body: raw }
   try {
-    const raw = await fs.readFile(full, "utf8")
-    const match = raw.match(/^\uFEFF?---\r?\n[\s\S]*?\r?\n---\r?\n?([\s\S]*)$/)
-    const body = match ? match[1] : raw
-    return normalizeMarkdownBody(stripPrivateMarkdown(body))
+    return { frontmatter: YAML.parse(match[1]) ?? {}, body: match[2] ?? "" }
   } catch {
-    return ""
+    return { frontmatter: null, body: match[2] ?? "" }
+  }
+}
+
+function isPublishEnabled(value) {
+  return value === true || String(value).toLowerCase() === "true"
+}
+
+function isPrivate(fm) {
+  return (
+    EXCLUDED_VISIBILITIES.has(String(fm.visibility ?? "").toLowerCase()) ||
+    EXCLUDED_AUDIENCES.has(String(fm.audience ?? "").toLowerCase())
+  )
+}
+
+function buildPageRecord(fm, rawBody, relative, cfg) {
+  const fileSlug = relative.replace(/\.md$/, "")
+  const id = slugify(fileSlug === "index" ? cfg.site : fileSlug.split("/").at(-1))
+  const title = String(fm.title ?? fileSlug.split("/").at(-1))
+  const body = stripPrivateMarkdown(rawBody)
+  const content = normalizeMarkdownBody(body)
+  const url = withBasePath(cfg, fileSlug === "index" ? "/" : `/${encodeURI(fileSlug)}/`)
+  const type = String(fm.type ?? inferPageType(relative, fm.tags))
+  const tags = arrayOfStrings(fm.tags)
+  const aliases = arrayOfStrings(fm.aliases)
+  const relationships = relationshipsFromFrontmatter(fm.relationships)
+
+  return {
+    id,
+    type,
+    title,
+    aliases,
+    url,
+    visibility: String(fm.visibility ?? "public").toLowerCase(),
+    audience: fm.audience ?? "players",
+    canonical: fm.canonical ?? true,
+    status: fm.status ?? "known",
+    summary: getSummary(fm, body, title),
+    tags,
+    relationships,
+    source_path: `content/${relative}`,
+    content,
+  }
+}
+
+function inferPageType(relative, tags) {
+  const [topLevel] = relative.split("/")
+  const tagSet = new Set(arrayOfStrings(tags).map((t) => t.toLowerCase()))
+  if (relative === "index.md") return "index"
+  if (tagSet.has("species") || topLevel === "species") return "species"
+  if (tagSet.has("rules") || tagSet.has("mechanics") || topLevel === "rules") return "rules"
+  if (topLevel === "lore") return "lore"
+  return topLevel || "page"
+}
+
+function getSummary(fm, body, title) {
+  if (fm.summary) return String(fm.summary).trim()
+  const section = extractSection(body, "Summary")
+  if (section) return firstProseBlock(section) || firstProseBlock(body) || title
+  return firstProseBlock(body) || title
+}
+
+function firstProseBlock(markdown) {
+  const block = normalizeMarkdownBody(markdown)
+    .split(/\n{2,}/)
+    .map((b) => b.trim())
+    .find((b) => b && !b.startsWith("#") && !b.startsWith("|") && !b.startsWith("---") && !b.startsWith("```"))
+  if (!block) return ""
+  return block.replace(/^>\s?/gm, "").replace(/^[-*]\s+/gm, "").replace(/\s+/g, " ").trim()
+}
+
+function extractSection(body, heading) {
+  const match = new RegExp(`^##\\s+${heading}\\s*$`, "im").exec(body)
+  if (!match) return ""
+  const rest = body.slice(match.index + match[0].length)
+  const next = rest.search(/^##\s+/m)
+  return (next === -1 ? rest : rest.slice(0, next)).trim()
+}
+
+function stripPrivateMarkdown(markdown) {
+  return markdown
+    .replace(/%%[\s\S]*?%%/g, "")
+    .replace(/<!--[\s\S]*?-->/g, "")
+    .replace(/^> \[!(?:secret|dm|private)\][\s\S]*?(?=^\s*##\s+|\s*$)/gim, "")
+}
+
+function normalizeMarkdownBody(markdown) {
+  return markdown
+    .replace(/!\[\[([^\]]+)\]\]/g, "")
+    .replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, "$2")
+    .replace(/\[\[([^\]]+)\]\]/g, "$1")
+    .replace(/[ \t]+\n/g, "\n")
+    .trim()
+}
+
+function relationshipsFromFrontmatter(relationships) {
+  if (!Array.isArray(relationships)) return []
+  return relationships
+    .filter((r) => r?.relation && r?.target)
+    .map((r) => ({ relation: String(r.relation), target: String(r.target) }))
+}
+
+function buildGraph(pages) {
+  const lookup = new Map()
+  for (const page of pages) {
+    for (const key of [page.id, page.title, ...page.aliases]) {
+      lookup.set(slugify(key), page.id)
+    }
+  }
+  const edges = []
+  for (const page of pages) {
+    for (const rel of page.relationships) {
+      const target = lookup.get(slugify(rel.target))
+      if (!target) {
+        errors.push(`${page.source_path}: relationship "${rel.relation}" -> unknown target "${rel.target}"`)
+        continue
+      }
+      edges.push({ source: page.id, relation: slugify(rel.relation), target })
+    }
+  }
+  return { nodes: pages.map(({ content, ...p }) => p), edges }
+}
+
+async function writeCollectionFiles(pages) {
+  const collections = { characters: [], factions: [], locations: [], lore: [] }
+  for (const { content, ...page } of pages) {
+    const type = page.type.toLowerCase()
+    if (COLLECTIONS.characters.has(type)) collections.characters.push(page)
+    else if (COLLECTIONS.factions.has(type)) collections.factions.push(page)
+    else if (COLLECTIONS.locations.has(type)) collections.locations.push(page)
+    else collections.lore.push(page)
+  }
+  for (const [name, collection] of Object.entries(collections)) {
+    await writeJson(`data/${name}.json`, collection)
   }
 }
 
@@ -67,6 +228,7 @@ async function readQuartzConfig() {
     site: configuration.pageTitle ?? "Public Wiki",
     baseUrl: normalizeBaseUrl(configuration.baseUrl),
     basePath: basePathFromBaseUrl(configuration.baseUrl),
+    ignorePatterns: configuration.ignorePatterns ?? [],
   }
 }
 
@@ -219,6 +381,25 @@ async function writeText(relative, content) {
 
 async function writeJson(relative, value) {
   await writeText(relative, `${JSON.stringify(value, null, 2)}\n`)
+}
+
+async function writeJsonl(relative, values) {
+  await writeText(relative, `${values.map((v) => JSON.stringify(v)).join("\n")}\n`)
+}
+
+function arrayOfStrings(value) {
+  if (!Array.isArray(value)) return []
+  return value.map(String).filter(Boolean)
+}
+
+function slugify(value) {
+  return String(value)
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
 }
 
 function withBasePath(cfg, urlPath) {

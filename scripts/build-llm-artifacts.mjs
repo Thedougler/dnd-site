@@ -855,7 +855,7 @@ function buildLegacyGraph(pages) {
 }
 
 function buildJsonLdGraph(cfg, pages) {
-  const { edges } = graphParts(pages)
+  const { edges } = graphParts(pages, { silent: true })
   return {
     "@context": {
       "@vocab": "https://schema.org/",
@@ -882,7 +882,7 @@ function buildJsonLdGraph(cfg, pages) {
   }
 }
 
-function graphParts(pages) {
+function graphParts(pages, { silent = false } = {}) {
   const lookup = new Map()
   for (const page of pages) {
     for (const key of [page.id, page.title, ...page.aliases]) {
@@ -910,9 +910,13 @@ function graphParts(pages) {
     for (const rel of page.relationships) {
       const target = lookup.get(slugify(rel.target))
       if (!target) {
-        errors.push(
-          `${page.source_path}: relationship "${rel.relation}" -> unknown target "${rel.target}"`,
-        )
+        // Target is not a published public page — likely DM-only or not yet released.
+        // Skip the edge rather than failing the build.
+        if (!silent) {
+          console.warn(
+            `Warning: ${page.source_path}: relationship "${rel.relation}" -> unresolved target "${rel.target}" (private or unpublished)`,
+          )
+        }
         continue
       }
       addEdge(page.id, slugify(rel.relation), target)

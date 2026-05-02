@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Shatterd Sea Player Primer
+title: Player Primer
 created: 2026-04-29
 modified: 2026-05-01
-published: 2026-05-01T19:46:53.739-07:00
+published: 2026-05-01T19:47:35.379-07:00
 tags:
   - player-resource
 visibility: public

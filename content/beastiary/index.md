@@ -3,7 +3,7 @@ publish: true
 title: Beastiary
 created: 2026-05-01T21:59:53.199-07:00
 modified: 2026-05-02
-published: 2026-05-01T22:07:00.726-07:00
+published: 2026-05-02T15:26:12.755-07:00
 tags:
   - player-resource
   - index
@@ -19,9 +19,9 @@ updated: 2026-05-02
 
 # Beastiary
 
-Player-facing creature references for the Shattered Sea.
+Player-facing creature references for the [[The-Shattered-Sea|Shattered Sea]].
 
-- [[beastiary/Sawek|Sawek (Blue Devil)]] - a large aquatic ambush predator that lurks in Midchain blue holes, striking with tentacles and dragging prey into its lair.
+- [[beastiary/Sawek|Sawek (Blue Devil)]] - a large aquatic ambush predator that lurks in [[The-Midchain|Midchain]] blue holes, striking with tentacles and dragging prey into its lair.
 - [[beastiary/Whip-Shark|Whip Shark (Welak)]] - a massive open-ocean predator known for its barbed tail, ship-sinking attacks, and deep-water hunting grounds.
 
 For ship rules that may matter during monster encounters, see [[rules/Ship-Stats|Ship Stats]].

@@ -1,8 +1,9 @@
 ---
 publish: true
+title: Pearl of Souls
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T02:17:18.617-07:00
+published: 2026-05-02T15:26:12.755-07:00
 tags:
   - item
   - artifact
@@ -10,7 +11,7 @@ tags:
   - divine
   - souls
   - shattered-sea
-type: entity
+type: item
 subtype: item
 item_type: artifact
 rarity: artifact
@@ -34,7 +35,7 @@ The Pearl is a divine instrument of [[Umberlee]]. For years it sat in one of her
 
 What it does: it collects the souls of those who drown in its presence. Passively. Continuously. No activation, no intent required. It does not stop doing this.
 
-Umberlee sank his fleet in response. Five ships. All five crews. The Pearl went down with them.
+[[Umberlee|Umberlee]] sank his fleet in response. Five ships. All five crews. The Pearl went down with them.
 
 ---
 
@@ -46,7 +47,7 @@ The _[[Red-Lady]]_ wreck, on the eastern edge of the [[The-Shelfworks|Shelfworks
 
 ## Known Properties
 
-No attunement. No activation. The Pearl draws what drowns near it and holds it. Whatever it holds cannot be recovered through ordinary means. Its history before the theft is not something the Waveservants discuss freely.
+No attunement. No activation. The Pearl draws what drowns near it and holds it. Whatever it holds cannot be recovered through ordinary means. Its history before the theft is not something the [[Waveservants-Summary|Waveservants]] discuss freely.
 
 ---
 

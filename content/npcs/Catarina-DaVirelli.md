@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Da'Virelli
+  - Catarina
 title: Catarina Da'Virelli
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T01:38:43.237-07:00
+published: 2026-05-02T15:27:16.891-07:00
 tags:
   - npc
   - artificer
@@ -12,10 +15,19 @@ tags:
 visibility: public
 audience: players
 summary: An artificer operating out of Calveno by referral only — the foremost living expert on Antheri materials, and the person to find if you need something built that shouldn't exist yet.
-type: entity
+type: npc
 subtype: npc-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: located_in
+    target: Calveno
+  - relation: associated_with
+    target: The Shelfworks
+  - relation: contracted_by
+    target: The Dravosi Crown
+  - relation: owns
+    target: Brass-Cat
 updated: 2026-05-02
 sources:
   - Homebrew
@@ -47,7 +59,7 @@ If you have seen a Clockwork Owl Familiar — and most people in the Sea have �
 
 ## What She's Known For
 
-In 1488 DR, Da'Virelli salvaged a cache of functional [[The-Antheri|Antheri]] components from the [[The-Shelfworks]] ruins and reverse-engineered them into working devices. The wave of prospectors, scholars, and criminal contractors that descended on the Shelfworks in her wake became known as the Shelfworks Goldrush. By the time it started she was already back in [[Calveno]] with a workshop in production. She has not commented publicly on what she found or what she built from it.
+In 1488 DR, Da'Virelli salvaged a cache of functional [[The-Antheri|Antheri]] components from the [[The-Shelfworks]] ruins and reverse-engineered them into working devices. The wave of prospectors, scholars, and criminal contractors that descended on the [[The-Shelfworks|Shelfworks]] in her wake became known as the [[The-Shelfworks|Shelfworks]] Goldrush. By the time it started she was already back in [[Calveno]] with a workshop in production. She has not commented publicly on what she found or what she built from it.
 
 The most visible thing to come out of that period is the **Clockwork Owl Familiar** — a brass construct that serves as a bound familiar, repairable rather than permanently destroyable, and common enough now that it has stopped being remarkable in most ports. She still makes them. They are not her most interesting work.
 
@@ -59,7 +71,7 @@ Lean, in a work apron over plain clothes. Her hands carry the permanent fine sta
 
 Referrals only. No walk-ins, no schedule, no public presence. If you have one, you knock. If you don't, the door on the side-street off the Saltmarsh district means nothing to you.
 
-She is honest to a fault about what she can and cannot build. She will not build weapons for use against the [[The-Dravosi-Crown|Dravosi Crown]] fleet — she has a contract with them; she declines clearly and without apology, and will not say what the contract covers beyond that. Any commission that conflicts with it is a commission she doesn't take.
+She is honest to a fault about what she can and cannot build. She will not build weapons for use against the [[Dravosi-Crown-Summary|Dravosi Crown]] fleet — she has a contract with them; she declines clearly and without apology, and will not say what the contract covers beyond that. Any commission that conflicts with it is a commission she doesn't take.
 
 She does not pay cash for Antheri metalwork. She trades. If you have a piece and know what it is, she is the right person to bring it to. Her private collection is the largest known in the Scatter.
 
@@ -75,5 +87,5 @@ The ship is distinctive: copper-sheathed below the waterline, brass-framed glass
 - **[[The-Antheri]]** — her area of expertise; she holds the largest known private Antheri instrument collection in the Scatter
 - **[[The-Shelfworks]]** — where she salvaged the Antheri components that started the Goldrush
 - **[[Clockwork-Familiar|Clockwork Owl Familiar]]** — her most widely circulated creation
-- **[[The-Dravosi-Crown]]** — holds a fleet contract; will not arm parties against them
+- **[[Dravosi-Crown-Summary]]** — holds a fleet contract; will not arm parties against them
 - **[[Brass-Cat|The *Brass Cat*]]** — her personal vessel; prototype schooner; not for sale

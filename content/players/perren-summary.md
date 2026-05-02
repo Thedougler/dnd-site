@@ -3,7 +3,7 @@ publish: true
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-02T01:23:14.429-07:00
+published: 2026-05-02T15:26:12.750-07:00
 tags:
   - player-character
   - pc
@@ -12,7 +12,7 @@ tags:
 visibility: public
 audience: players
 summary: Public character entry for Perrin Black-Jaw, a Rattkin sailor, negotiator, and survivor of the Vestra disaster.
-type: entity
+type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
@@ -59,7 +59,7 @@ He is small even by Rattkin standards in the way that matters on ships — every
 
 ## Backstory
 
-Perrin grew up in the Tangle — the family network at the heart of [[The-Warren]], the only fixed Rattkin settlement in the Shattered Sea, built beneath the city of Calveno. He was raised on the practical lessons of the Run: read people, build capital, stay useful, and know which doors to use and which ledgers to stay out of. The Dravosi Crown keeps standing bounties on Rattkin that are rarely enforced and always present. He learned early what that kind of background pressure means for how you move through the world.
+Perrin grew up in the Tangle — the family network at the heart of [[The-Warren]], the only fixed Rattkin settlement in the [[The-Shattered-Sea|Shattered Sea]], built beneath the city of [[Calveno|Calveno]]. He was raised on the practical lessons of the Run: read people, build capital, stay useful, and know which doors to use and which ledgers to stay out of. [[Dravosi-Crown-Summary|The Dravosi Crown]] keeps standing bounties on Rattkin that are rarely enforced and always present. He learned early what that kind of background pressure means for how you move through the world.
 
 He was good at the Run's lessons. Contacts became capital, capital became crew, crew became a ship. The ship had belonged to his grandfather — [[Nona-Black-Jaw|Nona Black-Jaw's]] late husband built and captained her, then left her to the family when he died. When the _Vestra_ passed to Perrin, it came with the weight of that inheritance and with the responsibility of the route. He upgraded her, added gun mounts, crewed her himself, and ran a fishing operation.
 
@@ -69,7 +69,7 @@ He genuinely loved the fishing. That tends to surprise people who meet the diplo
 
 ## The Vestra
 
-The _Vestra_ was a small two-masted brig, older than most Midchain traffic, her topsides painted a deep green that had been reapplied so many times it no longer matched from plank to plank. A rat figurehead at the prow with one hand extended, palm up. Compact, practical, built for a small crew travelling light — everything about her read as a vessel maintained for use and personal ownership rather than prestige. She was not remarkable. She was his.
+The _Vestra_ was a small two-masted brig, older than most [[The-Midchain|Midchain]] traffic, her topsides painted a deep green that had been reapplied so many times it no longer matched from plank to plank. A rat figurehead at the prow with one hand extended, palm up. Compact, practical, built for a small crew travelling light — everything about her read as a vessel maintained for use and personal ownership rather than prestige. She was not remarkable. She was his.
 
 She went down three days before the campaign begins, on what had been an ordinary fishing day. The water around the hull began to bubble. Perrin touched the rail and the wood burned his hand. Then something enormous struck from below — not a reef, not a storm, something deliberate — and the hull was simply gone. The _Vestra_ went down too fast for anyone aboard to understand what was happening.
 
@@ -85,7 +85,7 @@ The Cloak brought him to the surface. He washed up on the beach of [[places/Keth
 
 Perrin was not a believer before. The gods were not especially relevant to a Rattkin with fish to catch and a family to support. But something large and otherworldly found him in the water after the sinking and apparently decided he was worth speaking to. He is still working out what that means. For now it sits alongside the drum and the bestiary and the cloak as things he carries that have weight he has not fully reckoned.
 
-He found [[lore/Saltwright|the *Saltwright*]] in the Keth-Naar harbour and tucked himself into the hold before anyone asked questions. He has made no contact with the crew. The captain does not know he is aboard.
+He found [[lore/Saltwright|the *Saltwright*]] in the [[Keth-Naar|Keth-Naar]] harbour and tucked himself into the hold before anyone asked questions. He has made no contact with the crew. The captain does not know he is aboard.
 
 ---
 
@@ -117,7 +117,7 @@ What he has not yet noticed is that the chase has become the point, and that the
 - **Longsword** — carried at the hip; not his original tool of trade.
 - **Bodhran drum** — carried across the back.
 - **Shield** — worn alongside the sword.
-- _Clyde's Bestiary of Oceanic Creatures_ — heavily annotated since the sinking. He is learning everything he can about what lives below the waterline.
+- _[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]_ — heavily annotated since the sinking. He is learning everything he can about what lives below the waterline.
 
 ---
 

@@ -1,5 +1,30 @@
 ---
-{"publish":true,"title":"Keth-Naar","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T17:45:11.069-07:00","tags":["location","settlement","sunken-crown","tabaxi","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for the tabaxi settlement island of Keth-Naar in the Sunken Crown.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+title: Keth-Naar
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.752-07:00
+tags:
+  - location
+  - settlement
+  - sunken-crown
+  - tabaxi
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for the tabaxi settlement island of Keth-Naar in the Sunken Crown.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Midchain
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # Keth-Naar

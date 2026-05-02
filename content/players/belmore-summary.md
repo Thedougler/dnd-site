@@ -3,7 +3,7 @@ publish: true
 title: Belmore
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-01T23:42:43.906-07:00
+published: 2026-05-02T15:26:12.750-07:00
 tags:
   - player-character
   - pc
@@ -12,7 +12,7 @@ tags:
 visibility: public
 audience: players
 summary: Public character entry for Belmore, a tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-type: entity
+type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
@@ -38,7 +38,7 @@ confidence_level: medium
 
 ## Overview
 
-**Belmore** is a tiger tabaxi fighter, shrine guardian, and traveller aboard [[lore/Saltwright|the *Saltwright*]] at the opening of the Shattered Sea campaign. Public information about his history remains limited, but his known purpose is direct: he has been sent to understand why Umberlee is angry and to help set the seas right.
+**Belmore** is a tiger tabaxi fighter, shrine guardian, and traveller aboard [[lore/Saltwright|the *Saltwright*]] at the opening of the [[The-Shattered-Sea|Shattered Sea]] campaign. Public information about his history remains limited, but his known purpose is direct: he has been sent to understand why [[Umberlee|Umberlee]] is angry and to help set the seas right.
 
 Belmore's role is practical before it is decorative. He is physically capable, difficult to dislodge, and trained for tactical combat rather than spectacle. Where many sailors survive by negotiation, flight, or hiding, Belmore appears built to hold ground.
 
@@ -48,9 +48,9 @@ Belmore is a tiger tabaxi. Full descriptive accounts have not yet been preserved
 
 ## Background
 
-Belmore is associated with a primal shrine of [[lore/Umberlee|Umberlee]]. The precise nature of that guardianship is not yet fully documented, but the public facts are enough to explain his movement through the opening campaign: his tribe sent him out after signs that Umberlee's anger had become a problem that could no longer be treated as distant weather.
+Belmore is associated with a primal shrine of [[lore/Umberlee|Umberlee]]. The precise nature of that guardianship is not yet fully documented, but the public facts are enough to explain his movement through the opening campaign: his tribe sent him out after signs that [[Umberlee|Umberlee]]'s anger had become a problem that could no longer be treated as distant weather.
 
-He bartered for passage west from [[places/Keth-Naar|Keth-Naar]] aboard the _Saltwright_, joining the same merchant route that would soon gather other travellers and survivors into one place.
+He bartered for passage west from [[places/Keth-Naar|Keth-Naar]] aboard the _[[Saltwright|Saltwright]]_, joining the same merchant route that would soon gather other travellers and survivors into one place.
 
 ## Abilities and Habits
 
@@ -60,15 +60,15 @@ His known mechanical profile includes darkvision, a climb speed, heavy defensive
 
 ## Character
 
-Belmore's private motivations, personal history, and long-term ambitions remain incompletely documented. What is public is his obligation: he is not merely travelling for profit or escape. His journey is tied to Umberlee's disturbance and to a perceived need to restore balance or order to the sea.
+Belmore's private motivations, personal history, and long-term ambitions remain incompletely documented. What is public is his obligation: he is not merely travelling for profit or escape. His journey is tied to [[Umberlee|Umberlee]]'s disturbance and to a perceived need to restore balance or order to the sea.
 
 ## What We Know
 
 - Tiger tabaxi fighter.
 - Battle Master training, with tactics and control emphasized over brute force alone.
-- Associated with a primal shrine of Umberlee.
-- Sent by his tribe to investigate why Umberlee is angry.
-- Bartered for passage west aboard the _Saltwright_ from Keth-Naar.
+- Associated with a primal shrine of [[Umberlee|Umberlee]].
+- Sent by his tribe to investigate why [[Umberlee|Umberlee]] is angry.
+- Bartered for passage west aboard the _[[Saltwright|Saltwright]]_ from [[Keth-Naar|Keth-Naar]].
 - Darkvision and climbing ability let him operate from angles many companions cannot reach.
 
 ## Known Capabilities
@@ -83,8 +83,8 @@ Belmore's private motivations, personal history, and long-term ambitions remain 
 
 - **[[lore/Umberlee|Umberlee]]** — sea goddess whose anger is central to Belmore's present mission.
 - **[[lore/Saltwright|The *Saltwright*]]** — merchant brig where Belmore begins the campaign after bargaining for passage west.
-- **[[places/Keth-Naar|Keth-Naar]]** — port where Belmore secured passage aboard the _Saltwright_.
+- **[[places/Keth-Naar|Keth-Naar]]** — port where Belmore secured passage aboard the _[[Saltwright|Saltwright]]_.
 
 ## Public Standing
 
-Belmore's public reputation is still forming. At present he is best understood as a shrine-bound tabaxi warrior sent into wider waters by a religious and communal problem: the sea is wrong, Umberlee is angry, and Belmore has been tasked with finding out why.
+Belmore's public reputation is still forming. At present he is best understood as a shrine-bound tabaxi warrior sent into wider waters by a religious and communal problem: the sea is wrong, [[Umberlee|Umberlee]] is angry, and Belmore has been tasked with finding out why.

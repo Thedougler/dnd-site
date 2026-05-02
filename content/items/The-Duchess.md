@@ -1,15 +1,16 @@
 ---
 publish: true
+title: The Duchess
 created: 2026-04-26
 modified: 2026-04-26
-published: 2026-05-02T02:18:15.197-07:00
+published: 2026-05-02T15:26:12.755-07:00
 tags:
   - item
   - weapon
   - ranged
   - shattered-sea
   - delmar-fisk
-type: entity
+type: item
 subtype: item
 item_type: weapon
 rarity: uncommon

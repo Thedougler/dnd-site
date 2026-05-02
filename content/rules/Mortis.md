@@ -3,6 +3,7 @@ publish: true
 title: The Mortis
 created: 2026-04-13
 modified: 2026-04-13
+published: 2026-05-02T15:26:12.753-07:00
 tags:
   - rules
   - homebrew
@@ -11,6 +12,17 @@ tags:
   - mortis
 cssclasses:
   - wiki-concept
+type: rules
+subtype: rule
+source_count: 1
+sources:
+  - Homebrew
+status: active
+updated: 2026-04-13
+confidence_level: medium
+visibility: public
+audience: players
+summary: Session zero character option pairing a permanent mechanical drawback, called the Mark, with a targeted benefit, called the Gift, so a character's limitation and strength express the same concept.
 ---
 
 # The Mortis

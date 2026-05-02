@@ -1,5 +1,34 @@
 ---
-{"publish":true,"title":"The Shelfworks","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T18:01:43.476-07:00","tags":["location","ruins","salvage","maw","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for the open-water salvage field on the western shelf of the Drowned Maw.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+aliases:
+  - Shelfworks
+title: The Shelfworks
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.752-07:00
+tags:
+  - location
+  - ruins
+  - salvage
+  - maw
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for the open-water salvage field on the western shelf of the Drowned Maw.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Drowned Maw
+  - relation: associated_with
+    target: The Tessarine Concordat
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Shelfworks

@@ -3,7 +3,7 @@ publish: true
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-02T01:24:34.350-07:00
+published: 2026-05-02T15:26:12.750-07:00
 tags:
   - player-character
   - pc
@@ -12,7 +12,7 @@ tags:
 visibility: public
 audience: players
 summary: Public character entry for Crisdalynn Khinriss, a crow aarakocra monk, cartographer, and survivor of the Red Lady disaster.
-type: entity
+type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
@@ -41,7 +41,7 @@ confidence_level: medium
 
 ## Overview
 
-**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. In Aarakocra terms, that makes her genuinely, recognizably young — still finding her edges. She is also, by the opening of the Shattered Sea campaign, one of two survivors of the _Red Lady_ disaster, the aarakocra who dove through thirty feet of black seawater to pull Admiral [[delmar-summary|Delmar Fisk]] out of a closing trench, and the person currently sitting aboard [[lore/Saltwright|the *Saltwright*]] with a satchel full of unfinished charts and a pilgrimage that is not yet complete.
+**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. In Aarakocra terms, that makes her genuinely, recognizably young — still finding her edges. She is also, by the opening of the [[The-Shattered-Sea|Shattered Sea]] campaign, one of two survivors of the _Red Lady_ disaster, the aarakocra who dove through thirty feet of black seawater to pull Admiral [[delmar-summary|Delmar Fisk]] out of a closing trench, and the person currently sitting aboard [[lore/Saltwright|the *Saltwright*]] with a satchel full of unfinished charts and a pilgrimage that is not yet complete.
 
 She is, in public account, a contradiction: irreverent and impulsive on deck, exacting and silent when a fight starts. She has the look of something dangerous and the manner of something that has not yet decided to take itself seriously. Both of those impressions are accurate.
 
@@ -65,19 +65,19 @@ Her master, [[Master-Kyzil|Kyzil]], gave her the hardest one on record: map the 
 
 She was asked to leave the Eyrie. The task went with her. Before she left, he pressed his crystal dreidel into her talons. She has not put it down since.
 
-She found a berth on the _Red Lady_ as lookout and cartographer, spent two years navigating the Midchain's worst shallows by instrument and instinct, and was close to finishing when the fleet went down.
+She found a berth on the _Red Lady_ as lookout and cartographer, spent two years navigating the [[The-Midchain|Midchain]]'s worst shallows by instrument and instinct, and was close to finishing when the fleet went down.
 
 ---
 
 ## The Red Lady Disaster
 
-Crisdalynn was in the crow's nest when the fog came in — so thick the water disappeared from sight around all five ships at once. A rogue trench opened beneath the fleet and all five ships plunged eighty feet down into a valley of water. She dove from the crow's nest, grabbed Admiral Fisk, and flew straight back up. She had only risen fifty feet when the walls of water closed in. Her momentum and the buoyancy of his coat carried them both to the surface. They heard Umberlee's laughter on the wind, then her rage, as the fleet was swallowed whole.
+Crisdalynn was in the crow's nest when the fog came in — so thick the water disappeared from sight around all five ships at once. A rogue trench opened beneath the fleet and all five ships plunged eighty feet down into a valley of water. She dove from the crow's nest, grabbed Admiral Fisk, and flew straight back up. She had only risen fifty feet when the walls of water closed in. Her momentum and the buoyancy of his coat carried them both to the surface. They heard [[Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet was swallowed whole.
 
 Two days on wreckage. Then [[lore/Saltwright|the *Saltwright*]] found them and pulled them aboard.
 
 The charts are still in the satchel. The task is still unfinished. She has not gone back.
 
-In the stories already spreading through the Midchain, Crisdalynn is the black-feathered scout who flew the admiral out of the Maw when the sea should have taken them both. What the stories tend to leave out is that she was close enough to the surface to see daylight when the water closed in, and she flew through it anyway.
+In the stories already spreading through the [[The-Midchain|Midchain]], Crisdalynn is the black-feathered scout who flew the admiral out of the Maw when the sea should have taken them both. What the stories tend to leave out is that she was close enough to the surface to see daylight when the water closed in, and she flew through it anyway.
 
 ---
 
@@ -97,8 +97,8 @@ What she says she wants is Kyzil's approval, the pilgrimage finished, kinship wi
 
 ## Known Possessions
 
-- **Crystal dreidel** — Kyzil pressed it into her talons when she left the High Eyrie. His once, now hers. She spins it when she is thinking. In sunlight it throws rainbows across whatever surface is closest.
-- **Satchel of charts** — two years of Midchain navigational work from her time aboard the _Red Lady_. Still being added to.
+- **Crystal dreidel** — Kyzil pressed it into her talons when she left the [[The-High-Eyrie|High Eyrie]]. His once, now hers. She spins it when she is thinking. In sunlight it throws rainbows across whatever surface is closest.
+- **Satchel of charts** — two years of [[The-Midchain|Midchain]] navigational work from her time aboard the _Red Lady_. Still being added to.
 - **Geometric leatherwork** — her armour, maintained with care that does not match the rest of her public presentation.
 
 ---
@@ -117,4 +117,4 @@ What she says she wants is Kyzil's approval, the pilgrimage finished, kinship wi
 
 Crisdalynn's reputation is still forming, in the way that a fourteen-year-old's reputation tends to be. Among those who know only the Maw story, she is a survivor and an unlikely rescuer: the scout who dove into a closing trench and came back up with an admiral. Among those who have shared a deck with her, she is harder to summarize. Young, sharp, easier to underestimate than she looks, and considerably more dangerous once she stops talking.
 
-The charts in her satchel show the southern arc and most of the eastern rim of the Drowned Maw — two years of careful work, close to something that has never been completed. She has not given up on finishing them. Whether she knows it or not, that may be the thing most worth noting about her.
+The charts in her satchel show the southern arc and most of the eastern rim of the [[The-Drowned-Maw|Drowned Maw]] — two years of careful work, close to something that has never been completed. She has not given up on finishing them. Whether she knows it or not, that may be the thing most worth noting about her.

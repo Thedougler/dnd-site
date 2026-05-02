@@ -1,5 +1,34 @@
 ---
-{"publish":true,"title":"The Warren","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T17:47:49.494-07:00","tags":["location","calveno","rattkin","passage","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for rumours of the Warren, the Rattkin place beneath Calveno that most Dry do not truly know.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+aliases:
+  - Warren
+title: The Warren
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.752-07:00
+tags:
+  - location
+  - calveno
+  - rattkin
+  - passage
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for rumours of the Warren, the Rattkin place beneath Calveno that most Dry do not truly know.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: Calveno
+  - relation: controlled_by
+    target: The Passage
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Warren

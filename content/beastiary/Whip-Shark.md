@@ -3,7 +3,7 @@ publish: true
 title: Whip Shark
 created: 2026-04-12
 modified: 2026-04-21
-published: 2026-05-01T23:09:14.396-07:00
+published: 2026-05-02T15:26:12.755-07:00
 tags:
   - creature
   - monstrosity
@@ -15,7 +15,7 @@ tags:
 visibility: public
 audience: players
 summary: A massive aquatic predator known for its barbed tail and ability to sink vessels, lurking in the open oceans.
-type: entity
+type: monster
 subtype: monster
 status: unmet
 updated: 2026-04-21
@@ -39,7 +39,7 @@ statblock: inline
 
 ## Lore
 
-Kalowe's fishermen call it the Welak, Colonial sailors call it the whip shark, after the tail.
+[[Kalowe|Kalowe]]'s fishermen call it the Welak, Colonial sailors call it the whip shark, after the tail.
 
 The whip shark is a shark by any ordinary reckoning: massive, cartilaginous, built for open ocean. The lower lobe of its tail extends several 10-20 feet beyond the upper and terminates in a hooked sickle like barb, recurved like a fishing gaff, dense and sharp enough to punch through ship timber. Older whip sharks have been recorded up to 55 feet long from nose to the end of the whip, with a 35 foot long body and 20 foot tail. The whip shark swim's past at high speed, rakes the hull, and punches wider and wider holes in the hull of the ship, often dragging the vessel with it part of the way. They've been known to jump alongside a ship, and utilize the tail to pull people overboard or even damage sails/rigging. It's intelligent enough to know that the ship contains food.
 
@@ -52,7 +52,7 @@ At the [[places/The-Shelfworks|The-Shelfworks]], they patrol the Abyssal Bore pe
 - [[Kalowe]] — fishermen use the indigenous name welak; iron filing superstition in use here
 - [[The-Drowned-Maw]] — deep-ocean territory
 - [[Antheri-Ruins]] — patrols the Abyssal Bore perimeter (40–200 ft); attracted by surface dive operations
-- [[Sawek]] — co-listed in Midchain maritime creature lore
+- [[Sawek]] — co-listed in [[The-Midchain|Midchain]] maritime creature lore
 - [[Ship-Mechanics]] — Hooking Drive interacts with vessel HP rules
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[Perrin-Black-Jaw]] carries this text
 - [[Clyde]]

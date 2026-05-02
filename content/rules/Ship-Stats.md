@@ -3,6 +3,7 @@ publish: true
 title: Ship Stats - The Shattered Sea
 created: 2026-04-17
 modified: 2026-04-17
+published: 2026-05-02T15:26:12.754-07:00
 tags:
   - mechanics
   - reference
@@ -12,6 +13,17 @@ tags:
   - rules
 cssclasses:
   - wiki-concept
+type: rules
+subtype: rule
+source_count: 1
+sources:
+  - Homebrew
+status: active
+updated: 2026-04-17
+confidence_level: medium
+visibility: public
+audience: players
+summary: Player-facing reference for Shattered Sea ship tiers, vehicle statistics, crew roles, minimum crew requirements, upkeep, cargo, and nautical operations.
 ---
 
 # Ship Stats — The Shattered Sea

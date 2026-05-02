@@ -3,11 +3,24 @@ publish: true
 title: Bastions
 created: 2026-04-21
 modified: 2026-04-21
+published: 2026-05-02T15:26:12.753-07:00
 tags:
   - rule
   - reference
   - dmg-2024
   - bastion
+type: rules
+subtype: rule
+source_count: 2
+sources:
+  - Dungeon Master's Guide (2024)
+  - "RPGBOT: DnD 5.5 Bastions Guide"
+status: active
+updated: 2026-04-21
+confidence_level: medium
+visibility: public
+audience: players
+summary: Reference for 2024 Bastion rules, including how characters gain bastions, issue Bastion Turn orders, use basic and special facilities, combine bastions, and resolve events.
 ---
 
 # Bastions
@@ -122,10 +135,10 @@ A Bastion is lost by Divestiture (voluntary), Neglect (no orders for a number of
 
 ## Context
 
-Introduced in the 2024 DMG as the official stronghold/home base system. Available at level 5. The Shattered Sea campaign uses a combined mobile-Bastion adaptation for the party ship.
+Introduced in the 2024 DMG as the official stronghold/home base system. Available at level 5. [[The-Shattered-Sea|The Shattered Sea]] campaign uses a combined mobile-Bastion adaptation for the party ship.
 
 ## Connections
 
-- [[Ship-Bastion]] — Shattered Sea maritime adaptation of these rules
+- [[Ship-Bastion]] — [[The-Shattered-Sea|Shattered Sea]] maritime adaptation of these rules
 - [[content/dnd/rules/Feats]] — Origin feat interactions (Human species)
 - [[Species]] — No direct interaction, but character class abilities affect facility prerequisites

@@ -3,6 +3,7 @@ publish: true
 title: Ship Bastion - The Shattered Sea
 created: 2026-04-17
 modified: 2026-04-17
+published: 2026-05-02T15:26:12.753-07:00
 tags:
   - mechanics
   - reference
@@ -11,6 +12,17 @@ tags:
   - rules
 cssclasses:
   - wiki-concept
+type: rules
+subtype: rule
+source_count: 1
+sources:
+  - Homebrew
+status: active
+updated: 2026-04-17
+confidence_level: medium
+visibility: public
+audience: players
+summary: Shared mobile bastion rules for the party ship, adapting 2024 Bastion mechanics to maritime play with pooled facilities, weekly turns, defenders, upkeep, and ship space limits.
 ---
 
 # Ship Bastion — The Shattered Sea

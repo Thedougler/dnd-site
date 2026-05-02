@@ -1,5 +1,33 @@
 ---
-{"publish":true,"title":"The Galewall","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T17:45:11.069-07:00","tags":["location","storm","navigation","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for the permanent western storm belt that separates the Scatter from the colonial homelands.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+aliases:
+  - Galewall
+title: The Galewall
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.751-07:00
+tags:
+  - location
+  - storm
+  - navigation
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for the permanent western storm belt that separates the Scatter from the colonial homelands.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Shattered Sea
+  - relation: near
+    target: Ashwall Islands
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Galewall

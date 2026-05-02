@@ -1,5 +1,31 @@
 ---
-{"publish":true,"title":"Ashwall Islands","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T17:56:28.664-07:00","tags":["location","islands","galewall","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for the cold volcanic spire-chain near the Galewall.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+title: Ashwall Islands
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.752-07:00
+tags:
+  - location
+  - islands
+  - galewall
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for the cold volcanic spire-chain near the Galewall.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Shattered Sea
+  - relation: near
+    target: The Galewall
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # Ashwall Islands

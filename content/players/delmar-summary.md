@@ -3,7 +3,7 @@ publish: true
 title: Delmar Atticus Fisk
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-02T01:24:34.365-07:00
+published: 2026-05-02T15:26:12.750-07:00
 tags:
   - player-character
   - pc
@@ -12,7 +12,7 @@ tags:
 visibility: public
 audience: players
 summary: Public character entry for Delmar Atticus Fisk, a human privateer, self-styled admiral, and survivor of the Red Lady disaster.
-type: entity
+type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
@@ -43,7 +43,7 @@ confidence_level: medium
 
 **Delmar Atticus Fisk**, called **Admiral Fisk** by anyone who knows better than to test it, is forty-one years old and travelling aboard [[lore/Saltwright|the *Saltwright*]] as a passenger with nothing left to captain. His five-ship privateer fleet is gone. The _Red Lady_ is at the bottom of the [[places/The-Drowned-Maw|Drowned Maw]]. The admiral's coat is still on his back, salt-stiff and intact, and he still smiles like a man who expects things to go his way.
 
-His rank is reputation more than paperwork. No recognized navy granted him the title before he started wearing it, and in the ports of the Shattered Sea — where authority tends to follow usefulness — that distinction rarely came up.
+His rank is reputation more than paperwork. No recognized navy granted him the title before he started wearing it, and in the ports of the [[The-Shattered-Sea|Shattered Sea]] — where authority tends to follow usefulness — that distinction rarely came up.
 
 ---
 
@@ -81,11 +81,11 @@ At his height he commanded a five-ship fleet led by the _Red Lady_. The fleet wa
 
 ## The Red Lady Disaster
 
-The fleet's final commission was the theft of the [[content/shattered-sea/lore/questions/Pearl-of-Souls|Pearl of Souls]] from one of Umberlee's shrines. The operation was coordinated across all five ships: scout teams surveying the perimeter, an entry team inside the cave, a distraction team holding the main entrance under bombardment. The Pearl was secured. The fleet departed.
+The fleet's final commission was the theft of the [[content/shattered-sea/lore/questions/Pearl-of-Souls|Pearl of Souls]] from one of [[Umberlee|Umberlee]]'s shrines. The operation was coordinated across all five ships: scout teams surveying the perimeter, an entry team inside the cave, a distraction team holding the main entrance under bombardment. The Pearl was secured. The fleet departed.
 
-Umberlee's response was not long in coming. Fog rolled in first — so thick the water disappeared from sight around all five ships simultaneously. Then a rogue trench opened beneath the fleet, plunging all five ships eighty feet down into a valley of water. The walls closed in and swallowed them whole.
+[[Umberlee|Umberlee]]'s response was not long in coming. Fog rolled in first — so thick the water disappeared from sight around all five ships simultaneously. Then a rogue trench opened beneath the fleet, plunging all five ships eighty feet down into a valley of water. The walls closed in and swallowed them whole.
 
-[[crissdalynn-summary|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard Umberlee's laughter on the wind, then her rage, as the fleet went under. They drifted for two days before [[lore/Saltwright|the *Saltwright*]] found them among the wreckage and brought them aboard.
+[[crissdalynn-summary|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. They drifted for two days before [[lore/Saltwright|the *Saltwright*]] found them among the wreckage and brought them aboard.
 
 Two survivors from five ships and all their crews.
 
@@ -125,4 +125,4 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It is the c
 
 What gets said about Delmar Fisk depends entirely on who is saying it and what they lost. To some, he is everything the title claims — daring, loyal, and difficult to kill, an admiral in all the ways that count and a few that are not technically sanctioned. To others, he is a privateer with expensive habits, a dangerous reputation, and a fleet-sized tragedy in his recent past.
 
-What is not disputed is that he survived. He is aboard the _Saltwright_, alive and moving, and whatever drove him to the Maw and back has not finished with him yet.
+What is not disputed is that he survived. He is aboard the _[[Saltwright|Saltwright]]_, alive and moving, and whatever drove him to the Maw and back has not finished with him yet.

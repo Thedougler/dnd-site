@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Clyde's Bestiary
+  - Clyde's Bestiary of Oceanic Creatures
 title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-04-22
-published: 2026-05-02T02:17:12.760-07:00
+published: 2026-05-02T15:26:12.755-07:00
 tags:
   - item
   - reference-text
@@ -11,7 +14,7 @@ tags:
   - sea-monsters
 cssclasses:
   - wiki-item
-type: entity
+type: item
 status: active
 updated: 2026-04-22
 sources:
@@ -65,7 +68,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Clyde|Al
 
 ### Ch. 6 — [[Sawek]]
 
-> _Look into the suffocating abyss of the blue hole and you will find a creature of sheer, unadulterated madness. The locals call it the **Sawek**, a terrifying compromise of evolution that folds its impossible anatomy into deceptively small caves._
+> _Look into the suffocating abyss of the blue hole and you will find a creature of sheer, unadulterated madness. The locals call it the **[[Sawek|Sawek]]**, a terrifying compromise of evolution that folds its impossible anatomy into deceptively small caves._
 >
 > _The front half is the blunt, soulless engine of a shark, driven only by cold, mechanical necessity, while the rear erupts into a chaos of twenty-foot, ink-stained tentacles that reach out from the dark like the pale fingers of a drowned corpse. It does not pursue; it waits with the terrifying patience of an ambush predator, snatching any man foolish enough to swim past._
 >
@@ -73,11 +76,11 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Clyde|Al
 
 ### Ch.7 - Welak
 
-> _Look at the churning currents of the Shattered Sea. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
+> _Look at the churning currents of the [[The-Shattered-Sea|Shattered Sea]]. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
 >
 > \*When it hunts, it executes a calculated atrocity. It rakes its immense scythe across the hulls of our fragile vessels with the mechanical precision of an industrial press, dragging crippled ships and screaming men down into the abyss. This beast possesses a profound, predatory intellect; it knows the ship is merely a floating tin of meat. They have been known to launch their massive bulk alongside panicked crews, using that hooked appendage to tear down rigging or pluck sailors directly into the dark. In its black eye, there is no wondrous majesty—only the inescapable truth that we are not the masters of the water, but simply the harvest.
 
-### Ch.13 - [[content/shattered-sea/monsters/Leviathan|Leviathan]]
+### Ch.13 - [[private/monsters/Leviathan|Leviathan]]
 
 > _The true terror of this titan is not merely its staggering immensity, but the agonizing omen of its arrival. The Leviathan is a furnace of primordial malice. Long before it breaks the surface, the sea itself begins to scream in protest._
 >
@@ -89,7 +92,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Clyde|Al
 
 _Common item. No attunement required. Non-magical._
 
-A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[Perrin-Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[content/shattered-sea/monsters/Leviathan]]).
+A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[Perrin-Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[private/monsters/Leviathan]]).
 
 ## Connections
 

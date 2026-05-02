@@ -1,5 +1,36 @@
 ---
-{"publish":true,"title":"The High Eyrie","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T18:01:33.220-07:00","tags":["location","landmark","sentinels","aarakocra","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for the basalt sea-stack monastery of the Sentinels of the Eyrie.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+aliases:
+  - High Eyrie
+title: The High Eyrie
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.751-07:00
+tags:
+  - location
+  - landmark
+  - sentinels
+  - aarakocra
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for the basalt sea-stack monastery of the Sentinels of the Eyrie.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Tail
+  - relation: controlled_by
+    target: Sentinels of the Eyrie
+  - relation: near
+    target: The Drowned Maw
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The High Eyrie

@@ -3,7 +3,7 @@ publish: true
 title: Bisou
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T01:35:08.335-07:00
+published: 2026-05-02T15:26:12.749-07:00
 tags:
   - npc
   - beast
@@ -13,10 +13,15 @@ tags:
 visibility: public
 audience: players
 summary: Beaumont Sel's capuchin companion — eleven years on his left shoulder, amber-eyed, quick-fingered, and constitutionally opposed to his pipe staying in his mouth.
-type: entity
+type: npc
 subtype: npc-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: companion_of
+    target: Beaumont Sel
+  - relation: associated_with
+    target: The Saltwright
 updated: 2026-05-02
 sources:
   - Homebrew
@@ -39,7 +44,7 @@ species: capuchin monkey
 
 ## Overview
 
-Bisou is a small capuchin monkey who has ridden [[Beaumont-Sel]]'s left shoulder for the full eleven years he has run the Midchain route. She is not a pet in any passive sense. She moves with precision and purpose, makes decisions quickly, and has zero hesitation about stealing the pipe from the corner of Beaumont's mouth. He corrects this with the weary patience of a man who has lost this argument many times.
+Bisou is a small capuchin monkey who has ridden [[Beaumont-Sel]]'s left shoulder for the full eleven years he has run the [[The-Midchain|Midchain]] route. She is not a pet in any passive sense. She moves with precision and purpose, makes decisions quickly, and has zero hesitation about stealing the pipe from the corner of Beaumont's mouth. He corrects this with the weary patience of a man who has lost this argument many times.
 
 Her tail stays looped once around his neck when she is settled. She goes where he goes.
 

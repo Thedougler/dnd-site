@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - A.R. Clyde
+  - Clyde
 title: Algernon Reginald Clyde
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T02:01:44.962-07:00
+published: 2026-05-02T15:26:12.749-07:00
 tags:
   - npc
   - scholar
@@ -13,10 +16,19 @@ tags:
 visibility: public
 audience: players
 summary: Gnome naturalist, author of Clyde's Bestiary of Oceanic Creatures, currently on book tour — four feet of impeccable dress and professionally documented contempt for every creature he has spent his life studying.
-type: entity
+type: npc
 subtype: npc-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: author_of
+    target: Clyde's Bestiary of Oceanic Creatures
+  - relation: operates_in
+    target: Port Tidefall
+  - relation: operates_in
+    target: Kalowe
+  - relation: operates_in
+    target: Calveno
 updated: 2026-05-02
 sources:
   - Homebrew
@@ -34,14 +46,14 @@ species: gnome
 | **Species**    | Gnome                                                        |
 | **Role**       | Naturalist, author                                           |
 | **Known For**  | _[[Clydes-Bestiary-of-Oceanic-Creatures\|Clyde's Bestiary of Oceanic Creatures]]_ |
-| **Currently**  | Book tour — Port-Tidefall, Kalowe, Calveno                   |
+| **Currently**  | Book tour — Port-Tidefall, [[Kalowe\|Kalowe]], [[Calveno\|Calveno]]                   |
 | **Status**     | Not yet encountered                                          |
 
 ---
 
 ## Overview
 
-A.R. Clyde is a gnome naturalist in his late sixties and the author of _Clyde's Bestiary of Oceanic Creatures_, a multi-volume survey of oceanic fauna that has become the standard reference text for maritime creature identification across the Scatter. The work is meticulous, accurate, and suffused throughout with a contempt for its subject matter that readers have broadly agreed improves it.
+A.R. Clyde is a gnome naturalist in his late sixties and the author of _[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]_, a multi-volume survey of oceanic fauna that has become the standard reference text for maritime creature identification across the Scatter. The work is meticulous, accurate, and suffused throughout with a contempt for its subject matter that readers have broadly agreed improves it.
 
 He is currently on book tour promoting Volume II. He did not want to do the tour. He is doing it because his publisher correctly identified that a gnome who visibly despises every creature he has spent his life documenting is, commercially speaking, an asset, and Clyde could not produce a compelling counter-argument.
 
@@ -65,7 +77,7 @@ He hates frogs most of all.
 
 - **[[Sawek]]** — documented personally at [[Kalowe]]; measured a dead specimen pulled from a blue hole by seven divers; found the experience professionally satisfying and personally grim
 - **[[Whip-Shark]]** — documented from hull damage and survivor accounts; has never seen a live specimen; considers this an acceptable outcome
-- **[[content/shattered-sea/monsters/Leviathan|Leviathan]]** — Ch. 13, Volume II; the one entry that gave him genuine difficulty, not from contempt but from uncertainty; he finds this more unsettling than the creature itself
+- **[[private/monsters/Leviathan|Leviathan]]** — Ch. 13, Volume II; the one entry that gave him genuine difficulty, not from contempt but from uncertainty; he finds this more unsettling than the creature itself
 
 ## On Tour
 
@@ -77,5 +89,5 @@ He is easy to find at the docks. He is usually the one in an argument about some
 
 - **[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]** — his life's work; Volumes I and II published; available for purchase
 - **[[Port-Tidefall]]** — first book tour stop
-- **[[Kalowe]]** — second stop; prior field history here with the Sawek
+- **[[Kalowe]]** — second stop; prior field history here with the [[Sawek|Sawek]]
 - **[[Calveno]]** — third stop

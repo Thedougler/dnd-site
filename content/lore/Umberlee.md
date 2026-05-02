@@ -1,18 +1,34 @@
 ---
 publish: true
+aliases:
+  - The Bitch Queen
 title: Umberlee and the Waveservants
 created: 2026-05-01
 modified: 2026-05-01
+published: 2026-05-02T15:26:12.751-07:00
 tags:
   - deity
   - umberlee
   - waveservants
   - player-resource
+visibility: public
+audience: players
+summary: Public lore on Umberlee as the feared sea goddess of sailors and on the Waveservants, her practical clergy who collect tribute, maintain harbour shrines, and serve every side that pays.
+type: lore
+subtype: deity
+status: active
+campaign: shattered-sea
+updated: 2026-05-01
+sources:
+  - Homebrew
+  - raw/ingested/Umberlee.md
+source_count: 2
+confidence_level: medium
 ---
 
 # Umberlee and the Waveservants
 
-Umberlee is the sea as sailors fear it: black water under moonless cloud, a mast cracking in a squall, a reef appearing where the chart promised depth, the wave that takes one person and leaves the rest alive to remember it. Her common title is **the Bitch Queen**, and in the Shattered Sea the name is spoken with less blasphemy than caution.
+Umberlee is the sea as sailors fear it: black water under moonless cloud, a mast cracking in a squall, a reef appearing where the chart promised depth, the wave that takes one person and leaves the rest alive to remember it. Her common title is **the Bitch Queen**, and in the [[The-Shattered-Sea|Shattered Sea]] the name is spoken with less blasphemy than caution.
 
 No one has to love Umberlee to pay her. That is the point.
 
@@ -22,7 +38,7 @@ No one has to love Umberlee to pay her. That is the point.
 
 Umberlee is worshipped because the sea kills, not because she is kind. Captains give tribute before risky crossings. Deckhands mutter her name when the wind turns wrong. Survivors pay after landfall because gratitude and fear look much the same at a shrine basin.
 
-In the Shattered Sea, her worship is not fringe or exotic. It is ordinary port infrastructure. A harbour may change flags, governors, tariffs, languages, and laws; the Umberlee shrine usually remains where sailors can find it.
+In the [[The-Shattered-Sea|Shattered Sea]], her worship is not fringe or exotic. It is ordinary port infrastructure. A harbour may change flags, governors, tariffs, languages, and laws; the Umberlee shrine usually remains where sailors can find it.
 
 Her mood is assumed to be dangerous. Her attention is assumed to be worse.
 
@@ -30,7 +46,7 @@ Her mood is assumed to be dangerous. Her attention is assumed to be worse.
 
 ## The Waveservants
 
-The **Waveservants** are Umberlee's clergy in the Shattered Sea, sometimes called Wave Servants by outsiders who insist on putting a space where the order does not. They are not warm priests. They are collectors, witnesses, and ritual functionaries for a goddess who does not ask twice.
+The **[[Waveservants-Summary|Waveservants]]** are Umberlee's clergy in the [[The-Shattered-Sea|Shattered Sea]], sometimes called Wave Servants by outsiders who insist on putting a space where the order does not. They are not warm priests. They are collectors, witnesses, and ritual functionaries for a goddess who does not ask twice.
 
 You recognize them by salt-bleached grey robes, damp hems, and the smell of tallow and brine that clings to them even in open air. They handle coin without looking at it. They bless without smiling. They refuse almost no one, because tribute from an enemy spends as cleanly as tribute from a friend.
 
@@ -59,9 +75,9 @@ The rule every sailor learns early: **sailors who do not pay do not sail confide
 Common beliefs about Umberlee and her clergy:
 
 - Umberlee governs storms, shipwrecks, drowning, sea-wrath, and the price of surviving water you should not have crossed.
-- The Waveservants collect from everyone: merchant, pirate, navy, smuggler, pilgrim, noble, fugitive.
+- [[Waveservants-Summary|The Waveservants]] collect from everyone: merchant, pirate, navy, smuggler, pilgrim, noble, fugitive.
 - Refusing tribute is not illegal in most ports. It is merely considered stupid.
-- The Waveservants remember unpaid debts with excellent accuracy.
+- [[Waveservants-Summary|The Waveservants]] remember unpaid debts with excellent accuracy.
 - A blessing is not a promise of safety. It is an acknowledgement that the proper respect has been shown.
 - Some sailors curse Umberlee constantly and still pay at every shrine.
 
@@ -79,7 +95,7 @@ A character connected to Umberlee might be:
 - A skeptic who still drops coin in the basin when no one is watching.
 - A divine caster whose relationship with the sea is transactional, resentful, reverent, or all three.
 
-You do not need to worship Umberlee to live under her shadow. In the Shattered Sea, everyone who sails has a relationship with her. Some are just honest about it sooner.
+You do not need to worship Umberlee to live under her shadow. In the [[The-Shattered-Sea|Shattered Sea]], everyone who sails has a relationship with her. Some are just honest about it sooner.
 
 ---
 

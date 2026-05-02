@@ -1,5 +1,33 @@
 ---
-{"publish":true,"title":"The Tail","created":"2026-05-01","modified":"2026-05-01","published":"2026-05-01T18:01:05.191-07:00","tags":["location","region","maw","player-resource"],"visibility":"public","audience":"players","summary":"Public gazetteer entry for the eastern convergence of the Scatter near the Drowned Maw.","type":"entity","subtype":"location-summary","status":"active","campaign":"shattered-sea","updated":"2026-05-01","sources":["Homebrew"],"source_count":1,"confidence_level":"medium"}
+publish: true
+aliases:
+  - Tail
+title: The Tail
+created: 2026-05-01
+modified: 2026-05-01
+published: 2026-05-02T15:26:12.752-07:00
+tags:
+  - location
+  - region
+  - maw
+  - player-resource
+visibility: public
+audience: players
+summary: Public gazetteer entry for the eastern convergence of the Scatter near the Drowned Maw.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Shattered Sea
+  - relation: near
+    target: The Drowned Maw
+updated: 2026-05-01
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # The Tail

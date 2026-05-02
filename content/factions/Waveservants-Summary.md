@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Waveservants
+  - Umberlee clergy
 title: The Waveservants
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-01T18:33:30.199-07:00
+published: 2026-05-02T15:26:12.754-07:00
 tags:
   - faction
   - player-resource
@@ -13,10 +16,19 @@ tags:
 visibility: public
 audience: players
 summary: Public lore on the Waveservants, Umberlee's practical clergy in the Shattered Sea, who collect tribute, maintain harbour shrines, and bless sailors without warmth.
-type: entity
+type: faction
 subtype: faction-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: operates_in
+    target: The Shattered Sea
+  - relation: operates_in
+    target: The Drowned Maw
+  - relation: allies
+    target: Umberlee and the Waveservants
+  - relation: allies
+    target: Sentinels of the Eyrie
 updated: 2026-05-01
 sources:
   - Homebrew
@@ -26,7 +38,7 @@ confidence_level: medium
 
 # The Waveservants
 
-The Waveservants are [[lore/Umberlee|Umberlee]]'s clergy in the Shattered Sea. Their shrines sit near harbour mouths and waterline gates, where crews can pay tribute before departure or after return. They collect offerings, witness payments, and issue blessings. A blessing is an acknowledgement that proper tribute has been paid, not a guarantee of safe passage.
+The Waveservants are [[lore/Umberlee|Umberlee]]'s clergy in the [[The-Shattered-Sea|Shattered Sea]]. Their shrines sit near harbour mouths and waterline gates, where crews can pay tribute before departure or after return. They collect offerings, witness payments, and issue blessings. A blessing is an acknowledgement that proper tribute has been paid, not a guarantee of safe passage.
 
 ---
 
@@ -34,7 +46,7 @@ The Waveservants are [[lore/Umberlee|Umberlee]]'s clergy in the Shattered Sea. T
 
 Waveservant shrines are found near most working harbours. They maintain a basin of seawater, candles, posted or spoken tribute terms, and accumulated offerings from ships that returned from difficult crossings. The clergy wear salt-bleached grey robes. They accept payment without discussion and bless without conditions. They refuse almost no one — tribute from any source is accepted on equal terms.
 
-Payment is typically coin, but offerings vary by port. Broken compass needles, brass buttons, carved tokens, rope lengths, storm glass, and private vows are all accepted. Captains who have strong opinions about Umberlee at sea still pay at shrines in port. This is considered normal practice.
+Payment is typically coin, but offerings vary by port. Broken compass needles, brass buttons, carved tokens, rope lengths, storm glass, and private vows are all accepted. Captains who have strong opinions about [[Umberlee|Umberlee]] at sea still pay at shrines in port. This is considered normal practice.
 
 ---
 

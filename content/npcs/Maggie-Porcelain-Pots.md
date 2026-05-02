@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Margaret Porcelain Pots
+  - Maggie
 title: Maggie Porcelain Pots
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T01:42:38.518-07:00
+published: 2026-05-02T15:26:12.750-07:00
 tags:
   - npc
   - dragonborn
@@ -11,10 +14,13 @@ tags:
 visibility: public
 audience: players
 summary: Dragonborn potter, peach-and-cream scales, three generations of kilns behind her, and the woman who left Delmar Fisk with a shiner that lasted a week — a fact that is locally famous and that she has never once felt the need to explain.
-type: entity
+type: npc
 subtype: npc-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: associated_with
+    target: Delmar Atticus Fisk
 updated: 2026-05-02
 sources:
   - Homebrew

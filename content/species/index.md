@@ -1,12 +1,5 @@
 ---
-publish: true
-title: Public Species
-created: 2026-05-01T16:53:43.377-07:00
-modified: 2026-05-01
-tags:
-  - player-resource
-  - index
-  - species
+{"publish":true,"title":"Species","created":"2026-05-01T16:53:43.377-07:00","modified":"2026-05-01","published":"2026-05-01T17:07:12.718-07:00","tags":["player-resource","index","species"],"visibility":"public","audience":"players","summary":"Public index for Shattered Sea playable species references.","type":"index","campaign":"shattered-sea","updated":"2026-05-01"}
 ---
 
 # Public Species

@@ -3,7 +3,7 @@ publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
 modified: 2026-05-01
-published: 2026-05-01T21:04:23.848-07:00
+published: 2026-05-01T21:12:55.947-07:00
 tags:
   - player-resource
   - faq
@@ -76,6 +76,7 @@ For ChatGPT, use a reasoning-capable mode when possible. If the model answers fr
 
 Usually one of these is happening:
 
+- Instant mode is enabled.
 - The model did not actually open the public wiki.
 - The model cannot access remote URLs in that chat.
 - The chat is using a lightweight mode that does not reliably follow retrieval instructions.

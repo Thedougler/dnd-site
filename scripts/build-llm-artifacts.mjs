@@ -42,6 +42,7 @@ async function main() {
   const pages = await readPublishedPages(cfg)
   pages.sort(compareByPriorityThenTitle)
   validateUniquePageIds(pages)
+  enrichPages(pages, cfg)
 
   if (errors.length > 0) fail()
   if (CHECK_ONLY) {
@@ -65,6 +66,8 @@ async function main() {
   await writeText("rss.xml", buildRss(cfg, pages))
   await writeText("robots.txt", buildRobots(cfg))
   await writeText("ai-readme.md", buildAiReadme(cfg, pages))
+  await writeJson("data/navigation.json", buildNavigationTree(cfg, pages))
+  await writeJson("data/search-index.json", buildSearchIndex(pages))
 
   const manifest = await buildManifest(cfg, pages, generatedAt)
   await writeJson("manifest.json", manifest)
@@ -165,6 +168,7 @@ function buildPageRecord(fm, rawBody, relative, cfg) {
 
   return {
     id,
+    canonical_path: canonicalPath,
     url: publicUrl(cfg, canonicalPath),
     html_url: publicUrl(cfg, isRoot ? "/" : `/${outputSlug}.html`),
     txt_url: publicUrl(cfg, isRoot ? "/index.txt" : `/${outputSlug}.txt`),
@@ -353,6 +357,7 @@ async function patchHtmlPages(pages) {
     const metadata = minifiedMetadata(page)
     const jsonLd = JSON.stringify(schemaForPage(page))
     const alternateLinks = [
+      `<link rel="canonical" href="${escapeHtmlAttr(page.url)}">`,
       `<link rel="alternate" type="text/plain" title="Plain text version" href="${escapeHtmlAttr(
         path.posix.basename(page.txt_relative),
       )}">`,
@@ -368,9 +373,10 @@ async function patchHtmlPages(pages) {
       "",
     )
     html = html.replace(
-      /<link rel="alternate" type="(?:text\/plain|application\/json)" title="(?:Plain text version|Structured page metadata)" href="[^"]+">\n?/g,
+      /<link rel="alternate" type="(?:text\/plain|application\/json)" title="(?:Plain text version|Structured page metadata)" href="[^"]+"\s*\/?>\n?/g,
       "",
     )
+    html = html.replace(/<link rel="canonical" href="[^"]+"\s*\/?>\n?/g, "")
 
     if (!html.includes("itemscope") && /<body\b/.test(html)) {
       html = html.replace(
@@ -443,6 +449,11 @@ function publicPageRecord(page) {
     source_path: page.source_path,
     relationships: page.relationships,
     wikilinks: page.wikilinks,
+    resolved_wikilinks: page.resolved_wikilinks ?? [],
+    collection: page.collection ?? "lore",
+    parent_id: page.parent_id ?? null,
+    children_ids: page.children_ids ?? [],
+    breadcrumbs: page.breadcrumbs ?? [],
     body_text: page.body_text,
     hashes: page.hashes ?? {},
   }
@@ -565,6 +576,8 @@ function buildLlmsTxt(cfg, pages) {
     ["AI Readme", publicUrl(cfg, "/ai-readme.md"), "Navigation and retrieval instructions."],
     ["Structured Manifest", publicUrl(cfg, "/manifest.json"), "Artifact inventory and hashes."],
     ["Schema Graph", publicUrl(cfg, "/graph.jsonld"), "Schema.org JSON-LD graph."],
+    ["Navigation Tree", publicUrl(cfg, "/data/navigation.json"), "Hierarchical page tree with parent/child structure."],
+    ["Search Index", publicUrl(cfg, "/data/search-index.json"), "Compact title/alias/tag lookup table for fast page resolution."],
     ["Sitemap", publicUrl(cfg, "/sitemap.xml"), "HTML and AI-readable resources."],
     ["RSS Feed", publicUrl(cfg, "/rss.xml"), "Newest public campaign pages."],
   ]
@@ -700,6 +713,142 @@ function compareByPriorityThenDate(a, b) {
   return a.priority - b.priority || rssTime(b) - rssTime(a) || a.title.localeCompare(b.title)
 }
 
+function classifyCollection(page) {
+  const type = page.type.toLowerCase()
+  const tagSet = new Set(page.tags.map((t) => t.toLowerCase()))
+  if (
+    COLLECTIONS.characters.has(type) ||
+    tagSet.has("character") ||
+    tagSet.has("npc") ||
+    tagSet.has("person")
+  )
+    return "characters"
+  if (COLLECTIONS.factions.has(type) || type === "factions" || tagSet.has("faction"))
+    return "factions"
+  if (
+    COLLECTIONS.locations.has(type) ||
+    type === "places" ||
+    tagSet.has("location") ||
+    tagSet.has("port") ||
+    tagSet.has("island") ||
+    tagSet.has("sea") ||
+    tagSet.has("waterway")
+  )
+    return "locations"
+  return "lore"
+}
+
+function enrichPages(pages, cfg) {
+  const byCanonicalPath = new Map(pages.map((p) => [p.canonical_path, p]))
+
+  const wikilinkLookup = new Map()
+  for (const page of pages) {
+    for (const key of [page.id, page.title, ...page.aliases]) {
+      wikilinkLookup.set(slugify(key), page)
+    }
+    const lastSegment = page.source_path
+      .replace(/^content\//, "")
+      .replace(/\.md$/, "")
+      .split("/")
+      .at(-1)
+    if (lastSegment) wikilinkLookup.set(slugify(lastSegment), page)
+  }
+
+  function parentPath(canonicalPath) {
+    if (canonicalPath === "/") return null
+    const segments = canonicalPath.replace(/\/$/, "").split("/").filter(Boolean)
+    if (segments.length <= 1) return "/"
+    return "/" + segments.slice(0, -1).join("/") + "/"
+  }
+
+  const childrenMap = new Map()
+  for (const page of pages) {
+    const parent = parentPath(page.canonical_path)
+    if (parent !== null) {
+      if (!childrenMap.has(parent)) childrenMap.set(parent, [])
+      childrenMap.get(parent).push(page.id)
+    }
+  }
+
+  for (const page of pages) {
+    page.resolved_wikilinks = (page.wikilinks ?? []).map((text) => {
+      const resolved = wikilinkLookup.get(slugify(text))
+      return resolved ? { text, id: resolved.id, url: resolved.url } : { text, id: null, url: null }
+    })
+
+    page.collection = classifyCollection(page)
+
+    const parent = parentPath(page.canonical_path)
+    const parentPage = parent ? byCanonicalPath.get(parent) : null
+    page.parent_id = parentPage ? parentPage.id : null
+
+    page.children_ids = childrenMap.get(page.canonical_path) ?? []
+
+    page.breadcrumbs = computeBreadcrumbs(page, byCanonicalPath, cfg)
+  }
+}
+
+function computeBreadcrumbs(page, byCanonicalPath, cfg) {
+  const crumbs = []
+  const segments = page.canonical_path.replace(/\/$/, "").split("/").filter(Boolean)
+
+  const rootPage = byCanonicalPath.get("/")
+  crumbs.push({ title: rootPage ? rootPage.title : "Home", url: publicUrl(cfg, "/") })
+
+  for (let i = 0; i < segments.length - 1; i++) {
+    const intermediatePath = "/" + segments.slice(0, i + 1).join("/") + "/"
+    const p = byCanonicalPath.get(intermediatePath)
+    const title = p
+      ? p.title
+      : segments[i].replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase())
+    crumbs.push({ title, url: p ? p.url : publicUrl(cfg, intermediatePath) })
+  }
+
+  if (page.canonical_path !== "/") {
+    crumbs.push({ title: page.title, url: page.url })
+  }
+
+  return crumbs
+}
+
+function buildNavigationTree(cfg, pages) {
+  const byId = new Map(pages.map((p) => [p.id, p]))
+  const rootPage = pages.find((p) => p.canonical_path === "/")
+
+  function buildNode(page) {
+    const children = (page.children_ids ?? [])
+      .map((id) => byId.get(id))
+      .filter(Boolean)
+      .sort((a, b) => a.priority - b.priority || a.title.localeCompare(b.title))
+      .map(buildNode)
+    return {
+      id: page.id,
+      title: page.title,
+      url: page.url,
+      type: page.type,
+      collection: page.collection,
+      children,
+    }
+  }
+
+  if (!rootPage) return { title: cfg.site, url: publicUrl(cfg, "/"), children: [] }
+  return buildNode(rootPage)
+}
+
+function buildSearchIndex(pages) {
+  return pages.map((page) => ({
+    id: page.id,
+    title: page.title,
+    aliases: page.aliases,
+    tags: page.tags,
+    type: page.type,
+    collection: page.collection,
+    url: page.url,
+    txt_url: page.txt_url,
+    json_url: page.json_url,
+  }))
+}
+
 function buildLegacyGraph(pages) {
   const { nodes, edges } = graphParts(pages)
   return { nodes, edges }
@@ -791,6 +940,8 @@ function buildSitemap(cfg, pages) {
     publicUrlEntry(cfg, "/llms.json"),
     publicUrlEntry(cfg, "/entities.jsonl"),
     publicUrlEntry(cfg, "/data/pages.jsonl"),
+    publicUrlEntry(cfg, "/data/navigation.json"),
+    publicUrlEntry(cfg, "/data/search-index.json"),
     ...pages.flatMap((page) => [
       { loc: page.html_url, lastmod: lastmod(page) },
       { loc: page.txt_url, lastmod: lastmod(page) },
@@ -898,6 +1049,17 @@ This is the public, player-facing D&D campaign wiki. Do not infer DM-only secret
 - Sitemap: ${publicUrl(cfg, "/sitemap.xml")}
 - RSS: ${publicUrl(cfg, "/rss.xml")}
 
+## Navigation and Discovery
+
+- Navigation tree: ${publicUrl(cfg, "/data/navigation.json")} — hierarchical page tree with parent/child structure.
+- Search index: ${publicUrl(cfg, "/data/search-index.json")} — compact title/alias/tag lookup table for fast resolution without fetching full page records.
+
+Each page's JSON record (e.g. \`/npcs/beaumont-sel.json\`) now includes:
+- \`resolved_wikilinks\`: wikilink targets resolved to full URLs
+- \`breadcrumbs\`: hierarchical path from root to the page
+- \`collection\`: which collection the page belongs to (characters, factions, locations, lore)
+- \`parent_id\` / \`children_ids\`: explicit parent/child page relationships
+
 ## Page Count
 
 ${pages.length} public pages are currently included.
@@ -939,6 +1101,8 @@ async function buildManifest(cfg, pages, generatedAt) {
       entities_jsonl: publicUrl(cfg, "/entities.jsonl"),
       pages_jsonl: publicUrl(cfg, "/data/pages.jsonl"),
       player_prompt: publicUrl(cfg, "/player-ai-prompt.txt"),
+      navigation: publicUrl(cfg, "/data/navigation.json"),
+      search_index: publicUrl(cfg, "/data/search-index.json"),
     },
     hashes: rootHashes,
     perf_budget: {
@@ -1009,6 +1173,9 @@ async function validateArtifacts(cfg, pages) {
     }
     if (!html.includes('type="text/plain"') || !html.includes('type="application/json"')) {
       errors.push(`${page.html_relative}: missing alternate links for text/json siblings`)
+    }
+    if (!html.includes('rel="canonical"')) {
+      errors.push(`${page.html_relative}: missing canonical link`)
     }
     if (!html.includes("https://schema.org/")) {
       errors.push(`${page.html_relative}: missing Schema.org metadata`)

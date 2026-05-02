@@ -3,7 +3,7 @@ publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
 modified: 2026-05-01
-published: 2026-05-01T20:47:17.768-07:00
+published: 2026-05-01T21:04:23.848-07:00
 tags:
   - player-resource
   - faq
@@ -26,7 +26,7 @@ After that, use [[campaign-overview|Campaign Overview]] as the dense reference p
 
 ## Is this wiki safe for players?
 
-The public wiki is intended for players. It includes common knowledge, onboarding material, published rules references, playable species, faction summaries, and public setting lore.
+Of Course! This wiki is intended for my players. It includes common knowledge, onboarding material, published rules references, playable species, faction summaries, and public setting lore.
 
 Everything navigable on the public wiki is public and can be read. Nothing private is ever published. If you follow a link and get a 404, that is a spoiler boundary, not an error; the missing page simply is not public yet. This makes the whole wiki spoiler-safe.
 

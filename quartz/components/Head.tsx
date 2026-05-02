@@ -85,6 +85,8 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <link rel="alternate" type="text/plain" title="LLM Context" href={joinSegments(baseDir, "llms.txt")} />
+        <link rel="alternate" type="text/plain" title="LLM Full Context" href={joinSegments(baseDir, "llms-full.txt")} />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

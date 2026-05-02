@@ -297,6 +297,9 @@ function buildLlmsTxt(cfg, pages) {
 
 > Public player-facing campaign wiki for ${cfg.site}, optimized for both human Quartz browsing and agent retrieval.
 
+## Quick Start for LLMs
+Load the full wiki in one request: https://${cfg.baseUrl}/llms-full.txt
+
 ## Scope
 - Public player-facing content only.
 - DM-only secrets are intentionally excluded.

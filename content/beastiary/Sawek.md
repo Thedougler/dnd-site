@@ -3,7 +3,7 @@ publish: true
 title: Sawek (Blue Devil)
 created: 2026-04-12
 modified: 2026-04-21
-published: 2026-05-01T22:04:13.824-07:00
+published: 2026-05-01T22:17:33.455-07:00
 tags:
   - creature
   - monstrosity
@@ -27,7 +27,6 @@ source_count: 1
 confidence_level: medium
 cr: 5
 habitat: "[[Central-Strait]]"
-banner: raw/assets/banners/Sawek.webp
 campaign: shattered-sea
 player_gravity: 3
 gravity_sources:

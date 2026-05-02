@@ -3,7 +3,7 @@ publish: true
 title: Shattered Sea Index
 created: 2026-05-01T16:47:12.947-07:00
 modified: 2026-05-01
-published: 2026-05-01T18:43:15.287-07:00
+published: 2026-05-01T19:15:32.806-07:00
 tags:
   - player-resource
   - index
@@ -23,7 +23,9 @@ _High-magic nautical sandbox. 1495 DR. Sixty thousand square miles of reef, deep
 
 ## Start Here
 
-**[[player-primer|The Shattered Sea Player Primer]]** — read this first. Covers the tone, the geography, the factions, character creation, ship rules, and what kind of trouble to expect.
+**[[player-primer|The Shattered Sea Player Primer]]** — read this first. Full onboarding: tone, geography, factions, character creation, ship rules, and what kind of trouble to expect.
+
+**[[campaign-overview|Campaign Overview]]** — dense reference. Geography, powers, religion, the starting situation, and the edges of the map, all in one page with links out to everything.
 
 ---
 

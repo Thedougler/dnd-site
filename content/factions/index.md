@@ -3,7 +3,7 @@ publish: true
 title: Factions
 created: 2026-05-01T16:47:46.110-07:00
 modified: 2026-05-01
-published: 2026-05-01T18:11:30.474-07:00
+published: 2026-05-01T18:17:03.202-07:00
 tags:
   - player-resource
   - index
@@ -16,7 +16,7 @@ campaign: shattered-sea
 updated: 2026-05-01
 ---
 
-# Factions present in the Shattered Sea
+# Factions of the Shattered Sea
 
 Every dock has a price. Every flag means something. Every claim of neutrality should be read twice.
 

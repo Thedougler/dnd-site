@@ -1,0 +1,15 @@
+filters:
+  and:
+    - 'type == "entity"'
+    - 'subtype == "spell"'
+
+views:
+  - type: table
+    name: "Spells"
+    order:
+      - file.name
+      - level
+      - school
+    groupBy:
+      property: level
+      direction: ASC

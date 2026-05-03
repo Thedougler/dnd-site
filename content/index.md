@@ -1,9 +1,9 @@
 ---
 publish: true
 title: The Shattered Sea
-created: 2026-05-02T00:52:50.920-07:00
+created: 2026-05-03T03:03:53.226-07:00
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.507-07:00
+published: 2026-05-03T03:03:53.226-07:00
 tags:
   - player-resource
   - index
@@ -68,6 +68,8 @@ Standard 2024 species are all available. The [[places/Shattered-Sea|Shattered Se
 
 Full breakdown: [[species/index|Playable Species]].
 
+For backgrounds, classes, subclasses, spells, and conditions, see [[reference/index|Reference]].
+
 ---
 
 ## Major Powers
@@ -109,8 +111,10 @@ Your ship. Hard-used, understaffed, working a route that no one with better opti
 - [[npcs/index|NPCs]]
 - [[beastiary/index|Bestiary]]
 - [[factions/index|Factions]]
+- [[items/index|Items]]
 - [[lore/index|Lore]]
 - [[places/index|Places]]
+- [[reference/index|Reference]]
 - [[rules/index|Rules]]
 - [[ships/index|Ships]]
 - [[species/index|Species]]

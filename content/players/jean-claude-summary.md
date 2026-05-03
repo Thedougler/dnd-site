@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.377-07:00
+published: 2026-05-02T23:28:35.060-07:00
 tags:
   - player-character
   - pc
@@ -41,7 +41,7 @@ confidence_level: medium
 
 ## Overview
 
-**Jean-Claude Tabarnack** is a three-foot-tall blue Grung Gloomstalker Ranger, twelve years old and early middle-age by the standards of his kind. He comes from the Botukuri clan of the [[Verdant-Teeth|Verdant Teeth]] — a closed, hierarchical Grung society built on slavery, caste, and the assumption that this is simply how things are. He disagrees. He has disagreed for long enough that he left, and the manner of his leaving burned every bridge behind him.
+**Jean-Claude Tabarnack**, sometimes known as '_Pierre Le Merde_', is a three-foot-tall blue Grung Gloomstalker Ranger, twelve years old and early middle-age by the standards of his kind. He comes from the Botukuri clan of the [[Verdant-Teeth|Verdant Teeth]] — a closed, hierarchical Grung society built on slavery, caste, and the assumption that this is simply how things are. He disagrees. He has disagreed for long enough that he left, and the manner of his leaving burned every bridge behind him.
 
 He is, by most appearances on a dockside, a compact blue amphibian in a red beret with a fake moustache. This is not a joke. His reasoning for the disguise is entirely sincere and, on some level, correct. He has not been found. He does not find this remarkable.
 

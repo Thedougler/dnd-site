@@ -29,9 +29,27 @@ body {
 
 body {
   background:
-    radial-gradient(circle at top left, color-mix(in srgb, var(--secondary) 10%, transparent), transparent 34rem),
-    linear-gradient(180deg, color-mix(in srgb, var(--light) 92%, var(--tertiary)), var(--light) 26rem);
+    radial-gradient(ellipse 120% 35% at 50% -8%, rgba(200, 238, 235, 0.42), transparent 55%),
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--secondary) 5%, var(--light)) 0%,
+      color-mix(in srgb, var(--secondary) 16%, var(--light)) 28%,
+      color-mix(in srgb, var(--secondary) 36%, var(--light)) 62%,
+      #071a1e 100%
+    );
   line-height: 1.62;
+}
+
+html[saved-theme="dark"] body {
+  background:
+    radial-gradient(ellipse 120% 35% at 50% -8%, rgba(98, 195, 202, 0.07), transparent 55%),
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--secondary) 24%, var(--light)) 0%,
+      color-mix(in srgb, var(--secondary) 14%, var(--light)) 32%,
+      var(--light) 68%,
+      #040d0f 100%
+    );
 }
 
 .page {
@@ -307,7 +325,12 @@ a.tag-link,
 
 @media all and ($mobile) {
   body {
-    background: var(--light);
+    background:
+      linear-gradient(
+        180deg,
+        color-mix(in srgb, var(--secondary) 8%, var(--light)) 0%,
+        color-mix(in srgb, var(--secondary) 30%, var(--light)) 100%
+      );
   }
 
   .page > #quartz-body .sidebar.left {

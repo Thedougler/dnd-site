@@ -1,0 +1,55 @@
+---
+publish: true
+aliases:
+  - Heft
+  - The Heft
+title: The Heft
+created: 2026-05-02
+modified: 2026-05-02
+published: 2026-05-02T19:45:12.611-07:00
+tags:
+  - player-resource
+  - ship
+  - destroyed
+  - fleet
+cssclasses:
+  - wiki-ship
+type: lore
+subtype: ship
+visibility: public
+audience: players
+summary: Heavy brig and third ship of Fisk's Fleet — captained by Detto Kalash, lost at the Drowned Maw.
+status: destroyed
+updated: 2026-05-02
+sources:
+  - Homebrew
+campaign: shattered-sea
+ship_class: Heavy brig
+captain: "[[npcs/Detto-Kalash|Detto Kalash]]"
+---
+
+# The _Heft_
+
+## Overview
+
+A heavy brig — the largest ship in Fisk's Fleet after the _Red Lady_. Broad in the beam and deep-keeled, high freeboard, the hull sitting low under its own weight. Hull painted black from waterline to rail with white gun port lids. Ten gun mounts, five per side. A deliberate presence — nothing about her proportions suggested speed.
+
+Below decks: a magazine below the waterline, a surgeon's berth, crew quarters for a full complement. The hold ran deep and wide. Built to take punishment and hold position.
+
+Third ship of the fleet. Captained by [[npcs/Detto-Kalash|Detto Kalash]].
+
+---
+
+## The Sinking
+
+Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Drowned-Maw|Drowned Maw]] beneath them. All hands lost.
+
+---
+
+## Connections
+
+- [[npcs/Detto-Kalash|Detto Kalash]] — captain; his soul is now inside [[players/delmar-summary|Delmar Fisk]]
+- [[players/delmar-summary|Delmar Fisk]] — admiral of the fleet
+- [[ships/Red-Lady|The Red Lady]] — flagship
+- [[Drowned-Maw|Drowned Maw]] — where she sank
+- [[ships/index|Ships]]

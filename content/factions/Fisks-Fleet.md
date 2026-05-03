@@ -1,0 +1,64 @@
+---
+publish: true
+aliases:
+  - Fisk's Fleet
+  - The Fleet
+title: Fisk's Fleet
+created: 2026-05-02
+modified: 2026-05-03
+published: 2026-05-02T19:45:12.611-07:00
+tags:
+  - faction
+  - player-resource
+  - fleet
+  - fisk
+  - destroyed
+  - drowned-maw
+visibility: public
+audience: players
+summary: Public lore on Fisk's Fleet — a five-ship privateer fleet under Rear Admiral Delmar Fisk, destroyed in the Drowned Maw with only two known survivors.
+type: faction
+subtype: faction-summary
+status: destroyed
+campaign: shattered-sea
+relationships:
+  - relation: led_by
+    target: Delmar Fisk
+  - relation: destroyed_at
+    target: The Drowned Maw
+updated: 2026-05-03
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
+---
+
+# Fisk's Fleet
+
+_Five ships, five captains, one commission. Umberlee took all of them in under a minute._
+
+A five-ship independent privateer fleet operating under Rear Admiral [[delmar-summary|Delmar Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw|Drowned Maw]]. [[delmar-summary|Delmar Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.
+
+---
+
+## The Five Ships
+
+| Ship                      | Captain          |
+| ------------------------- | ---------------- |
+| [[ships/Red-Lady\|Red Lady]] _(flagship)_ | [[npcs/Rael-Corven\|Rael Corven]]  |
+| [[ships/Narrow\|The Narrow]]              | [[npcs/Maren\|Maren]]        |
+| [[ships/Heft\|The Heft]]                | [[npcs/Detto-Kalash\|Detto Kalash]] |
+| [[ships/Fernen\|The Fernen]]             | [[npcs/Sienne-Orre\|Sienne Orre]]  |
+| [[ships/Loud-Argument\|Loud Argument]]  | Bastian Crev     |
+
+## What Happened
+
+The fleet was in prime condition when it sank — no deferred maintenance, all five ships fully crewed and armed. Umberlee sank all five ships simultaneously in the Drowned Maw. No survivors were recovered from the water other than Fisk and Crisdalynn.
+
+The wrecks lie somewhere in the Maw. Their exact position is unknown to the world at large.
+
+## See Also
+
+- [[delmar-summary|Delmar Fisk]]
+- [[Drowned-Maw|Drowned Maw]]
+- [[Shelfworks|Shelfworks]]

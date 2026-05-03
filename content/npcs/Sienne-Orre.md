@@ -5,7 +5,7 @@ aliases:
 title: Sienne Orre
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.079-07:00
+published: 2026-05-02T19:45:12.611-07:00
 tags:
   - npc
   - player-resource
@@ -39,21 +39,21 @@ species: unknown
 
 |              |                                                          |
 | ------------ | -------------------------------------------------------- |
-| **Role**     | Captain, _[[Fernen]]_; [[Fisks-Fleet\|Fisk's Fleet]]     |
+| **Role**     | Captain, _[[ships/Fernen\|The Fernen]]_; [[Fisks-Fleet\|Fisk's Fleet]]     |
 | **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                   |
 
 ---
 
 ## What Delmar Knows
 
-Sienne captained the _[[Fernen]]_, the fleet's fourth vessel. Druid — capable of wildshaped into aquatic forms. She ran the second underwater scout team alongside [[Maren]] during the perimeter survey of Umberlee's shrine island. She was outside the cave when the fleet sank.
+Sienne captained the _[[ships/Fernen|Fernen]]_, the fleet's fourth vessel. Druid — capable of wildshaped into aquatic forms. She ran the second underwater scout team alongside [[Maren]] during the perimeter survey of Umberlee's shrine island. She was outside the cave when the fleet sank.
 
 She drowned in the Maw when Umberlee closed the water over all five ships. Her soul was pressed into Delmar at the moment of sinking.
 
 ## Connections
 
 - [[delmar-summary|Delmar Fisk]] — Admiral; carries Sienne's soul
-- [[Fernen]] — her ship; wreck at the Shelfworks descent
+- [[ships/Fernen|The Fernen]] — her ship; lost at the Maw
 - [[Maren]] — ran the parallel scout team
 - [[Fisks-Fleet]] — the fleet she served
 - [[Drowned-Maw|Drowned Maw]] — where she died

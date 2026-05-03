@@ -3,7 +3,7 @@ publish: true
 title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:03:59.058-07:00
+published: 2026-05-02T19:29:18.347-07:00
 tags:
   - player-resource
   - campaign-overview
@@ -98,7 +98,7 @@ Most sourcebook species have a place in the Scatter. These homebrew options are 
 
 ## The Starting Situation
 
-You begin at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used two-masted merchant brig captained by **[[npcs/Beaumont-Sel|Beaumont Sel]]**, an alligator-snapping tortle who has survived eleven years on the [[Midchain|Midchain]] route by treating danger as weather.
+You begin at **Level 3** aboard the [[Saltwright|*Saltwright*]], a hard-used two-masted merchant brig captained by **[[npcs/Beaumont-Sel|Beaumont Sel]]**, an alligator-snapping tortle who has survived eleven years on the [[Midchain|Midchain]] route by treating danger as weather.
 
 You are aboard for your own reason — paying passenger, working hand, shipwrecked survivor, stowaway, fugitive, pilgrim, hired blade, scholar with bad funding, or someone who got on the wrong boat and has decided to make it everyone else's problem. The _[[Saltwright|Saltwright]]_ is where the stories collide.
 

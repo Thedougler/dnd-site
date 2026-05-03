@@ -6,7 +6,7 @@ aliases:
 title: Fisk's Fleet
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.109-07:00
+published: 2026-05-02T19:45:12.611-07:00
 tags:
   - faction
   - player-resource
@@ -45,11 +45,11 @@ A five-ship independent privateer fleet operating under Rear Admiral [[delmar-su
 
 | Ship                      | Captain          |
 | ------------------------- | ---------------- |
-| [[Red-Lady]] _(flagship)_ | [[Rael-Corven]]  |
-| [[Narrow]]                | [[Maren]]        |
-| [[Heft]]                  | [[Detto-Kalash]] |
-| [[Fernen]]                | [[Sienne-Orre]]  |
-| [[Loud-Argument]]         | Bastian Crev     |
+| [[ships/Red-Lady\|Red Lady]] _(flagship)_ | [[npcs/Rael-Corven\|Rael Corven]]  |
+| [[ships/Narrow\|The Narrow]]              | [[npcs/Maren\|Maren]]        |
+| [[ships/Heft\|The Heft]]                | [[npcs/Detto-Kalash\|Detto Kalash]] |
+| [[ships/Fernen\|The Fernen]]             | [[npcs/Sienne-Orre\|Sienne Orre]]  |
+| [[ships/Loud-Argument\|Loud Argument]]  | Bastian Crev     |
 
 ## What Happened
 

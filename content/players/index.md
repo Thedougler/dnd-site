@@ -3,7 +3,7 @@ publish: true
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.483-07:00
+published: 2026-05-02T19:29:18.379-07:00
 tags:
   - player-resource
   - index
@@ -29,4 +29,4 @@ Public-facing player character summaries. These pages are safe to share at the t
 - [[jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
 - [[perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
 
-For the campaign starting situation and the _[[Saltwright|Saltwright]]_, see [[player-primer|The Shattered Sea Player Primer]] and [[lore/Saltwright|Saltwright]].
+For the campaign starting situation and the _[[Saltwright|Saltwright]]_, see [[player-primer|The Shattered Sea Player Primer]] and [[Saltwright|Saltwright]].

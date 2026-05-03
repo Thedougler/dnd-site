@@ -3,7 +3,7 @@ publish: true
 title: Species
 created: 2026-05-01T16:53:43.377-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:03:34.844-07:00
+published: 2026-05-02T19:17:44.306-07:00
 tags:
   - player-resource
   - index
@@ -18,14 +18,20 @@ updated: 2026-05-03
 
 # Playable Species
 
-In addition to standard 2024 D\&D playable species, players may select from these Shattered Sea options and setting updates.
+Standard 2024 D\&D species are all available. These are the Shattered Sea additions and setting-specific options worth knowing about.
 
-| Species | Campaign Hook |
-| --- | --- |
-| [[species/Aarakocra\|Aarakocra]] | Winged people with sustained flight, wind magic, keen sight, and skyward instincts. Many sailors know them through the [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]]. |
-| [[species/Grung\|Grung]] | Amphibious, poisonous humanoids with caste-marked coloration and roots in the [[Verdant-Teeth\|Verdant Teeth]]. A Grung PC brings immediate questions of caste, exile, and home. |
-| [[species/Human\|Human]] | Common across colonial, free-port, and shipboard life; useful for characters tied to Dravosi, Tessarine, or independent crews. |
-| [[species/Rattkin\|Rattkin]] | Small, flexible people built for infiltration, survival, and movement through impossible spaces; closely tied to [[Passage\|the Passage]]. |
-| [[species/Tabaxi\|Tabaxi]] | Feline humanoids with ancient roots in the [[Shattered-Sea\|Shattered Sea]], especially the Sunken Crown and eastern island communities. |
+---
+
+**[[species/Aarakocra|Aarakocra]]** — Winged people with sustained flight, wind magic, and keen sight. Most sailors know them through the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]], which shapes how they're treated in port.
+
+**[[species/Grung|Grung]]** — Amphibious, poisonous humanoids from the [[Verdant-Teeth|Verdant Teeth]], with caste written in their coloration. A Grung PC comes with immediate questions of caste, exile, and what it means to leave.
+
+**[[species/Human|Human]]** — Common across colonial ports, free cities, and shipboard crews. Useful for characters rooted in Dravosi, Tessarine, or independent life.
+
+**[[species/Rattkin|Rattkin]]** — Small, fast, built for tight spaces and improvised survival. Closely tied to [[Passage|the Passage]] and its networks.
+
+**[[species/Tabaxi|Tabaxi]]** — Feline humanoids with deep roots in the [[Shattered-Sea|Shattered Sea]], especially the Sunken Crown and the eastern islands.
+
+---
 
 For social context around the Grung, see [[Grung-Clans|The Grung Clans]].

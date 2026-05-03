@@ -3,7 +3,7 @@ publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.074-07:00
+published: 2026-05-02T19:29:18.348-07:00
 tags:
   - player-resource
   - faq
@@ -40,7 +40,7 @@ Read these:
 4. [[rules/Ship-Bastion|Ship Bastion]] (Optional)
 5. Any homebrew species page you are considering from [[species/index|Playable Species]]
 
-You do not need to memorize the setting. You only need a character with a reason to be aboard the [[lore/Saltwright|*Saltwright*]], a reason to cross dangerous water, and a problem that could follow them into port.
+You do not need to memorize the setting. You only need a character with a reason to be aboard the [[Saltwright|*Saltwright*]], a reason to cross dangerous water, and a problem that could follow them into port.
 
 ## What species can I play?
 

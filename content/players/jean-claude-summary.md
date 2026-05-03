@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.483-07:00
+published: 2026-05-02T19:29:18.377-07:00
 tags:
   - player-character
   - pc
@@ -123,7 +123,7 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 
 **[[species/Grung|The Grung]]** — his people, his origin, the society he walked away from and intends to return to. He is not neutral on them. He is not done with them, either.
 
-**[[lore/Saltwright|The *Saltwright*]]** — the merchant brig he arrived on, under circumstances that were not exactly boarding-as-a-paying-passenger.
+**[[Saltwright|The *Saltwright*]]** — the merchant brig he arrived on, under circumstances that were not exactly boarding-as-a-paying-passenger.
 
 ---
 

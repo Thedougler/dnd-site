@@ -6,7 +6,7 @@ aliases:
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.479-07:00
+published: 2026-05-02T19:45:12.611-07:00
 tags:
   - npc
   - rattkin
@@ -54,7 +54,7 @@ species: rattkin
 
 Nona Black-Jaw is a Rattkin elder and the head of the Black-Jaw Run — the most senior voice in [[Warren]], the fixed Rattkin settlement beneath [[Calveno]], and a central figure in [[Passage|The Passage]] network that runs through every port in the Scatter. She is [[Perrin-Black-Jaw|Perrin's]] grandmother. She is the person he is not ready to call.
 
-Her late husband built the _[[Vestra]]_, captained her across the [[Midchain|Midchain]] for decades, and left her to the family when he died. The ship passed to Perrin. She has not heard from him since. She has sent messages through the Passage asking him to make contact. He has not responded.
+Her late husband built the _[[ships/Vestra|Vestra]]_, captained her across the [[Midchain|Midchain]] for decades, and left her to the family when he died. The ship passed to Perrin. She has not heard from him since. She has sent messages through the Passage asking him to make contact. He has not responded.
 
 ## Appearance
 
@@ -77,5 +77,5 @@ Her late husband built the ship, captained her for decades, and left her to the 
 - **[[perren-summary|Perrin Black-Jaw]]** — her grandson; Black-Jaw Run heir; she is looking for him
 - **[[Warren]]** — the fixed Rattkin settlement she anchors; most senior voice
 - **[[Passage|The Passage]]** — the Tangle is the network's center; she is at the Tangle's center
-- **[[Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed
+- **[[ships/Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed
 - **[[Calveno]]** — the city above the Warren

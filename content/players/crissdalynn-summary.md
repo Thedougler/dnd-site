@@ -3,7 +3,7 @@ publish: true
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.482-07:00
+published: 2026-05-02T19:29:18.350-07:00
 tags:
   - player-character
   - pc
@@ -41,7 +41,7 @@ confidence_level: medium
 
 ## Overview
 
-**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. In Aarakocra terms, that makes her genuinely, recognizably young — still finding her edges. She is also, by the opening of the [[Shattered-Sea|Shattered Sea]] campaign, one of two survivors of the _Red Lady_ disaster, the aarakocra who dove through thirty feet of black seawater to pull Admiral [[delmar-summary|Delmar Fisk]] out of a closing trench, and the person currently sitting aboard [[lore/Saltwright|the *Saltwright*]] with a satchel full of unfinished charts and a pilgrimage that is not yet complete.
+**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. In Aarakocra terms, that makes her genuinely, recognizably young — still finding her edges. She is also, by the opening of the [[Shattered-Sea|Shattered Sea]] campaign, one of two survivors of the _Red Lady_ disaster, the aarakocra who dove through thirty feet of black seawater to pull Admiral [[delmar-summary|Delmar Fisk]] out of a closing trench, and the person currently sitting aboard [[Saltwright|the *Saltwright*]] with a satchel full of unfinished charts and a pilgrimage that is not yet complete.
 
 She is, in public account, a contradiction: irreverent and impulsive on deck, exacting and silent when a fight starts. She has the look of something dangerous and the manner of something that has not yet decided to take itself seriously. Both of those impressions are accurate.
 
@@ -73,7 +73,7 @@ She found a berth on the _Red Lady_ as lookout and cartographer, spent two years
 
 Crisdalynn was in the crow's nest when the fog came in — so thick the water disappeared from sight around all five ships at once. A rogue trench opened beneath the fleet and all five ships plunged eighty feet down into a valley of water. She dove from the crow's nest, grabbed Admiral Fisk, and flew straight back up. She had only risen fifty feet when the walls of water closed in. Her momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet was swallowed whole.
 
-Two days on wreckage. Then [[lore/Saltwright|the *Saltwright*]] found them and pulled them aboard.
+Two days on wreckage. Then [[Saltwright|the *Saltwright*]] found them and pulled them aboard.
 
 The charts are still in the satchel. The task is still unfinished. She has not gone back.
 

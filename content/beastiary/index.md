@@ -3,7 +3,7 @@ publish: true
 title: Bestiary
 created: 2026-05-01T21:59:53.199-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:02:51.485-07:00
+published: 2026-05-02T19:16:34.350-07:00
 tags:
   - player-resource
   - index
@@ -19,9 +19,12 @@ updated: 2026-05-03
 
 # Bestiary
 
-Player-facing creature references for the [[Shattered-Sea|Shattered Sea]]. These are the things sailors name, avoid, exaggerate, and sometimes survive.
+The [[Shattered-Sea|Shattered Sea]] has things in it. Sailors name them, argue about them, and occasionally get killed by them. This is what's been confirmed.
 
-- [[beastiary/Sawek|Sawek (Blue Devil)]] - a large aquatic ambush predator that lurks in [[Midchain|Midchain]] blue holes, striking with tentacles and dragging prey into its lair.
-- [[beastiary/Whip-Shark|Whip Shark (Welak)]] - a massive open-ocean predator known for its barbed tail, ship-sinking attacks, and deep-water hunting grounds.
+**[[beastiary/Sawek|Sawek (Blue Devil)]]** — An ambush predator that hunts the [[Midchain|Midchain]] blue holes. It waits in deep water, strikes with tentacles, and pulls prey down into its lair. Most people who've seen one up close didn't come back to describe it.
 
-For ship rules that may matter during monster encounters, see [[rules/Ship-Stats|Ship Stats]].
+**[[beastiary/Whip-Shark|Whip Shark (Welak)]]** — Open-ocean hunter. Big enough to damage a ship, fast enough that you probably won't outrun it, and equipped with a barbed tail it uses like a whip. Stays deep unless something draws it up.
+
+---
+
+For ship rules relevant to creature encounters, see [[rules/Ship-Stats|Ship Stats]].

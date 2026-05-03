@@ -3,7 +3,7 @@ publish: true
 title: Delmar Atticus Fisk
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.482-07:00
+published: 2026-05-02T19:29:18.369-07:00
 tags:
   - player-character
   - pc
@@ -41,7 +41,7 @@ confidence_level: medium
 
 ## Overview
 
-**Delmar Atticus Fisk**, called **Admiral Fisk** by anyone who knows better than to test it, is forty-one years old and travelling aboard [[lore/Saltwright|the *Saltwright*]] as a passenger with nothing left to captain. His five-ship privateer fleet is gone. The _Red Lady_ is at the bottom of the [[Drowned-Maw|Drowned Maw]]. The admiral's coat is still on his back, salt-stiff and intact, and he still smiles like a man who expects things to go his way.
+**Delmar Atticus Fisk**, called **Admiral Fisk** by anyone who knows better than to test it, is forty-one years old and travelling aboard [[Saltwright|the *Saltwright*]] as a passenger with nothing left to captain. His five-ship privateer fleet is gone. The _Red Lady_ is at the bottom of the [[Drowned-Maw|Drowned Maw]]. The admiral's coat is still on his back, salt-stiff and intact, and he still smiles like a man who expects things to go his way.
 
 His rank is reputation more than paperwork. No recognized navy granted him the title before he started wearing it, and in the ports of the [[Shattered-Sea|Shattered Sea]] — where authority tends to follow usefulness — that distinction rarely came up.
 
@@ -85,7 +85,7 @@ The fleet's final commission was the theft of the [[private/lore/questions/Pearl
 
 [[lore/Umberlee|Umberlee]]'s response was not long in coming. Fog rolled in first — so thick the water disappeared from sight around all five ships simultaneously. Then a rogue trench opened beneath the fleet, plunging all five ships eighty feet down into a valley of water. The walls closed in and swallowed them whole.
 
-[[crissdalynn-summary|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. They drifted for two days before [[lore/Saltwright|the *Saltwright*]] found them among the wreckage and brought them aboard.
+[[crissdalynn-summary|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. They drifted for two days before [[Saltwright|the *Saltwright*]] found them among the wreckage and brought them aboard.
 
 Two survivors from five ships and all their crews.
 

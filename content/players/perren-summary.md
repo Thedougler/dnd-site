@@ -3,7 +3,7 @@ publish: true
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.482-07:00
+published: 2026-05-02T19:29:18.378-07:00
 tags:
   - player-character
   - pc
@@ -41,7 +41,7 @@ confidence_level: medium
 
 ## Overview
 
-**Perrin Black-Jaw** — PBJ to the people who know him — is a Rattkin sailor, negotiator, and the only known survivor of whatever destroyed the _Vestra_ three days before the campaign begins. He is ten years old, squarely middle-aged by Rattkin reckoning, and by most measures he had built exactly the life he wanted: the ship, the fishing operation, the family supplied and respected. Then something came up from below the waterline on what had been an ordinary day, and now he is hiding in the hold of [[lore/Saltwright|the *Saltwright*]] with a family heirloom on his back and a conversation he is not ready to have.
+**Perrin Black-Jaw** — PBJ to the people who know him — is a Rattkin sailor, negotiator, and the only known survivor of whatever destroyed the _Vestra_ three days before the campaign begins. He is ten years old, squarely middle-aged by Rattkin reckoning, and by most measures he had built exactly the life he wanted: the ship, the fishing operation, the family supplied and respected. Then something came up from below the waterline on what had been an ordinary day, and now he is hiding in the hold of [[Saltwright|the *Saltwright*]] with a family heirloom on his back and a conversation he is not ready to have.
 
 He is a sleazy operator in the way a charming person with no illusions about people tends to become: manipulation, bribery, and leverage are tools he reaches for without much apology. He draws one line, firm and old: people are not cargo. Everything else has flex to it.
 
@@ -85,7 +85,7 @@ The Cloak brought him to the surface. He washed up on the beach of [[places/Keth
 
 Perrin was not a believer before. The gods were not especially relevant to a Rattkin with fish to catch and a family to support. But something large and otherworldly found him in the water after the sinking and apparently decided he was worth speaking to. He is still working out what that means. For now it sits alongside the drum and the bestiary and the cloak as things he carries that have weight he has not fully reckoned.
 
-He found [[lore/Saltwright|the *Saltwright*]] in the [[Keth-Naar]] harbour and tucked himself into the hold before anyone asked questions. He has made no contact with the crew. The captain does not know he is aboard.
+He found [[Saltwright|the *Saltwright*]] in the [[Keth-Naar]] harbour and tucked himself into the hold before anyone asked questions. He has made no contact with the crew. The captain does not know he is aboard.
 
 ---
 
@@ -127,7 +127,7 @@ What he has not yet noticed is that the chase has become the point, and that the
 
 **The _Vestra_** was his ship, his grandfather's inheritance, and his whole working life in a single hull. Gone. He is still carrying what it means.
 
-**[[lore/Saltwright|The *Saltwright*]]** is where he is now, in the hold, hidden, listening to the ship work around him.
+**[[Saltwright|The *Saltwright*]]** is where he is now, in the hold, hidden, listening to the ship work around him.
 
 ---
 

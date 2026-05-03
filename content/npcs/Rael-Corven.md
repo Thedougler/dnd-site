@@ -5,7 +5,7 @@ aliases:
 title: Rael Corven
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.076-07:00
+published: 2026-05-02T19:45:12.611-07:00
 tags:
   - npc
   - player-resource
@@ -39,20 +39,20 @@ species: human
 
 |              |                                                          |
 | ------------ | -------------------------------------------------------- |
-| **Role**     | Flag Captain, _[[Red-Lady]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
+| **Role**     | Flag Captain, _[[ships/Red-Lady\|Red Lady]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
 | **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                   |
 
 ---
 
 ## What Delmar Knows
 
-Rael captained the _[[Red-Lady]]_, the flagship. Sorcerer. He was Fisk's flag captain — the closest to the Admiral operationally of the five. He was the only captain who entered Umberlee's shrine alongside Fisk, navigating to the Pearl using Detect Magic. He was standing next to Fisk when it ended.
+Rael captained the _[[ships/Red-Lady|Red Lady]]_, the flagship. Sorcerer. He was Fisk's flag captain — the closest to the Admiral operationally of the five. He was the only captain who entered Umberlee's shrine alongside Fisk, navigating to the Pearl using Detect Magic. He was standing next to Fisk when it ended.
 
 He drowned in the Maw when Umberlee closed the water over all five ships. His soul was pressed into Delmar at the moment of sinking. Of the five captains now inside Fisk, Rael's voice is the loudest — he was there, he knows exactly what they took, and he was the last one Fisk saw before the water came in.
 
 ## Connections
 
 - [[delmar-summary|Delmar Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
-- [[Red-Lady]] — his ship; wreck at the Shelfworks descent
+- [[ships/Red-Lady|The Red Lady]] — his ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet he served
 - [[Drowned-Maw|Drowned Maw]] — where he died

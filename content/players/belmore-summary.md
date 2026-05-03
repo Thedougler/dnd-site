@@ -3,7 +3,7 @@ publish: true
 title: Belmore
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.482-07:00
+published: 2026-05-02T19:29:18.349-07:00
 tags:
   - player-character
   - pc
@@ -38,7 +38,7 @@ confidence_level: medium
 
 ## Overview
 
-**Belmore** is a tiger tabaxi fighter, shrine guardian, and traveller aboard [[lore/Saltwright|the *Saltwright*]] at the opening of the [[Shattered-Sea|Shattered Sea]] campaign. Public information about his history remains limited, but his known purpose is direct: he has been sent to understand why [[lore/Umberlee|Umberlee]] is angry and to help set the seas right.
+**Belmore** is a tiger tabaxi fighter, shrine guardian, and traveller aboard [[Saltwright|the *Saltwright*]] at the opening of the [[Shattered-Sea|Shattered Sea]] campaign. Public information about his history remains limited, but his known purpose is direct: he has been sent to understand why [[lore/Umberlee|Umberlee]] is angry and to help set the seas right.
 
 Belmore's role is practical before it is decorative. He is physically capable, difficult to dislodge, and trained for tactical combat rather than spectacle. Where many sailors survive by negotiation, flight, or hiding, Belmore appears built to hold ground.
 
@@ -82,7 +82,7 @@ Belmore's private motivations, personal history, and long-term ambitions remain 
 ## Key Relationships
 
 - **[[lore/Umberlee|Umberlee]]** — sea goddess whose anger is central to Belmore's present mission.
-- **[[lore/Saltwright|The *Saltwright*]]** — merchant brig where Belmore begins the campaign after bargaining for passage west.
+- **[[Saltwright|The *Saltwright*]]** — merchant brig where Belmore begins the campaign after bargaining for passage west.
 - **[[places/Keth-Naar|Keth-Naar]]** — port where Belmore secured passage aboard the _[[Saltwright|Saltwright]]_.
 
 ## Public Standing

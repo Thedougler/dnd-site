@@ -3,7 +3,7 @@ publish: true
 title: Rules
 created: 2026-05-01T16:53:38.314-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:03:34.844-07:00
+published: 2026-05-02T19:17:44.306-07:00
 tags:
   - player-resource
   - index
@@ -18,13 +18,18 @@ updated: 2026-05-03
 
 # Public Rules
 
-Rules references for character options, ship play, and campaign systems. Start with the rule that affects the current table question, then follow the related links.
+Rules references for ship play, character options, and campaign systems.
 
-| Rule Page | Use It For |
-| --- | --- |
-| [[rules/Ship-Stats\|Ship Stats]] | Ship tiers, vehicle statistics, crew requirements, upkeep, cargo, weapons, and nautical operations. |
-| [[rules/Ship-Bastion\|Ship Bastion]] | Shared mobile bastion rules for the party ship: facilities, turns, events, and upgrades. |
-| [[rules/Bastions\|Bastions]] | Baseline 2024 Bastion rules used underneath the ship adaptation. |
-| [[rules/Mortis\|Mortis]] | Session Zero option pairing a permanent drawback with a targeted benefit. |
+---
 
-For the broad campaign setup, see [[player-primer|The Shattered Sea Player Primer]].
+**[[rules/Ship-Stats|Ship Stats]]** — Ship tiers, vehicle stats, crew requirements, upkeep, cargo, weapons, and nautical operations. Start here if the question involves the ship doing something.
+
+**[[rules/Ship-Bastion|Ship Bastion]]** — The party ship as a shared mobile bastion: facilities, downtime turns, bastion events, and upgrades.
+
+**[[rules/Bastions|Bastions]]** — The baseline 2024 Bastion rules the ship adaptation is built on. Reference this when Ship Bastion leaves something unanswered.
+
+**[[rules/Mortis|Mortis]]** — Session Zero option. Pairs a permanent drawback with a targeted benefit. Not for everyone, but it's there.
+
+---
+
+For the broader campaign setup, see [[player-primer|The Shattered Sea Player Primer]].

@@ -5,7 +5,7 @@ aliases:
 title: The Verdant Teeth
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.091-07:00
+published: 2026-05-02T21:41:01.624-07:00
 tags:
   - location
   - islands
@@ -45,13 +45,14 @@ The trade itself is narrow but steady. The grung export carved bone, resin work,
 
 The five islands have distinct reputations. Veth is the trade face of the cluster. [[places/Sorn|Sorn]] is known for interior agriculture and guarded beach traffic. [[places/Karath|Karath]] is the one sailors give the widest berth, because boats nosing into its reef gaps are met with dart fire before anyone asks questions. [[places/Dreth|Dreth]] and [[places/Orak|Orak]] sit to the east, lower, wetter, and quieter, which should not be mistaken for safe.
 
-Coastal settlements across the [[places/Midchain|Midchain]] have noticed more raids coming from the direction of the Teeth in recent years. The Island Council has heard the complaints. For now, Veth's beach remains open for trade, Karath remains dangerous, and the canopy keeps its own counsel.
+Coastal settlements across the [[places/Midchain|Midchain]] have noticed more raids coming from the direction of the Teeth in recent years. [[Chain-Council|The Chain Council]] has heard the complaints. For now, Veth's beach remains open for trade, Karath remains dangerous, and the canopy keeps its own counsel.
 
 ---
 
 ## See Also
 
 - [[places/Midchain|The Midchain]]
+- [[Chain-Council|The Chain Council]]
 - [[places/Kalowe|Kalowe]]
 - Veth
 - [[places/Sorn|Sorn]]

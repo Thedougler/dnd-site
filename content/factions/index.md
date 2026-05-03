@@ -3,7 +3,7 @@ publish: true
 title: Factions
 created: 2026-05-02T15:58:16.218-07:00
 modified: 2026-05-03
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-02T21:41:01.623-07:00
 tags:
   - player-resource
   - index
@@ -35,6 +35,14 @@ Expect dock searches, fines, warrants, and sealed orders. If you haven't broken 
 The Concordat doesn't carry weapons. It carries ledgers. They deal in credit, contracts, insurance, and route money — the invisible infrastructure that keeps trade moving across the Sea. Debt to the Concordat has a way of becoming something more complicated than debt. It becomes leverage. It becomes politics.
 
 Their factors are unfailingly polite. The collateral clauses are buried deep.
+
+---
+
+## [[factions/Chain-Council|The Chain Council]]
+
+The Chain Council is what the [[places/Midchain|Midchain]] becomes when independent islands need to make one decision together. Every island technically belongs to the Chain, but the Council only matters when affected representatives gather in [[places/Kalowe|Kalowe]] and agree the problem is larger than any one harbour.
+
+It is slow, suspicious, and hard to command. That is the point. A Chain Council vote can move pilots, markets, privateers, and harbour bosses across the Midchain, but only if the people expected to carry the cost believe the vote was real.
 
 ---
 

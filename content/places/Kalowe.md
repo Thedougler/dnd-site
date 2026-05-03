@@ -3,7 +3,7 @@ publish: true
 title: Kalowe
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.481-07:00
+published: 2026-05-02T21:41:01.624-07:00
 tags:
   - location
   - port
@@ -38,6 +38,8 @@ Kalowe is built across three low limestone islands connected by stone causeways 
 
 There is no colonial authority here, which is not the same as no authority. The Island Council runs nine seats on a non-interference doctrine, the harbour has its own bosses and money and grudges, and enough people are watching at any given moment to keep most disputes verbal until well after dark. Missing papers are forgiven faster than missing payment. That is roughly the whole philosophy of the place.
 
+Kalowe is also the normal meeting place of [[Chain-Council|the Chain Council]], the occasional Midchain assembly that forms when independent islands need to answer a shared problem without surrendering their independence.
+
 A Dravosi vessel has been occupying the primary dry-dock berth for eleven days. Its stated stay was three. It has not left, it is not being repaired, and its crew has been asking questions on the causeways that have made the regulars quieter than usual.
 
 ---
@@ -45,5 +47,6 @@ A Dravosi vessel has been occupying the primary dry-dock berth for eleven days. 
 ## See Also
 
 - [[Midchain|The Midchain]]
+- [[Chain-Council|The Chain Council]]
 - [[places/Verdant-Teeth|The Verdant Teeth]]
 - [[places/Central-Strait|The Central Strait]]

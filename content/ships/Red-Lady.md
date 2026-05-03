@@ -5,7 +5,7 @@ aliases:
 title: The Red Lady
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T19:46:13.199-07:00
+published: 2026-05-02T21:46:17.908-07:00
 tags:
   - player-resource
   - ship
@@ -24,6 +24,8 @@ updated: 2026-05-02
 sources:
   - Homebrew
 campaign: shattered-sea
+tier: 2
+variant: armed
 ship_class: Brigantine (privateer-rigged)
 captain: "[[npcs/Rael-Corven|Rael Corven]]"
 banner: raw/assets/banners/Red-Lady.webp
@@ -40,7 +42,7 @@ banner: raw/assets/banners/Red-Lady.webp
 
 ## Overview
 
-A two-masted brigantine, 96 feet on the waterline, privateer-rigged. The hull ran dark red from waterline to rail — not painted, stained deep into the wood, uniform and deliberate. The figurehead was a cloaked woman carved in pale wood, eyes forward, one hand open at her side. Two gun decks, seven cannon ports per side, swivel mounts fore and aft.
+A two-masted brigantine, built by the [[Chain-Council]], 96 feet on the waterline, privateer-rigged. The hull ran dark red from waterline to rail — not painted, stained deep into the wood, uniform and deliberate. The figurehead was a cloaked woman carved in pale wood, eyes forward, one hand open at her side. Two gun decks, seven cannon ports per side, swivel mounts fore and aft.
 
 Built for extended independent operations: fast enough to disengage, armed enough to press, fitted for months without port resupply. She was in prime condition when she sank.
 
@@ -62,12 +64,13 @@ The five ships lost: _Red Lady_, _The Narrow_, _Heft_, _Fernen_, _Loud Argument_
 
 ---
 
-## Specifications
+## Stat Block
 
 | | |
 |---|---|
 | **Type** | Brigantine (privateer-rigged) |
 | **Tier** | 2 |
+| **Variant** | Armed |
 | **Decks** | 3 |
 | **Status** | Destroyed |
 | **Hull Points** | 230 |
@@ -75,13 +78,15 @@ The five ships lost: _Red Lady_, _The Narrow_, _Heft_, _Fernen_, _Loud Argument_
 | **Condition** | Prime (pre-wreck) |
 | **Speed (good wind)** | 90 miles/day |
 | **Speed (poor wind)** | 45 miles/day |
+| **Speed (calm)** | — |
 | **Maneuverability** | Good |
 | **Profile** | Medium |
-| **Crew (min/full/max)** | 8 / 24 / 34 |
+| **Crew (min/full)** | 8 / 24 |
 | **Cargo** | 45 tons |
 | **Gun Mounts** | 14 (7 per side) |
 | **Weapons** | 12 × Cannon; 2 × Swivel Gun (bow and stern) |
 | **Upkeep** | ~120gp/week |
+| **Available Space** | 8 units (Tier 2 maximum) |
 
 ---
 
@@ -107,3 +112,4 @@ Three decks, organized for long independent operations.
 - [[items/Pearl-of-Souls|Pearl of Souls]] — lost with the ship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]
+- [[Chain-Council]]

@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Ships
-created: 2026-05-02T19:32:49.940-07:00
+created: 2026-05-02T21:59:08.884-07:00
 modified: 2026-05-02
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-02T21:59:08.884-07:00
 tags:
   - player-resource
   - index
@@ -35,6 +35,12 @@ Vessels the party sails, has sailed, or should recognize on sight.
 **[[ships/Loud-Argument|The Loud Argument]]** — Gun brig, fifth ship of the fleet. The fleet's dedicated combat vessel. Not built to carry things.
 
 **[[ships/Vestra|The Vestra]]** — [[players/perren-summary|Perrin Black-Jaw]]'s ship. A small two-masted brig, Black-Jaw family heirloom. Destroyed before the campaign begins.
+
+**[[ships/The-Quorum|The Quorum]]** — The Chain Council's dispatch sloop.
+
+**[[ships/HCS-Constancy|HCS Constancy]]** — Dravosi Crown heavy frigate. The standard patrol vessel of the Crown fleet — the ship that was already there before the crisis. Inspects, boards, impounds.
+
+**[[ships/HCS-Ordinance|HCS Ordinance]]** — The Dravosi Crown's flagship and the largest warship in the Shattered Sea. A three-deck Ship of the Line that carries its own Admiralty Court. It does not patrol — it arrives. A speed-built cutter kept at Kalowe, used to move representatives and sealed orders between Midchain islands. No livery, no figurehead, no announcement.
 
 ---
 

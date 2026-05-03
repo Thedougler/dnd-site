@@ -6,7 +6,7 @@ aliases:
 title: The Midchain
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.481-07:00
+published: 2026-05-02T21:41:01.623-07:00
 tags:
   - location
   - region
@@ -55,7 +55,7 @@ Fresh water and shelter are rarely far away. Certainty is harder to find.
 
 The Midchain is difficult to govern from outside. Colonial powers hold strategic points and run patrol cutters through the lanes, but three centuries of trying has not produced full administration. Most of the region belongs to island councils, free ports, pilot families, market bosses, and whoever knows the reef better than whoever is chasing them.
 
-Island Councils are stronger here than anywhere else in the Scatter. They do not all agree with each other, and they do not need to. Each island has its own arrangements, its own welcome, its own price, and its own reef.
+Island councils are stronger here than anywhere else in the Scatter. They do not all agree with each other, and they do not need to. Each island has its own arrangements, its own welcome, its own price, and its own reef. When a problem reaches beyond any one island, affected representatives may gather in [[Chain-Council|the Chain Council]] at [[places/Kalowe|Kalowe]] and vote on a shared response.
 
 ---
 
@@ -113,6 +113,7 @@ The Midchain can feed a careful crew and swallow a careless one. Most routes are
 
 - [[places/Kalowe|Kalowe]]
 - [[places/Verdant-Teeth|The Verdant Teeth]]
+- [[Chain-Council|The Chain Council]]
 - [[places/Aruhe|Aruhe]]
 - [[Doldrums|The Doldrums]]
 - [[places/Central-Strait|The Central Strait]]

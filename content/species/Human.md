@@ -2,7 +2,7 @@
 publish: true
 created: 2026-04-21
 modified: 2026-04-21
-published: 2026-05-02T18:06:02.642-07:00
+published: 2026-05-02T23:35:19.583-07:00
 tags:
   - species
   - phb-2024
@@ -53,4 +53,4 @@ Humans originate from Sigil, the torus-shaped city at the center of the multiver
 ## Connections
 
 - [[Species]] — species overview and character creation rules
-- [[content/dnd/rules/Feats|Feats]] — Versatile trait grants an Origin feat; Human is the only species with this bonus
+- [[reference/rules/Feats|Feats]] — Versatile trait grants an Origin feat; Human is the only species with this bonus

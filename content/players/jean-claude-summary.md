@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T23:28:35.060-07:00
+published: 2026-05-02T23:30:50.430-07:00
 tags:
   - player-character
   - pc

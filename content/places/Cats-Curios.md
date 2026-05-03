@@ -3,16 +3,14 @@ publish: true
 title: Cat's Curios
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-03T01:11:22.048-07:00
 tags:
-  - location
-  - shop
   - calveno
   - artificer
 visibility: public
 audience: players
 summary: Referral-only artificer workshop in Calveno — no sign, no walk-ins, and the best work in the Scatter.
-type: entity
+type: place
 subtype: shop
 campaign: shattered-sea
 updated: 2026-05-02

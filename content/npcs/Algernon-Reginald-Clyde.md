@@ -6,13 +6,14 @@ aliases:
 title: Algernon Reginald Clyde
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T01:02:59.869-07:00
 tags:
   - npc
   - scholar
   - gnome
   - author
   - player-resource
+  - exemplar
 visibility: public
 audience: players
 summary: Gnome naturalist, author of Clyde's Bestiary of Oceanic Creatures, currently on book tour — four feet of impeccable dress and professionally documented contempt for every creature he has spent his life studying.
@@ -32,7 +33,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: gnome
 ---
 
 # Algernon Reginald Clyde

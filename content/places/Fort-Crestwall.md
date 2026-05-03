@@ -3,9 +3,8 @@ publish: true
 title: Fort Crestwall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.481-07:00
+published: 2026-05-03T01:12:12.398-07:00
 tags:
-  - location
   - fort
   - dravosi
   - tidefall
@@ -25,8 +24,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Fort Crestwall

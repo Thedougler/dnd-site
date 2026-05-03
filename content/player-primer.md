@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-03T00:51:00.741-07:00
 tags:
   - player-resource
 visibility: public
@@ -29,11 +29,13 @@ The sea is beautiful. The sea is expensive. The sea remembers.
 
 ## What Kind of Story Is This?
 
-[[Shattered-Sea|The Shattered Sea]] is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of unpaid debt. Merchant princes speak softly because they already own the room. Priests of [[lore/Umberlee|Umberlee]] bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
+TLDR: Seen Archer? That but Age of Sail High Magic DnD with some Renaissance punk vibes
+
+[[Shattered-Sea|The Shattered Sea]] is swashbuckling, dangerous, and a little rotten under the polish. Warships fly lacquered pennants over holds full of stolen cargo. Merchant princes speak softly because they already own the room. Priests of [[lore/Umberlee|Umberlee]] bless ships with one hand and count tribute with the other. Pirates, smugglers, clerks, monks, hunters, spies, and deserters all use the same docks because out here everyone needs passage eventually.
 
 Expect:
 
-- **Nautical exploration** across islands, reefs, storms, trenches, and ports that do not agree about who owns them.
+- **Nautical exploration** across islands, reefs, storms, trenches, and contested ports.
 - **High magic in practical hands**: enchanted instruments, divine tribute, old ruins, ship upgrades, strange species, and magic treated as part of the economy.
 - **Colonial pressure** without a clean map of good and evil. Institutions want taxes, leverage, obedience, labour, souls, or silence. Individuals inside them may want something smaller and messier.
 - **Ancient mysteries** visible at the edges: impossible stone, wrong currents, missing ships, old records, and sailors who refuse to say what they saw east of the charts.
@@ -49,7 +51,7 @@ Two hard boundaries define the Scatter. To the west, the [[Galewall|Galewall]]. 
 
 The air changes before land appears: warm, salt-heavy, green with rainforest carried over the water. Then the islands rise in pieces: pale limestone, black basalt, dark jungle, reef water bright enough to hurt your eyes, and deep channels where the colour drops away all at once.
 
-The main island chain is the **Verdant Scatter**, running between the [[Galewall|Galewall]] and the [[Drowned-Maw|Drowned Maw]] in two arcs: the larger, more administered **[[places/Crown-Islands|Crown Islands]]** to the north and the denser, harder-to-govern **[[Midchain|Midchain]]** to the south. Between them runs the **[[places/Central-Strait|Central Strait]]**, the main shipping road of the region.
+The main island chain is the **[[Verdant-Scatter|Verdant Scatter]]**, running between the [[Galewall|Galewall]] and the [[Drowned-Maw|Drowned Maw]] in two arcs: the larger, more administered **[[places/Crown-Islands|Crown Islands]]** to the north and the denser, harder-to-govern **[[Midchain|Midchain]]** to the south. Between them runs the **[[places/Central-Strait|Central Strait]]**, the main trade route of the region.
 
 ### [[Galewall|The Galewall]]
 
@@ -73,15 +75,15 @@ Publicly, the [[places/Crown-Islands|Crown Islands]] mean administration: rating
 
 [[places/Port-Tidefall|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[places/Central-Strait|Central Strait]], carved directly into the cliff face of [[places/Calders-Tooth|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[places/Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
 
-This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The Harbourmaster's Office sells charts and ratings; the [[Waveservants|Waveservants]] keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
+This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The [[Harbourmasters-Office|Harbourmaster's Office]] sells charts and ratings; the [[Waveservants|Waveservants]] keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
 
-### [[places/Calveno]]
+### [[Calveno]]
 
 ![[raw/assets/banners/Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
 
 [[places/Calveno|Calveno]] is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
 
-Everything here is visible. That is the point. Deals are witnessed, alliances are performed, and the right association seen by the right people can matter as much as the cargo itself. [[Tessarine-Concordat|The Tessarine Concordat]] has deep roots here, and the Rattkin Passage has deeper ones below.
+Everything here is visible. That is the point. Deals are witnessed, alliances are performed, and the right association seen by the right people can matter as much as the cargo itself. [[Tessarine-Concordat|The Tessarine Concordat]] has deep roots here, as does the [[Rattkin]] [[Passage|Passage]].
 
 ### [[places/Central-Strait|The Central Strait]]
 
@@ -97,23 +99,23 @@ This is the Scatter's main east-west highway. The current pushes east whether yo
 
 The southern arc is dozens of small and medium islands packed close together: limestone, coral, jungle, reef, hidden channels, and local arrangements that do not survive contact with paperwork. Most islands are a half-day's sail from the next. Fresh water, shelter, and trouble are always nearby.
 
-[[Midchain|The Midchain]] is difficult to govern from outside. Colonial powers hold strategic points and send patrols through the channels, but most of the region belongs to island councils, free ports, smugglers, pilots, family networks, and whoever knows the reef better than the person chasing them.
+[[Midchain|The Midchain]] is difficult to govern from outside. Colonial powers hold strategic points and send patrols through the channels, but most of the region belongs to island groups, free ports, smugglers, pilots, family networks, and whoever knows the reef better than the person chasing them. [[Kalowe]] as well as the [[Verdant-Teeth|Verdant Teeth]] both call the midchain home.
 
-### [[places/Kalowe]]
+### [[places/Kalowe|Kalowe]]
 
 ![[raw/assets/banners/Kalowe.webp|Harbor settlement on a low tropical island at sunset, with cranes and boats along the shore]]
 
 [[places/Kalowe|Kalowe]] is the primary [[Midchain|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
 
-If Tidefall is where papers become chains, [[places/Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
+If [[Port-Tidefall]] is where papers become chains, [[places/Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
 
 ### [[places/Verdant-Teeth|The Verdant Teeth]]
 
 ![[raw/assets/banners/Sorn.webp|Forested island with a pale beach and dense jungle rising inland]]
 
-Two days south of [[places/Kalowe|Kalowe]] sit the [[places/Verdant-Teeth|Verdant Teeth]], five closely grouped islands held by [[Grung-Clans|Grung clans]]. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
+Two days south-west of [[places/Kalowe|Kalowe]] sit the [[places/Verdant-Teeth|Verdant Teeth]], five closely grouped islands held by [[Grung-Clans|Grung clans]]. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
 
-Outsiders trade at designated beaches and stay at the waterline. The Grung touch is poisonous, their caste protocols are strict, and the coastal settlements of the [[Midchain|Midchain]] know that raid activity has worsened. Everyone has heard enough to avoid the interior. Some merchants still go to the beach.
+Outsiders trade at designated beaches and stay at the waterline. The [[Grung-Clans|Grung]] touch is poisonous, their caste protocols are strict, and the coastal settlements of the [[Midchain|Midchain]] know that raid activity has worsened. Everyone has heard enough to avoid the interior. Some merchants still go to the beach for the lucrative trade opportunities.
 
 ### [[Tail|The Tail]]
 
@@ -127,7 +129,7 @@ This is Maw-adjacent country: longline grounds, serious pilots, salvage staging,
 
 ![[raw/assets/banners/The-Drowned-Maw.webp|Vast dark blue ocean sinkhole spiraling into deep water]]
 
-To the east lies the [[Drowned-Maw|Drowned Maw]], a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. The surface can go flat in weather that should chop it to pieces. Sailors cross it regularly. Most have no trouble. The ones who do have trouble tend to become warnings rather than sources.
+To the east lies the [[Drowned-Maw|Drowned Maw]], a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. Sailors cross it regularly. Most have no trouble. The ones who do have trouble tend to become warnings rather than sources.
 
 The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] watch it from the [[places/High-Eyrie|High Eyrie]]. [[Waveservants|The Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
@@ -135,29 +137,25 @@ The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrim
 
 ![[raw/assets/banners/Sunken-Crown.webp|Circular reef atoll surrounding a dark central lagoon in open water]]
 
-East of the Maw, the charts thin out into open ocean. The Outer Reach has no colonial presence, no reliable resupply, and few landmarks a western pilot would trust. Getting there means crossing the Maw and then committing to days of open water.
+East of the Maw, the charts thin out into open ocean. The [[Outer-Reach|Outer Reach]] has no colonial presence, no reliable resupply, and few landmarks a western pilot would trust. Getting there means crossing the Maw and then committing to days of open water.
 
-The best-known region beyond is the Sunken Crown: five low islands around a deep blue hole, black stone and pale reef around water that drops too cleanly to be comfortable. It is associated with old [[lore/Umberlee|Umberlee]] worship, isolated tabaxi communities, and local navigation that outsiders routinely underestimate.
+The best-known region beyond is the [[Sunken-Crown|Sunken Crown]]: five low islands around a deep blue hole, black stone and pale reef around water that drops too cleanly to be comfortable. It is associated with old [[lore/Umberlee|Umberlee]] worship, isolated [[Tabaxi]] communities, and local navigation that outsiders routinely underestimate.
 
 ---
 
 ## Powers on the Water
 
-You don't need to know every faction before you step aboard. You need to know this: every dock has a price, every flag means something, and neutrality is usually just a business model.
+- **[[Dravosi-Crown|The Dravosi Crown]]** controls much of the [[places/Crown-Islands|Crown Islands]] through naval force, fortress ports, and a bureaucracy that treats paperwork like divine law. Resistance becomes "administrative non-compliance," and administrative non-compliance can become cannon fire once properly filed.
 
-**[[Dravosi-Crown|The Dravosi Crown]]** controls much of the [[places/Crown-Islands|Crown Islands]] through naval force, fortress ports, and a bureaucracy that treats paperwork like divine law. Their officers open a ledger before they say hello. Resistance becomes "administrative non-compliance," and administrative non-compliance can become cannon fire once properly filed.
+- **[[Tessarine-Concordat|The Tessarine Concordat]]** prefers leverage to conquest. Its factors dress plainly, speak warmly, and always know the current price of what you are carrying. They do not need to seize a city if they can own it.
 
-**[[Tessarine-Concordat|The Tessarine Concordat]]** prefers leverage to conquest. Its factors dress plainly, speak warmly, and always know the current price of what you are carrying. They do not need to seize a city if they can own it.
+- **[[Passage|The Passage]]** is the [[Rattkin]] network beneath and between the ports: runs, holds, courier routes, hidden caches, and spoken in skitter-cant, a completely silent language of nose and whisker movement.
 
-**[[Passage|The Passage]]** is the Rattkin network beneath and between the ports: runs, holds, courier routes, hidden caches, and scratch-notation no colonial clerk can read. [[Passage|The Passage]] does not appear on maps because maps are made by people who think streets are the only way through a city.
+- **[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[places/Verdant-Teeth|Verdant Teeth]] in the [[Midchain|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the slave raids have been getting worse.
 
-**[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[places/Verdant-Teeth|Verdant Teeth]] in the [[Midchain|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
+- **[[lore/Umberlee|Umberlee]] and the [[Waveservants|Waveservants]]** are the religious fact of life at sea. [[lore/Umberlee|Umberlee]], often called the Bitch Queen of the Sea, is the goddess of storms, shipwrecks, and the sea's destructive appetite. Her [[Waveservants|Waveservants]] keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
-**[[lore/Umberlee|Umberlee]] and the [[Waveservants|Waveservants]]** are the religious fact of life at sea. [[lore/Umberlee|Umberlee]], called the Bitch Queen of the Sea, is the goddess of storms, shipwrecks, and the sea's destructive appetite. Her [[Waveservants|Waveservants]] keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
-
-**[[Sentinels-Of-The-Eyrie|The Sentinels of the Eyrie]]** are an [[Aarakocra]] monastic order watching the [[Drowned-Maw|Drowned Maw]] from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
-
-**[[places/High-Eyrie|The High Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
+- **[[Sentinels-Of-The-Eyrie|The Sentinels of the Eyrie]]** are an [[Aarakocra]] monastic order watching the [[Drowned-Maw|Drowned Maw]] from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean. **[[places/High-Eyrie|The High Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
 
 ---
 
@@ -194,13 +192,11 @@ You begin at **Level 3** aboard the _[[ships/Saltwright|Saltwright]]_.
 
 ![[raw/assets/banners/Saltwright.webp|The Saltwright, a dark-sailed wooden ship crossing rough seas at dusk|730|892x502]]
 
-A hard-used two-masted merchant brig captained by **[[npcs/Beaumont-Sel|Beaumont Sel]]**, an alligator-snapping tortle who has survived eleven years on the [[Midchain|Midchain]] route by treating danger as weather: notice it early, respect it, and do not waste breath being offended by it.
+A hard-used two-masted merchant brig captained by **[[npcs/Beaumont-Sel|Beaumont Sel]]**, who offered you passage to [[Port-Tidefall]]
 
 ![[raw/assets/portraits/Beaumont-Sel.webp|Beaumont Sel, a weathered sailor gripping a ship's wheel by lantern light]]
 
-You might be a paying passenger, a working hand, a shipwrecked survivor, a stowaway, a fugitive, a pilgrim, a hired blade, a scholar with bad funding, or someone who got on the wrong boat and has decided to make that everyone else's problem.
-
-Whatever brought you aboard, the _[[Saltwright|Saltwright]]_ is where your stories collide.
+You might be a paying passenger, a working hand, a shipwrecked survivor, a stowaway, a fugitive, a pilgrim, a hired blade, a scholar with bad funding, etc. Whatever brought you aboard, the _[[Saltwright|Saltwright]]_ is where your stories collide.
 
 ---
 
@@ -235,8 +231,6 @@ Once you have a concept, schedule a short character interview with the DM. The g
 
 ---
 
----
-
-- [[index|The Shattered Sea]] — campaign hub
-- [[campaign-overview|Campaign Overview]] — geography and powers reference
-- [[factions/index|Factions]] · [[species/index|Species]] · [[rules/index|Rules]]
+- [[campaign-timeline|Campaign Timeline]]
+- [[campaign-overview|Campaign Overview]]
+- [[faq|Frequently Asked Questions]]

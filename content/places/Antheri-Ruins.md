@@ -6,19 +6,16 @@ aliases:
 title: Antheri Ruins
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.086-07:00
+published: 2026-05-03T01:10:40.517-07:00
 tags:
-  - location
   - ruins
   - antheri
   - ancient-civilization
   - maw
-  - player-resource
 visibility: public
 audience: players
 summary: Public gazetteer entry for the submerged pre-collapse ruins built into the western wall of the Drowned Maw — dark-alloy fittings, architecture built for beings that didn't need floors, and a goldrush nobody fully controls.
 type: location
-subtype: location-summary
 status: active
 campaign: shattered-sea
 relationships:
@@ -31,8 +28,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Antheri Ruins

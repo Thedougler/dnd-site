@@ -2,8 +2,8 @@
 publish: true
 title: Karath
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T17:16:22.195-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.091-07:00
 tags:
   - location
   - island
@@ -20,7 +20,7 @@ campaign: shattered-sea
 relationships:
   - relation: part_of
     target: The Midchain
-updated: 2026-05-01
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

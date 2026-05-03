@@ -5,8 +5,8 @@ aliases:
   - Captain Sel
 title: Beaumont Sel
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:22:51.594-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:06:02.641-07:00
 tags:
   - npc
   - captain
@@ -32,7 +32,7 @@ relationships:
     target: The Midchain
   - relation: based_in
     target: Kalowe
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: tortle
@@ -49,15 +49,15 @@ species: tortle
 | **Species**    | Tortle (alligator snapping)                  |
 | **Role**       | Captain, _[[Saltwright]]_                    |
 | **Home Port**  | [[Kalowe\|Kalowe]]                                       |
-| **Route**      | [[The-Midchain\|Midchain]], eleven years running               |
+| **Route**      | [[Midchain\|Midchain]], eleven years running               |
 
 ---
 
 ## Overview
 
-Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe-Secrets|Kalowe-Secrets]] working the [[Midchain-Secrets|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[Midchain-Secrets|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
+Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe|Kalowe]] working the [[Midchain|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[Midchain|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
 
-He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[Crissdalynn-Khinriss]] and [[Delmar-Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
+He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[crissdalynn-summary|Crisdalynn Khinriss]] and [[delmar-summary|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
 
 ## Appearance
 
@@ -73,13 +73,13 @@ He is not a man who talks about himself. He is a man who keeps his ship running.
 
 ## Bisou
 
-The capuchin on his shoulder is [[npcs/Bisou]], and she is not decorative. She has been riding that shoulder for the full eleven years he has run the [[Midchain-Secrets|Midchain]]. She steals his pipe regularly and shows no remorse about it. Beaumont corrects this with the weary patience of a man who has lost this argument many times.
+The capuchin on his shoulder is [[npcs/Bisou]], and she is not decorative. She has been riding that shoulder for the full eleven years he has run the [[Midchain|Midchain]]. She steals his pipe regularly and shows no remorse about it. Beaumont corrects this with the weary patience of a man who has lost this argument many times.
 
 ## Connections
 
-- **[[Saltwright]]** — his vessel; eleven years on the [[Midchain-Secrets|Midchain]]
+- **[[Saltwright]]** — his vessel; eleven years on the [[Midchain|Midchain]]
 - **[[npcs/Bisou]]** — capuchin companion; rides his left shoulder
-- **[[Crissdalynn-Khinriss]]** — pulled from the water after her fleet sank; given free passage west
-- **[[Delmar-Fisk]]** — same
+- **[[crissdalynn-summary|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
+- **[[delmar-summary|Delmar Fisk]]** — same
 - **[[Belmore]]** — first crew member; aboard before the others
-- **[[Jean-Claude-Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain-Secrets|Midchain]] island
+- **[[jean-claude-summary|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island

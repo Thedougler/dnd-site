@@ -3,7 +3,7 @@ publish: true
 title: Aarakocra
 created: 2026-04-21
 modified: 2026-04-22
-published: 2026-05-02T17:27:51.518-07:00
+published: 2026-05-02T18:00:31.102-07:00
 tags:
   - species
   - playable
@@ -35,7 +35,7 @@ _Medium Humanoid_
 
 Winged birdfolk originating from the Elemental Plane of Air, where their ancestors served the Wind Dukes of Aaqa. From below they resemble large birds; their humanoid nature becomes apparent only when standing close enough to see tool use and language. They are creatures of the sky — ground-dwellers are a curiosity to them.
 
-In the [[Shattered-Sea-Secrets|Shattered Sea]], [[Crisdalynn-Khinriss]] is a known Aarakocra. The broader presence of aarakocra in the campaign is not established — distribution and population unknown.
+In the [[Shattered-Sea|Shattered Sea]], [[Crisdalynn-Khinriss]] is a known Aarakocra. The broader presence of aarakocra in the campaign is not established — distribution and population unknown.
 
 ---
 

@@ -2,8 +2,8 @@
 publish: true
 title: Port Tidefall
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:07:22.877-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.101-07:00
 tags:
   - location
   - port
@@ -24,7 +24,7 @@ relationships:
     target: The Dravosi Crown
   - relation: contains
     target: Fort Crestwall
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

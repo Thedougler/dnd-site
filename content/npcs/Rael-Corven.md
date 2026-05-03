@@ -4,8 +4,8 @@ aliases:
   - Rael
 title: Rael Corven
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T16:52:44.071-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.076-07:00
 tags:
   - npc
   - player-resource
@@ -27,7 +27,7 @@ relationships:
     target: Fisk's Fleet
   - relation: soul_in
     target: Delmar Fisk
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: human
@@ -40,7 +40,7 @@ species: human
 |              |                                                          |
 | ------------ | -------------------------------------------------------- |
 | **Role**     | Flag Captain, _[[Red-Lady]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
-| **Status**   | Deceased — soul inside [[Delmar-Fisk]]                   |
+| **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                   |
 
 ---
 
@@ -52,7 +52,7 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 
 ## Connections
 
-- [[Delmar-Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
+- [[delmar-summary|Delmar Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
 - [[Red-Lady]] — his ship; wreck at the Shelfworks descent
 - [[Fisks-Fleet]] — the fleet he served
-- [[Drowned-Maw-Secrets]] — where he died
+- [[Drowned-Maw|Drowned Maw]] — where he died

@@ -3,7 +3,7 @@ publish: true
 title: Ship Bastion - The Shattered Sea
 created: 2026-04-17
 modified: 2026-04-17
-published: 2026-05-02T16:52:43.996-07:00
+published: 2026-05-02T18:06:02.640-07:00
 tags:
   - mechanics
   - reference
@@ -225,4 +225,4 @@ Cost: 250gp per 5-foot exterior section, same rate as RAW Defensive Walls. Mason
 
 ## Connections
 
-[[Bastions]] | [[Ship-Mechanics]] | [[Ship-Stats]] | [[Ship-Operations]] | [[Port-Tidefall-Secrets]] | [[Drowned-Maw-Secrets]] | [[Waveservants-Secrets]] | [[raw/ingested/Umberlee]]
+[[Bastions]] | [[Ship-Stats]] | [[Port-Tidefall|Port Tidefall]] | [[Drowned-Maw|Drowned Maw]] | [[Waveservants|Waveservants]] | [[lore/Umberlee|Umberlee]]

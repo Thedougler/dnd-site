@@ -4,8 +4,8 @@ aliases:
   - Crown Islands
 title: The Crown Islands
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T17:16:22.173-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.089-07:00
 tags:
   - location
   - crown-islands
@@ -23,7 +23,7 @@ relationships:
     target: The Shattered Sea
   - relation: controlled_by
     target: The Dravosi Crown
-updated: 2026-05-01
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

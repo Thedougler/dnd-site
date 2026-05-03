@@ -5,8 +5,8 @@ aliases:
   - Windfall
 title: Serafina Windfall Fisk
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T15:26:12.749-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.078-07:00
 tags:
   - npc
   - aasimar
@@ -26,7 +26,7 @@ relationships:
     target: The Duchess
   - relation: operates_in
     target: The Shattered Sea
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: aasimar
@@ -64,5 +64,5 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- **[[Delmar-Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
+- **[[delmar-summary|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
 - **[[The-Duchess|The Duchess]]** — Fisk's musket, named for her

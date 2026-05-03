@@ -2,8 +2,8 @@
 publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
-modified: 2026-05-01
-published: 2026-05-02T17:16:28.695-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.074-07:00
 tags:
   - player-resource
   - faq
@@ -13,7 +13,7 @@ summary: Public FAQ for using the Shattered Sea campaign wiki, including where t
 type: reference
 subtype: faq
 campaign: shattered-sea
-updated: 2026-05-01
+updated: 2026-05-03
 ---
 
 # Frequently Asked Questions

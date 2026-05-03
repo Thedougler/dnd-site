@@ -6,8 +6,8 @@ aliases:
   - Eyrie Sentinels
 title: Sentinels of the Eyrie
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:27:51.617-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:01:27.085-07:00
 tags:
   - faction
   - player-resource
@@ -30,7 +30,7 @@ relationships:
     target: The Waveservants
   - relation: rivals
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1
@@ -39,7 +39,7 @@ confidence_level: medium
 
 # Sentinels of the Eyrie
 
-[[High-Eyrie-Secrets]] is a basalt sea stack on the northeastern [[Crown-Islands-Secrets|Crown Islands]]. From it, the Sentinels have watched the [[Drowned-Maw-Secrets|Drowned Maw]] for roughly two hundred years.
+[[High-Eyrie]] is a basalt sea stack on the northeastern [[Crown-Islands|Crown Islands]]. From it, the Sentinels have watched the [[Drowned-Maw|Drowned Maw]] for roughly two hundred years.
 
 They are aarakocra monastics: observers, record-keepers, and aerial fighters when defense requires it. They are not a navy, church, government, scout service, or mercenary company.
 
@@ -47,8 +47,8 @@ They are aarakocra monastics: observers, record-keepers, and aerial fighters whe
 
 ## What Everyone Knows
 
-- The Sentinels are an aarakocra monastic order based at the [[High-Eyrie-Secrets|High Eyrie]].
-- They have watched the [[Drowned-Maw-Secrets|Drowned Maw]] for roughly two hundred years.
+- The Sentinels are an aarakocra monastic order based at the [[High-Eyrie|High Eyrie]].
+- They have watched the [[Drowned-Maw|Drowned Maw]] for roughly two hundred years.
 - They record what they observe and refuse to interpret it for outsiders.
 - They have declined Dravosi requests for aerial scout support.
 - They are skilled aerial fighters but do not operate as mercenaries.
@@ -61,7 +61,7 @@ The Sentinels record weather, water, drift, wrecks, storms, compass failures, sh
 
 The order records what happened. It does not add interpretation or conclusions to the record. A Sentinel may accurately describe a six-minute surface calm at a specific bearing under a west wind and decline to explain what it signifies. That is standard practice, not evasion.
 
-Researchers have sometimes been granted access to the public record at the [[High-Eyrie-Secrets|High Eyrie]], though few have the patience or context to use what they read. Entries are standardized by date, time, position, weather, water condition, observed event, duration, and circuit observer.
+Researchers have sometimes been granted access to the public record at the [[High-Eyrie|High Eyrie]], though few have the patience or context to use what they read. Entries are standardized by date, time, position, weather, water condition, observed event, duration, and circuit observer.
 
 ## Appearance and Manner
 
@@ -100,10 +100,10 @@ Known forms of pilgrimage include full Maw perimeter circuits, sustained documen
 
 | Power | Public Relationship |
 |---|---|
-| [[Dravosi-Crown-Summary\|The Dravosi Crown]] | No alliance. The Crown has requested aerial scout support and been declined. |
-| [[Tessarine-Concordat-Summary\|The Tessarine Concordat]] | No formal relationship. Concordat scholars want access to the record; the Eyrie has not commercialized it. |
-| [[Waveservants-Summary\|The Waveservants]] | Mutual restraint around the Maw. The Sentinels record; the [[Waveservants-Summary\|Waveservants]] collect and do not explain. |
-| [[The-Passage-Summary\|The Passage]] | No known institutional relationship. Rattkin routes occasionally benefit from Sentinel disinterest in port politics. |
+| [[Dravosi-Crown\|The Dravosi Crown]] | No alliance. The Crown has requested aerial scout support and been declined. |
+| [[Tessarine-Concordat\|The Tessarine Concordat]] | No formal relationship. Concordat scholars want access to the record; the Eyrie has not commercialized it. |
+| [[Waveservants\|The Waveservants]] | Mutual restraint around the Maw. The Sentinels record; the [[Waveservants\|Waveservants]] collect and do not explain. |
+| [[Passage\|The Passage]] | No known institutional relationship. Rattkin routes occasionally benefit from Sentinel disinterest in port politics. |
 | Maw-adjacent fishers and pilots | Practical respect. They do not always understand the doctrine, but they know Sentinel warnings are never casual. |
 
 ## Advice
@@ -112,7 +112,7 @@ Ask what was recorded, not what it means. A Sentinel who declines to interpret a
 
 ## See Also
 
-- [[High-Eyrie-Secrets]]
-- [[Drowned-Maw-Secrets]]
+- [[High-Eyrie]]
+- [[Drowned-Maw|Drowned Maw]]
 - [[species/Aarakocra|Aarakocra]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea|Shattered Sea]]

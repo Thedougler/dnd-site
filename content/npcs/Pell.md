@@ -4,8 +4,8 @@ aliases:
   - Pell
 title: Pell
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:40:38.884-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:06:02.641-07:00
 tags:
   - npc
   - player-resource
@@ -25,7 +25,7 @@ relationships:
     target: The Grung
   - relation: located_at
     target: Sorn
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: gnome
@@ -40,7 +40,7 @@ species: gnome
 |              |                                   |
 | ------------ | --------------------------------- |
 | **Species**  | Gnome                             |
-| **Role**     | Labour slave; [[Sorn-Secrets]]            |
+| **Role**     | Labour slave; [[Sorn]]            |
 | **Status**   | Deceased                          |
 
 ---
@@ -51,9 +51,9 @@ Slight even for a gnome. Deep-brown skin, a tight braid kept behind one ear, cal
 
 ## Who She Was
 
-Pell was a labour slave on [[Sorn-Secrets]]. Jean-Claude encountered her during census-period guard duty. Most Grung ignored her. She talked to him as if he were a person — not an authority, not a threat, not a caste above her. Just a person.
+Pell was a labour slave on [[Sorn]]. Jean-Claude encountered her during census-period guard duty. Most Grung ignored her. She talked to him as if he were a person — not an authority, not a threat, not a caste above her. Just a person.
 
-In the fragments of conversation they managed to steal between her work and his, she told him things he had never heard said aloud: that she had come from somewhere else, that the world outside the [[Verdant-Teeth-Secrets]] was full of peoples who had built differently, that there were other ways of living than the one he had been born into. She said it plainly, not as argument or sedition — just as fact. As if it were obvious.
+In the fragments of conversation they managed to steal between her work and his, she told him things he had never heard said aloud: that she had come from somewhere else, that the world outside the [[Verdant-Teeth|Verdant Teeth]] was full of peoples who had built differently, that there were other ways of living than the one he had been born into. She said it plainly, not as argument or sedition — just as fact. As if it were obvious.
 
 She never told him what to think. She just described what she had seen, and waited to see what he did with it.
 
@@ -69,7 +69,7 @@ He walked to his parents' hut on what felt like the best day of his life. He wal
 
 Thirty-one days.
 
-Pell died in a cell beneath [[Sorn-Secrets]]. Jean-Claude was already in open water, already free, already alive because her screams weren't loud enough to cross that distance.
+Pell died in a cell beneath [[Sorn]]. Jean-Claude was already in open water, already free, already alive because her screams weren't loud enough to cross that distance.
 
 She died not knowing whether he had made it. That is the only part he couldn't fix — that she died without knowing the answer.
 
@@ -77,7 +77,7 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 
 ## Connections
 
-- [[Jean-Claude-Tabarnack]] — the person who loved her; the person whose plan killed her; the person living her thesis
+- [[jean-claude-summary|Jean-Claude Tabarnack]] — the person who loved her; the person whose plan killed her; the person living her thesis
 - [[Simone-Tabarnack]] — the one who reported the escape attempt; Pell never knew her name
-- [[The-Grung]] — the system that killed her
-- [[Sorn-Secrets]] — where she lived and died
+- [[Grung-Clans|The Grung Clans]] — the system that killed her
+- [[Sorn]] — where she lived and died

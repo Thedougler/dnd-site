@@ -4,8 +4,8 @@ aliases:
   - High Eyrie
 title: The High Eyrie
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:19:51.895-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:06:02.642-07:00
 tags:
   - location
   - landmark
@@ -29,7 +29,7 @@ relationships:
     target: The Drowned Maw
   - relation: controlled_by
     target: Sentinels of the Eyrie
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1
@@ -42,7 +42,7 @@ confidence_level: medium
 
 ## Overview
 
-The High Eyrie is a 200-foot basalt sea stack at the far northeastern edge of the [[places/Crown-Islands|Crown Islands]], where the northern arc narrows toward [[places/The-Tail|the Tail]] and the water starts to feel close to the [[Drowned-Maw|Drowned Maw]]. The rock rises sheer from the sea, salt-streaked from waterline to summit. There is no dock below, no real beach, and nothing on the face worth calling a handhold.
+The High Eyrie is a 200-foot basalt sea stack at the far northeastern edge of the [[places/Crown-Islands|Crown Islands]], where the northern arc narrows toward [[places/Tail|the Tail]] and the water starts to feel close to the [[Drowned-Maw|Drowned Maw]]. The rock rises sheer from the sea, salt-streaked from waterline to summit. There is no dock below, no real beach, and nothing on the face worth calling a handhold.
 
 The [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] have lived and trained here for roughly two hundred years. They predate both Dravosi and Tessarine authority in the Scatter, and they have kept that independence. Three Dravosi administrators have tried to formalize an arrangement with the monastery. All three were politely declined.
 
@@ -109,7 +109,7 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 ## See Also
 
 - [[Drowned-Maw|The Drowned Maw]]
-- [[places/The-Tail|The Tail]]
+- [[places/Tail|The Tail]]
 - [[places/Crown-Islands|The Crown Islands]]
 - [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]
 - [[species/Aarakocra|Aarakocra]]

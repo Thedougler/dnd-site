@@ -3,7 +3,7 @@ publish: true
 title: The Baroness
 created: 2026-04-26
 modified: 2026-04-26
-published: 2026-05-02T15:26:12.755-07:00
+published: 2026-05-02T18:00:31.110-07:00
 tags:
   - item
   - weapon
@@ -27,12 +27,12 @@ source_count: 1
 
 **Rapier** · _Delmar Fisk's signature melee weapon_
 
-One of two named weapons carried by [[Delmar-Fisk]], alongside his musket [[The-Duchess]]. A rapier.
+One of two named weapons carried by [[delmar-summary|Delmar Fisk]], alongside his musket [[The-Duchess]]. A rapier.
 
 ---
 
 ## Connections
 
-- [[Delmar-Fisk]] — owner
+- [[delmar-summary|Delmar Fisk]] — owner
 - [[The-Duchess]] — paired weapon
-- [[raw/ingested/Rapier]] — base weapon type
+- [[Rapier]] — base weapon type

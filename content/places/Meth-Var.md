@@ -4,8 +4,8 @@ aliases:
   - Eastern Gate
 title: Meth-Var
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:13:37.238-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.095-07:00
 tags:
   - location
   - island
@@ -24,7 +24,7 @@ relationships:
     target: The Sunken Crown
   - relation: associated_with
     target: Keth-Naar
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

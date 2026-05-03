@@ -2,8 +2,8 @@
 publish: true
 title: Sorn
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:16:22.191-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.091-07:00
 tags:
   - location
   - island
@@ -22,7 +22,7 @@ relationships:
     target: Verdant Teeth
   - relation: controlled_by
     target: The Grung Clans
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

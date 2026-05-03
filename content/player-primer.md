@@ -2,8 +2,8 @@
 publish: true
 title: Player Primer
 created: 2026-04-29
-modified: 2026-05-02
-published: 2026-05-02T17:16:40.433-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.076-07:00
 tags:
   - player-resource
 visibility: public
@@ -12,7 +12,7 @@ summary: Public player primer for the Shattered Sea campaign, a high-magic nauti
 type: reference
 subtype: player-facing
 campaign: shattered-sea
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # Shattered Sea Player Primer
@@ -131,7 +131,7 @@ To the east lies the [[Drowned-Maw|Drowned Maw]], a vast deep-sea trench where c
 
 The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[Sentinels-Of-The-Eyrie#What Everyone Knows|Sentinels of the Eyrie]] watch it from the [[High-Eyrie#What Everyone Knows|High Eyrie]]. [[Waveservants|The Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
-### [[places/Outer-Reach|The Outer Reach]] and [[Sunken-Crown-Secrets|Sunken Crown]]
+### [[places/Outer-Reach|The Outer Reach]] and [[Sunken-Crown|Sunken Crown]]
 
 ![[raw/assets/banners/Sunken-Crown.webp]]
 
@@ -149,7 +149,7 @@ You don't need to know every faction before you step aboard. You need to know th
 
 **[[Tessarine-Concordat|The Tessarine Concordat]]** prefers leverage to conquest. Its factors dress plainly, speak warmly, and always know the current price of what you are carrying. They do not need to seize a city if they can own it.
 
-**[[Passage-Secrets|The Passage]]** is the Rattkin network beneath and between the ports: runs, holds, courier routes, hidden caches, and scratch-notation no colonial clerk can read. [[Passage|The Passage]] does not appear on maps because maps are made by people who think streets are the only way through a city.
+**[[Passage|The Passage]]** is the Rattkin network beneath and between the ports: runs, holds, courier routes, hidden caches, and scratch-notation no colonial clerk can read. [[Passage|The Passage]] does not appear on maps because maps are made by people who think streets are the only way through a city.
 
 **[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[places/Verdant-Teeth|Verdant Teeth]] in the [[Midchain|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the raids have been getting worse. Everyone also knows some merchants keep buying.
 
@@ -246,5 +246,5 @@ Once you have a concept, schedule a short character interview with the DM. The g
 - [[Tabaxi]]
 - [[Aarakocra]]
 - [[lore/Umberlee|Umberlee and the Waveservants]]
-- [[Passage-Secrets]]
+- [[Passage|The Passage]]
 - [[Grung-Clans]]

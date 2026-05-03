@@ -4,8 +4,8 @@ aliases:
   - Maren
 title: Maren
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T16:52:44.065-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.080-07:00
 tags:
   - npc
   - player-resource
@@ -27,7 +27,7 @@ relationships:
     target: Fisk's Fleet
   - relation: soul_in
     target: Delmar Fisk
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: water-genasi
@@ -41,7 +41,7 @@ species: water-genasi
 | ------------ | ---------------------------------------------------------- |
 | **Species**  | Water Genasi                                               |
 | **Role**     | Captain, _[[Narrow]]_; [[Fisks-Fleet\|Fisk's Fleet]]       |
-| **Status**   | Deceased — soul inside [[Delmar-Fisk]]                     |
+| **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                     |
 
 ---
 
@@ -53,7 +53,7 @@ She was outside the cave when the fleet sank. She drowned in the Maw when Umberl
 
 ## Connections
 
-- [[Delmar-Fisk]] — Admiral; carries Maren's soul
+- [[delmar-summary|Delmar Fisk]] — Admiral; carries Maren's soul
 - [[Narrow]] — her ship; wreck at the Shelfworks descent
 - [[Fisks-Fleet]] — the fleet she served
-- [[Drowned-Maw-Secrets]] — where she died
+- [[Drowned-Maw|Drowned Maw]] — where she died

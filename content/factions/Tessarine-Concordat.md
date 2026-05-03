@@ -6,8 +6,8 @@ aliases:
   - Concordat
 title: The Tessarine Concordat
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:31:25.950-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:01:27.086-07:00
 tags:
   - faction
   - player-resource
@@ -29,7 +29,7 @@ relationships:
     target: The Shelfworks
   - relation: allies
     target: The Passage
-updated: 2026-05-02
+updated: 2026-05-03
 revised: 2026-05-02
 sources:
   - Homebrew
@@ -41,9 +41,9 @@ confidence_level: medium
 
 > The Concordat does not conquer. It lends. By the time a city notices, the vote is already theirs.
 
-The Tessarine Concordat is one of the major colonial powers of the [[Shattered-Sea-Secrets|Shattered Sea]]. It operates through credit, contracts, insurance, route underwriting, and trade dependency rather than open occupation. Its flags are less visible than its ledgers.
+The Tessarine Concordat is one of the major colonial powers of the [[Shattered-Sea|Shattered Sea]]. It operates through credit, contracts, insurance, route underwriting, and trade dependency rather than open occupation. Its flags are less visible than its ledgers.
 
-The Concordat arrived in the [[Shattered-Sea-Secrets|Shattered Sea]] in 1210 DR and learned the region faster than powers that began by planting flags. It lent money to people who already had flags, ships, warehouses, council seats, and problems. In ports where it has operated for long enough, Concordat influence rarely looks like conquest one contract at a time. It looks like necessity.
+The Concordat arrived in the [[Shattered-Sea|Shattered Sea]] in 1210 DR and learned the region faster than powers that began by planting flags. It lent money to people who already had flags, ships, warehouses, council seats, and problems. In ports where it has operated for long enough, Concordat influence rarely looks like conquest one contract at a time. It looks like necessity.
 
 ---
 
@@ -74,7 +74,7 @@ The Concordat rarely says no. It says yes with terms.
 
 ## Calveno Foothold
 
-[[Calveno-Secrets]] is the Concordat's strongest position in the northern arc. The city already believes in witnessed transactions, public association, and the power of being seen with the right people. Tessarine commerce fits that culture perfectly: every meeting visible, every term recorded, every handshake later translated into enforceable paper.
+[[Calveno]] is the Concordat's strongest position in the northern arc. The city already believes in witnessed transactions, public association, and the power of being seen with the right people. Tessarine commerce fits that culture perfectly: every meeting visible, every term recorded, every handshake later translated into enforceable paper.
 
 The Seven Houses Council currently sits at a four-to-three Tessarine-aligned deadlock. That does not mean four Houses are loyal to the Concordat. Loyalty is too sentimental a word. It means four Houses owe enough, benefit enough, or fear enough disruption that Tessarine proposals pass unless the three holdouts can make refusal profitable.
 
@@ -86,23 +86,23 @@ Tessarine trade houses are offices, courts, banks, and intelligence posts preten
 
 Factors cultivate plainness. Good fabric, plain cut, no decoration that announces wealth. The performance says: this is not vanity, this is arithmetic. They extend credit with warmth and collect without malice. It is not personal. That is what makes it worse.
 
-The [[Tessarine-Trade-House-Tidefall-Secrets|Port Tidefall trade house]] is a smaller office on the Shelf, useful because Crown law recognizes enough Concordat commercial practice to make Tessarine contracts enforceable even in Dravosi territory.
+The [[Tessarine-Trade-House-Tidefall|Port Tidefall trade house]] is a smaller office on the Shelf, useful because Crown law recognizes enough Concordat commercial practice to make Tessarine contracts enforceable even in Dravosi territory.
 
 ## Salvage and the Shelfworks
 
-The Concordat wants the [[Shelfworks-Secrets|Shelfworks]] because Antheri salvage is the rare kind of asset that can create new dependency rather than merely capture old debt. Intact Antheri structural pieces, instruments, and alloys command prices no ordinary cargo can match. Whoever controls the contracts around recovery, authentication, transport, and resale controls the gold rush without needing to anchor a warship over the dive site.
+The Concordat wants the [[Shelfworks|Shelfworks]] because Antheri salvage is the rare kind of asset that can create new dependency rather than merely capture old debt. Intact Antheri structural pieces, instruments, and alloys command prices no ordinary cargo can match. Whoever controls the contracts around recovery, authentication, transport, and resale controls the gold rush without needing to anchor a warship over the dive site.
 
-Tessarine purchase orders already exist for intact Antheri pieces. Factors maintain early records of the upper shelf layout, salvage manifests, and lists of crews willing to work dangerous depths. They do not control the [[Shelfworks-Secrets|Shelfworks]]. They are trying to make sure that, when someone else brings treasure up, the paperwork already knows where it belongs.
+Tessarine purchase orders already exist for intact Antheri pieces. Factors maintain early records of the upper shelf layout, salvage manifests, and lists of crews willing to work dangerous depths. They do not control the [[Shelfworks|Shelfworks]]. They are trying to make sure that, when someone else brings treasure up, the paperwork already knows where it belongs.
 
 ## Relationships
 
 | Power | Public Relationship |
 |---|---|
-| [[Dravosi-Crown-Summary\|The Dravosi Crown]] | Rival colonial power. Both recognize enough of each other's commercial law to weaponize it. |
-| [[The-Passage-Summary\|The Passage]] | No official recognition. Concordat factors are rumored to use Rattkin couriers for documents that should not appear in ordinary channels. |
-| [[Calveno-Secrets]]'s Seven Houses | Entangled through debt, trade access, and council arithmetic. |
+| [[Dravosi-Crown\|The Dravosi Crown]] | Rival colonial power. Both recognize enough of each other's commercial law to weaponize it. |
+| [[Passage\|The Passage]] | No official recognition. Concordat factors are rumored to use Rattkin couriers for documents that should not appear in ordinary channels. |
+| [[Calveno]]'s Seven Houses | Entangled through debt, trade access, and council arithmetic. |
 | [[Antherian]] salvage market | Purchase orders, authentication interest, and recovery financing. |
-| [[Midchain-Secrets]] | Commercial target; harder to own because local governance runs on relationships rather than paper. |
+| [[Midchain\|Midchain]] | Commercial target; harder to own because local governance runs on relationships rather than paper. |
 
 ## Daily Texture
 
@@ -110,15 +110,15 @@ Tessarine power sounds softer than Dravosi power. No morning gun. No boots on pl
 
 People leave Tessarine meetings relieved more often than frightened. Relief is dangerous. Relief makes the first signature easy. The second signature feels responsible. By the third, the Concordat is not a lender anymore. It is a condition of the room.
 
-Tessarine slang in [[Calveno-Secrets|Calveno-Secrets]] treats debt like weather. A bad note is "low pressure." A House under too much leverage is "taking water." A factor who has gone quiet is "waiting for the tide." Nobody says owned in public. They say aligned.
+Tessarine slang in [[Calveno]] treats debt like weather. A bad note is "low pressure." A House under too much leverage is "taking water." A factor who has gone quiet is "waiting for the tide." Nobody says owned in public. They say aligned.
 
 ## What Everyone Knows
 
 - The Concordat prefers debt to conquest.
 - Tessarine paper travels well and is honored in more ports than most local currencies.
 - Factors always know more about cargo values, route risk, and local debt than they admit.
-- [[Calveno-Secrets|Calveno-Secrets]] is the Concordat's strongest foothold in the [[Crown-Islands-Secrets|Crown Islands]].
-- Four of [[Calveno-Secrets|Calveno-Secrets]]'s Seven Houses currently vote Tessarine-aligned often enough to shape the Council.
+- [[Calveno]] is the Concordat's strongest foothold in the [[Crown-Islands|Crown Islands]].
+- Four of [[Calveno]]'s Seven Houses currently vote Tessarine-aligned often enough to shape the Council.
 - Concordat contracts can be fair in the short term and disastrous once inherited, bundled, or cross-collateralized.
 - The Concordat and the [[Dravosi-Crown|Dravosi Crown]] are rivals, but a debtor can be trapped by both systems at once.
 
@@ -128,16 +128,16 @@ Read the full contract before signing, including inheritance and collateral clau
 
 ## Connections
 
-- [[Calveno-Secrets]] — primary Concordat foothold; factor building anchors the Mercatura
+- [[Calveno]] — primary Concordat foothold; factor building anchors the Mercatura
 - [[Dravosi-Crown|The Dravosi Crown]] — rival colonial power
-- [[Tessarine-Trade-House-Tidefall-Secrets]] — [[Port-Tidefall-Secrets|Port Tidefall]] office
+- [[Tessarine-Trade-House-Tidefall]] — [[Port-Tidefall|Port Tidefall]] office
 - [[Passage|The Passage]] — off-record courier rumors
-- [[Shelfworks-Secrets]] — Antheri salvage interest
+- [[Shelfworks|Shelfworks]] — Antheri salvage interest
 - [[Antherian]] — salvage market
-- [[Midchain-Secrets]] — commercial target
-- [[Shattered-Sea-Secrets]] — wider region of Concordat ambition
-- [[Galewall-Secrets]] — route to the Concordat homeland beyond the known Scatter
+- [[Midchain|Midchain]] — commercial target
+- [[Shattered-Sea|Shattered Sea]] — wider region of Concordat ambition
+- [[Galewall]] — route to the Concordat homeland beyond the known Scatter
 - [[Tessarine-Silkvane]] — Concordat-registered vessel
-- [[raw/ingested/Leviathan]] — bounty interest
+- Leviathan — bounty interest
 - [[Waukeen]] — commercial religious frame
 - [[Shattered-Sea-Pantheon]] — wider religious context

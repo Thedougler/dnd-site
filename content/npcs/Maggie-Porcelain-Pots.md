@@ -5,8 +5,8 @@ aliases:
   - Maggie
 title: Maggie Porcelain Pots
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T15:26:12.750-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.080-07:00
 tags:
   - npc
   - dragonborn
@@ -21,7 +21,7 @@ campaign: shattered-sea
 relationships:
   - relation: associated_with
     target: Delmar Atticus Fisk
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: dragonborn
@@ -60,4 +60,4 @@ She is currently expanding the operation and scouting locations on other islands
 
 ## Connections
 
-- **[[Delmar-Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record
+- **[[delmar-summary|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record

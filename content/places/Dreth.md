@@ -4,8 +4,8 @@ aliases:
   - Dreth Island
 title: Dreth
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T16:50:58.045-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.101-07:00
 tags:
   - location
   - island
@@ -25,7 +25,7 @@ relationships:
     target: Verdant Teeth
   - relation: adjacent_to
     target: Orak
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

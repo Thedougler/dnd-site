@@ -3,7 +3,7 @@ publish: true
 title: The Mortis
 created: 2026-04-13
 modified: 2026-04-13
-published: 2026-05-02T15:26:12.753-07:00
+published: 2026-05-02T18:00:31.105-07:00
 tags:
   - rules
   - homebrew
@@ -110,8 +110,8 @@ The Mark goes on the character sheet as a standard mechanical note. Disadvantage
 
 ## Connections
 
-- [[Perrin-Black-Jaw]] — Mortis: Strength disadv. / +2 Charisma
-- [[Jean-Claude-Tabarnack]] — Mortis: Persuasion + Deception disadv. / Perception + Survival adv.
+- [[perren-summary|Perrin Black-Jaw]] — Mortis: Strength disadv. / +2 Charisma
+- [[jean-claude-summary|Jean-Claude Tabarnack]] — Mortis: Persuasion + Deception disadv. / Perception + Survival adv.
 
 ## Rule Text
 

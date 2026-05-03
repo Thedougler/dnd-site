@@ -6,8 +6,8 @@ aliases:
   - Grung
 title: The Grung Clans
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:40:38.882-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.106-07:00
 tags:
   - faction
   - player-resource
@@ -30,7 +30,7 @@ relationships:
     target: The Passage
   - relation: rivals
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1
@@ -39,7 +39,7 @@ confidence_level: medium
 
 # The Grung Clans
 
-Two days south of [[Kalowe-Secrets]], the [[Verdant-Teeth-Secrets]] rise from the [[Midchain-Secrets|Midchain]] as reef, beach, and rainforest. The interiors belong to the Grung.
+Two days south of [[Kalowe|Kalowe]], the [[Verdant-Teeth|Verdant Teeth]] rise from the [[Midchain|Midchain]] as reef, beach, and rainforest. The interiors belong to the Grung.
 
 The Grung are poisonous amphibious folk whose skin colour marks caste and station. They are not a single crown or council but a collection of clans operating under the same colour-caste order. Trade with outsiders takes place at the waterline. The interior is not open to visitors.
 
@@ -78,7 +78,7 @@ Trade with the Grung takes place at designated beaches, primarily on Veth's west
 
 Goods leaving Grung territory include carved bone, resin objects, plant pigments, alchemical specimens, and materials difficult to source elsewhere. Goods entering include preserved food, worked timber, plant materials for poison-crafting, salvaged metal, rope, and tools.
 
-Grung trade goods move through [[Kalowe-Secrets]]'s markets with little public scrutiny. [[Kalowe-Secrets|Kalowe-Secrets]]'s Council does not usually acknowledge where they come from.
+Grung trade goods move through [[Kalowe|Kalowe]]'s markets with little public scrutiny. [[Kalowe|Kalowe]]'s Council does not usually acknowledge where they come from.
 
 ---
 
@@ -86,7 +86,7 @@ Grung trade goods move through [[Kalowe-Secrets]]'s markets with little public s
 
 The Grung use enslaved labour. Slaves are taken in night raids on neighbouring island coasts, acquired through coastal exchange, or, rarely, assigned through internal punishment. Blue-caste Grung are primarily responsible for scouting, acquisition, and handling.
 
-Raid activity in the [[Midchain-Secrets|Midchain]] has increased over the last two years. Settlements previously out of range have been hit, coastal camps near the Teeth have pulled back from shore, and some trade routes now carry advisories.
+Raid activity in the [[Midchain|Midchain]] has increased over the last two years. Settlements previously out of range have been hit, coastal camps near the Teeth have pulled back from shore, and some trade routes now carry advisories.
 
 ---
 
@@ -108,7 +108,7 @@ The [[Dravosi-Crown|Dravosi Crown]] has begun treating Grung raids as a security
 
 ## What Midchain Locals Know
 
-- Do not go inland on any of the [[Verdant-Teeth-Secrets|Verdant Teeth]].
+- Do not go inland on any of the [[Verdant-Teeth|Verdant Teeth]].
 - The west beach on Veth is where trade happens. Bring what was arranged and do not bring extra people.
 - Grung touch is poisonous.
 - The raids have been getting worse.

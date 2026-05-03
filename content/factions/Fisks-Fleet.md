@@ -5,8 +5,8 @@ aliases:
   - The Fleet
 title: Fisk's Fleet
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:31:25.950-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.109-07:00
 tags:
   - faction
   - player-resource
@@ -26,7 +26,7 @@ relationships:
     target: Delmar Fisk
   - relation: destroyed_at
     target: The Drowned Maw
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1
@@ -37,7 +37,7 @@ confidence_level: medium
 
 _Five ships, five captains, one commission. Umberlee took all of them in under a minute._
 
-A five-ship independent privateer fleet operating under Rear Admiral [[Delmar-Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw-Secrets|Drowned Maw]]. [[Delmar-Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.
+A five-ship independent privateer fleet operating under Rear Admiral [[delmar-summary|Delmar Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw|Drowned Maw]]. [[delmar-summary|Delmar Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.
 
 ---
 
@@ -45,10 +45,10 @@ A five-ship independent privateer fleet operating under Rear Admiral [[Delmar-Fi
 
 | Ship                      | Captain          |
 | ------------------------- | ---------------- |
-| [[Red-Lady]] _(flagship)_ | [[Rael-Corven-Secrets]]  |
-| [[Narrow]]                | [[Maren-Secrets]]        |
-| [[Heft]]                  | [[Detto-Kalash-Secrets]] |
-| [[Fernen]]                | [[Sienne-Orre-Secrets]]  |
+| [[Red-Lady]] _(flagship)_ | [[Rael-Corven]]  |
+| [[Narrow]]                | [[Maren]]        |
+| [[Heft]]                  | [[Detto-Kalash]] |
+| [[Fernen]]                | [[Sienne-Orre]]  |
 | [[Loud-Argument]]         | Bastian Crev     |
 
 ## What Happened
@@ -59,6 +59,6 @@ The wrecks lie somewhere in the Maw. Their exact position is unknown to the worl
 
 ## See Also
 
-- [[Delmar-Fisk]]
-- [[Drowned-Maw-Secrets]]
-- [[Shelfworks-Secrets]]
+- [[delmar-summary|Delmar Fisk]]
+- [[Drowned-Maw|Drowned Maw]]
+- [[Shelfworks|Shelfworks]]

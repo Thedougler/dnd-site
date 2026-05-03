@@ -3,7 +3,7 @@ publish: true
 title: Ship Stats - The Shattered Sea
 created: 2026-04-17
 modified: 2026-04-17
-published: 2026-05-02T15:26:12.754-07:00
+published: 2026-05-02T18:06:02.640-07:00
 tags:
   - mechanics
   - reference
@@ -28,7 +28,7 @@ summary: Player-facing reference for Shattered Sea ship tiers, vehicle statistic
 
 # Ship Stats — The Shattered Sea
 
-> Tiers, vehicle stats, crew roles, and minimum crew. Part of [[Ship-Mechanics]].
+> Tiers, vehicle stats, crew roles, and minimum crew for Shattered Sea ship play.
 
 ---
 
@@ -51,7 +51,7 @@ Used/prize vessels cost 40–60% of new. A Tier 1 ship is attainable in early pl
 Vehicle stat blocks: 2024 DMG. Relevant stats:
 
 - **Hull Points** and **AC**: From the vehicle stat block.
-- **Speed**: In miles per day (see [[Ship-Operations]] — Travel section).
+- **Speed**: In miles per day for travel and chase adjudication.
 - **Condition**: Pristine / Worn / Damaged / Wrecked — tracked narratively, with mechanical effects applied when relevant.
 
 For repair costs and times, use the vehicle repair rules in the 2024 DMG.
@@ -93,4 +93,4 @@ The minimum crew fills all required roles and provides enough ordinary sailors t
 
 ## Connections
 
-[[Ship-Mechanics]] | [[Ship-Operations]] | [[Ship-Bastion]]
+[[Ship-Stats]] | [[Ship-Bastion]]

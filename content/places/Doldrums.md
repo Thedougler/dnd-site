@@ -2,8 +2,8 @@
 publish: true
 title: The Doldrums
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T17:16:28.725-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.090-07:00
 tags:
   - location
   - sea-hazard
@@ -20,7 +20,7 @@ relationships:
     target: The Shattered Sea
   - relation: near
     target: The Drowned Maw
-updated: 2026-05-01
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

@@ -2,8 +2,8 @@
 publish: true
 title: Calveno
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T17:16:46.392-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.094-07:00
 tags:
   - location
   - city
@@ -24,7 +24,7 @@ relationships:
     target: The Tessarine Concordat
   - relation: contains
     target: The Warren
-updated: 2026-05-01
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

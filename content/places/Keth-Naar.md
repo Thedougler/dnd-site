@@ -2,8 +2,8 @@
 publish: true
 title: Keth-Naar
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:03:32.440-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.093-07:00
 tags:
   - location
   - settlement
@@ -20,7 +20,7 @@ campaign: shattered-sea
 relationships:
   - relation: part_of
     target: The Midchain
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

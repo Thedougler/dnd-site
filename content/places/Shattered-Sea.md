@@ -6,8 +6,8 @@ aliases:
   - Scatter
 title: The Shattered Sea
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:29:55.065-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.100-07:00
 tags:
   - location
   - region
@@ -31,7 +31,7 @@ relationships:
     target: The Galewall
   - relation: bounded_by
     target: The Drowned Maw
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

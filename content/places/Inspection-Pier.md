@@ -5,8 +5,8 @@ aliases:
   - The Inspection Pier
 title: The Inspection Pier
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:23:05.827-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.085-07:00
 tags:
   - location
   - building
@@ -28,7 +28,7 @@ relationships:
     target: Harbourmaster's Office
   - relation: controlled_by
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

@@ -6,8 +6,8 @@ aliases:
   - Hook and Ledger
 title: The Hook & Ledger
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:21:46.159-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.088-07:00
 tags:
   - location
   - building
@@ -29,7 +29,7 @@ relationships:
     target: Harbourmaster's Office
   - relation: near
     target: South Harbour Impound
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

@@ -2,8 +2,8 @@
 publish: true
 title: Kalowe
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:16:22.175-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.088-07:00
 tags:
   - location
   - port
@@ -21,7 +21,7 @@ relationships:
     target: The Midchain
   - relation: part_of
     target: The Midchain
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

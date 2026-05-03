@@ -4,8 +4,8 @@ aliases:
   - Verdant Teeth
 title: The Verdant Teeth
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:44:51.678-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.091-07:00
 tags:
   - location
   - islands
@@ -26,7 +26,7 @@ relationships:
     target: The Grung Clans
   - relation: near
     target: Kalowe
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

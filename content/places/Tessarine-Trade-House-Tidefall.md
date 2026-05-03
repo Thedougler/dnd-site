@@ -5,8 +5,8 @@ aliases:
   - Concordat Trade House — Tidefall
 title: Tessarine Trade House — Port Tidefall
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:11:40.800-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.089-07:00
 tags:
   - location
   - building
@@ -25,7 +25,7 @@ relationships:
     target: Port Tidefall
   - relation: controlled_by
     target: The Tessarine Concordat
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

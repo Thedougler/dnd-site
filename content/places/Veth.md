@@ -4,8 +4,8 @@ aliases:
   - Veth Island
 title: Veth
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:46:54.622-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.101-07:00
 tags:
   - location
   - island
@@ -28,7 +28,7 @@ relationships:
     target: The Grung Clans
   - relation: trade_route_to
     target: Kalowe
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
   - raw/ingested/2026-04-13-simone-tabarnack-npc-2.md

@@ -4,8 +4,8 @@ aliases:
   - Simone
 title: Simone Tabarnack
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:40:38.883-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:06:02.642-07:00
 tags:
   - npc
   - grung
@@ -26,7 +26,7 @@ relationships:
     target: The Grung
   - relation: located_in
     target: Sorn
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 species: grung
@@ -40,13 +40,13 @@ species: grung
 | ------------ | ------------------------------------------------------------------- |
 | **Species**  | Grung (Purple Caste)                                                |
 | **Role**     | Garrison soldier, Botukuri clan; Sorn                               |
-| **Location** | [[Sorn-Secrets]], [[Verdant-Teeth-Secrets\|Verdant Teeth]]                          |
+| **Location** | [[Sorn]], [[Verdant-Teeth\|Verdant Teeth]]                          |
 
 ---
 
 ## Overview
 
-Simone Tabarnack is [[Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[Sorn-Secrets]] when Jean-Claude left.
+Simone Tabarnack is [[Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[Sorn]] when Jean-Claude left.
 
 She is the one who told their parents about Pell.
 
@@ -62,7 +62,7 @@ She was younger than him and always more certain. Where he questioned the system
 
 ## Connections
 
-- [[Jean-Claude-Tabarnack]] — her older brother; the one who ran
-- [[Sorn-Secrets]] — her garrison post and home island
-- [[The-Grung]] — the clan and caste structure she serves
-- [[Verdant-Teeth-Secrets]] — the island cluster she operates from
+- [[jean-claude-summary|Jean-Claude Tabarnack]] — her older brother; the one who ran
+- [[Sorn]] — her garrison post and home island
+- [[Grung-Clans|The Grung Clans]] — the clan and caste structure she serves
+- [[Verdant-Teeth|Verdant Teeth]] — the island cluster she operates from

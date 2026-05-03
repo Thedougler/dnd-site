@@ -4,8 +4,8 @@ aliases:
   - The Tidefall Chandlery
 title: Tidefall Chandlery
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:37:23.391-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.092-07:00
 tags:
   - location
   - building
@@ -28,7 +28,7 @@ relationships:
     target: The Shelf
   - relation: sanctioned_by
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

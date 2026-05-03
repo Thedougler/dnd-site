@@ -6,7 +6,7 @@ aliases:
 title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-04-22
-published: 2026-05-02T17:27:51.590-07:00
+published: 2026-05-02T18:00:31.110-07:00
 tags:
   - item
   - reference-text
@@ -28,7 +28,7 @@ gravity_sources:
   Kaden: 3
 rarity: common
 requires_attunement: false
-current_holder: "[[Perrin-Black-Jaw]]"
+current_holder: "[[perren-summary|Perrin Black-Jaw]]"
 summary: Clyde's Volume II naturalist survey of oceanic fauna — Perrin's copy, margins annotated.
 tag_line: Clyde's Volume II naturalist survey of oceanic fauna — Perrin's copy, margins annotated.
 subtype: item
@@ -44,9 +44,9 @@ _Common Item_
 
 ## Description
 
-Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald-Reginald-Clyde-Secrets|Algernon Reginald Clyde]]. Covers appearance, behaviour, habitat, and practical identification for maritime creatures. The author's contempt for his subject matter is evident throughout and is, by reader consensus, an improvement over other texts in the genre.
+Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]. Covers appearance, behaviour, habitat, and practical identification for maritime creatures. The author's contempt for his subject matter is evident throughout and is, by reader consensus, an improvement over other texts in the genre.
 
-[[Perrin-Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
+[[perren-summary|Perrin Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
 
 ---
 
@@ -76,7 +76,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald
 
 ### Ch.7 - Welak
 
-> _Look at the churning currents of the [[Shattered-Sea-Secrets|Shattered Sea]]. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
+> _Look at the churning currents of the [[Shattered-Sea|Shattered Sea]]. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
 >
 > \*When it hunts, it executes a calculated atrocity. It rakes its immense scythe across the hulls of our fragile vessels with the mechanical precision of an industrial press, dragging crippled ships and screaming men down into the abyss. This beast possesses a profound, predatory intellect; it knows the ship is merely a floating tin of meat. They have been known to launch their massive bulk alongside panicked crews, using that hooked appendage to tear down rigging or pluck sailors directly into the dark. In its black eye, there is no wondrous majesty—only the inescapable truth that we are not the masters of the water, but simply the harvest.
 
@@ -92,9 +92,9 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald
 
 _Common item. No attunement required. Non-magical._
 
-A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[Perrin-Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[private/monsters/Leviathan]]).
+A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[perren-summary|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[private/monsters/Leviathan]]).
 
 ## Connections
 
-- [[Argibald-Reginald-Clyde-Secrets|Algernon Reginald Clyde]] — author
-- [[Perrin-Black-Jaw]] — current holder
+- [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]] — author
+- [[perren-summary|Perrin Black-Jaw]] — current holder

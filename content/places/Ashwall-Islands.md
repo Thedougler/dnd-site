@@ -2,8 +2,8 @@
 publish: true
 title: Ashwall Islands
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T17:16:28.620-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.094-07:00
 tags:
   - location
   - islands
@@ -21,7 +21,7 @@ relationships:
     target: The Shattered Sea
   - relation: near
     target: The Galewall
-updated: 2026-05-01
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

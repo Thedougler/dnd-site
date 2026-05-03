@@ -3,7 +3,7 @@ publish: true
 title: The Duchess
 created: 2026-04-26
 modified: 2026-04-26
-published: 2026-05-02T15:26:12.755-07:00
+published: 2026-05-02T18:00:31.109-07:00
 tags:
   - item
   - weapon
@@ -27,12 +27,12 @@ source_count: 1
 
 **Musket** · _Delmar Fisk's signature ranged weapon_
 
-One of two named weapons carried by [[Delmar-Fisk]], alongside his rapier [[The-Baroness]]. A musket.
+One of two named weapons carried by [[delmar-summary|Delmar Fisk]], alongside his rapier [[The-Baroness]]. A musket.
 
 ---
 
 ## Connections
 
-- [[Delmar-Fisk]] — owner
+- [[delmar-summary|Delmar Fisk]] — owner
 - [[The-Baroness]] — paired weapon
-- [[raw/ingested/Musket]] — base weapon type
+- [[Musket]] — base weapon type

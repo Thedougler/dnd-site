@@ -5,8 +5,8 @@ aliases:
   - The Shelfworks
 title: The Shelfworks
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:33:23.795-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.087-07:00
 tags:
   - location
   - ruins
@@ -32,7 +32,7 @@ relationships:
     target: The Tessarine Concordat
   - relation: contested_by
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
   - raw/antheri-species-expanded.md

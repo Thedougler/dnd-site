@@ -2,8 +2,8 @@
 publish: true
 title: The Shattered Sea
 created: 2026-05-02T00:52:50.920-07:00
-modified: 2026-05-02
-published: 2026-05-02T17:16:28.579-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:03:59.055-07:00
 tags:
   - player-resource
   - index
@@ -12,7 +12,7 @@ audience: players
 summary: Player-facing root hub for the Shattered Sea campaign wiki, with onboarding links, rules references, character creation resources, and setting indexes.
 type: index
 campaign: shattered-sea
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # The Shattered Sea
@@ -22,7 +22,7 @@ _High-magic. Age of sail. 1495 DR. Sixty thousand square miles of reef, deep cha
 
 The Scatter doesn't forgive ignorance. Out here, the factions that matter don't move armies. They move trade routes, debt ledgers, and sacred tribute. The difference between a clean port call and a keel scraped across Crown law is knowing who's watching the pier when you tie up.
 
-This wiki is your table reference: the world as your characters know it, the rules the table runs on, and the people you've already tangled with.
+This wiki is your table reference: the world as your characters know it, the rules the table runs on, and the people you've already tangled with. It is organized so players can browse without opening GM-only notes.
 
 ---
 
@@ -65,7 +65,7 @@ For the full list, see [[species/index|Playable Species]].
 - [[lore/index|Lore]] — religion, culture, ships, and common world knowledge.
 - [[players/index|Characters]] — public player character references.
 - [[npcs/index|NPCs]] — recurring non-player characters the party has met.
-- [[beastiary/index|Beastiary]] — player-facing creature references for the [[Shattered-Sea|Shattered Sea]].
+- [[beastiary/index|Bestiary]] — player-facing creature references for the [[Shattered-Sea|Shattered Sea]].
 
 ## Player Characters
 
@@ -83,8 +83,8 @@ The Scatter has no single throne. It has interests. Old money, long memories, an
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
 | [[Dravosi-Crown\|The Dravosi Crown]]               | inspection law, fortress harbours, naval pressure, and official violence         |
 | [[Tessarine-Concordat\|The Tessarine Concordat]]   | contracts, debt, insurance, route money, and polite coercion                     |
-| [[Waveservants\|The Waveservants]]                 | [[Umberlee\|Umberlee]]'s tribute, harbour shrines, blessings, and the price of sailing         |
-| [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] | observation, records, skyborne watchers, and the edge of the [[The-Drowned-Maw\|Drowned Maw]]         |
+| [[Waveservants\|The Waveservants]]                 | [[lore/Umberlee\|Umberlee]]'s tribute, harbour shrines, blessings, and the price of sailing         |
+| [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] | observation, records, skyborne watchers, and the edge of the [[Drowned-Maw\|Drowned Maw]]         |
 | [[Passage\|The Passage]]                       | Rattkin courier routes, hidden infrastructure, and information below the streets |
 | [[Grung-Clans\|The Grung Clans]]                   | [[Verdant-Teeth\|Verdant Teeth]] territory, waterline trade, poison, caste law, and worsening raids |
 
@@ -103,7 +103,7 @@ Your ship. Hard-used, understaffed, working a route that no one with better opti
 
 - [[players/index|Characters]]
 - [[npcs/index|NPCs]]
-- [[beastiary/index|Beastiary]]
+- [[beastiary/index|Bestiary]]
 - [[factions/index|Factions]]
 - [[lore/index|Lore]]
 - [[places/index|Places]]

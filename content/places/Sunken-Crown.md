@@ -4,8 +4,8 @@ aliases:
   - Sunken Crown
 title: The Sunken Crown
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:13:37.245-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.096-07:00
 tags:
   - location
   - region
@@ -22,7 +22,7 @@ campaign: shattered-sea
 relationships:
   - relation: part_of
     target: The Outer Reach
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

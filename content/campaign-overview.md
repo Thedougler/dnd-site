@@ -2,8 +2,8 @@
 publish: true
 title: Campaign Overview
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:16:46.394-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:03:59.058-07:00
 tags:
   - player-resource
   - campaign-overview
@@ -13,7 +13,7 @@ summary: Dense reference overview of the Shattered Sea campaign — geography, p
 type: reference
 subtype: campaign-overview
 campaign: shattered-sea
-updated: 2026-05-02
+updated: 2026-05-03
 ---
 
 # Shattered Sea Campaign Overview
@@ -64,12 +64,12 @@ Every dock has a price. Every flag means something. You don't need allegiances o
 
 | Power | Method | Stronghold | Disposition |
 |---|---|---|---|
-| [[factions/Dravosi-Crown-Summary\|Dravosi Crown]] | Naval force, inspection law, paperwork | [[places/Port-Tidefall\|Port Tidefall]], [[places/Crown-Islands\|Crown Islands]] | Law as weapon |
-| [[factions/Tessarine-Concordat-Summary\|Tessarine Concordat]] | Credit, debt, contracts, insurance | [[places/Calveno\|Calveno]] | Debt as politics |
-| [[factions/Waveservants-Summary\|Waveservants]] | Tribute, blessing, religious infrastructure | Every working harbour | Transactional neutrality |
-| [[factions/Sentinels-Of-The-Eyrie-Summary\|Sentinels of the Eyrie]] | Observation, record-keeping, aerial mobility | [[places/The-High-Eyrie\|The High Eyrie]] | Non-aligned record-keepers |
-| [[factions/The-Passage-Summary\|The Passage]] | Hidden routes, Rattkin couriers, port infrastructure | [[places/The-Warren\|The Warren]], [[places/Calveno\|Calveno]] | Below the surface |
-| [[factions/Grung-Clans-Summary\|Grung Clans]] | Territory, poison, waterline trade, coastal raids | [[places/Verdant-Teeth\|Verdant Teeth]] | Deteriorating |
+| [[factions/Dravosi-Crown\|Dravosi Crown]] | Naval force, inspection law, paperwork | [[places/Port-Tidefall\|Port Tidefall]], [[places/Crown-Islands\|Crown Islands]] | Law as weapon |
+| [[factions/Tessarine-Concordat\|Tessarine Concordat]] | Credit, debt, contracts, insurance | [[places/Calveno\|Calveno]] | Debt as politics |
+| [[factions/Waveservants\|Waveservants]] | Tribute, blessing, religious infrastructure | Every working harbour | Transactional neutrality |
+| [[factions/Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] | Observation, record-keeping, aerial mobility | [[places/High-Eyrie\|The High Eyrie]] | Non-aligned record-keepers |
+| [[factions/Passage\|The Passage]] | Hidden routes, Rattkin couriers, port infrastructure | [[places/Warren\|The Warren]], [[places/Calveno\|Calveno]] | Below the surface |
+| [[factions/Grung-Clans\|Grung Clans]] | Territory, poison, waterline trade, coastal raids | [[places/Verdant-Teeth\|Verdant Teeth]] | Deteriorating |
 
 The Crown and the Concordat are rivals whose legal systems recognize each other — a problem in one jurisdiction can surface as an inspection issue in the other. [[Passage|The Passage]] operates entirely outside colonial records, which is its value. [[Waveservants|The Waveservants]] collect from all of them.
 
@@ -90,7 +90,7 @@ _Sailors who do not pay do not sail confidently._
 Most sourcebook species have a place in the Scatter. These homebrew options are native to the setting:
 
 - [[species/Aarakocra|Aarakocra]] — winged, wind-touched, with keen sight and a fundamentally different relationship to height and distance. Many Sentinels are aarakocra. Others work shipping lanes, lookout work, and independent courier routes.
-- [[species/Grung|Grung]] — amphibious, poisonous, colour-caste shaped. A Grung PC has a full society to reckon with. For social context, see [[Grung-Clans|Grung Clans Summary]].
+- [[species/Grung|Grung]] — amphibious, poisonous, colour-caste shaped. A Grung PC has a full society to reckon with. For social context, see [[Grung-Clans|Grung Clans]].
 - [[species/Rattkin|Rattkin]] — small, flexible, native to the hidden infrastructure of port life. Excellent couriers, scouts, smugglers, and people who were not in that locked room.
 - [[species/Tabaxi|Tabaxi]] — feline, with ancient roots in the Scatter, especially in the isolated island communities east of the Maw around [[places/Keth-Naar|Keth-Naar]].
 

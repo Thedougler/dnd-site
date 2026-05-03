@@ -4,8 +4,8 @@ aliases:
   - The Sunken City
 title: Halythion
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:16:22.206-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.090-07:00
 tags:
   - location
   - rumour
@@ -22,7 +22,7 @@ campaign: shattered-sea
 relationships:
   - relation: near
     target: The Midchain
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

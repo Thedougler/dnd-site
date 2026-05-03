@@ -3,7 +3,7 @@ publish: true
 title: Grung
 created: 2026-04-12
 modified: 2026-04-12
-published: 2026-05-02T17:40:38.841-07:00
+published: 2026-05-02T18:00:31.103-07:00
 tags:
   - species
   - playable
@@ -34,7 +34,7 @@ _Small Humanoid_
 
 Grung are brilliantly colored amphibious humanoids native to tropical rainforests and fetid swamps. Their vivid hues — emerald green, blazing orange, royal blue, imperial purple, vibrant red, and gleaming gold — simultaneously signal lethal toxicity to predators and denote rigid social caste within grung civilization. To touch a grung uninvited is to invite a miserable death.
 
-In the [[Shattered-Sea-Secrets|Shattered Sea]], grung are found primarily in the interior of the [[Verdant-Teeth-Secrets]] island cluster. See [[Grung-Clans]] for the full society, caste structure, and faction details.
+In the [[Shattered-Sea|Shattered Sea]], grung are found primarily in the interior of the [[Verdant-Teeth|Verdant Teeth]] island cluster. See [[Grung-Clans]] for the full society, caste structure, and faction details.
 
 ---
 
@@ -96,5 +96,5 @@ Skin colour determines social caste at birth. See [[Grung-Clans]] for full proto
 ## Connections
 
 - [[Grung-Clans]] — society, caste protocols, slavery, faction details
-- [[Verdant-Teeth-Secrets]] — the [[Midchain-Secrets|Midchain]] island cluster they inhabit
-- [[Jean-Claude-Tabarnack]] — Blue Grung PC; deserter from the clans
+- [[Verdant-Teeth|Verdant Teeth]] — the [[Midchain|Midchain]] island cluster they inhabit
+- [[jean-claude-summary|Jean-Claude Tabarnack]] — Blue Grung PC; deserter from the clans

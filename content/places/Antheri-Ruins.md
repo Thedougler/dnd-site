@@ -5,8 +5,8 @@ aliases:
   - Antheri
 title: Antheri Ruins
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:16:40.439-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.086-07:00
 tags:
   - location
   - ruins
@@ -28,7 +28,7 @@ relationships:
     target: The Tessarine Concordat
   - relation: associated_with
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

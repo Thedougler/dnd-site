@@ -5,8 +5,8 @@ aliases:
   - The Tail
 title: The Tail
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:34:33.107-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.097-07:00
 tags:
   - location
   - region
@@ -31,7 +31,7 @@ relationships:
     target: The Midchain
   - relation: stages
     target: The Shelfworks
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

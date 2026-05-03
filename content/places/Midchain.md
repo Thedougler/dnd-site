@@ -5,8 +5,8 @@ aliases:
   - The Midchain
 title: The Midchain
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:26:43.409-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.094-07:00
 tags:
   - location
   - region
@@ -30,7 +30,7 @@ relationships:
     target: The Doldrums
   - relation: adjacent_to
     target: The Central Strait
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

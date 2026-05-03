@@ -5,8 +5,8 @@ aliases:
   - Maw
 title: The Drowned Maw
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:16:40.439-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.087-07:00
 tags:
   - location
   - trench
@@ -24,7 +24,7 @@ relationships:
     target: The Shattered Sea
   - relation: observed_by
     target: Sentinels of the Eyrie
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

@@ -2,8 +2,8 @@
 publish: true
 title: South Harbour
 created: 2026-05-01
-modified: 2026-05-02
-published: 2026-05-02T17:10:19.271-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.100-07:00
 tags:
   - location
   - harbour
@@ -21,7 +21,7 @@ relationships:
     target: Calder's Tooth
   - relation: controlled_by
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

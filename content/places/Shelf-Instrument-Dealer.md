@@ -4,8 +4,8 @@ aliases:
   - Shelf Instrument Dealer
 title: The Shelf Instrument Dealer
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:31:20.652-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.090-07:00
 tags:
   - location
   - building
@@ -26,7 +26,7 @@ relationships:
     target: Port Tidefall
   - relation: located_in
     target: The Shelf
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

@@ -6,8 +6,8 @@ aliases:
   - Shrine Island — Sunken Crown
 title: Vel-Orn — Sunken Crown
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:40:50.523-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.085-07:00
 tags:
   - location
   - island
@@ -28,7 +28,7 @@ relationships:
     target: Umberlee's Shrine — Sunken Crown
   - relation: near
     target: Keth-Naar
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

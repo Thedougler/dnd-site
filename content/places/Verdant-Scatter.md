@@ -5,8 +5,8 @@ aliases:
   - The Scatter
 title: The Verdant Scatter
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:41:49.891-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.098-07:00
 tags:
   - location
   - region
@@ -31,7 +31,7 @@ relationships:
     target: Central Strait
   - relation: converges_at
     target: The Tail
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

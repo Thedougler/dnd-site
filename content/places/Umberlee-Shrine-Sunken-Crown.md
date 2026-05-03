@@ -6,8 +6,8 @@ aliases:
   - Vel-Orn Shrine
 title: Umberlee's Shrine — Sunken Crown
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T17:39:21.774-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.092-07:00
 tags:
   - location
   - shrine
@@ -29,7 +29,7 @@ relationships:
     target: Vel-Orn
   - relation: controlled_by
     target: Waveservants
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

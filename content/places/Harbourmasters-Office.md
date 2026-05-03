@@ -5,8 +5,8 @@ aliases:
   - Tidefall Harbourmaster
 title: Harbourmaster's Office
 created: 2026-05-02
-modified: 2026-05-02
-published: 2026-05-02T16:59:24.656-07:00
+modified: 2026-05-03
+published: 2026-05-02T18:00:31.093-07:00
 tags:
   - location
   - building
@@ -25,7 +25,7 @@ relationships:
     target: Port Tidefall
   - relation: controlled_by
     target: The Dravosi Crown
-updated: 2026-05-02
+updated: 2026-05-03
 sources:
   - Homebrew
 source_count: 1

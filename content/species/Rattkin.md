@@ -3,7 +3,7 @@ publish: true
 title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
-published: 2026-05-02T17:34:23.466-07:00
+published: 2026-05-02T18:01:27.088-07:00
 tags:
   - species
   - playable
@@ -35,7 +35,7 @@ _Small Humanoid_
 
 Rattkin get into places they are not supposed to be. A city's walls keep out armies. They don't keep out Rattkin. A locked cargo hold is a delay, not a barrier. A ship's bilge, a drainage pipe, a gap between walls that a human would dismiss as impassable — to a Rattkin, these are hallways. Combined with senses calibrated for threat detection and a survival instinct sharpened across generations of being hunted, Rattkin are as close to uncatchable as a creature comes.
 
-In the [[Shattered-Sea-Secrets|Shattered Sea]], Rattkin are the oldest continuous presence in every major port. See [[Passage-Secrets]] for the canonical Rattkin faction — the traveling network of Runs and Holds that spans every sea in the scatter.
+In the [[Shattered-Sea|Shattered Sea]], Rattkin are the oldest continuous presence in every major port. See [[Passage|The Passage]] for the canonical Rattkin faction — the traveling network of Runs and Holds that spans every sea in the scatter.
 
 ---
 
@@ -79,7 +79,7 @@ When a creature you can see within 5 feet of you is hit by another creature, you
 
 ## Rattkin Variety
 
-Three distinct varieties are recognized across the [[Shattered-Sea-Secrets|Shattered Sea]]. Choose one at character creation.
+Three distinct varieties are recognized across the [[Shattered-Sea|Shattered Sea]]. Choose one at character creation.
 
 ---
 
@@ -99,7 +99,7 @@ Black Rats think in three dimensions. They default to elevation — top of the m
 
 _Stocky, coarse brown or grey fur, blunt nose, small ears, tail shorter than their body. Largest variety. Built for ground-level and subsurface work._
 
-Brown Rats go below. Sewers, bilge lines, drainage networks, flooded tunnels — environments that repel other creatures are workplaces to them. Within the Passage, Brown Rats maintain the Holds, extend tunnel networks, and map every new harbour construction before the Passage uses it. [[Warren-Secrets|The Warren]]'s tunneling is Brown Rat work.
+Brown Rats go below. Sewers, bilge lines, drainage networks, flooded tunnels — environments that repel other creatures are workplaces to them. Within the Passage, Brown Rats maintain the Holds, extend tunnel networks, and map every new harbour construction before the Passage uses it. [[Warren|The Warren]]'s tunneling is Brown Rat work.
 
 **Darkvision.** You have Darkvision with a range of 60 feet.
 
@@ -132,16 +132,16 @@ Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on p
 
 ## See Also
 
-- [[Passage-Secrets]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
-- [[Warren-Secrets]] — the only fixed Rattkin settlement, beneath [[Calveno-Secrets]]
-- [[Perrin-Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[Calveno-Secrets|Calveno-Secrets]] Run
+- [[Passage|The Passage]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
+- [[Warren]] — the only fixed Rattkin settlement, beneath [[Calveno]]
+- [[perren-summary|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[Calveno]] Run
 
 ## Overview
 
-Small humanoids calibrated for getting into places they are not supposed to be. Three varieties — Black (climbers), Brown (burrowers), Fancy (social infiltration). Oldest continuous presence in every major [[Shattered-Sea-Secrets|Shattered Sea]] port. See [[Passage-Secrets]] for the canonical Rattkin faction.
+Small humanoids calibrated for getting into places they are not supposed to be. Three varieties — Black (climbers), Brown (burrowers), Fancy (social infiltration). Oldest continuous presence in every major [[Shattered-Sea|Shattered Sea]] port. See [[Passage|The Passage]] for the canonical Rattkin faction.
 
 ## Connections
 
-- [[Passage-Secrets]] — the traveling network of Runs and Holds spanning the Scatter
-- [[Warren-Secrets]] — the only fixed Rattkin settlement, beneath [[Calveno-Secrets]]
-- [[Perrin-Black-Jaw]] — Fancy Rat PC; from the [[Calveno-Secrets|Calveno-Secrets]] Run
+- [[Passage|The Passage]] — the traveling network of Runs and Holds spanning the Scatter
+- [[Warren]] — the only fixed Rattkin settlement, beneath [[Calveno]]
+- [[perren-summary|Perrin Black-Jaw]] — Fancy Rat PC; from the [[Calveno]] Run

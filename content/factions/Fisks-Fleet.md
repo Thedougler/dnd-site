@@ -6,7 +6,7 @@ aliases:
 title: Fisk's Fleet
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-03T00:02:08.662-07:00
 tags:
   - faction
   - player-resource
@@ -35,6 +35,7 @@ confidence_level: medium
 
 # Fisk's Fleet
 
+![[factions/Fisks-Fleet-Flag.webp]]
 _Five ships, five captains, one commission. Umberlee took all of them in under a minute._
 
 A five-ship independent privateer fleet operating under Rear Admiral [[delmar-summary|Delmar Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw|Drowned Maw]]. [[delmar-summary|Delmar Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.

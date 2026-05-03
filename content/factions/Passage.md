@@ -7,7 +7,7 @@ aliases:
 title: The Passage
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.107-07:00
+published: 2026-05-03T00:02:23.990-07:00
 tags:
   - faction
   - player-resource
@@ -41,6 +41,7 @@ confidence_level: medium
 
 # The Passage
 
+![[factions/Passage-Flag.webp]]
 The Passage is the Rattkin network of routes, shelters, caches, couriers, and hidden infrastructure running beneath and between the ports of the [[Shattered-Sea|Shattered Sea]]. It does not appear on colonial charts. It is not a nation or a guild. It is the system by which Rattkin — who call themselves Kin — move people, cargo, and information across the region.
 
 ---

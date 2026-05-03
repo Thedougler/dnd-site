@@ -7,7 +7,7 @@ aliases:
 title: The Dravosi Crown
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.108-07:00
+published: 2026-05-03T00:01:48.434-07:00
 tags:
   - faction
   - player-resource
@@ -41,6 +41,7 @@ confidence_level: medium
 
 # The Dravosi Crown
 
+![[factions/Dravosi-Crown-Flag.webp]]
 The Dravosi Crown is the oldest colonial presence in the [[Shattered-Sea|Shattered Sea]]. It holds much of the [[Crown-Islands]], controls the western mouth of the [[Central-Strait]], taxes traffic through its waters, and calls the whole arrangement administration.
 
 In port, Crown power looks like navy-blue coats, brass buttons, dry stamps, inspection lines, sealed passes, and clerks who know exactly which form makes a problem worse. Its officers speak of safe passage, reliable charts, piracy suppression, ship standards, and the civilizing duty of law.

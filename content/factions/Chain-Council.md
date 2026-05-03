@@ -7,7 +7,7 @@ aliases:
 title: The Chain Council
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-02T21:51:14.168-07:00
+published: 2026-05-03T00:01:29.634-07:00
 tags:
   - faction
   - player-resource
@@ -36,6 +36,7 @@ confidence_level: medium
 
 # The Chain Council
 
+![[factions/Chain-Council-Flag.webp]]
 The Chain Council is the closest thing the [[Midchain|Midchain]] has to a regional government, which is to say it is not one unless the islands need it to be. Every Midchain island technically belongs to the Chain, but each island remains independent in ordinary matters. Local councils set their own harbour rules, trade customs, fees, patrol arrangements, and grudges.
 
 When a problem reaches beyond any one island, affected representatives may gather in [[places/Kalowe|Kalowe]] to form the Chain Council. They argue, bargain, count who is actually affected, and vote on what the Midchain will do together.

@@ -7,7 +7,7 @@ aliases:
 title: The Tessarine Concordat
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:01:27.086-07:00
+published: 2026-05-03T00:02:37.961-07:00
 tags:
   - faction
   - player-resource
@@ -38,6 +38,8 @@ confidence_level: medium
 ---
 
 # The Tessarine Concordat
+
+![[factions/Tessarine-Concordat-Flag.webp]]
 
 > The Concordat does not conquer. It lends. By the time a city notices, the vote is already theirs.
 

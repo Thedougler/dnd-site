@@ -6,7 +6,7 @@ aliases:
 title: The Waveservants
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.109-07:00
+published: 2026-05-03T00:02:45.310-07:00
 tags:
   - faction
   - player-resource
@@ -38,6 +38,7 @@ confidence_level: medium
 
 # The Waveservants
 
+![[factions/Waveservants-Flag.webp]]
 The Waveservants are [[lore/Umberlee|Umberlee]]'s clergy in the [[Shattered-Sea|Shattered Sea]]. Their shrines sit near harbour mouths and waterline gates, where crews can pay tribute before departure or after return. They collect offerings, witness payments, and issue blessings. A blessing is an acknowledgement that proper tribute has been paid, not a guarantee of safe passage.
 
 ---

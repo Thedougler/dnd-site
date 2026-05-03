@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-02T00:52:50.920-07:00
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.030-07:00
+published: 2026-05-02T17:16:28.579-07:00
 tags:
   - player-resource
   - index
@@ -36,7 +36,7 @@ New to the campaign? Read these first.
 
 ## At The Table
 
-You start at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used merchant brig working a dangerous [[places/The-Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
+You start at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-used merchant brig working a dangerous [[Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
 
 - [[players/index|Characters]] — public player character summaries.
 - [[rules/index|Rules Index]] — all public campaign rules references.
@@ -47,7 +47,7 @@ You start at **Level 3** aboard the [[lore/Saltwright|*Saltwright*]], a hard-use
 
 ## Character Creation
 
-Standard 2024 species are available, plus these [[places/The-Shattered-Sea|Shattered Sea]] options:
+Standard 2024 species are available, plus these [[Shattered-Sea|Shattered Sea]] options:
 
 - [[species/Aarakocra|Aarakocra]] — Bird people.
 - [[species/Grung|Grung]] — Poison Dart Frog People.
@@ -65,7 +65,7 @@ For the full list, see [[species/index|Playable Species]].
 - [[lore/index|Lore]] — religion, culture, ships, and common world knowledge.
 - [[players/index|Characters]] — public player character references.
 - [[npcs/index|NPCs]] — recurring non-player characters the party has met.
-- [[beastiary/index|Beastiary]] — player-facing creature references for the [[places/The-Shattered-Sea|Shattered Sea]].
+- [[beastiary/index|Beastiary]] — player-facing creature references for the [[Shattered-Sea|Shattered Sea]].
 
 ## Player Characters
 

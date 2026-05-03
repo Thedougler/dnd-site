@@ -2,8 +2,8 @@
 publish: true
 title: South Harbour
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T15:56:39.971-07:00
+modified: 2026-05-02
+published: 2026-05-02T17:10:19.271-07:00
 tags:
   - location
   - harbour
@@ -21,7 +21,7 @@ relationships:
     target: Calder's Tooth
   - relation: controlled_by
     target: The Dravosi Crown
-updated: 2026-05-01
+updated: 2026-05-02
 sources:
   - Homebrew
 source_count: 1
@@ -41,6 +41,6 @@ Crown authority here is real but intermittent — patrols arrive unevenly, and t
 ## See Also
 
 - [[places/Calders-Tooth|Calder's Tooth]]
-- South Harbour Impound
-- Osha's Slip
-- The Overland Track
+- [[places/South-Harbour-Impound|South Harbour Impound]]
+- [[places/Oshas-Slip|Osha's Slip]]
+- [[places/Port-Tidefall|Port Tidefall]]

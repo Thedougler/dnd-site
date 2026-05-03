@@ -1,0 +1,52 @@
+---
+publish: true
+aliases:
+  - Harbourmaster's Office
+  - Tidefall Harbourmaster
+title: Harbourmaster's Office
+created: 2026-05-02
+modified: 2026-05-02
+published: 2026-05-02T16:59:24.656-07:00
+tags:
+  - location
+  - building
+  - port-tidefall
+  - dravosi
+  - player-resource
+visibility: public
+audience: players
+summary: Crown administrative office at the Tidefall Dockfront — vessel ratings, impound fees, commission board, and the only place in port that sells official charts over the counter.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: Port Tidefall
+  - relation: controlled_by
+    target: The Dravosi Crown
+updated: 2026-05-02
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
+---
+
+# Harbourmaster's Office
+
+A long stone building at the base of the Dockfront, counter behind a partition, two clerks with ledgers. Every vessel entering Port Tidefall checks in here before clearing the inspection pier. Crown rating certificates, impound processing, and harbour fees all run through this office.
+
+The exterior wall carries a cork board — sun-warped, crowded with notices in various states of fading. Crown-sealed postings sit at the top. Below them, whatever else has been pinned there by whoever thought it worth pinning.
+
+---
+
+## Charts
+
+The chart clerk sells official Dravosi surveys over the counter. Crown Islands and Central Strait charts are standard stock. Midchain coverage is partial and requires asking specifically.
+
+---
+
+## See Also
+
+- [[places/Port-Tidefall|Port Tidefall]]
+- [[places/South-Harbour|South Harbour]]

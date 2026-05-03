@@ -5,7 +5,7 @@ aliases:
 title: Iacopo Fieschi
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.288-07:00
+published: 2026-05-02T16:34:57.075-07:00
 tags:
   - npc
   - player-resource
@@ -38,15 +38,15 @@ species: human
 |              |                                                            |
 | ------------ | ---------------------------------------------------------- |
 | **Species**  | Human                                                      |
-| **Role**     | Envoy, [[Tessarine-Concordat\|Tessarine Concordat]]; [[private/places/Calveno]] |
+| **Role**     | Envoy, [[Tessarine-Concordat\|Tessarine Concordat]]; [[Calveno-Secrets]] |
 
 ---
 
 ## What Perrin Knows
 
-Fieschi is the Tessarine Concordat's envoy in [[private/places/Calveno]] — the visible face of Concordat interests in the city. Anyone who spent time in Calveno would know the name. He is the man you deal with if the Concordat is involved in something, and the man you avoid if you'd rather the Concordat wasn't.
+Fieschi is the Tessarine Concordat's envoy in [[Calveno-Secrets]] — the visible face of Concordat interests in the city. Anyone who spent time in Calveno would know the name. He is the man you deal with if the Concordat is involved in something, and the man you avoid if you'd rather the Concordat wasn't.
 
 ## Connections
 
 - [[Tessarine-Concordat]] — the faction he represents
-- [[private/places/Calveno]] — his posting
+- [[Calveno-Secrets]] — his posting

@@ -5,7 +5,7 @@ aliases:
 title: Maren
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.290-07:00
+published: 2026-05-02T16:52:44.065-07:00
 tags:
   - npc
   - player-resource
@@ -56,4 +56,4 @@ She was outside the cave when the fleet sank. She drowned in the Maw when Umberl
 - [[Delmar-Fisk]] — Admiral; carries Maren's soul
 - [[Narrow]] — her ship; wreck at the Shelfworks descent
 - [[Fisks-Fleet]] — the fleet she served
-- [[private/places/The-Drowned-Maw]] — where she died
+- [[Drowned-Maw-Secrets]] — where she died

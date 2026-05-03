@@ -6,7 +6,7 @@ aliases:
 title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-04-22
-published: 2026-05-02T16:29:03.146-07:00
+published: 2026-05-02T17:27:51.590-07:00
 tags:
   - item
   - reference-text
@@ -76,7 +76,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald
 
 ### Ch.7 - Welak
 
-> _Look at the churning currents of the [[private/places/The-Shattered-Sea|Shattered Sea]]. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
+> _Look at the churning currents of the [[Shattered-Sea-Secrets|Shattered Sea]]. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
 >
 > \*When it hunts, it executes a calculated atrocity. It rakes its immense scythe across the hulls of our fragile vessels with the mechanical precision of an industrial press, dragging crippled ships and screaming men down into the abyss. This beast possesses a profound, predatory intellect; it knows the ship is merely a floating tin of meat. They have been known to launch their massive bulk alongside panicked crews, using that hooked appendage to tear down rigging or pluck sailors directly into the dark. In its black eye, there is no wondrous majesty—only the inescapable truth that we are not the masters of the water, but simply the harvest.
 

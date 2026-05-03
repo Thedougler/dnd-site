@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-02T16:29:32.661-07:00
+published: 2026-05-02T17:40:38.872-07:00
 tags:
   - player-character
   - pc
@@ -41,7 +41,7 @@ confidence_level: medium
 
 ## Overview
 
-**Jean-Claude Tabarnack** is a three-foot-tall blue Grung Gloomstalker Ranger, twelve years old and early middle-age by the standards of his kind. He comes from the Botukuri clan of the [[private/places/Verdant-Teeth|Verdant Teeth]] — a closed, hierarchical Grung society built on slavery, caste, and the assumption that this is simply how things are. He disagrees. He has disagreed for long enough that he left, and the manner of his leaving burned every bridge behind him.
+**Jean-Claude Tabarnack** is a three-foot-tall blue Grung Gloomstalker Ranger, twelve years old and early middle-age by the standards of his kind. He comes from the Botukuri clan of the [[Verdant-Teeth-Secrets|Verdant Teeth]] — a closed, hierarchical Grung society built on slavery, caste, and the assumption that this is simply how things are. He disagrees. He has disagreed for long enough that he left, and the manner of his leaving burned every bridge behind him.
 
 He is, by most appearances on a dockside, a compact blue amphibian in a red beret with a fake moustache. This is not a joke. His reasoning for the disguise is entirely sincere and, on some level, correct. He has not been found. He does not find this remarkable.
 
@@ -61,11 +61,11 @@ In Grung society, caste is written in colour — every individual's role and ran
 
 ## Backstory
 
-Jean-Claude grew up in the Botukuri clan of the [[private/places/Verdant-Teeth|Verdant Teeth]], in a society built from the ground up on hierarchy and slave-taking. Grung castes are colour-coded: gold and pure gold at the top, blue caste — his caste — associated with craft, hunting, and technical skill, and the slaves that keep it all running. He knew the system. He operated inside it as a scout. He did not question it for years.
+Jean-Claude grew up in the Botukuri clan of the [[Verdant-Teeth-Secrets|Verdant Teeth]], in a society built from the ground up on hierarchy and slave-taking. Grung castes are colour-coded: gold and pure gold at the top, blue caste — his caste — associated with craft, hunting, and technical skill, and the slaves that keep it all running. He knew the system. He operated inside it as a scout. He did not question it for years.
 
 The thing that changed him was a gnome.
 
-A gnome slave, small and quick and watchful, who managed to steal enough fragments of conversation with Jean-Claude over months — between chores, in passing, in the brief windows where no one was paying attention — to teach him something that rewrote how he saw everything. That every people has something the others lack. That the only way to grow is to reach across that gap. That the world outside the [[private/places/Verdant-Teeth|Verdant Teeth]] was larger, stranger, and less inevitable than the Botukuri clan made it sound.
+A gnome slave, small and quick and watchful, who managed to steal enough fragments of conversation with Jean-Claude over months — between chores, in passing, in the brief windows where no one was paying attention — to teach him something that rewrote how he saw everything. That every people has something the others lack. That the only way to grow is to reach across that gap. That the world outside the [[Verdant-Teeth-Secrets|Verdant Teeth]] was larger, stranger, and less inevitable than the Botukuri clan made it sound.
 
 The gnome's name was Pell.
 
@@ -81,7 +81,7 @@ When Jean-Claude finally ran, he freed every slave he could reach on his way out
 
 ## Desertion
 
-Jean-Claude does not describe what he did as escape. He describes it as the first step of something longer. He left with nothing except a Decanter of Endless Water and the understanding that the world outside the [[private/places/Verdant-Teeth|Verdant Teeth]] is full of things the Botukuri clan told him did not exist: peoples who have built something different, alliances across species, societies that do not run on domination. He intends to see all of it.
+Jean-Claude does not describe what he did as escape. He describes it as the first step of something longer. He left with nothing except a Decanter of Endless Water and the understanding that the world outside the [[Verdant-Teeth-Secrets|Verdant Teeth]] is full of things the Botukuri clan told him did not exist: peoples who have built something different, alliances across species, societies that do not run on domination. He intends to see all of it.
 
 His stated goal is not exile. It is return. He wants to come back to Grung society as someone who cannot be ignored — carrying proof that another way is possible, carrying the skills and the arguments and the weight of a wider world behind him. Pell told him every people has something unique to offer. Jean-Claude has decided to find out what that means, one port at a time, and carry it home when he is ready.
 
@@ -109,7 +109,7 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 
 ## Known Possessions
 
-- **Decanter of Endless Water** — carried since his departure from the [[private/places/Verdant-Teeth|Verdant Teeth]]. Origin unestablished. He does not explain where he got it.
+- **Decanter of Endless Water** — carried since his departure from the [[Verdant-Teeth-Secrets|Verdant Teeth]]. Origin unestablished. He does not explain where he got it.
 - **Red beret** — the cornerstone of his disguise methodology.
 - **False moustache** — no Grung naturally grows one. This, in his view, makes the disguise complete.
 

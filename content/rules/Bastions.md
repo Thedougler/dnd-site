@@ -3,7 +3,7 @@ publish: true
 title: Bastions
 created: 2026-04-21
 modified: 2026-04-21
-published: 2026-05-02T16:29:03.007-07:00
+published: 2026-05-02T17:27:51.519-07:00
 tags:
   - rule
   - reference
@@ -135,10 +135,10 @@ A Bastion is lost by Divestiture (voluntary), Neglect (no orders for a number of
 
 ## Context
 
-Introduced in the 2024 DMG as the official stronghold/home base system. Available at level 5. [[private/places/The-Shattered-Sea|The Shattered Sea]] campaign uses a combined mobile-Bastion adaptation for the party ship.
+Introduced in the 2024 DMG as the official stronghold/home base system. Available at level 5. [[Shattered-Sea-Secrets|The Shattered Sea]] campaign uses a combined mobile-Bastion adaptation for the party ship.
 
 ## Connections
 
-- [[Ship-Bastion]] — [[private/places/The-Shattered-Sea|Shattered Sea]] maritime adaptation of these rules
+- [[Ship-Bastion]] — [[Shattered-Sea-Secrets|Shattered Sea]] maritime adaptation of these rules
 - [[content/dnd/rules/Feats]] — Origin feat interactions (Human species)
 - [[Species]] — No direct interaction, but character class abilities affect facility prerequisites

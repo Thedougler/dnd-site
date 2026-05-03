@@ -2,8 +2,8 @@
 publish: true
 title: Port Tidefall
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T16:29:03.057-07:00
+modified: 2026-05-02
+published: 2026-05-02T17:07:22.877-07:00
 tags:
   - location
   - port
@@ -24,7 +24,7 @@ relationships:
     target: The Dravosi Crown
   - relation: contains
     target: Fort Crestwall
-updated: 2026-05-01
+updated: 2026-05-02
 sources:
   - Homebrew
 source_count: 1
@@ -43,10 +43,28 @@ This is where the Crown's authority is loudest, which also makes it where that a
 
 ---
 
+## The Three Tiers
+
+**The Dockfront** sits at the waterline — the inspection pier, the Harbourmaster's Office, chandlers, the Waveservant shrine cut into the cliff base, and the Anchor & Line, which is the only tavern at waterline and the first place most crews end up. Crown patrols are constant here. The pace is fast and the paperwork is immediate.
+
+**The Shelf** is the mid-cliff commercial district — trade houses, instrument dealers, the Governor's Seat set back from the trade houses, and the Hook & Ledger, where clerks and quartermasters do quieter business over food that is marginally better than the Dockfront. The Tessarine Concordat has a trade house here. The Dravosi Admiralty has offices. Most of what passes for negotiation in Tidefall happens on the Shelf.
+
+**Fort Crestwall** at the crown is pass-only. What goes on inside it is not discussed on the Shelf, and the people on the Shelf who would normally know have been finding that fact mildly concerning for several weeks.
+
+---
+
+## Trade
+
+Naval gear, weapons, and Dravosi charts are abundant. Tessarine goods and arcane specialist items are scarce and priced accordingly. The [[places/Harbourmasters-Office|Harbourmaster's Office]] handles charts and commission postings. The chandlery on the Dockfront covers provisions, gear, and common equipment. A small instrument dealer on the Shelf carries navigational tools.
+
+Unsanctioned cargo moves through intermediaries. The formal scrutiny is concentrated on the western dockface; [[places/South-Harbour|South Harbour]] on the eastern side handles what the western ledgers prefer not to see.
+
+---
+
 ## See Also
 
-- Harbourmaster's Office
-- The Inspection Pier
+- [[places/Harbourmasters-Office|Harbourmaster's Office]]
 - [[places/Fort-Crestwall|Fort Crestwall]]
-- Waveservant Shrine - Port Tidefall
-- The Anchor & Line
+- [[places/Governors-Seat-Tidefall|Governor's Seat]]
+- [[places/South-Harbour|South Harbour]]
+- [[places/Calders-Tooth|Calder's Tooth]]

@@ -2,8 +2,8 @@
 publish: true
 title: Keth-Naar
 created: 2026-05-01
-modified: 2026-05-01
-published: 2026-05-02T15:26:12.752-07:00
+modified: 2026-05-02
+published: 2026-05-02T17:03:32.440-07:00
 tags:
   - location
   - settlement
@@ -20,7 +20,7 @@ campaign: shattered-sea
 relationships:
   - relation: part_of
     target: The Midchain
-updated: 2026-05-01
+updated: 2026-05-02
 sources:
   - Homebrew
 source_count: 1
@@ -35,11 +35,29 @@ Keth-Naar is not one island but twelve promontories of ancient black basalt, clu
 
 Visitors who arrive carefully may be watched before they are spoken to. This is not unfriendliness. It is the habit of a community that has been here long enough to know what a ship that does not read the water correctly looks like, and what usually follows it.
 
+The catches have been thin lately, and the weather around the Blue Hole has been less predictable than the tribe is used to. The birds are going inland before dark. The hunters are not saying much about what they have been seeing in the deep water, which is its own kind of information.
+
+---
+
+## The Island
+
+The Central Stone is a massive black rock formation at the island's heart, weathered into natural caves and overhangs. Carved symbols mark the entrances — paw prints, spiral patterns following the grain of the rock, marks worn nearly smooth in some places and cut fresh in others. The tribe lives further in, sheltered from the wind and spray.
+
+The lower stone is threaded with tidal pools and stone channels that guide fish inward on high tide. The system is old and expertly done. Skinning racks stand above them — wooden frames hung with fish in various stages of drying, nets alongside in various states of repair.
+
+The Lookout Stone rises forty feet above everything else at the island's eastern edge, steps worn into its face, a flat platform at the top with sightlines in all directions. From there, the Blue Hole is visible below — the boundary between the turquoise shallows and the deep indigo, clean as a cut, with the small shrine island at its centre.
+
+---
+
+## The Five Islands
+
+Keth-Naar is the most populated of five small islands arranged around the Blue Hole. The others each hold a specific role in the life of the community: Vel-Orn at the centre holds the shrine, kept apart from ordinary travel; Ral-Arn holds the oldest family records; [[places/Dath-Mar|Dath-Mar]] is the refuge island, kept ready for emergencies; Meth-Var faces the open Maw waters and is maintained as a permanent watch post.
+
 ---
 
 ## See Also
 
 - The Sunken Crown
-- Dath-Mar
+- [[places/Dath-Mar|Dath-Mar]]
 - Ral-Arn
 - Meth-Var

@@ -3,7 +3,7 @@ publish: true
 title: Pearl of Souls
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:32.662-07:00
+published: 2026-05-02T17:31:25.949-07:00
 tags:
   - item
   - artifact
@@ -41,7 +41,7 @@ What it does: it collects the souls of those who drown in its presence. Passivel
 
 ## Where It Is
 
-The _[[Red-Lady]]_ wreck, on the eastern edge of the [[private/places/The-Shelfworks|Shelfworks]], where the shelf drops away into the trench.
+The _[[Red-Lady]]_ wreck, on the eastern edge of the [[Shelfworks-Secrets|Shelfworks]], where the shelf drops away into the trench.
 
 ---
 
@@ -57,4 +57,4 @@ No attunement. No activation. The Pearl draws what drowns near it and holds it. 
 - [[raw/ingested/Umberlee]] — original owner; wants it returned; cannot retrieve it herself
 - [[Waveservants-Secrets]] — tended the shrine; know what was taken
 - [[Red-Lady]] — the ship it went down with
-- [[private/places/The-Drowned-Maw]] — current location, below the planar boundary
+- [[Drowned-Maw-Secrets]] — current location, below the planar boundary

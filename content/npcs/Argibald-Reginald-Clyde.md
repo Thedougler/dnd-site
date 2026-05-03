@@ -6,7 +6,7 @@ aliases:
 title: Algernon Reginald Clyde
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.281-07:00
+published: 2026-05-02T16:49:17.168-07:00
 tags:
   - npc
   - scholar
@@ -75,7 +75,7 @@ He hates frogs most of all.
 
 ## What He's Documented
 
-- **[[Sawek]]** — documented personally at [[private/places/Kalowe]]; measured a dead specimen pulled from a blue hole by seven divers; found the experience professionally satisfying and personally grim
+- **[[Sawek]]** — documented personally at [[Kalowe-Secrets]]; measured a dead specimen pulled from a blue hole by seven divers; found the experience professionally satisfying and personally grim
 - **[[Whip-Shark]]** — documented from hull damage and survivor accounts; has never seen a live specimen; considers this an acceptable outcome
 - **[[private/monsters/Leviathan|Leviathan]]** — Ch. 13, Volume II; the one entry that gave him genuine difficulty, not from contempt but from uncertainty; he finds this more unsettling than the creature itself
 
@@ -88,6 +88,6 @@ He is easy to find at the docks. He is usually the one in an argument about some
 ## Connections
 
 - **[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]** — his life's work; Volumes I and II published; available for purchase
-- **[[private/places/Port-Tidefall]]** — first book tour stop
-- **[[private/places/Kalowe]]** — second stop; prior field history here with the [[Sawek|Sawek]]
-- **[[private/places/Calveno]]** — third stop
+- **[[Port-Tidefall-Secrets]]** — first book tour stop
+- **[[Kalowe-Secrets]]** — second stop; prior field history here with the [[Sawek|Sawek]]
+- **[[Calveno-Secrets]]** — third stop

@@ -5,7 +5,7 @@ aliases:
 title: Anzolo
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.284-07:00
+published: 2026-05-02T17:34:23.532-07:00
 tags:
   - npc
   - tortle
@@ -36,7 +36,7 @@ species: tortle
 |              |                              |
 | ------------ | ---------------------------- |
 | **Species**  | Tortle                       |
-| **Location** | [[private/places/Calveno]]                  |
+| **Location** | [[Calveno-Secrets]]                  |
 
 ---
 
@@ -49,5 +49,5 @@ The Tangle vouches for him. That is enough.
 ## Connections
 
 - [[Nona-Black-Jaw]] — vouches for him; he carries her groceries and handles her chores
-- [[private/places/Calveno]] — where he operates
-- [[private/places/The-Warren]] — Tangle contact
+- [[Calveno-Secrets]] — where he operates
+- [[Warren-Secrets]] — Tangle contact

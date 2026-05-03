@@ -5,7 +5,7 @@ aliases:
 title: Sienne Orre
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.294-07:00
+published: 2026-05-02T16:52:44.080-07:00
 tags:
   - npc
   - player-resource
@@ -56,4 +56,4 @@ She drowned in the Maw when Umberlee closed the water over all five ships. Her s
 - [[Fernen]] — her ship; wreck at the Shelfworks descent
 - [[Maren]] — ran the parallel scout team
 - [[Fisks-Fleet]] — the fleet she served
-- [[private/places/The-Drowned-Maw]] — where she died
+- [[Drowned-Maw-Secrets]] — where she died

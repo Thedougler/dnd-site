@@ -5,7 +5,7 @@ aliases:
 title: The Crown Islands
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T16:29:03.048-07:00
+published: 2026-05-02T17:16:22.173-07:00
 tags:
   - location
   - crown-islands
@@ -38,7 +38,7 @@ confidence_level: medium
 
 Five large islands running east to west across the northern arc — broad-shouldered land with forested highlands, deep natural harbours, and pale stone fortworks placed by engineers with cannon range in mind. The Dravosi flag flies from every major anchorage. The southern coasts face the [[places/Central-Strait|Central Strait]], the northern coasts take open ocean swell, and the reef systems between islands — called the Greyteeth — have contradicted three generations of charts without apology. Local pilots are worth what they charge.
 
-The Crown Islands are safer than the [[places/The-Midchain|Midchain]] in roughly the way a locked strongroom is safer than an alley. Patrols answer distress signals. Ports keep records. Cargo moves under recognized law, which merchants value and sailors tolerate, because recognized law tends to arrive with fees attached and harbourmasters who remember what stamp you were supposed to have.
+The Crown Islands are safer than the [[Midchain|Midchain]] in roughly the way a locked strongroom is safer than an alley. Patrols answer distress signals. Ports keep records. Cargo moves under recognized law, which merchants value and sailors tolerate, because recognized law tends to arrive with fees attached and harbourmasters who remember what stamp you were supposed to have.
 
 ---
 
@@ -48,4 +48,4 @@ The Crown Islands are safer than the [[places/The-Midchain|Midchain]] in roughly
 - [[places/Port-Tidefall|Port Tidefall]]
 - [[places/Calveno|Calveno]]
 - [[places/Fort-Crestwall|Fort Crestwall]]
-- [[places/The-High-Eyrie|The High Eyrie]]
+- [[High-Eyrie|The High Eyrie]]

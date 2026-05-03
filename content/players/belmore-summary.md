@@ -3,7 +3,7 @@ publish: true
 title: Belmore
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-02T16:29:32.659-07:00
+published: 2026-05-02T17:27:51.572-07:00
 tags:
   - player-character
   - pc
@@ -38,7 +38,7 @@ confidence_level: medium
 
 ## Overview
 
-**Belmore** is a tiger tabaxi fighter, shrine guardian, and traveller aboard [[lore/Saltwright|the *Saltwright*]] at the opening of the [[private/places/The-Shattered-Sea|Shattered Sea]] campaign. Public information about his history remains limited, but his known purpose is direct: he has been sent to understand why [[raw/ingested/Umberlee|Umberlee]] is angry and to help set the seas right.
+**Belmore** is a tiger tabaxi fighter, shrine guardian, and traveller aboard [[lore/Saltwright|the *Saltwright*]] at the opening of the [[Shattered-Sea-Secrets|Shattered Sea]] campaign. Public information about his history remains limited, but his known purpose is direct: he has been sent to understand why [[raw/ingested/Umberlee|Umberlee]] is angry and to help set the seas right.
 
 Belmore's role is practical before it is decorative. He is physically capable, difficult to dislodge, and trained for tactical combat rather than spectacle. Where many sailors survive by negotiation, flight, or hiding, Belmore appears built to hold ground.
 
@@ -68,7 +68,7 @@ Belmore's private motivations, personal history, and long-term ambitions remain 
 - Battle Master training, with tactics and control emphasized over brute force alone.
 - Associated with a primal shrine of [[raw/ingested/Umberlee|Umberlee]].
 - Sent by his tribe to investigate why [[raw/ingested/Umberlee|Umberlee]] is angry.
-- Bartered for passage west aboard the _[[Saltwright|Saltwright]]_ from [[private/places/Keth-Naar|Keth-Naar]].
+- Bartered for passage west aboard the _[[Saltwright|Saltwright]]_ from [[Keth-Naar-Secrets|Keth-Naar-Secrets]].
 - Darkvision and climbing ability let him operate from angles many companions cannot reach.
 
 ## Known Capabilities

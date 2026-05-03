@@ -6,7 +6,7 @@ aliases:
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.145-07:00
+published: 2026-05-02T17:34:23.503-07:00
 tags:
   - npc
   - rattkin
@@ -46,15 +46,15 @@ species: rattkin
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Species**  | Rattkin                                                                                                                        |
 | **Role**     | Matriarch, Black-Jaw Run; senior elder, the Tangle                                                                             |
-| **Location** | [[places/The-Warren\|The-Warren]], under [[places/Calveno\|Calveno]] |
+| **Location** | [[Warren\|The-Warren]], under [[places/Calveno\|Calveno]] |
 
 ---
 
 ## Overview
 
-Nona Black-Jaw is a Rattkin elder and the head of the Black-Jaw Run — the most senior voice in [[private/places/The-Warren]], the fixed Rattkin settlement beneath [[private/places/Calveno]], and a central figure in [[Passage-Secrets]] network that runs through every port in the Scatter. She is [[Perrin-Black-Jaw|Perrin's]] grandmother. She is the person he is not ready to call.
+Nona Black-Jaw is a Rattkin elder and the head of the Black-Jaw Run — the most senior voice in [[Warren-Secrets]], the fixed Rattkin settlement beneath [[Calveno-Secrets]], and a central figure in [[Passage-Secrets]] network that runs through every port in the Scatter. She is [[Perrin-Black-Jaw|Perrin's]] grandmother. She is the person he is not ready to call.
 
-Her late husband built the _[[Vestra]]_, captained her across the [[private/places/The-Midchain|Midchain]] for decades, and left her to the family when he died. The ship passed to Perrin. She has not heard from him since. She has sent messages through the Passage asking him to make contact. He has not responded.
+Her late husband built the _[[Vestra]]_, captained her across the [[Midchain-Secrets|Midchain]] for decades, and left her to the family when he died. The ship passed to Perrin. She has not heard from him since. She has sent messages through the Passage asking him to make contact. He has not responded.
 
 ## Appearance
 
@@ -75,7 +75,7 @@ Her late husband built the ship, captained her for decades, and left her to the 
 ## Connections
 
 - **[[Perrin-Black-Jaw]]** — her grandson; Black-Jaw Run heir; she is looking for him
-- **[[private/places/The-Warren]]** — the fixed Rattkin settlement she anchors; most senior voice
+- **[[Warren-Secrets]]** — the fixed Rattkin settlement she anchors; most senior voice
 - **[[Passage-Secrets]]** — the Tangle is the network's center; she is at the Tangle's center
 - **[[Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed
-- **[[private/places/Calveno]]** — the city above the Warren
+- **[[Calveno-Secrets]]** — the city above the Warren

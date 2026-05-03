@@ -3,7 +3,7 @@ publish: true
 title: Calveno
 created: 2026-05-01
 modified: 2026-05-01
-published: 2026-05-02T16:29:03.066-07:00
+published: 2026-05-02T17:16:46.392-07:00
 tags:
   - location
   - city
@@ -46,6 +46,6 @@ That openness is the point. The city runs on witnessed transactions — deals st
 ## See Also
 
 - Tessarine Trade House - [[places/Port-Tidefall|Port Tidefall]]
-- [[places/The-Warren|The Warren]]
+- [[Warren|The Warren]]
 - Cat's Curio's
 - [[places/Crown-Islands|The Crown Islands]]

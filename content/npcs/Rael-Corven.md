@@ -5,7 +5,7 @@ aliases:
 title: Rael Corven
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.292-07:00
+published: 2026-05-02T16:52:44.071-07:00
 tags:
   - npc
   - player-resource
@@ -55,4 +55,4 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 - [[Delmar-Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
 - [[Red-Lady]] — his ship; wreck at the Shelfworks descent
 - [[Fisks-Fleet]] — the fleet he served
-- [[private/places/The-Drowned-Maw]] — where he died
+- [[Drowned-Maw-Secrets]] — where he died

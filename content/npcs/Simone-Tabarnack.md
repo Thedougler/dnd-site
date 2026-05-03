@@ -5,7 +5,7 @@ aliases:
 title: Simone Tabarnack
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T16:29:03.283-07:00
+published: 2026-05-02T17:40:38.883-07:00
 tags:
   - npc
   - grung
@@ -40,13 +40,13 @@ species: grung
 | ------------ | ------------------------------------------------------------------- |
 | **Species**  | Grung (Purple Caste)                                                |
 | **Role**     | Garrison soldier, Botukuri clan; Sorn                               |
-| **Location** | [[private/places/Sorn]], [[private/places/Verdant-Teeth\|Verdant Teeth]]                          |
+| **Location** | [[Sorn-Secrets]], [[Verdant-Teeth-Secrets\|Verdant Teeth]]                          |
 
 ---
 
 ## Overview
 
-Simone Tabarnack is [[Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[private/places/Sorn]] when Jean-Claude left.
+Simone Tabarnack is [[Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[Sorn-Secrets]] when Jean-Claude left.
 
 She is the one who told their parents about Pell.
 
@@ -63,6 +63,6 @@ She was younger than him and always more certain. Where he questioned the system
 ## Connections
 
 - [[Jean-Claude-Tabarnack]] — her older brother; the one who ran
-- [[private/places/Sorn]] — her garrison post and home island
+- [[Sorn-Secrets]] — her garrison post and home island
 - [[The-Grung]] — the clan and caste structure she serves
-- [[private/places/Verdant-Teeth]] — the island cluster she operates from
+- [[Verdant-Teeth-Secrets]] — the island cluster she operates from

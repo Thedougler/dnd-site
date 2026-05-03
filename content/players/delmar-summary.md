@@ -3,7 +3,7 @@ publish: true
 title: Delmar Atticus Fisk
 created: 2026-04-29
 modified: 2026-05-02
-published: 2026-05-02T16:29:32.660-07:00
+published: 2026-05-02T17:27:51.579-07:00
 tags:
   - player-character
   - pc
@@ -41,9 +41,9 @@ confidence_level: medium
 
 ## Overview
 
-**Delmar Atticus Fisk**, called **Admiral Fisk** by anyone who knows better than to test it, is forty-one years old and travelling aboard [[lore/Saltwright|the *Saltwright*]] as a passenger with nothing left to captain. His five-ship privateer fleet is gone. The _Red Lady_ is at the bottom of the [[places/The-Drowned-Maw|Drowned Maw]]. The admiral's coat is still on his back, salt-stiff and intact, and he still smiles like a man who expects things to go his way.
+**Delmar Atticus Fisk**, called **Admiral Fisk** by anyone who knows better than to test it, is forty-one years old and travelling aboard [[lore/Saltwright|the *Saltwright*]] as a passenger with nothing left to captain. His five-ship privateer fleet is gone. The _Red Lady_ is at the bottom of the [[Drowned-Maw|Drowned Maw]]. The admiral's coat is still on his back, salt-stiff and intact, and he still smiles like a man who expects things to go his way.
 
-His rank is reputation more than paperwork. No recognized navy granted him the title before he started wearing it, and in the ports of the [[private/places/The-Shattered-Sea|Shattered Sea]] — where authority tends to follow usefulness — that distinction rarely came up.
+His rank is reputation more than paperwork. No recognized navy granted him the title before he started wearing it, and in the ports of the [[Shattered-Sea-Secrets|Shattered Sea]] — where authority tends to follow usefulness — that distinction rarely came up.
 
 ---
 

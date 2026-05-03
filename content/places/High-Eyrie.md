@@ -5,7 +5,7 @@ aliases:
 title: The High Eyrie
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:06:02.642-07:00
+published: 2026-05-02T18:39:06.482-07:00
 tags:
   - location
   - landmark
@@ -38,7 +38,7 @@ confidence_level: medium
 
 # The High Eyrie
 
-![[raw/assets/banners/The-High-Eyrie.webp]]
+![[raw/assets/banners/The-High-Eyrie.webp|Stone fortress monastery perched on a sheer sea stack above dark water]]
 
 ## Overview
 

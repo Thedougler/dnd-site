@@ -6,7 +6,7 @@ aliases:
 title: Maggie Porcelain Pots
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.080-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - npc
   - dragonborn
@@ -29,7 +29,7 @@ species: dragonborn
 
 # Maggie Porcelain Pots
 
-![[raw/assets/banners/Maggie-Porcelain-Pots.webp]]
+![[raw/assets/banners/Maggie-Porcelain-Pots.webp|Maggie Porcelain Pots working among stacked clay vessels as warm firelight glows behind her]]
 
 ---
 

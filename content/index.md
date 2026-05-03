@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-02T00:52:50.920-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:03:59.055-07:00
+published: 2026-05-02T18:39:06.479-07:00
 tags:
   - player-resource
   - index
@@ -17,7 +17,7 @@ updated: 2026-05-03
 
 # The Shattered Sea
 
-![[raw/assets/banners/The-Shattered-Sea.webp]]
+![[raw/assets/banners/The-Shattered-Sea.webp|Aerial view of the Shattered Sea island chain with turquoise reefs and scattered green islands]]
 _High-magic. Age of sail. 1495 DR. Sixty thousand square miles of reef, deep channel, cliff port, and lost ruin — held together by debt, tribute, and blood._
 
 The Scatter doesn't forgive ignorance. Out here, the factions that matter don't move armies. They move trade routes, debt ledgers, and sacred tribute. The difference between a clean port call and a keel scraped across Crown law is knowing who's watching the pier when you tie up.

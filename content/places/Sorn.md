@@ -3,7 +3,7 @@ publish: true
 title: Sorn
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.091-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - island
@@ -31,7 +31,7 @@ confidence_level: medium
 
 # Sorn
 
-![[raw/assets/banners/Sorn.webp]]
+![[raw/assets/banners/Sorn.webp|Forested island with a pale beach and dense jungle rising inland]]
 
 ## Overview
 

@@ -3,7 +3,7 @@ publish: true
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.082-07:00
+published: 2026-05-02T18:39:06.482-07:00
 tags:
   - player-character
   - pc
@@ -26,7 +26,7 @@ confidence_level: medium
 
 # Crisdalynn Khinriss
 
-![[raw/assets/banners/Crissdalynn-Archer.webp]]
+![[raw/assets/banners/Crissdalynn-Archer.webp|Crissdalynn, a blue-feathered aarakocra, bracing on a ship's deck in high wind]]
 
 > _Strangers hide their children. Crewmates know she'll pocket anything that catches the light._
 

@@ -6,7 +6,7 @@ aliases:
 title: The Central Strait
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.086-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - waterway
@@ -33,7 +33,7 @@ confidence_level: medium
 
 # The Central Strait
 
-![[raw/assets/banners/Central-Strait.webp]]
+![[raw/assets/banners/Central-Strait.webp|Wide blue-green shipping strait cutting between low islands and reef shallows]]
 
 ## Overview
 

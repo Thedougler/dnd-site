@@ -3,7 +3,7 @@ publish: true
 title: Pearl of Souls
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.110-07:00
+published: 2026-05-02T18:39:06.478-07:00
 tags:
   - item
   - artifact
@@ -28,7 +28,7 @@ summary: Umberlee's stolen artifact — a fist-sized black pearl that collects t
 
 # Pearl of Souls
 
-![[raw/assets/banners/Pearl-of-Souls.webp]]
+![[raw/assets/banners/Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
 A pearl the size of a closed fist. Black as deep water, with an iridescent sheen that shifts under the light in a way that never quite resolves. It is never entirely still. Anyone with a sensitivity to the dead will feel it before they see it.
 
 The Pearl is a divine instrument of [[lore/Umberlee|Umberlee]]. For years it sat in one of her shrines, tended by the [[Waveservants|Waveservants]], doing what it does. [[delmar-summary|Delmar Fisk]] took it. He did not know what it was.

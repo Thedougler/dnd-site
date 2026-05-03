@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.083-07:00
+published: 2026-05-02T18:39:06.483-07:00
 tags:
   - player-character
   - pc
@@ -26,7 +26,7 @@ confidence_level: medium
 
 # Jean-Claude Tabarnack
 
-![[raw/assets/banners/Jean-Claude-Archer.webp]]
+![[raw/assets/banners/Jean-Claude-Archer.webp|Jean-Claude, a blue grung ranger in a red beret, standing on a docked boat with a bow]]
 
 > _He moves through human ports wearing a beret and a fake moustache. His reasoning is internally consistent._
 

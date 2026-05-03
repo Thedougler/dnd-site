@@ -3,7 +3,7 @@ publish: true
 title: Port Tidefall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.101-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - location
   - port
@@ -33,7 +33,7 @@ confidence_level: medium
 
 # Port Tidefall
 
-![[raw/assets/banners/Port-Tidefall.webp]]
+![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
 ## Overview
 

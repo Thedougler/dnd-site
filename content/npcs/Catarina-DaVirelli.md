@@ -6,7 +6,7 @@ aliases:
 title: Catarina Da'Virelli
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:01:27.086-07:00
+published: 2026-05-02T18:39:06.479-07:00
 tags:
   - npc
   - artificer
@@ -36,7 +36,7 @@ species: human
 
 # Catarina Da'Virelli
 
-![[raw/assets/banners/Catarina-DaVirelli.webp]]
+![[raw/assets/banners/Catarina-DaVirelli.webp|Catarina DaVirelli in her workshop, holding tools among benches of mechanisms and ship fittings]]
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 title: The Midchain
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.094-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - region
@@ -39,7 +39,7 @@ confidence_level: medium
 
 # The Midchain
 
-![[raw/assets/banners/The-Midchain.webp]]
+![[raw/assets/banners/The-Midchain.webp|Cluster of lush Midchain islands surrounded by bright reef water and deep channels]]
 
 ## Overview
 

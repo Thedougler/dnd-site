@@ -3,7 +3,7 @@ publish: true
 title: Bisou
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.078-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - npc
   - beast
@@ -30,7 +30,7 @@ species: capuchin monkey
 
 # Bisou
 
-![[raw/assets/banners/Bisou.webp]]
+![[raw/assets/banners/Bisou.webp|Bisou, a small monkey-like sailor, perched on a ship at sunset]]
 
 ---
 

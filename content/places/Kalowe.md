@@ -3,7 +3,7 @@ publish: true
 title: Kalowe
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.088-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - port
@@ -30,7 +30,7 @@ confidence_level: medium
 
 # Kalowe
 
-![[raw/assets/banners/Kalowe.webp]]
+![[raw/assets/banners/Kalowe.webp|Harbor settlement on a low tropical island at sunset, with cranes and boats along the shore]]
 
 ## Overview
 

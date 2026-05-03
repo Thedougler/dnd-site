@@ -7,7 +7,7 @@ aliases:
 title: The Shattered Sea
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.100-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - location
   - region
@@ -40,7 +40,7 @@ confidence_level: medium
 
 # The Shattered Sea
 
-![[raw/assets/banners/The-Shattered-Sea.webp]]
+![[raw/assets/banners/The-Shattered-Sea.webp|Aerial view of the Shattered Sea island chain with turquoise reefs and scattered green islands]]
 
 ## Overview
 

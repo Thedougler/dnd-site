@@ -6,7 +6,7 @@ aliases:
 title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.087-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - trench
@@ -33,7 +33,7 @@ confidence_level: medium
 
 # The Drowned Maw
 
-![[raw/assets/banners/The-Drowned-Maw.webp]]
+![[raw/assets/banners/The-Drowned-Maw.webp|Vast dark blue ocean sinkhole spiraling into deep water]]
 
 ## Overview
 

@@ -3,7 +3,7 @@ publish: true
 title: Whip Shark
 created: 2026-04-12
 modified: 2026-04-21
-published: 2026-05-02T18:06:02.641-07:00
+published: 2026-05-02T18:39:06.478-07:00
 tags:
   - creature
   - monstrosity
@@ -31,7 +31,7 @@ statblock: inline
 
 # Whip Shark (Welak)
 
-![[raw/assets/banners/Whip-Shark-2.webp]]
+![[raw/assets/banners/Whip-Shark-2.webp|Giant whip shark breaching beside a sailing ship, its long barbed tail arcing over the waves]]
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 title: Serafina Windfall Fisk
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.078-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - npc
   - aasimar
@@ -34,7 +34,7 @@ species: aasimar
 
 # Serafina Windfall Fisk
 
-![[raw/assets/banners/Serafina-Windfall-Fisk.webp]]
+![[raw/assets/banners/Serafina-Windfall-Fisk.webp|Serafina Windfall Fisk looking over a stormy harbor with red cloth whipping in the wind]]
 
 ---
 

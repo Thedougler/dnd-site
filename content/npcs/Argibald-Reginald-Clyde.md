@@ -6,7 +6,7 @@ aliases:
 title: Algernon Reginald Clyde
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.080-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - npc
   - scholar
@@ -37,7 +37,7 @@ species: gnome
 
 # Algernon Reginald Clyde
 
-![[raw/assets/banners/Clyde.webp]]
+![[raw/assets/banners/Clyde.webp|Argibald Reginald Clyde, an elderly gnome scholar, standing on wet docks with a book and walking stick]]
 
 ---
 

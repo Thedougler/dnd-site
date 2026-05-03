@@ -3,7 +3,7 @@ publish: true
 title: Ashwall Islands
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.094-07:00
+published: 2026-05-02T18:39:06.482-07:00
 tags:
   - location
   - islands
@@ -30,7 +30,7 @@ confidence_level: medium
 
 # Ashwall Islands
 
-![[raw/assets/banners/Ashwall-Islands.webp]]
+![[raw/assets/banners/Ashwall-Islands.webp|Dark volcanic islands rising from rough gray water beneath a stormy sky]]
 
 ## Overview
 

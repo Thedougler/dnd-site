@@ -6,7 +6,7 @@ aliases:
 title: The Shelfworks
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.087-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - location
   - ruins
@@ -42,7 +42,7 @@ confidence_level: medium
 
 # The Shelfworks
 
-![[raw/assets/banners/The-Shelfworks.webp]]
+![[raw/assets/banners/The-Shelfworks.webp|Coral shelf dropping into deep blue water with workboats gathered near the edge]]
 
 ## Overview
 

@@ -5,7 +5,7 @@ aliases:
 title: The Outer Reach
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.097-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - ocean
@@ -31,7 +31,7 @@ confidence_level: medium
 
 # The Outer Reach
 
-![[raw/assets/banners/Outer-Reach.webp]]
+![[raw/assets/banners/Outer-Reach.webp|Remote reef islands and shoals scattered across open water beneath high clouds]]
 
 ## Overview
 

@@ -6,7 +6,7 @@ aliases:
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:01:27.088-07:00
+published: 2026-05-02T18:39:06.479-07:00
 tags:
   - npc
   - rattkin
@@ -38,7 +38,7 @@ species: rattkin
 
 # Nona Black-Jaw
 
-![[raw/assets/banners/Nona-Black-Jaw.webp]]
+![[raw/assets/banners/Nona-Black-Jaw.webp|Nona Black-Jaw standing in a firelit canal street, wrapped in weathered red cloth]]
 
 ---
 

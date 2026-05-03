@@ -5,7 +5,7 @@ aliases:
 title: Master Kyzil
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:01:27.088-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - npc
   - aarakocra
@@ -36,7 +36,7 @@ species: aarakocra
 
 # Master Kyzil
 
-![[raw/assets/banners/Master-Kyzil.webp]]
+![[raw/assets/banners/Master-Kyzil.webp|Master Kyzil in a pale hooded cloak, standing on a misty waterfront between moored ships]]
 
 ---
 

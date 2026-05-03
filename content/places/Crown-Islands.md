@@ -5,7 +5,7 @@ aliases:
 title: The Crown Islands
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.089-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - crown-islands
@@ -32,7 +32,7 @@ confidence_level: medium
 
 # The Crown Islands
 
-![[raw/assets/banners/Crown-Islands.webp]]
+![[raw/assets/banners/Crown-Islands.webp|Mountainous green Crown Islands ringed by bright reefs under clearing storm clouds]]
 
 ## Overview
 

@@ -3,7 +3,7 @@ publish: true
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-02T18:03:34.845-07:00
+published: 2026-05-02T18:39:06.483-07:00
 tags:
   - player-resource
   - index
@@ -19,7 +19,7 @@ updated: 2026-05-03
 
 # The Party
 
-![[raw/assets/banners/The-Party.png]]
+![[raw/assets/banners/The-Party.png|The party gathered on a ship's deck: Belmore, Jean-Claude, Crissdalynn, and Delmar ready for action]]
 
 Public-facing player character summaries. These pages are safe to share at the table and focus on what the party can know without opening private interview notes.
 

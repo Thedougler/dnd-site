@@ -6,7 +6,7 @@ aliases:
 title: Beaumont Sel
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:06:02.641-07:00
+published: 2026-05-02T18:39:06.480-07:00
 tags:
   - npc
   - captain
@@ -40,7 +40,7 @@ species: tortle
 
 # Beaumont Sel
 
-![[raw/assets/banners/Beaumont-Sel.webp]]
+![[raw/assets/banners/Beaumont-Sel.webp|Beaumont Sel, a weathered sailor, standing on deck beside a large reptilian companion at sunset]]
 
 ---
 

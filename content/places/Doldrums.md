@@ -3,7 +3,7 @@ publish: true
 title: The Doldrums
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.090-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - sea-hazard
@@ -29,7 +29,7 @@ confidence_level: medium
 
 # The Doldrums
 
-![[raw/assets/banners/The-Doldrums.webp]]
+![[raw/assets/banners/The-Doldrums.webp|Calm glassy sea with scattered low islands under a hazy bright sky]]
 
 ## Overview
 

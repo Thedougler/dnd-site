@@ -3,7 +3,7 @@ publish: true
 title: Fort Crestwall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.096-07:00
+published: 2026-05-02T18:39:06.481-07:00
 tags:
   - location
   - fort
@@ -31,7 +31,7 @@ confidence_level: medium
 
 # Fort Crestwall
 
-![[raw/assets/banners/Fort-Crestwall.webp]]
+![[raw/assets/banners/Fort-Crestwall.webp|Round stone sea fort on a cliff edge above crashing waves]]
 
 ## Overview
 

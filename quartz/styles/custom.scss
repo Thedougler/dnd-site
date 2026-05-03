@@ -13,6 +13,13 @@ html[saved-theme="dark"] {
   --surface-muted: color-mix(in srgb, var(--light) 88%, var(--secondary));
   --rule-soft: color-mix(in srgb, var(--lightgray) 68%, transparent);
   --shadow-soft: 0 18px 50px rgba(0, 0, 0, 0.32);
+  --statblock-primary-color: #c97a60;
+  --statblock-rule-color: #a8623e;
+  --statblock-background-color: #1c1714;
+  --statblock-bar-color: #7a5518;
+  --statblock-bar-border-color: #3a3028;
+  --statblock-border-color: #3a3028;
+  --statblock-box-shadow-color: rgba(0, 0, 0, 0.5);
 }
 
 html,
@@ -257,6 +264,37 @@ a.tag-link,
 .page-footer {
   border-top: 1px solid var(--rule-soft);
   color: var(--gray);
+}
+
+.callout[data-callout="read-aloud"] {
+  --color: var(--tertiary);
+  --border: color-mix(in srgb, var(--tertiary) 28%, transparent);
+  --bg: color-mix(in srgb, var(--tertiary) 6%, var(--light));
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--tertiary);
+
+  .callout-title {
+    font-size: 0.7rem;
+    font-variant: small-caps;
+    letter-spacing: 0.12em;
+    opacity: 0.65;
+    padding-bottom: 0.25rem;
+  }
+
+  .callout-content p {
+    font-style: italic;
+    line-height: 1.78;
+    color: color-mix(in srgb, var(--darkgray) 90%, var(--tertiary)) !important;
+  }
+}
+
+.markdown-rendered hr {
+  border: none;
+  height: 10px;
+  margin: 1.8rem 0;
+  background:
+    linear-gradient(var(--rule-soft), var(--rule-soft)) center 1px / 100% 1px no-repeat,
+    linear-gradient(var(--rule-soft), var(--rule-soft)) center 7px / 100% 1px no-repeat;
 }
 
 @media all and ($tablet) {

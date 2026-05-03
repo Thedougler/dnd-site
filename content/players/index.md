@@ -3,7 +3,7 @@ publish: true
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.379-07:00
+published: 2026-05-02T20:15:09.857-07:00
 tags:
   - player-resource
   - index
@@ -21,12 +21,15 @@ updated: 2026-05-03
 
 ![[raw/assets/banners/The-Party.png|The party gathered on a ship's deck: Belmore, Jean-Claude, Crissdalynn, and Delmar ready for action]]
 
-Public-facing player character summaries. These pages are safe to share at the table and focus on what the party can know without opening private interview notes.
+## Player character summaries
 
-- [[belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-- [[delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
-- [[crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
-- [[jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
-- [[perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
+- [[players/belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
+- [[players/delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
+- [[players/crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
+- [[players/jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
+- [[players/perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
 
-For the campaign starting situation and the _[[Saltwright|Saltwright]]_, see [[player-primer|The Shattered Sea Player Primer]] and [[Saltwright|Saltwright]].
+---
+
+- [[index|The Shattered Sea]] — campaign hub
+- [[ships/Saltwright|Saltwright]] · [[player-primer|Player Primer]]

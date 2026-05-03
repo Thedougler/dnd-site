@@ -3,7 +3,7 @@ publish: true
 title: Ships
 created: 2026-05-02T19:32:49.940-07:00
 modified: 2026-05-02
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - index
@@ -24,7 +24,7 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 **[[ships/Saltwright|The Saltwright]]** — A hard-used two-masted merchant brig captained by [[npcs/Beaumont-Sel|Beaumont Sel]]. Old, plain, and thoroughly practical. Currently home.
 
-**[[ships/Red-Lady|The Red Lady]]** — Delmar Fisk's flagship. A privateer-rigged brigantine that led five ships into the [[Drowned-Maw|Drowned Maw]] and did not come back.
+**[[ships/Red-Lady|The Red Lady]]** — Delmar Fisk's flagship. A privateer-rigged brigantine that led five ships into the [[places/Drowned-Maw|Drowned Maw]] and did not come back.
 
 **[[ships/Narrow|The Narrow]]** — Scout sloop, second ship of the fleet. Captained by [[npcs/Maren|Maren]]. Built to go places other ships couldn't.
 
@@ -38,4 +38,4 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 ---
 
-For ship rules and mechanics, see [[rules/Ship-Stats|Ship Stats]] and [[rules/Ship-Bastion|Ship Bastion]].
+For ship rules and mechanics, see [[rules/Ship-Stats|Ship Stats]] and [[rules/Ship-Bastion|Ship Bastion]] · [[index|The Shattered Sea]].

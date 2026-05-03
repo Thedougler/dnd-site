@@ -3,7 +3,7 @@ publish: true
 title: Rules
 created: 2026-05-01T16:53:38.314-07:00
 modified: 2026-05-03
-published: 2026-05-02T19:17:44.306-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - index
@@ -32,4 +32,4 @@ Rules references for ship play, character options, and campaign systems.
 
 ---
 
-For the broader campaign setup, see [[player-primer|The Shattered Sea Player Primer]].
+For the broader campaign setup, see [[player-primer|The Shattered Sea Player Primer]] · [[index|The Shattered Sea]].

@@ -3,7 +3,7 @@ publish: true
 title: Lore
 created: 2026-05-01T16:53:31.948-07:00
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.312-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - index
@@ -18,11 +18,9 @@ updated: 2026-05-03
 
 # Public Lore
 
-Common lore, setting primers, religion, ships, and cultural references for the [[Shattered-Sea|Shattered Sea]].
+Common lore, setting primers, religion, and cultural references for the [[places/Shattered-Sea|Shattered Sea]].
 
-- [[Saltwright|Saltwright]] - the hard-used merchant brig where the campaign begins.
-- [[lore/Umberlee|Umberlee and the Waveservants]] - public lore on the feared sea goddess and her harbour clergy.
-- [[Grung-Clans|The Grung Clans]] - public lore on Grung caste, trade, poison, slavery, and the [[Verdant-Teeth|Verdant Teeth]].
-- [[items/Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] - in-world creature reference with practical, hostile naturalism.
+- [[lore/Umberlee|Umberlee and the Waveservants]] — the sea goddess, her harbour clergy, and what it costs to sail without paying.
+- [[factions/Grung-Clans|The Grung Clans]] — Grung caste, trade protocol, poison, slavery, and the [[places/Verdant-Teeth|Verdant Teeth]].
 
-For faction-level summaries, see [[factions/index|Powers of the Shattered Sea]].
+For faction-level summaries, see [[factions/index|Factions]] · [[index|The Shattered Sea]].

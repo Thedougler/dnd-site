@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.477-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
 visibility: public
@@ -129,7 +129,7 @@ This is Maw-adjacent country: longline grounds, serious pilots, salvage staging,
 
 To the east lies the [[Drowned-Maw|Drowned Maw]], a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. The surface can go flat in weather that should chop it to pieces. Sailors cross it regularly. Most have no trouble. The ones who do have trouble tend to become warnings rather than sources.
 
-The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[Sentinels-Of-The-Eyrie#What Everyone Knows|Sentinels of the Eyrie]] watch it from the [[High-Eyrie#What Everyone Knows|High Eyrie]]. [[Waveservants|The Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
+The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] watch it from the [[places/High-Eyrie|High Eyrie]]. [[Waveservants|The Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
 ### [[places/Outer-Reach|The Outer Reach]] and [[Sunken-Crown|Sunken Crown]]
 
@@ -157,7 +157,7 @@ You don't need to know every faction before you step aboard. You need to know th
 
 **[[Sentinels-Of-The-Eyrie|The Sentinels of the Eyrie]]** are an [[Aarakocra]] monastic order watching the [[Drowned-Maw|Drowned Maw]] from high basalt stone. They are not a navy, not a church, and not a government. They observe, record, and keep recording when everyone else starts arguing about what the records mean.
 
-**[[High-Eyrie|The High Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
+**[[places/High-Eyrie|The High Eyrie]]** is their basalt sea-stack monastery near the northeastern Crown coast. Visitors are rare, the practical approach is aerial, and its ledgers are understood to be the most complete Maw observation record in the Scatter.
 
 ---
 
@@ -166,9 +166,9 @@ You don't need to know every faction before you step aboard. You need to know th
 Most species from the 2024 sourcebooks have a place in the Scatter. The following homebrew options are native to the setting:
 
 - **[[species/Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
-- **[[Rattkin]]**: small, flexible, hard to catch, and native to the hidden infrastructure of port life. Rattkin make excellent smugglers, scouts, couriers, spies, sailors, and people who were definitely not in that locked room.
-- **[[Tabaxi]]**: feline humanoids with ancient roots in the [[Shattered-Sea|Shattered Sea]], especially among the isolated island tribes of the Sunken Crown.
-- **[[Aarakocra]]**: winged people whose relationship to height, distance, and danger is fundamentally different from ground-bound folk.
+- **[[species/Rattkin|Rattkin]]**: small, flexible, hard to catch, and native to the hidden infrastructure of port life. Rattkin make excellent smugglers, scouts, couriers, spies, sailors, and people who were definitely not in that locked room.
+- **[[species/Tabaxi|Tabaxi]]**: feline humanoids with ancient roots in the [[places/Shattered-Sea|Shattered Sea]], especially among the isolated island tribes of the Sunken Crown.
+- **[[species/Aarakocra|Aarakocra]]**: winged people whose relationship to height, distance, and danger is fundamentally different from ground-bound folk.
 
 If you want to play something stranger, ask. [[Shattered-Sea|The Shattered Sea]] has room for oddities, but the character still needs a reason to stay with the crew.
 
@@ -178,11 +178,11 @@ If you want to play something stranger, ask. [[Shattered-Sea|The Shattered Sea]]
 
 Your vessel is not just transportation. It is shelter, leverage, reputation, storage, escape route, and eventually home.
 
-Once the ship is yours, it operates as a combined **[[Ship-Bastion|Ship Bastion]]**: the 2024 [[Bastions|Bastion]] rules adapted for a mobile vessel.
+Once the ship is yours, it operates as a combined **[[rules/Ship-Bastion|Ship Bastion]]**: the 2024 [[rules/Bastions|Bastion]] rules adapted for a mobile vessel.
 
 - Facility slots are pooled across the party.
 - Weekly Bastion Turns handle upkeep, crew wages, facility orders, repairs, trade, visitors, and maritime events.
-- Ship size matters. A sloop cannot hold the same life, guns, cargo, and magical infrastructure as a frigate. See **[[Ship-Stats]]** for the tier system.
+- Ship size matters. A sloop cannot hold the same life, guns, cargo, and magical infrastructure as a frigate. See **[[rules/Ship-Stats|Ship Stats]]** for the tier system.
 
 Early on, expect to think like sailors even before you own the deck under your feet. Crew, cargo, water, repairs, charts, port fees, bribes, and grudges all matter.
 
@@ -190,7 +190,7 @@ Early on, expect to think like sailors even before you own the deck under your f
 
 ## The Starting Situation
 
-You begin at **Level 3** aboard the _[[Saltwright|Saltwright]]_.
+You begin at **Level 3** aboard the _[[ships/Saltwright|Saltwright]]_.
 
 ![[raw/assets/banners/Saltwright.webp|The Saltwright, a dark-sailed wooden ship crossing rough seas at dusk|730|892x502]]
 
@@ -214,7 +214,7 @@ Whatever brought you aboard, the _[[Saltwright|Saltwright]]_ is where your stori
 - Powerful, strange, optimized, comedic, or highly specific builds are welcome. The one hard requirement: make a character with some reason to work with the party.
 - Character death is possible. The DM will not aim to kill you, but the sea, the dice, and your decisions will not be padded. Death will be treated with narrative weight, and resurrection or a new same-level character are both on the table.
 
-### Optional: [[Mortis|The Mortis System]]
+### Optional: [[rules/Mortis|The Mortis System]]
 
 A Mortis is a Session Zero option that pairs a permanent mechanical drawback with a targeted mechanical benefit. It is not a curse and not a punishment. It is a fact about your character expressed through mechanics: the same truth that limits them also makes them exceptional.
 
@@ -226,7 +226,7 @@ Mortises require DM approval and lock in at Session Zero.
 
 Come with a character idea strong enough to answer a few questions:
 
-- Why are you aboard the _[[Saltwright|Saltwright]]_?
+- Why are you aboard the _[[ships/Saltwright|Saltwright]]_?
 - What do you want badly enough to cross dangerous water for?
 - What kind of trouble follows you onto a ship?
 - What would make you stay with a crew when leaving would be easier?
@@ -235,16 +235,8 @@ Once you have a concept, schedule a short character interview with the DM. The g
 
 ---
 
-## Links
+---
 
-- [[Mortis|The Mortis System]]
-- [[Bastions]]
-- [[Ship-Bastion|Ship Bastion]]
-- [[Ship-Stats]]
-- [[species/Grung|Playable Grung]]
-- [[Rattkin]]
-- [[Tabaxi]]
-- [[Aarakocra]]
-- [[lore/Umberlee|Umberlee and the Waveservants]]
-- [[Passage|The Passage]]
-- [[Grung-Clans]]
+- [[index|The Shattered Sea]] — campaign hub
+- [[campaign-overview|Campaign Overview]] — geography and powers reference
+- [[factions/index|Factions]] · [[species/index|Species]] · [[rules/index|Rules]]

@@ -3,7 +3,7 @@ publish: true
 title: The Shattered Sea
 created: 2026-05-02T00:52:50.920-07:00
 modified: 2026-05-03
-published: 2026-05-02T19:37:40.924-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - index
@@ -36,7 +36,7 @@ This wiki is your table reference: the world as your characters know it, the rul
 
 ## The Party
 
-You start at **Level 3** aboard the [[Saltwright|*Saltwright*]], a hard-used merchant brig working a dangerous [[Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
+You start at **Level 3** aboard the _[[ships/Saltwright|Saltwright]]_, a hard-used merchant brig working a dangerous [[places/Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
 
 - [[players/belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian trying to set the seas right.
 - [[players/delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
@@ -59,11 +59,11 @@ Full rules index: [[rules/index|Rules Index]].
 
 ## Character Creation
 
-Standard 2024 species are all available. The [[Shattered-Sea|Shattered Sea]] also adds:
+Standard 2024 species are all available. The [[places/Shattered-Sea|Shattered Sea]] also adds:
 
-- [[species/Aarakocra|Aarakocra]] — winged people with sustained flight; often encountered through the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]].
-- [[species/Grung|Grung]] — amphibious, poisonous, and caste-marked; from the [[Verdant-Teeth|Verdant Teeth]].
-- [[species/Rattkin|Rattkin]] — small, fast, built for impossible spaces; closely tied to [[Passage|the Passage]].
+- [[species/Aarakocra|Aarakocra]] — winged people with sustained flight; often encountered through the [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]].
+- [[species/Grung|Grung]] — amphibious, poisonous, and caste-marked; from the [[places/Verdant-Teeth|Verdant Teeth]].
+- [[species/Rattkin|Rattkin]] — small, fast, built for impossible spaces; closely tied to [[factions/Passage|the Passage]].
 - [[species/Tabaxi|Tabaxi]] — feline humanoids with old roots in the eastern islands and the Sunken Crown.
 
 Full breakdown: [[species/index|Playable Species]].
@@ -74,17 +74,17 @@ Full breakdown: [[species/index|Playable Species]].
 
 The Scatter has no single throne. It has interests — old money, long memories, and longer reach. Every port you make has at least two of these watching from different windows.
 
-**[[Dravosi-Crown|The Dravosi Crown]]** — inspection law, fortress harbours, naval pressure, and official violence.
+**[[factions/Dravosi-Crown|The Dravosi Crown]]** — inspection law, fortress harbours, naval pressure, and official violence.
 
-**[[Tessarine-Concordat|The Tessarine Concordat]]** — contracts, debt, insurance, route money, and polite coercion.
+**[[factions/Tessarine-Concordat|The Tessarine Concordat]]** — contracts, debt, insurance, route money, and polite coercion.
 
-**[[Waveservants|The Waveservants]]** — [[lore/Umberlee|Umberlee]]'s tribute network, harbour shrines, blessings, and the cost of sailing.
+**[[factions/Waveservants|The Waveservants]]** — [[lore/Umberlee|Umberlee]]'s tribute network, harbour shrines, blessings, and the cost of sailing.
 
-**[[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]** — observation, records, skyborne watchers, and the edge of the [[Drowned-Maw|Drowned Maw]].
+**[[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]** — observation, records, skyborne watchers, and the edge of the [[places/Drowned-Maw|Drowned Maw]].
 
-**[[Passage|The Passage]]** — Rattkin courier routes, hidden infrastructure, and information below the streets.
+**[[factions/Passage|The Passage]]** — Rattkin courier routes, hidden infrastructure, and information below the streets.
 
-**[[Grung-Clans|The Grung Clans]]** — [[Verdant-Teeth|Verdant Teeth]] territory, waterline trade, caste law, and raids that have been getting worse.
+**[[factions/Grung-Clans|The Grung Clans]]** — [[places/Verdant-Teeth|Verdant Teeth]] territory, waterline trade, caste law, and raids that have been getting worse.
 
 Full faction index: [[factions/index|Factions]].
 
@@ -95,10 +95,10 @@ Full faction index: [[factions/index|Factions]].
 **[[lore/Umberlee|Umberlee and the Waveservants]]**
 She doesn't answer prayers. She collects tribute, and the difference matters when you're three days from the nearest shrine and the weather turns. Her clergy run every harbour blessing in the Scatter. Ships that skip the tithe have a way of not coming home.
 
-**[[Grung-Clans|The Grung Clans]]**
+**[[factions/Grung-Clans|The Grung Clans]]**
 The clans of the [[places/Verdant-Teeth|Verdant Teeth]] operate by colour-caste: birthright, poison, bondage, and a social order that makes perfect sense to them and has gotten a lot of outsiders killed. Raids have been increasing. Walking inland without an invitation is not something you do twice.
 
-**[[Saltwright|Saltwright]]**
+**[[ships/Saltwright|Saltwright]]**
 Your ship. Hard-used, understaffed, working a route that no one with better options would run. Still floating — which is more than can be said for the last two vessels this crew called home.
 
 ---

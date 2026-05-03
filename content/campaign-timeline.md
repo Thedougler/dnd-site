@@ -3,7 +3,7 @@ publish: true
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - planning
@@ -74,7 +74,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **Day −5** — Umberlee's retribution finds the fleet over the [[Drowned-Maw|Drowned Maw]]. Fog. A rogue trench opens and drives all five ships 80 feet down; the water closes overhead. Crisdalynn dives from the crow's nest, grabs Fisk, and flies them both clear. The Pearl is lost with the _Red Lady_. Umberlee presses the souls of all five captains — [[npcs/Rael-Corven|Rael Corven]], [[npcs/Detto-Kalash|Detto Kalash]], [[npcs/Maren|Maren]], [[npcs/Sienne-Orre|Sienne Orre]], and Fisk himself — into Fisk as the hulls go down. Five ships lost. Two survivors.
 
-**Day −4** — Something destroys the _Vestra_ near the Maw. [[players/perren-summary|Perrin Black-Jaw]] barely survives. He believes his Cloak of the Manta Ray saved him. He limps the beach at Keth Naar and stows away aboard the _[[Saltwright|Saltwright]]_ in harbour.
+**Day −4** — Something destroys the _Vestra_ near the Maw. [[players/perren-summary|Perrin Black-Jaw]] barely survives. He believes his Cloak of the Manta Ray saved him. He limps the beach at Keth Naar and stows away aboard the _[[ships/Saltwright|Saltwright]]_ in harbour.
 
 **Day −4** — Belmore's tribe reads the sea as actively wrong and sends their strongest hunter to find the cause. Belmore is tasked with learning why Umberlee is furious. He finds the _Saltwright_ in harbour and barters passage west with [[npcs/Beaumont-Sel|Beaumont Sel]].
 
@@ -93,3 +93,8 @@ Jean-Claude hears dogs behind him on a Midchain island and leaps onto the _Saltw
 ## Session 2
 
 _(Append after session runs)_
+
+---
+
+- [[index|The Shattered Sea]] — campaign hub
+- [[campaign-overview|Campaign Overview]] — geography, powers, and starting situation

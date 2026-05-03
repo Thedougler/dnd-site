@@ -3,7 +3,7 @@ publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.348-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - faq
@@ -26,7 +26,7 @@ After that, use [[campaign-overview|Campaign Overview]] as the dense reference p
 
 ## Is this wiki safe for players?
 
-Of Course! This wiki is intended for my players. It includes common knowledge, onboarding material, published rules references, playable species, faction summaries, and public setting lore.
+Yes. This wiki is written for players. It covers common knowledge, onboarding material, published rules references, playable species, faction summaries, and setting lore.
 
 Everything navigable on the public wiki is public and can be read. Nothing private is ever published. If you follow a link and get a 404, that is a spoiler boundary, not an error; the missing page simply is not public yet. This makes the whole wiki spoiler-safe.
 
@@ -40,11 +40,11 @@ Read these:
 4. [[rules/Ship-Bastion|Ship Bastion]] (Optional)
 5. Any homebrew species page you are considering from [[species/index|Playable Species]]
 
-You do not need to memorize the setting. You only need a character with a reason to be aboard the [[Saltwright|*Saltwright*]], a reason to cross dangerous water, and a problem that could follow them into port.
+You do not need to memorize the setting. You need a character with a reason to be aboard the _[[ships/Saltwright|Saltwright]]_, a reason to cross dangerous water, and a problem that could follow them into port.
 
 ## What species can I play?
 
-Standard 2024 species are available, plus the [[Shattered-Sea|Shattered Sea]] options in [[species/index|Playable Species]]:
+Standard 2024 species are available, plus the [[places/Shattered-Sea|Shattered Sea]] options in [[species/index|Playable Species]]:
 
 - [[species/Aarakocra|Aarakocra]]
 - [[species/Grung|Grung]]
@@ -96,4 +96,9 @@ Load the full context bundle at https://thedougler.github.io/dnd-site/llms-full.
 
 ## What does a 404 mean?
 
-A 404 means the page is not public. It may exist elsewhere in the campaign notes, but it has not been published to the player-facing wiki. Treat the absence as part of the spoiler protection system.
+The page is not public. It may exist in the campaign notes, but it has not been published to the player-facing wiki. Treat the absence as part of the spoiler protection system.
+
+---
+
+- [[index|The Shattered Sea]] — campaign hub
+- [[player-primer|Player Primer]] · [[campaign-overview|Campaign Overview]]

@@ -3,7 +3,7 @@ publish: true
 title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.347-07:00
+published: 2026-05-02T20:14:20.494-07:00
 tags:
   - player-resource
   - campaign-overview
@@ -87,20 +87,13 @@ _Sailors who do not pay do not sail confidently._
 
 ## Peoples of the Scatter
 
-Most sourcebook species have a place in the Scatter. These homebrew options are native to the setting:
-
-- [[species/Aarakocra|Aarakocra]] — winged, wind-touched, with keen sight and a fundamentally different relationship to height and distance. Many Sentinels are aarakocra. Others work shipping lanes, lookout work, and independent courier routes.
-- [[species/Grung|Grung]] — amphibious, poisonous, colour-caste shaped. A Grung PC has a full society to reckon with. For social context, see [[Grung-Clans|Grung Clans]].
-- [[species/Rattkin|Rattkin]] — small, flexible, native to the hidden infrastructure of port life. Excellent couriers, scouts, smugglers, and people who were not in that locked room.
-- [[species/Tabaxi|Tabaxi]] — feline, with ancient roots in the Scatter, especially in the isolated island communities east of the Maw around [[places/Keth-Naar|Keth-Naar]].
+Most sourcebook species have a place in the Scatter. The setting adds four homebrew-native options — [[species/Aarakocra|Aarakocra]], [[species/Grung|Grung]], [[species/Rattkin|Rattkin]], and [[species/Tabaxi|Tabaxi]] — each with deep roots in its economy, politics, or geography. See [[species/index|Playable Species]] for lore and mechanics.
 
 ---
 
 ## The Starting Situation
 
-You begin at **Level 3** aboard the [[Saltwright|*Saltwright*]], a hard-used two-masted merchant brig captained by **[[npcs/Beaumont-Sel|Beaumont Sel]]**, an alligator-snapping tortle who has survived eleven years on the [[Midchain|Midchain]] route by treating danger as weather.
-
-You are aboard for your own reason — paying passenger, working hand, shipwrecked survivor, stowaway, fugitive, pilgrim, hired blade, scholar with bad funding, or someone who got on the wrong boat and has decided to make it everyone else's problem. The _[[Saltwright|Saltwright]]_ is where the stories collide.
+The _[[ships/Saltwright|Saltwright]]_ is captained by **[[npcs/Beaumont-Sel|Beaumont Sel]]** — an alligator-snapping tortle who has survived eleven years on the [[Midchain|Midchain]] route by treating danger as weather. You are aboard for your own reason: paying passenger, working hand, shipwrecked survivor, stowaway, fugitive, pilgrim, hired blade, scholar with bad funding, or someone who got on the wrong boat and has decided to make it everyone else's problem.
 
 **Questions to answer before Session Zero:**
 
@@ -118,24 +111,3 @@ The [[Drowned-Maw|Drowned Maw]] is the eastern boundary of what is administrated
 The Maw itself is not forbidden. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[Sentinels-Of-The-Eyrie|Sentinels]] watch it and record what they see. The [[Waveservants|Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
 There are things in the Scatter that do not fit the economy yet: impossible stone, wrong currents, missing ships, old records, sailors who will not say what they saw east of the charts. The edges of the map are where the sea stops being navigable and starts being a question.
-
----
-
-## Ship Rules
-
-Your ship is shelter, leverage, reputation, storage, escape route, and eventually home.
-
-- [[rules/Ship-Stats|Ship Stats]] — hull, speed, crew requirements, weapons, and tier progression
-- [[rules/Ship-Bastion|Ship Bastion]] — your ship as mobile base of operations; facility slots, weekly turns, maritime events
-- [[rules/Bastions|Bastions]] — underlying bastion rules in use
-- [[rules/Mortis|The Mortis System]] — optional Session Zero mechanic: a permanent drawback paired with a targeted benefit
-
----
-
-## See Also
-
-- [[player-primer|The Shattered Sea Player Primer]] — full onboarding document
-- [[factions/index|Factions Index]]
-- [[places/index|Places Index]]
-- [[lore/index|Lore Index]]
-- [[species/index|Species Index]]

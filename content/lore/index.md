@@ -3,7 +3,7 @@ publish: true
 title: Lore
 created: 2026-05-01T16:53:31.948-07:00
 modified: 2026-05-03
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-03T02:18:48.508-07:00
 tags:
   - player-resource
   - index
@@ -21,6 +21,6 @@ updated: 2026-05-03
 Common lore, setting primers, religion, and cultural references for the [[places/Shattered-Sea|Shattered Sea]].
 
 - [[lore/Umberlee|Umberlee and the Waveservants]] — the sea goddess, her harbour clergy, and what it costs to sail without paying.
-- [[factions/Grung-Clans|The Grung Clans]] — Grung caste, trade protocol, poison, slavery, and the [[places/Verdant-Teeth|Verdant Teeth]].
+- [[factions/Grung-Clans|The Grung Clans]] — Grung caste, trade protocol, poison, slavery, and the [[Verdant-Teeth|Verdant Teeth]].
 
 For faction-level summaries, see [[factions/index|Factions]] · [[index|The Shattered Sea]].

@@ -3,7 +3,7 @@ publish: true
 title: Belmore
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.349-07:00
+published: 2026-05-03T02:19:17.019-07:00
 tags:
   - player-character
   - pc
@@ -50,7 +50,7 @@ Belmore is a tiger tabaxi. Full descriptive accounts have not yet been preserved
 
 Belmore is associated with a primal shrine of [[lore/Umberlee|Umberlee]]. The precise nature of that guardianship is not yet fully documented, but the public facts are enough to explain his movement through the opening campaign: his tribe sent him out after signs that [[lore/Umberlee|Umberlee]]'s anger had become a problem that could no longer be treated as distant weather.
 
-He bartered for passage west from [[places/Keth-Naar|Keth-Naar]] aboard the _[[Saltwright|Saltwright]]_, joining the same merchant route that would soon gather other travellers and survivors into one place.
+He bartered for passage west from [[Keth-Naar|Keth-Naar]] aboard the _[[Saltwright|Saltwright]]_, joining the same merchant route that would soon gather other travellers and survivors into one place.
 
 ## Abilities and Habits
 
@@ -83,7 +83,7 @@ Belmore's private motivations, personal history, and long-term ambitions remain 
 
 - **[[lore/Umberlee|Umberlee]]** — sea goddess whose anger is central to Belmore's present mission.
 - **[[Saltwright|The *Saltwright*]]** — merchant brig where Belmore begins the campaign after bargaining for passage west.
-- **[[places/Keth-Naar|Keth-Naar]]** — port where Belmore secured passage aboard the _[[Saltwright|Saltwright]]_.
+- **[[Keth-Naar|Keth-Naar]]** — port where Belmore secured passage aboard the _[[Saltwright|Saltwright]]_.
 
 ## Public Standing
 

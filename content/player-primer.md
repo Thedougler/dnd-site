@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T00:51:00.741-07:00
+published: 2026-05-03T02:18:48.505-07:00
 tags:
   - player-resource
 visibility: public
@@ -69,11 +69,11 @@ The northern arc is made of five broad, mountainous islands with forested highla
 
 Publicly, the [[places/Crown-Islands|Crown Islands]] mean administration: ratings, inspections, port fees, naval patrols, trade houses, and harbours where authority has a uniform. They are safer than the [[Midchain|Midchain]] in the way a locked room is safer than an open road.
 
-### [[places/Port-Tidefall|Port Tidefall]]
+### [[Port-Tidefall|Port Tidefall]]
 
 ![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
-[[places/Port-Tidefall|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[places/Central-Strait|Central Strait]], carved directly into the cliff face of [[places/Calders-Tooth|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[places/Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
+[[Port-Tidefall|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[places/Central-Strait|Central Strait]], carved directly into the cliff face of [[Calders-Tooth|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
 
 This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The [[Harbourmasters-Office|Harbourmaster's Office]] sells charts and ratings; the [[Waveservants|Waveservants]] keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
 
@@ -101,19 +101,19 @@ The southern arc is dozens of small and medium islands packed close together: li
 
 [[Midchain|The Midchain]] is difficult to govern from outside. Colonial powers hold strategic points and send patrols through the channels, but most of the region belongs to island groups, free ports, smugglers, pilots, family networks, and whoever knows the reef better than the person chasing them. [[Kalowe]] as well as the [[Verdant-Teeth|Verdant Teeth]] both call the midchain home.
 
-### [[places/Kalowe|Kalowe]]
+### [[Kalowe|Kalowe]]
 
 ![[raw/assets/banners/Kalowe.webp|Harbor settlement on a low tropical island at sunset, with cranes and boats along the shore]]
 
-[[places/Kalowe|Kalowe]] is the primary [[Midchain|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
+[[Kalowe|Kalowe]] is the primary [[Midchain|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
 
-If [[Port-Tidefall]] is where papers become chains, [[places/Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
+If [[Port-Tidefall]] is where papers become chains, [[Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
 
-### [[places/Verdant-Teeth|The Verdant Teeth]]
+### [[Verdant-Teeth|The Verdant Teeth]]
 
 ![[raw/assets/banners/Sorn.webp|Forested island with a pale beach and dense jungle rising inland]]
 
-Two days south-west of [[places/Kalowe|Kalowe]] sit the [[places/Verdant-Teeth|Verdant Teeth]], five closely grouped islands held by [[Grung-Clans|Grung clans]]. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
+Two days south-west of [[Kalowe|Kalowe]] sit the [[Verdant-Teeth|Verdant Teeth]], five closely grouped islands held by [[Grung-Clans|Grung clans]]. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
 
 Outsiders trade at designated beaches and stay at the waterline. The [[Grung-Clans|Grung]] touch is poisonous, their caste protocols are strict, and the coastal settlements of the [[Midchain|Midchain]] know that raid activity has worsened. Everyone has heard enough to avoid the interior. Some merchants still go to the beach for the lucrative trade opportunities.
 
@@ -151,7 +151,7 @@ The best-known region beyond is the [[Sunken-Crown|Sunken Crown]]: five low isla
 
 - **[[Passage|The Passage]]** is the [[Rattkin]] network beneath and between the ports: runs, holds, courier routes, hidden caches, and spoken in skitter-cant, a completely silent language of nose and whisker movement.
 
-- **[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[places/Verdant-Teeth|Verdant Teeth]] in the [[Midchain|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the slave raids have been getting worse.
+- **[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[Verdant-Teeth|Verdant Teeth]] in the [[Midchain|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the slave raids have been getting worse.
 
 - **[[lore/Umberlee|Umberlee]] and the [[Waveservants|Waveservants]]** are the religious fact of life at sea. [[lore/Umberlee|Umberlee]], often called the Bitch Queen of the Sea, is the goddess of storms, shipwrecks, and the sea's destructive appetite. Her [[Waveservants|Waveservants]] keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 

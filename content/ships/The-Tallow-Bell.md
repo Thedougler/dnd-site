@@ -6,7 +6,7 @@ aliases:
 title: The Tallow Bell
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-02T22:33:56.154-07:00
+published: 2026-05-03T02:14:25.308-07:00
 tags:
   - player-resource
   - ship
@@ -147,7 +147,7 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 
 - [[Waveservants|The Waveservants]] - operators and passengers
 - [[lore/Umberlee|Umberlee]] - deity served through tribute and rites
-- [[places/Port-Tidefall|Port Tidefall]] - one regular shrine harbour
+- [[Port-Tidefall|Port Tidefall]] - one regular shrine harbour
 - [[Drowned-Maw|The Drowned Maw]] - dangerous water where open-sea rites become more common
 - [[ships/index|Ships]]
 - [[rules/Ship-Stats|Ship Stats]]

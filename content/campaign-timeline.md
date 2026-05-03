@@ -3,7 +3,7 @@ publish: true
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
-published: 2026-05-02T21:41:01.624-07:00
+published: 2026-05-03T02:18:48.529-07:00
 tags:
   - player-resource
   - planning
@@ -60,7 +60,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **1493 DR** — Crisdalynn meets [[players/delmar-summary|Delmar Atticus Fisk]] and ships aboard the _[[ships/Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
 
-**1494 DR** — [[players/jean-claude-summary|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[places/Verdant-Teeth|Verdant Teeth]]. [[npcs/Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[npcs/Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
+**1494 DR** — [[players/jean-claude-summary|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[npcs/Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[npcs/Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
 
 ---
 

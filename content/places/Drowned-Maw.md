@@ -6,7 +6,7 @@ aliases:
 title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.481-07:00
+published: 2026-05-03T02:10:10.578-07:00
 tags:
   - location
   - trench
@@ -24,6 +24,18 @@ relationships:
     target: The Shattered Sea
   - relation: observed_by
     target: Sentinels of the Eyrie
+  - relation: threatened_by
+    target: Whip Shark
+  - relation: rumored_threat
+    target: The Leviathan
+  - relation: rumored_threat
+    target: Kraken
+  - relation: threatened_by
+    target: Pirate Captain
+  - relation: threatened_by
+    target: The Glass Debt
+  - relation: rumored_threat
+    target: The Velvet Noose
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -41,7 +53,11 @@ The Drowned Maw is a north-south trench running along the eastern edge of the Ve
 
 Compasses drift within five miles and don't recover until you're through. Most captains navigate the crossing by stars and run it fast. Nobody anchors over the Maw. That particular piece of advice circulates without much explanation, and experienced sailors don't ask for one.
 
-Ships cross routinely — it's the only route east to the [[places/Outer-Reach|Outer Reach]] — and most have no trouble. The ones that do have trouble come back quiet, which is its own kind of information. There are occasionally shapes visible at depth, in water that is clearer than it has any right to be this far out. Most crews don't discuss what they saw. Some do, once, and then stop.
+Ships cross routinely — it's the only route east to the [[places/Outer-Reach|Outer Reach]] — and most have no trouble. The ones that do have trouble come back quiet, which is its own kind of information. There are occasionally shapes visible at depth, in water that is clearer than it has any right to be this far out. Most crews don't discuss what they saw.
+
+[[beastiary/Whip-Shark|Whip sharks]] are a practical enough fear near the rim, especially where ships slow at the crossing, but deeper reports lose their edges: a [[beastiary/kraken|kraken]]'s reach, a [[beastiary/dragon-turtle|dragon turtle]]'s shell, a [[beastiary/Leviathan|Leviathan]]'s heat under the water. The sensible version of the story is that the Maw has room for large things.
+
+Pirates do not anchor over the Maw any more than honest captains do, but the rim lanes are profitable. Salvage crews carry dark-alloy fittings, insurers pay badly after losses, and frightened ships are easier to separate from escorts. [[beastiary/pirate-captain|Pirate captains]] with enough nerve work the western shelf edge, while the [[ships/The-Glass-Debt|Glass Debt]] is known for making Maw-adjacent salvage traffic change course. The [[ships/The-Velvet-Noose|Velvet Noose]] is mostly a rumor here, which is still enough to make a convoy wait for daylight.
 
 ---
 

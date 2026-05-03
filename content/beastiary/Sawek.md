@@ -1,9 +1,13 @@
 ---
 publish: true
+aliases:
+  - Sawek
+  - Blue Devil
+  - Sawek Blue Devil
 title: Sawek
 created: 2026-04-12
-modified: 2026-04-21
-published: 2026-05-02T18:39:06.478-07:00
+modified: 2026-05-03
+published: 2026-05-03T02:52:08.373-07:00
 tags:
   - creature
   - monstrosity
@@ -13,19 +17,31 @@ tags:
   - blue-hole
   - grapple
   - ink
+  - player-resource
+  - bestiary
 visibility: public
 audience: players
 summary: A large aquatic predator that lurks in the blue holes of the Midchain, striking with tentacles and dragging prey into its lair.
 type: monster
 subtype: monster
 status: unmet
-updated: 2026-04-21
-sources: []
+campaign: shattered-sea
+relationships:
+  - relation: listed_in
+    target: Bestiary
+  - relation: hunts_in
+    target: The Midchain
+  - relation: hunts_in
+    target: The Central Strait
+  - relation: hunts_in
+    target: The Sunken Crown
+updated: 2026-05-03
+sources:
+  - Homebrew
 source_count: 1
 confidence_level: medium
 cr: 5
-habitat: "[[Central-Strait]]"
-campaign: shattered-sea
+environment: blue holes, coastal
 creature_type: monstrosity
 statblock: inline
 ---

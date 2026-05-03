@@ -6,7 +6,7 @@ aliases:
 title: Vethka
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-02T22:10:49.965-07:00
+published: 2026-05-03T02:18:48.534-07:00
 tags:
   - player-resource
   - ship
@@ -115,5 +115,5 @@ If a _vethka_ crew cannot run, they swim. Grung are amphibious. Abandoning the h
 ## Connections
 
 - [[Grung-Clans|The Grung Clans]] — builders and operators; orange-caste construction, blue-and-purple crew
-- [[places/Verdant-Teeth|The Verdant Teeth]] — home waters, construction yards, and the reef country where pursuit fails
+- [[Verdant-Teeth|The Verdant Teeth]] — home waters, construction yards, and the reef country where pursuit fails
 - [[ships/index|Ships]]

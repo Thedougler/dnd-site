@@ -6,7 +6,7 @@ aliases:
 title: The Quorum
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-02T21:52:00.621-07:00
+published: 2026-05-03T02:17:39.300-07:00
 tags:
   - player-resource
   - ship
@@ -97,6 +97,6 @@ Single open deck with minimal below-deck space.
 ## Connections
 
 - [[Chain-Council|The Chain Council]] — owner and operator
-- [[places/Kalowe|Kalowe]] — home port and dry dock
+- [[Kalowe|Kalowe]] — home port and dry dock
 - [[ships/Red-Lady|The Red Lady]] — example of a Council-built commission, now lost
 - [[ships/index|Ships]]

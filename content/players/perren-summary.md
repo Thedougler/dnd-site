@@ -3,7 +3,7 @@ publish: true
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T19:29:18.378-07:00
+published: 2026-05-03T02:19:17.020-07:00
 tags:
   - player-character
   - pc
@@ -81,7 +81,7 @@ He has not told his family the full extent of what happened. They know he is ali
 
 ## Keth-Naar and the Saltwright
 
-The Cloak brought him to the surface. He washed up on the beach of [[places/Keth-Naar|Keth-Naar]], and what he woke to — besides the sand and the shock — was the unfamiliar weight of a blade in his hand and the echo of something vast and distant in his head.
+The Cloak brought him to the surface. He washed up on the beach of [[Keth-Naar|Keth-Naar]], and what he woke to — besides the sand and the shock — was the unfamiliar weight of a blade in his hand and the echo of something vast and distant in his head.
 
 Perrin was not a believer before. The gods were not especially relevant to a Rattkin with fish to catch and a family to support. But something large and otherworldly found him in the water after the sinking and apparently decided he was worth speaking to. He is still working out what that means. For now it sits alongside the drum and the bestiary and the cloak as things he carries that have weight he has not fully reckoned.
 

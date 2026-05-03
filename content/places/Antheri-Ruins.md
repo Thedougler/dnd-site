@@ -6,16 +6,18 @@ aliases:
 title: Antheri Ruins
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T01:10:40.517-07:00
+published: 2026-05-03T02:06:37.428-07:00
 tags:
   - ruins
   - antheri
   - ancient-civilization
   - maw
+  - player-resource
 visibility: public
 audience: players
 summary: Public gazetteer entry for the submerged pre-collapse ruins built into the western wall of the Drowned Maw — dark-alloy fittings, architecture built for beings that didn't need floors, and a goldrush nobody fully controls.
 type: location
+subtype: location-summary
 status: active
 campaign: shattered-sea
 relationships:
@@ -25,9 +27,17 @@ relationships:
     target: The Tessarine Concordat
   - relation: associated_with
     target: The Dravosi Crown
+  - relation: threatened_by
+    target: Whip Shark
+  - relation: threatened_by
+    target: Pirate Captain
+  - relation: threatened_by
+    target: The Glass Debt
 updated: 2026-05-03
 sources:
   - Homebrew
+source_count: 1
+confidence_level: medium
 ---
 
 # Antheri Ruins
@@ -57,6 +67,8 @@ The architecture is disorienting at the upper tiers and outright wrong deeper in
 The [[Shelfworks|Shelfworks]] site is in open-ended factional deadlock. The [[factions/Tessarine-Concordat|Tessarine Concordat]] controls the intelligence war — the most accurate early maps and salvage manifests disappeared into debt-settlement arrangements years ago, and the Concordat knows more about what is down there than anyone will admit. The [[factions/Dravosi-Crown|Dravosi Crown]] attempts to assert naval and administrative authority over a frontier that mathematically refuses to be taxed. Neither faction controls the site. Independent crews work the gaps between them.
 
 Lately the crews have been coming back with fewer people than they went down with, at depths that were safe tiers last season. The stories don't agree on what is changing, only that something is. Salvage schedules that worked without incident six months ago are producing casualties now. The established crew wisdom — depth limits, known hazard zones, the specific shelf edge where you turn back — is quietly failing.
+
+Surface trouble has become part of the ruins' danger. Salvage prizes leave the site in visible crates, and everyone knows which boats came up heavy. [[beastiary/pirate-captain|Pirate captains]] who would not risk a clean naval fight will still shadow a slow pump barge back toward the Tail. The [[ships/The-Glass-Debt|Glass Debt]] is the name crews use when they mean something worse than theft: a frigate-scale threat that can make a salvage flotilla surrender its best finds before anyone has enough wind to run.
 
 ---
 

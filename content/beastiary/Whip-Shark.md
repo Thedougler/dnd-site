@@ -1,9 +1,13 @@
 ---
 publish: true
+aliases:
+  - Whip Shark
+  - Welak
+  - Whip Shark Welak
 title: Whip Shark
 created: 2026-04-12
-modified: 2026-04-21
-published: 2026-05-02T18:39:06.478-07:00
+modified: 2026-05-03
+published: 2026-05-03T02:52:09.102-07:00
 tags:
   - creature
   - monstrosity
@@ -12,19 +16,31 @@ tags:
   - open-ocean
   - siege
   - shattered-sea
+  - player-resource
+  - bestiary
 visibility: public
 audience: players
 summary: A massive aquatic predator known for its barbed tail and ability to sink vessels, lurking in the open oceans.
 type: monster
 subtype: monster
 status: unmet
-updated: 2026-04-21
+campaign: shattered-sea
+relationships:
+  - relation: listed_in
+    target: Bestiary
+  - relation: hunts_in
+    target: The Drowned Maw
+  - relation: hunts_in
+    target: The Outer Reach
+  - relation: hunts_in
+    target: Antheri Ruins
+updated: 2026-05-03
 sources:
   - raw/antheri-ruins-expanded.md
 source_count: 1
+confidence_level: high
 cr: 6
-habitat: "[[Drowned-Maw|Drowned Maw]]"
-campaign: shattered-sea
+environment: open ocean
 creature_type: monstrosity
 statblock: inline
 ---

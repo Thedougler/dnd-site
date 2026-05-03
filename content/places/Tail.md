@@ -6,7 +6,7 @@ aliases:
 title: The Tail
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.481-07:00
+published: 2026-05-03T02:07:13.488-07:00
 tags:
   - location
   - region
@@ -31,6 +31,20 @@ relationships:
     target: The Midchain
   - relation: stages
     target: The Shelfworks
+  - relation: threatened_by
+    target: Giant Vulture
+  - relation: threatened_by
+    target: Giant Bat
+  - relation: rumored_threat
+    target: Harpy
+  - relation: threatened_by
+    target: Pirate Captain
+  - relation: rumored_threat
+    target: Pirate Admiral
+  - relation: threatened_by
+    target: The Glass Debt
+  - relation: rumored_threat
+    target: The Velvet Noose
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -47,6 +61,10 @@ confidence_level: medium
 The Tail is the eastern end of the Verdant Scatter, where both island arcs narrow and converge near the [[Drowned-Maw|Drowned Maw]]. The islands here grow fewer, taller, and more vertical than the rest of the Sea: high cliffs, wind exposure, and faces of stone dropping straight into cold deep water.
 
 The communities here have lived beside the trench for generations. They know the shelf edge, the fog schedules, the reefs that changed last season, and where the Maw's discolouration begins on a clear day. Less settled than the [[places/Crown-Islands|Crown Islands]], not empty, and not forgiving.
+
+The cliffs are land enough for things that like height and carrion. [[beastiary/giant-vulture|Giant vultures]] follow fishing waste and wreckage, [[beastiary/giant-bat|giant bats]] crowd caves above the fog line, and [[beastiary/harpy|harpy]] stories cling to the narrow saddles where voices carry strangely in bad weather.
+
+The Tail is where piracy stops being a tavern story and starts affecting routing. Shelfworks crews, longliners, and Maw-crossing vessels all pass through tight weather windows, which gives a patient [[beastiary/pirate-captain|pirate captain]] something to plan around. The [[ships/The-Glass-Debt|Glass Debt]] is the name most associated with Tail pressure: too large for casual reef work, but perfect for forcing salvage escorts to choose between protecting divers and protecting the prize ship. The [[ships/The-Velvet-Noose|Velvet Noose]] is rarer here, and much worse; sailors who believe the stories assume she carries a [[beastiary/pirate-admiral|pirate admiral]], not merely a captain.
 
 ---
 

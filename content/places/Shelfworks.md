@@ -6,7 +6,7 @@ aliases:
 title: The Shelfworks
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T02:06:37.428-07:00
 tags:
   - location
   - ruins
@@ -32,6 +32,10 @@ relationships:
     target: The Tessarine Concordat
   - relation: contested_by
     target: The Dravosi Crown
+  - relation: threatened_by
+    target: Pirate Captain
+  - relation: threatened_by
+    target: The Glass Debt
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -79,6 +83,8 @@ The deeper the dive, the fewer people agree about what they saw. Salvagers talk 
 The surface site is a floating work yard: salvage barges, hired cutters, guard boats, pumps, buoy lines, drying racks, spare diving weights, and crews pretending not to count each other's finds. The nearest staging communities are in [[Tail|the Tail]], but the Shelfworks itself has no shore, no inn, no court, and no patience for people who forgot supplies.
 
 The [[factions/Tessarine-Concordat|Tessarine Concordat]] wants the contracts and manifests. The [[factions/Dravosi-Crown|Dravosi Crown]] wants enough authority to tax and police the site. Independent crews work the gaps between them. Nobody controls the Shelfworks cleanly, which is why anyone still has a chance to get rich there.
+
+That lack of control also attracts people who prefer prize law to salvage law. A good Antheri fitting can be worth more than a cargo hold, and a tired dive crew is easier to board than a merchant convoy. [[beastiary/pirate-captain|Pirate captains]] sometimes prowl the work yard's outer markers under the excuse of protection, salvage partnership, or a disputed claim. When the [[ships/The-Glass-Debt|Glass Debt]] is reported near the western rim, crews pull lines early and argue about whether the pumps are worth leaving behind.
 
 ---
 

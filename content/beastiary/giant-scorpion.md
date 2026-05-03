@@ -1,0 +1,49 @@
+---
+publish: true
+aliases:
+  - Giant Scorpion
+title: Giant Scorpion
+created: 2026-04-25
+modified: 2026-05-03
+published: 2026-05-03T02:42:28.741-07:00
+tags:
+  - creature
+  - beast
+  - mm
+  - player-resource
+  - bestiary
+cssclasses:
+  - wiki-monster
+visibility: public
+audience: players
+summary: Public statblock reference for Giant Scorpion, a CR 3 beast in the Shattered Sea bestiary.
+type: monster
+subtype: monster
+status: bestiary
+campaign: shattered-sea
+relationships:
+  - relation: listed_in
+    target: Bestiary
+  - relation: habitat
+    target: Ashwall Islands
+updated: 2026-05-03
+sources:
+  - XMM
+source_count: 1
+confidence_level: high
+cr: 3
+environment: desert
+creature_type: beast
+statblock: inline
+page: 359
+cha: 3
+con: 15
+dex: 13
+int: 1
+str: 16
+wis: 9
+---
+
+# Giant Scorpion
+
+<div class="statblock-plugin-parent"><div class="block-language-statblock statblock-plugin-container"><div class="container svelte-1unaafm"><div class="giant-scorpion basic-5e-layout svelte-1unaafm obsidian-statblock-plugin statblock"><div class="bar svelte-zyyfbl"></div> <div class="statblock-content-container" style="--statblock-column-width: 400px;"><div class="statblock-content svelte-420xq"><div class="column"><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item group-container"><div class="statblock-item-container group-container "><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item heading-container"><div class="statblock-item-container heading-container "><div class="flex-container svelte-14k5qsm"><h1 class="heading statblock-heading name svelte-14k5qsm"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Giant Scorpion</div> </h1></div></div></div><div class="statblock-inline-item inline-container"><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"></div></div></div></div></div><div class="statblock-item-container subheading-container "><div class="subheading svelte-1fyuyh"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Large, beast, Unaligned</div></div></div></div></div><div class="statblock-inline-item image-container"></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container property-container "><div class="line ac svelte-1rketb6"><span class="property-name svelte-1rketb6">Armor Class</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">15</p></div></div></div><div class="statblock-item-container property-container "><div class="line hp svelte-1rketb6"><span class="property-name svelte-1rketb6">Hit Points</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">52 (7d10 + 14)</p></div></div></div><div class="statblock-item-container property-container "><div class="line speed svelte-1rketb6"><span class="property-name svelte-1rketb6">Speed</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">40 ft.</p></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container table-container "><div class="statblock-table stats svelte-1jjvt5k"><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Str</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">16</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+3)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Dex</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">13</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+1)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Con</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">15</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+2)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Int</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">1</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-5)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Wis</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">9</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-1)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Cha</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">3</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-4)</span></span> </div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container property-container "><div class="line senses svelte-1rketb6"><span class="property-name svelte-1rketb6">Senses</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Blindsight 60 ft., Passive Perception 9</p></div></div></div><div class="statblock-item-container property-container "><div class="line languages svelte-1rketb6"><span class="property-name svelte-1rketb6">Languages</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">—</p></div></div></div><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Challenge</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">3 (700 XP)</p></div></div></div></div><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Proficiency Bonus</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+2</p></div></div></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property multiattack actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Multiattack</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">The scorpion makes two Claw attacks and one Sting attack.</p></div> </div></div></div><div class="statblock-item-container statblock-trait-prop"><div class="property claw actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Claw</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage. If the target is a Large or smaller creature, it has the Grappled|XPHB condition (escape 13) from one of two claws.</p></div> </div></div><div class="statblock-item-container statblock-trait-prop"><div class="property sting actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Sting</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage plus 11 (2d10) Poison damage.</p></div> </div></div></div></div></div> <div class="bar svelte-zyyfbl"></div></div> <div class="icons svelte-1unaafm"></div></div></div></div>

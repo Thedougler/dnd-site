@@ -6,7 +6,7 @@ aliases:
 title: The Verdant Scatter
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.098-07:00
+published: 2026-05-03T02:05:56.323-07:00
 tags:
   - location
   - region
@@ -31,6 +31,18 @@ relationships:
     target: Central Strait
   - relation: converges_at
     target: The Tail
+  - relation: threatened_by
+    target: Giant Boar
+  - relation: threatened_by
+    target: Giant Spider
+  - relation: threatened_by
+    target: Giant Venomous Snake
+  - relation: threatened_by
+    target: The Knife's Wake
+  - relation: threatened_by
+    target: The Bad Receipt
+  - relation: rumored_threat
+    target: The Glass Debt
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -47,6 +59,10 @@ The northern arc is the [[places/Crown-Islands|Crown Islands]]: five larger, mou
 The southern arc is the [[Midchain|Midchain]]: dozens of smaller islands packed close together, with free ports, reefs, local councils, pilot families, and routes that make more sense to people who learned them from grandparents than from charts.
 
 Between them runs the [[places/Central-Strait|Central Strait]], the main navigable corridor through the region. To the east, both arcs narrow and converge at [[Tail|the Tail]], where the water grows colder and the Maw starts shaping every decision.
+
+The Scatter's land threats change with the island underfoot. The Crown highlands have [[beastiary/giant-boar|giant boars]] and sinkhole predators; the Midchain interiors are better known for [[beastiary/giant-spider|giant spiders]], [[beastiary/giant-venomous-snake|giant venomous snakes]], and wet-country ambush hunters. Islanders do not talk about these as wilderness trivia. They are part of route planning.
+
+Its pirate threats scale the same way. The [[ships/Knifes-Wake|Knife's Wake]] is the kind of cutter that makes a single bad channel choice expensive. The [[ships/The-Bad-Receipt|Bad Receipt]] turns Midchain paperwork and repair harbours into a weapon. The [[ships/The-Glass-Debt|Glass Debt]] is what happens when piracy grows large enough that convoys, patrols, and councils all have to react.
 
 ---
 

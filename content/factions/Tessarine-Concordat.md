@@ -7,7 +7,7 @@ aliases:
 title: The Tessarine Concordat
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T00:02:37.961-07:00
+published: 2026-05-03T02:23:10.590-07:00
 tags:
   - faction
   - player-resource
@@ -88,7 +88,7 @@ Tessarine trade houses are offices, courts, banks, and intelligence posts preten
 
 Factors cultivate plainness. Good fabric, plain cut, no decoration that announces wealth. The performance says: this is not vanity, this is arithmetic. They extend credit with warmth and collect without malice. It is not personal. That is what makes it worse.
 
-The [[Tessarine-Trade-House-Tidefall|Port Tidefall trade house]] is a smaller office on the Shelf, useful because Crown law recognizes enough Concordat commercial practice to make Tessarine contracts enforceable even in Dravosi territory.
+The [[Tessarine-Trade-House|Port Tidefall trade house]] is a smaller office on the Shelf, useful because Crown law recognizes enough Concordat commercial practice to make Tessarine contracts enforceable even in Dravosi territory.
 
 ## Salvage and the Shelfworks
 
@@ -132,7 +132,7 @@ Read the full contract before signing, including inheritance and collateral clau
 
 - [[Calveno]] — primary Concordat foothold; factor building anchors the Mercatura
 - [[Dravosi-Crown|The Dravosi Crown]] — rival colonial power
-- [[Tessarine-Trade-House-Tidefall]] — [[Port-Tidefall|Port Tidefall]] office
+- [[Tessarine-Trade-House]] — [[Port-Tidefall|Port Tidefall]] office
 - [[Passage|The Passage]] — off-record courier rumors
 - [[Shelfworks|Shelfworks]] — Antheri salvage interest
 - [[Antherian]] — salvage market

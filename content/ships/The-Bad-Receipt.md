@@ -6,7 +6,7 @@ aliases:
 title: The Bad Receipt
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-02T22:24:25.126-07:00
+published: 2026-05-03T02:18:48.536-07:00
 tags:
   - player-resource
   - ship
@@ -33,7 +33,7 @@ campaign: shattered-sea
 tier: 2
 variant: armed
 ship_class: Armed schooner
-home_port: "[[places/Kalowe|Kalowe]]"
+home_port: "[[Kalowe|Kalowe]]"
 ---
 
 # The _Bad Receipt_
@@ -45,7 +45,7 @@ home_port: "[[places/Kalowe|Kalowe]]"
 
 ## Overview
 
-The _Bad Receipt_ is a Tier 2 armed pirate schooner built for Midchain work: false papers, quick pursuit, selective violence, and retreat through channels where Crown captains start arguing with their own charts. She was refitted at [[places/Kalowe|Kalowe]] from a seized courier hull and now operates between the [[Midchain|Midchain]] back passages and the southern edge of the [[places/Central-Strait|Central Strait]].
+The _Bad Receipt_ is a Tier 2 armed pirate schooner built for Midchain work: false papers, quick pursuit, selective violence, and retreat through channels where Crown captains start arguing with their own charts. She was refitted at [[Kalowe|Kalowe]] from a seized courier hull and now operates between the [[Midchain|Midchain]] back passages and the southern edge of the [[places/Central-Strait|Central Strait]].
 
 At distance she reads as a legitimate but unlucky commercial vessel: patched sails, mismatched cargo nets, a tired merchant stern, and registry plates that make clerks feel useful. Up close, the lie becomes theatrical. Her deck is too clear, her gun crews move too fast, and every visible defect has been placed where an inspector expects to find one.
 
@@ -140,7 +140,7 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 
 **Legal posture:** Never admits to piracy. The Ship's Logbook Room maintains three competing paper identities: distressed courier, Chain Council survey vessel, and privateer under a commission whose issuing island currently denies knowing it.
 
-**PC gravity:** This ship pressures [[Delmar-Fisk]] through privateer legitimacy and crew loyalty, [[Perrin-Black-Jaw]] through Passage-adjacent smuggling and ship-loss envy, and [[Jean-Claude-Tabarnack]] if the prize hold ever carries captives from the [[places/Verdant-Teeth|Verdant Teeth]] trade.
+**PC gravity:** This ship pressures [[Delmar-Fisk]] through privateer legitimacy and crew loyalty, [[Perrin-Black-Jaw]] through Passage-adjacent smuggling and ship-loss envy, and [[Jean-Claude-Tabarnack]] if the prize hold ever carries captives from the [[Verdant-Teeth|Verdant Teeth]] trade.
 
 ## At The Table
 
@@ -150,7 +150,7 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 
 ## Connections
 
-- [[places/Kalowe|Kalowe]] — refit port and likely repair harbour
+- [[Kalowe|Kalowe]] — refit port and likely repair harbour
 - [[Midchain|The Midchain]] — home waters and escape terrain
 - [[places/Central-Strait|Central Strait]] — hunting ground
 - [[Dravosi-Crown|The Dravosi Crown]] — inspection pressure and false-paper target

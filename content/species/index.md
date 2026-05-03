@@ -3,7 +3,7 @@ publish: true
 title: Species
 created: 2026-05-01T16:53:43.377-07:00
 modified: 2026-05-03
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-03T02:18:48.511-07:00
 tags:
   - player-resource
   - index
@@ -24,7 +24,7 @@ Standard 2024 D\&D species are all available. These are the Shattered Sea additi
 
 **[[species/Aarakocra|Aarakocra]]** — Winged people with sustained flight, wind magic, and keen sight. Most sailors know them through the [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]], which shapes how they're treated in port.
 
-**[[species/Grung|Grung]]** — Amphibious, poisonous humanoids from the [[places/Verdant-Teeth|Verdant Teeth]], with caste written in their coloration. A Grung PC comes with immediate questions of caste, exile, and what it means to leave.
+**[[species/Grung|Grung]]** — Amphibious, poisonous humanoids from the [[Verdant-Teeth|Verdant Teeth]], with caste written in their coloration. A Grung PC comes with immediate questions of caste, exile, and what it means to leave.
 
 **[[species/Human|Human]]** — Common across colonial ports, free cities, and shipboard crews. Useful for characters rooted in Dravosi, Tessarine, or independent life.
 

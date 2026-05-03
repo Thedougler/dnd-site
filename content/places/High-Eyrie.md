@@ -5,7 +5,7 @@ aliases:
 title: The High Eyrie
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.482-07:00
+published: 2026-05-03T02:01:51.273-07:00
 tags:
   - location
   - landmark
@@ -29,6 +29,10 @@ relationships:
     target: The Drowned Maw
   - relation: controlled_by
     target: Sentinels of the Eyrie
+  - relation: threatened_by
+    target: Giant Vulture
+  - relation: rumored_threat
+    target: Roc
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -55,6 +59,8 @@ What the Eyrie produces is record. From the summit, on a clear day, the water ch
 From the water, the High Eyrie looks like a dark tooth driven up through the sea. The summit structures sit low and wide against the wind, built to stay put rather than impress anyone below. The only practical approach is aerial. Aarakocra land on the upper terraces with the casual precision of people who learned the local wind before they learned most social niceties.
 
 Non-flying visitors arrive by invitation, carried harness, magic, or a very deliberate climbing operation watched from above. There is an emergency stair cut into the southern face, but it stops well above the waterline. Nobody sensible mistakes it for an entrance.
+
+The stack's height keeps out most land predators, but the air has its own scavengers. [[beastiary/giant-vulture|Giant vultures]] ride the thermals below the monastery after storms, and Sentinel ledgers occasionally note larger shadows crossing the eastern light. Sailors call those shadows [[beastiary/roc|rocs]] when they are feeling dramatic; the Sentinels only record wingspan, heading, and time.
 
 ---
 

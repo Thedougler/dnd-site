@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("content/shattered-sea/public/beastiary/")
+    - 'type == "monster"'
+    - 'cr >= 1'
+
+views:
+  - type: table
+    name: "Bestiary"
+    order:
+      - file.name
+      - cr
+      - creature_type
+      - environment
+    groupBy:
+      property: cr
+      direction: ASC

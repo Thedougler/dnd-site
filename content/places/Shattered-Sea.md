@@ -7,7 +7,7 @@ aliases:
 title: The Shattered Sea
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T02:17:39.286-07:00
 tags:
   - location
   - region
@@ -56,9 +56,9 @@ To the west, the [[Galewall|Galewall]] cuts the Scatter off from the colonial ho
 
 The [[places/Central-Strait|Central Strait]] is the main shipping road through the region: forty to eighty miles of navigable water between the Crown Islands and the Midchain. The Scatter Current runs east through it and curls through the wider region, giving ships a little free speed if they know where to ride it.
 
-The [[places/Crown-Islands|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[places/Port-Tidefall|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
+The [[places/Crown-Islands|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[Port-Tidefall|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
 
-The [[Midchain|Midchain]] is the southern counterargument: dozens of close islands, inconsistent charts, free ports, reefs, smugglers, council politics, and pilots who know which reef moved last season. [[places/Kalowe|Kalowe]] is the main free port there, and the place ships go when they need repair without too many questions.
+The [[Midchain|Midchain]] is the southern counterargument: dozens of close islands, inconsistent charts, free ports, reefs, smugglers, council politics, and pilots who know which reef moved last season. [[Kalowe|Kalowe]] is the main free port there, and the place ships go when they need repair without too many questions.
 
 At the eastern end, both arcs narrow into [[Tail|the Tail]], a colder, steeper, Maw-adjacent stretch of high cliffs, longline grounds, salvage staging, and pilots who charge what survival is worth.
 

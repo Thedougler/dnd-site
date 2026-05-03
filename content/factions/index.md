@@ -3,7 +3,7 @@ publish: true
 title: Factions
 created: 2026-05-02T15:58:16.218-07:00
 modified: 2026-05-03
-published: 2026-05-02T21:41:01.623-07:00
+published: 2026-05-03T02:18:48.500-07:00
 tags:
   - player-resource
   - index
@@ -40,7 +40,7 @@ Their factors are unfailingly polite. The collateral clauses are buried deep.
 
 ## [[factions/Chain-Council|The Chain Council]]
 
-The Chain Council is what the [[places/Midchain|Midchain]] becomes when independent islands need to make one decision together. Every island technically belongs to the Chain, but the Council only matters when affected representatives gather in [[places/Kalowe|Kalowe]] and agree the problem is larger than any one harbour.
+The Chain Council is what the [[Midchain|Midchain]] becomes when independent islands need to make one decision together. Every island technically belongs to the Chain, but the Council only matters when affected representatives gather in [[Kalowe|Kalowe]] and agree the problem is larger than any one harbour.
 
 It is slow, suspicious, and hard to command. That is the point. A Chain Council vote can move pilots, markets, privateers, and harbour bosses across the Midchain, but only if the people expected to carry the cost believe the vote was real.
 
@@ -72,7 +72,7 @@ If a door appears where there wasn't one, if a message arrives before the ship t
 
 ## [[factions/Grung-Clans|The Grung Clans]]
 
-The [[places/Verdant-Teeth|Verdant Teeth]] clans operate on colour-caste protocol that outsiders almost always get wrong. Their trade happens at the waterline — controlled, formal, with rules about who speaks to whom and who doesn't touch what. They deal in goods, captives, and poison. Raids have been getting worse.
+The [[Verdant-Teeth|Verdant Teeth]] clans operate on colour-caste protocol that outsiders almost always get wrong. Their trade happens at the waterline — controlled, formal, with rules about who speaks to whom and who doesn't touch what. They deal in goods, captives, and poison. Raids have been getting worse.
 
 Patrol boats from the clans don't negotiate. Not twice.
 

@@ -7,7 +7,7 @@ aliases:
 title: The Chain Council
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T00:01:29.634-07:00
+published: 2026-05-03T02:18:48.530-07:00
 tags:
   - faction
   - player-resource
@@ -39,7 +39,7 @@ confidence_level: medium
 ![[factions/Chain-Council-Flag.webp]]
 The Chain Council is the closest thing the [[Midchain|Midchain]] has to a regional government, which is to say it is not one unless the islands need it to be. Every Midchain island technically belongs to the Chain, but each island remains independent in ordinary matters. Local councils set their own harbour rules, trade customs, fees, patrol arrangements, and grudges.
 
-When a problem reaches beyond any one island, affected representatives may gather in [[places/Kalowe|Kalowe]] to form the Chain Council. They argue, bargain, count who is actually affected, and vote on what the Midchain will do together.
+When a problem reaches beyond any one island, affected representatives may gather in [[Kalowe|Kalowe]] to form the Chain Council. They argue, bargain, count who is actually affected, and vote on what the Midchain will do together.
 
 The full Council rarely meets. Most sessions are partial: three harbours fighting over a route closure, reef islands debating a shared pilot fee, coastal settlements demanding action after raids, or a free port asking whether outside patrols should be tolerated. A Council decision matters because local people agree to treat it as binding, not because there is a standing navy waiting to enforce it.
 
@@ -63,7 +63,7 @@ The Chain Council forms around shared problems:
 - Trade advisories, quarantine, missing ships, and disputed salvage.
 - Colonial patrol pressure from the [[Dravosi-Crown|Dravosi Crown]].
 - Commercial pressure from the [[Tessarine-Concordat|Tessarine Concordat]].
-- Raids, disappearances, and boundary disputes around the [[places/Verdant-Teeth|Verdant Teeth]].
+- Raids, disappearances, and boundary disputes around the [[Verdant-Teeth|Verdant Teeth]].
 - Privateer commissions when the Midchain needs force without inviting occupation.
 
 The Council prefers solutions that end with the islands still independent. That makes it slow, suspicious, and hard to intimidate. It also means the Chain can act suddenly when enough islands decide that the same problem has found all of them.
@@ -89,8 +89,8 @@ This arrangement means Council-built ships are spread across the Shattered Sea i
 ## Connections
 
 - [[Midchain|The Midchain]] - region represented by the Chain.
-- [[places/Kalowe|Kalowe]] - normal meeting place and neutral free port.
-- [[places/Verdant-Teeth|The Verdant Teeth]] - recurring pressure point because of worsening raids.
+- [[Kalowe|Kalowe]] - normal meeting place and neutral free port.
+- [[Verdant-Teeth|The Verdant Teeth]] - recurring pressure point because of worsening raids.
 - [[Dravosi-Crown|The Dravosi Crown]] - external patrol and inspection pressure.
 - [[Tessarine-Concordat|The Tessarine Concordat]] - external commercial pressure.
 - [[Fisks-Fleet|Fisk's Fleet]] - known privateer fleet associated with a recent disaster.

@@ -7,7 +7,7 @@ aliases:
 title: The Grung Clans
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T00:02:14.829-07:00
+published: 2026-05-03T02:18:48.516-07:00
 tags:
   - faction
   - player-resource
@@ -126,5 +126,5 @@ Grung raiding vessels are built by orange-caste artisans from Verdant Teeth iron
 ## See Also
 
 - [[species/Grung|Grung Species Notes]]
-- [[places/Verdant-Teeth|The Verdant Teeth]]
-- [[places/Kalowe|Kalowe]]
+- [[Verdant-Teeth|The Verdant Teeth]]
+- [[Kalowe|Kalowe]]

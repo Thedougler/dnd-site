@@ -5,7 +5,7 @@ aliases:
 title: Orak
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.549-07:00
+published: 2026-05-03T03:58:19.651-07:00
 tags:
   - location
   - island
@@ -28,6 +28,8 @@ relationships:
   - relation: threatened_by
     target: Giant Frog
   - relation: threatened_by
+    target: Giant Constrictor Snake
+  - relation: threatened_by
     target: Giant Spider
   - relation: threatened_by
     target: Swarm of Venomous Snakes
@@ -44,7 +46,7 @@ The second of the two eastern [[Verdant-Teeth|Verdant Teeth]], sitting close eno
 
 Less militarized than Karath. Still Grung territory.
 
-Orak's danger is low, wet, and patient. [[beastiary/giant-frog|Giant frogs]] sit half-buried along the channel edge, [[beastiary/giant-spider|giant spiders]] bridge the root gaps above animal paths, and [[beastiary/swarm-of-venomous-snakes|venomous snake swarms]] gather in warm hollows after rain. Grung scouts move through it like a known street. Outsiders do not.
+Orak's danger is low, wet, and patient. [[beastiary/giant-frog|Giant frogs]] sit half-buried along the channel edge, [[beastiary/giant-constrictor-snake|giant constrictor snakes]] hold the darker root water between Orak and [[Dreth|Dreth]], [[beastiary/giant-spider|giant spiders]] bridge the root gaps above animal paths, and [[beastiary/swarm-of-venomous-snakes|venomous snake swarms]] gather in warm hollows after rain. Grung scouts move through it like a known street. Outsiders do not.
 
 ---
 

@@ -5,7 +5,7 @@ aliases:
 title: Veth
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.520-07:00
+published: 2026-05-03T04:05:40.373-07:00
 tags:
   - location
   - island
@@ -28,6 +28,8 @@ relationships:
     target: The Grung Clans
   - relation: trade_route_to
     target: Kalowe
+  - relation: threatened_by
+    target: Giant Scorpion
   - relation: threatened_by
     target: Giant Venomous Snake
   - relation: threatened_by
@@ -53,7 +55,7 @@ The beach trade is steady enough that certain [[Midchain|Midchain]] merchants kn
 
 From the water, the important thing about Veth is how little of it can be seen. The island permits commerce at the edge and keeps everything else above the sightline.
 
-The trade path is cleared because the Grung keep it cleared. Beyond that narrow permission, the island is dense with ordinary rainforest danger: [[beastiary/giant-venomous-snake|giant venomous snakes]] on warm stone, [[beastiary/giant-spider|giant spiders]] in the upper green, and [[beastiary/giant-frog|giant frogs]] wherever water sits long enough to forget the tide. Merchants who describe Veth as safe mean the beach, during trade, while watched.
+The trade path is cleared because the Grung keep it cleared. Beyond that narrow permission, the island is dense with ordinary rainforest danger: [[beastiary/giant-venomous-snake|giant venomous snakes]] on warm stone, [[beastiary/giant-spider|giant spiders]] in the upper green, and [[beastiary/giant-frog|giant frogs]] wherever water sits long enough to forget the tide. The limestone ridges above the beach hold [[beastiary/giant-scorpion|giant scorpions]] — they work the rock face at night and occasionally reach the beach by dawn, when the stone is still holding the previous day's heat. A Midchain trader waiting at anchor reported one on the beach at first light, moving along the tideline. His shore party, already in the dinghy, turned back and waited two hours before attempting the exchange. The Grung intermediaries arrived on schedule and appeared unbothered by it. Merchants who describe Veth as safe mean the beach, during trade, while watched. ^\[inferred]
 
 ---
 

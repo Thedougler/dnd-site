@@ -6,7 +6,7 @@ aliases:
 title: The Midchain
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T03:15:03.901-07:00
+published: 2026-05-03T04:13:50.206-07:00
 tags:
   - location
   - region
@@ -38,6 +38,8 @@ relationships:
     target: Giant Crocodile
   - relation: threatened_by
     target: Giant Constrictor Snake
+  - relation: threatened_by
+    target: Giant Ape
   - relation: threatened_by
     target: Pirate
   - relation: threatened_by
@@ -81,7 +83,7 @@ Charts for the Midchain contradict each other because the Midchain keeps changin
 
 Prevailing winds turn more westerly near the [[Doldrums|Doldrums]], creating back channels useful for westbound ships trying to avoid Strait inspection. Dravosi patrol cutters run intercept routes through the more predictable lanes, which is one reason experienced captains prefer the less predictable ones.
 
-The same back channels that hide a ship also hide teeth. Deep blue holes are avoided unless a pilot knows them by name, because [[beastiary/Sawek|Sawek]] lairs look like useful shelter until something moves below the keel. Mangrove cuts and river mouths add their own hazards: [[beastiary/giant-crocodile|giant crocodiles]], [[beastiary/giant-constrictor-snake|giant constrictor snakes]], and enough lesser reef predators that local pilots talk about water color the way farmers talk about weather.
+The same back channels that hide a ship also hide teeth. Deep blue holes are avoided unless a pilot knows them by name, because [[beastiary/Sawek|Sawek]] lairs look like useful shelter until something moves below the keel. Mangrove cuts and river mouths add their own hazards: [[beastiary/giant-crocodile|giant crocodiles]], [[beastiary/giant-constrictor-snake|giant constrictor snakes]] waiting under root mats and flooded banks, and enough lesser reef predators that local pilots talk about water color the way farmers talk about weather.
 
 The Midchain is also where small piracy becomes geography. A cutter like [[ships/Knifes-Wake|the Knife's Wake]] can disappear through channels a frigate captain refuses to enter, and ordinary [[beastiary/pirate|pirate]] crews survive by knowing which reef turn is real and which one exists only on a Crown chart. The [[ships/The-Bad-Receipt|Bad Receipt]] is a more organized version of the same problem, working Kalowe repairs, false papers, and southern Strait traffic into one business. When sailors talk about the [[ships/The-Glass-Debt|Glass Debt]] in the Midchain, they are usually talking about convoy routes getting expensive.
 
@@ -107,7 +109,7 @@ The coastal settlements of the Midchain know the raids have worsened in recent y
 
 | Island | Known For |
 |---|---|
-| Vatumei | A permanent interior freshwater lake fed by a year-round spring. |
+| Vatumei | A permanent interior freshwater lake fed by a year-round spring. Piranha swarms hold the shallows — lower casks on a line. |
 | Rakohe | A double barrier reef and shallow interior channel used by vessels that prefer not to be seen. |
 | Tuavali | Two volcanic peaks on a shared isthmus; one still steams daily. |
 | Morava | The largest monthly open-air trade market in the Midchain, with no permanent authority and few fixed rules. |
@@ -126,6 +128,12 @@ The coastal settlements of the Midchain know the raids have worsened in recent y
 Reef fish are everywhere: parrotfish, snapper, and grouper through the coral systems. Lagoons support net fishing and trap lines. Sea turtles nest on the outer islands from late spring through summer. Whale sharks pass through the western Midchain seasonally, following warm current pulses south from Crown waters.
 
 The Midchain can feed a careful crew and swallow a careless one. Most routes are not hidden. They are just local, and that is not the same thing.
+
+---
+
+## Interior Signs
+
+Not every Midchain hazard lives in the water or waits at the beach. The larger southern islands have enough rainforest, freshwater, and limestone high ground to support animals that most pilots never see. Giant ape stories belong in that category: broken canopy trails above the reef line, boulders found in paths where no storm put them, and fruit trees stripped from the crown down. The clearest reports cluster near the [[Verdant-Teeth|Verdant Teeth]], but the range is better understood as a southern Midchain interior problem than a single-island sighting. ^\[inferred]
 
 ---
 
@@ -171,9 +179,12 @@ The Midchain can feed a careful crew and swallow a careless one. Most routes are
 
 - [[beastiary/Sawek|Sawek]] — apex sinkhole predators whose lairs can look like useful shelter from above.
 - [[beastiary/giant-crocodile|Giant crocodiles]] — mangrove cuts and river mouths.
-- [[beastiary/giant-constrictor-snake|Giant constrictor snakes]] — flooded channels and rainforest margins.
+- [[beastiary/swarm-of-piranhas|Swarms of piranhas]] — interior freshwater lakes and spring pools, especially Vatumei; lower casks on a line, don't wade.
+- [[beastiary/giant-constrictor-snake|Giant constrictor snakes]] — flooded channels, mangrove cuts, river mouths, and rainforest margins.
 - [[beastiary/giant-frog|Giant frogs]] — flooded cuts, rain pools, and abandoned terraces.
+- [[beastiary/giant-ape|Giant apes]] — southern rainforest interiors, especially larger islands near the Verdant Teeth. ^\[inferred]
 - [[beastiary/giant-spider|Giant spiders]] — high canopy, abandoned brush, and Verdant Teeth interiors.
+- [[beastiary/giant-scorpion|Giant scorpions]] — dry-stacked terrace walls, limestone ridge faces, and sun-warmed rock above the treeline.
 - [[beastiary/giant-venomous-snake|Giant venomous snakes]] — warm limestone, terrace walls, and reef-island brush.
 - [[beastiary/giant-wasp|Giant wasps]] — crane works, roof beams, and rainforest canopies.
 - [[beastiary/pirate|Pirates]] — crews using local channels, false papers, and becalmed ships as opportunity.

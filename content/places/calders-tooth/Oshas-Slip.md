@@ -5,7 +5,7 @@ aliases:
 title: Osha's Slip
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:55.728-07:00
+published: 2026-05-03T03:58:19.652-07:00
 tags:
   - location
   - village
@@ -22,6 +22,8 @@ campaign: shattered-sea
 relationships:
   - relation: part_of
     target: Calder's Tooth
+  - relation: threatened_by
+    target: Giant Constrictor Snake
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -34,6 +36,8 @@ confidence_level: medium
 A fishing village built on stilt-platforms over the southeastern mudflats of [[Calders-Tooth|Calder's Tooth]]. The villagers trap mud-crabs, spear river-eels, and maintain a rope-and-plank bridge network that shifts with wind and tide. There are no solid roads. Overland approach from Tidefall means crossing the mudflats, which is slow and unpleasant at any tide and impossible in armour at the wrong one.
 
 The village is independent in the way small places far from the fort tend to be. The Crown's authority here is largely theoretical.
+
+The same mudflats that feed Osha's Slip give large constrictors room to hunt. Villagers watch the eel channels for water moving against the tide, crab traps dragged sideways, and reed beds flattened in a single smooth line. Nobody calls every missing animal a monster, but people who work barefoot over tidal mud learn which pools are too quiet. ^\[inferred]
 
 ---
 

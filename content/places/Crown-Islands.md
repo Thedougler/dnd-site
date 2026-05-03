@@ -5,7 +5,7 @@ aliases:
 title: The Crown Islands
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.280-07:00
+published: 2026-05-03T03:56:18.060-07:00
 tags:
   - location
   - crown-islands
@@ -30,6 +30,8 @@ relationships:
   - relation: threatened_by
     target: Giant Boar
   - relation: threatened_by
+    target: Giant Axe Beak
+  - relation: threatened_by
     target: Giant Wolf Spider
   - relation: threatened_by
     target: The Knife's Wake
@@ -52,7 +54,7 @@ Five large islands running east to west across the northern arc — broad-should
 
 The Crown Islands are safer than the [[Midchain|Midchain]] in roughly the way a locked strongroom is safer than an alley. Patrols answer distress signals. Ports keep records. Cargo moves under recognized law, which merchants value and sailors tolerate, because recognized law tends to arrive with fees attached and harbourmasters who remember what stamp you were supposed to have.
 
-The patrols keep the big harbours clean, not the whole sea. [[beastiary/pirate|Pirates]] still work the blind water between reefs, usually under captains who know exactly how long a distress signal takes to reach a fort. The natural threats are less theatrical but more constant: [[beastiary/hunter-shark|hunter sharks]] off the southern coasts, [[beastiary/giant-crab|giant crabs]] around wreck-strewn reefs, [[beastiary/giant-boar|giant boars]] in the highland forest, and [[beastiary/giant-wolf-spider|giant wolf spiders]] in old drains and sinkholes. Crown law makes those problems documented, not solved.
+The patrols keep the big harbours clean, not the whole sea. [[beastiary/pirate|Pirates]] still work the blind water between reefs, usually under captains who know exactly how long a distress signal takes to reach a fort. The natural threats are less theatrical but more constant: [[beastiary/hunter-shark|hunter sharks]] off the southern coasts, [[beastiary/giant-crab|giant crabs]] around wreck-strewn reefs, [[beastiary/giant-boar|giant boars]] in the highland forest, [[beastiary/giant-axe-beak|giant axe beaks]] on open ridge roads and scrubby uplands, and [[beastiary/giant-wolf-spider|giant wolf spiders]] in old drains and sinkholes. Crown law makes those problems documented, not solved.
 
 Most pirate ships avoid the Crown Islands unless they have a very good exit. Small raiders such as [[ships/Knifes-Wake|the Knife's Wake]] can still work fog, false colours, and Greyteeth confusion against soft targets before a patrol arrives. A larger threat like the [[ships/The-Glass-Debt|Glass Debt]] does not belong in Crown harbour waters for long, but even a credible report of her near a convoy route is enough to make HCS captains start counting escorts.
 

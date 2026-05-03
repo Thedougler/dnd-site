@@ -5,7 +5,7 @@ aliases:
 title: Aruhe
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.537-07:00
+published: 2026-05-03T04:05:25.471-07:00
 tags:
   - location
   - island
@@ -26,6 +26,8 @@ relationships:
   - relation: threatened_by
     target: Giant Frog
   - relation: threatened_by
+    target: Giant Scorpion
+  - relation: threatened_by
     target: Giant Venomous Snake
   - relation: threatened_by
     target: Giant Spider
@@ -42,7 +44,7 @@ A small reef island on the Midchain's inner edge, immediately east of the [[Verd
 
 There is nothing there worth stopping for.
 
-That is the public reason crews give. The practical reason is that abandoned garden terraces are perfect cover for things that followed the old settlement after people left. Traders who pass too close report [[beastiary/giant-frog|giant frogs]] in the flooded ditches, [[beastiary/giant-venomous-snake|giant venomous snakes]] in the terrace walls, and webbed cuts through the brush that suggest [[beastiary/giant-spider|giant spiders]] have had years to make the place their own.
+That is the public reason crews give. The practical reason is that abandoned garden terraces are perfect cover for things that followed the old settlement after people left. Traders who pass too close report [[beastiary/giant-frog|giant frogs]] in the flooded ditches, [[beastiary/giant-venomous-snake|giant venomous snakes]] and [[beastiary/giant-scorpion|giant scorpions]] in the terrace walls, and webbed cuts through the brush that suggest [[beastiary/giant-spider|giant spiders]] have had years to make the place their own. The terrace walls in particular are good scorpion ground: limestone blocks stacked dry, sun-warmed through the afternoon, and hollow behind the facing stones where the old mortar failed. One trader who anchored briefly to fill water came back to the beach to find a scorpion the size of a goat under his dinghy. He left the dinghy and used a barrel lid to paddle to his ship. The story travels as a joke among Midchain pilots. He does not find it funny.
 
 ---
 

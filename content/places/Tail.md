@@ -6,7 +6,7 @@ aliases:
 title: The Tail
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:07:13.488-07:00
+published: 2026-05-03T04:07:39.874-07:00
 tags:
   - location
   - region
@@ -32,7 +32,13 @@ relationships:
   - relation: stages
     target: The Shelfworks
   - relation: threatened_by
+    target: Giant Shark
+  - relation: rumored_threat
+    target: Ancient Sea Serpent
+  - relation: threatened_by
     target: Giant Vulture
+  - relation: threatened_by
+    target: Giant Axe Beak
   - relation: threatened_by
     target: Giant Bat
   - relation: rumored_threat
@@ -62,7 +68,7 @@ The Tail is the eastern end of the Verdant Scatter, where both island arcs narro
 
 The communities here have lived beside the trench for generations. They know the shelf edge, the fog schedules, the reefs that changed last season, and where the Maw's discolouration begins on a clear day. Less settled than the [[places/Crown-Islands|Crown Islands]], not empty, and not forgiving.
 
-The cliffs are land enough for things that like height and carrion. [[beastiary/giant-vulture|Giant vultures]] follow fishing waste and wreckage, [[beastiary/giant-bat|giant bats]] crowd caves above the fog line, and [[beastiary/harpy|harpy]] stories cling to the narrow saddles where voices carry strangely in bad weather.
+The cliffs are land enough for things that like height and carrion. [[beastiary/giant-vulture|Giant vultures]] follow fishing waste and wreckage, [[beastiary/giant-bat|giant bats]] crowd caves above the fog line, and [[beastiary/giant-axe-beak|giant axe beaks]] sometimes run the high saddles where grass, fog, and cliff paths meet. [[beastiary/harpy|Harpy]] stories cling to the same narrow places, where voices carry strangely in bad weather.
 
 The Tail is where piracy stops being a tavern story and starts affecting routing. Shelfworks crews, longliners, and Maw-crossing vessels all pass through tight weather windows, which gives a patient [[beastiary/pirate-captain|pirate captain]] something to plan around. The [[ships/The-Glass-Debt|Glass Debt]] is the name most associated with Tail pressure: too large for casual reef work, but perfect for forcing salvage escorts to choose between protecting divers and protecting the prize ship. The [[ships/The-Velvet-Noose|Velvet Noose]] is rarer here, and much worse; sailors who believe the stories assume she carries a [[beastiary/pirate-admiral|pirate admiral]], not merely a captain.
 
@@ -79,6 +85,16 @@ Compass drift begins within five miles of the Maw's edge, so Maw-adjacent naviga
 ## Fishing
 
 The Tail has some of the best longline grounds in the Sea. Cold upwelling brings swordfish, albacore, and oilfish close to the surface at night. Serious longline crews work the shelf edge, where the water is rich and mistakes have less room to become survivable.
+
+The same upwelling that concentrates prey brings [[beastiary/giant-shark|giant sharks]] to the shelf edge. Tail crews distinguish them from ordinary hunter sharks by what comes back with the gear — or what doesn't come back at all. A longliner returned from the eastern grounds recently with two oars stripped from the oarlocks, the transom stoved from below, and a deckhand who described a wake moving against the current before the strike. He put the length at three times the boat. His crewmates didn't argue about the number. They started agreeing on the shape instead. ^\[inferred]
+
+---
+
+## The Cracked Stern Story
+
+The Tail is where the ancient sea serpent story becomes practical rather than mythic. A longliner can return from the eastern grounds with a torn sail and everyone will blame weather. It can return with shark cuts and everyone will compare bite marks. When one came back with the aft rail crushed inward, the sternpost split, and a single deckhand repeating that the sea went cold before the hull bent, the pilots started listening.
+
+Nobody in the Tail treats that as a clean identification. The attack happened east of the Maw, in [[places/Outer-Reach|Outer Reach]] water, and panic does not produce tidy natural history. But longline crews know what whip-shark damage looks like, what reef damage looks like, and what pirates leave behind. A hull squeezed rather than struck points to a serpent large enough to wrap a working boat. ^\[inferred]
 
 ---
 

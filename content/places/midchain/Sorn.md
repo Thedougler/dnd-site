@@ -5,7 +5,7 @@ aliases:
 title: Sorn
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.551-07:00
+published: 2026-05-03T03:53:34.983-07:00
 tags:
   - location
   - island
@@ -30,6 +30,8 @@ relationships:
     target: Giant Centipede
   - relation: threatened_by
     target: Giant Frog
+  - relation: threatened_by
+    target: Giant Ape
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -50,6 +52,8 @@ Sorn is the agricultural interior of the [[Verdant-Teeth|Verdant Teeth]] — the
 [[Midchain|Midchain]] sailors who have made the run report efficient transactions, no eye contact from anyone inland, and a clear sense that the trade beach exists because the Grung decided it does. The interior is not mapped. Charts from the last thirty years mark it with some version of _do not approach_. The raids out of the Teeth have been getting worse, and Sorn is not where the raids come from, which is one of the few pieces of information about it that most traders find reassuring.
 
 Sorn's known threats are the kind that thrive around farms and wet interior work. Traders hear [[beastiary/giant-wasp|giant wasps]] above the cut-back beach, see dead [[beastiary/giant-centipede|giant centipedes]] carried out on hooked poles, and know better than to ask why the Grung keep certain flooded paths clear of [[beastiary/giant-frog|giant frogs]]. The beach is controlled. The island behind it is managed, which is not the same as tame.
+
+The crop terraces make Sorn one of the few places where giant ape sign can reach the edge of public knowledge. A huge forager does not need to attack the beach to become a problem; it only needs to break fruit trees, tear down watch platforms, or throw stones from the ridge when patrols push too close. Traders have no direct right to see the interior, so the rumor travels as aftermath: repaired palisade sections, sudden delays in resin shipments, and grung guards returning from inland with crushed shields. ^\[inferred]
 
 ---
 

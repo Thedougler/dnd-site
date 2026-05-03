@@ -6,7 +6,7 @@ aliases:
 title: The Doldrums
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:05:56.322-07:00
+published: 2026-05-03T04:15:22.784-07:00
 tags:
   - location
   - sea-hazard
@@ -23,8 +23,6 @@ relationships:
     target: The Shattered Sea
   - relation: near
     target: The Drowned Maw
-  - relation: threatened_by
-    target: Swarm of Piranhas
   - relation: threatened_by
     target: Giant Wasp
   - relation: threatened_by
@@ -48,7 +46,7 @@ The Doldrums are a windless band of flat water running east-west below the [[Mid
 
 The band drifts 50 to 100 miles north or south by season. Experienced captains track its position and route around it through the [[Midchain|Midchain]] back channels. Ships that don't know where it is sail into it and wait. Becalmed vessels have limited options: tow with boats, jettison weight, or sit. Most carry enough water to do this without disaster. Most.
 
-The Doldrums do not need apex monsters to be dangerous. Still water gathers blooms, carrion, and anything that hunts by patience. [[beastiary/swarm-of-piranhas|Piranha swarms]] are a known problem around trapped debris and low islands, while [[beastiary/giant-wasp|giant wasps]] and biting insects make any attempt to tow through mangrove shallows worse than the charts imply. A crew becalmed here learns quickly that silence is not safety.
+The Doldrums do not need apex monsters to be dangerous. Still water gathers blooms, carrion, and anything that hunts by patience. [[beastiary/giant-wasp|Giant wasps]] and biting insects make any attempt to tow through mangrove shallows worse than the charts imply. A crew becalmed here learns quickly that silence is not safety.
 
 That silence helps people too. Becalmed ships cannot choose distance, and rowed cutters can move where sail cannot. [[beastiary/pirate|Pirates]] use the Doldrums less as home waters than as a trap already set by the weather. A low raider like [[ships/Knifes-Wake|the Knife's Wake]] is exactly the wrong shape to see moving by oar through flat water at dusk.
 

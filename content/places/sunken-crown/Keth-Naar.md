@@ -6,7 +6,7 @@ aliases:
 title: Keth-Naar
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:19:09.042-07:00
+published: 2026-05-03T03:39:57.263-07:00
 tags:
   - location
   - settlement
@@ -31,6 +31,8 @@ relationships:
     target: Giant Bat
   - relation: threatened_by
     target: Giant Wolf Spider
+  - relation: rumored_threat
+    target: Ancient Dragon Turtle
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -47,6 +49,14 @@ Keth-Naar is not one island but twelve promontories of ancient black basalt, clu
 Visitors who arrive carefully may be watched before they are spoken to. This is not unfriendliness. It is the habit of a community that has been here long enough to know what a ship that does not read the water correctly looks like, and what usually follows it.
 
 The catches have been thin lately, and the weather around the Blue Hole has been less predictable than the tribe is used to. The birds are going inland before dark. The hunters are not saying much about what they have been seeing in the deep water, which is its own kind of information.
+
+---
+
+## The Wreck Survivor
+
+Keth-Naar is where [[perren-summary|Perrin Black-Jaw]] came ashore after the _Vestra_ was destroyed near the Maw. By the time the story reached the settlement, the useful details were not the name of the monster but the signs that came before it: still water, heat through the hull, steam where there should have been spray, and a strike from below.
+
+Local watchers treat that account as a warning about the deep line between Keth-Naar and the [[places/Drowned-Maw|Drowned Maw]]. Outsiders argue whether Perrin survived a [[beastiary/Leviathan|Leviathan]] attack or an [[beastiary/ancient-dragon-turtle|ancient dragon turtle]] strike. Keth-Naar's hunters are less interested in the name than in the pattern: when the Blue Hole goes quiet and the birds leave early, nobody sensible takes a boat over the indigo edge. ^\[ambiguous]
 
 ---
 

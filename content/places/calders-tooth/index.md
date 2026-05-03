@@ -6,7 +6,7 @@ aliases:
 title: Calder's Tooth
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T03:11:14.285-07:00
+published: 2026-05-03T03:56:18.060-07:00
 tags:
   - location
   - island
@@ -31,6 +31,8 @@ relationships:
   - relation: threatened_by
     target: Giant Boar
   - relation: threatened_by
+    target: Giant Axe Beak
+  - relation: threatened_by
     target: Giant Bat
   - relation: threatened_by
     target: Giant Wolf Spider
@@ -49,7 +51,7 @@ Calder's Tooth rises at the western mouth of the [[places/Central-Strait|Central
 
 [[Port-Tidefall|Port Tidefall]] is the island's official face — cannon on the seaward cliff, inspection pier at the harbour entrance, every ship through the Strait expected to pause and answer questions. But the island is larger than Tidefall's reach. Away from the fort guns there are villages, cliff-net hamlets, and coastline the Crown has not fully gotten around to pricing. The Strait begins here. So does the taxation.
 
-The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelter [[beastiary/giant-bat|giant bats]], root-torn ridge tracks carry [[beastiary/giant-boar|giant boar]] sign, and villages along the wet side know to check old cisterns for [[beastiary/giant-wolf-spider|giant wolf spiders]] before sending children for water. Tidefall's walls keep out people better than they keep out the island.
+The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelter [[beastiary/giant-bat|giant bats]], root-torn ridge tracks carry [[beastiary/giant-boar|giant boar]] sign, and the open switchbacks are wide enough for [[beastiary/giant-axe-beak|giant axe beaks]] to pace wagons before striking. Villages along the wet side know to check old cisterns for [[beastiary/giant-wolf-spider|giant wolf spiders]] before sending children for water. Tidefall's walls keep out people better than they keep out the island.
 
 ---
 
@@ -97,6 +99,7 @@ Crossing the island means mud, fog, ridge country, tolls, and roads that behave 
 
 - [[beastiary/giant-bat|Giant bats]] — known around fog gullies and sinkholes.
 - [[beastiary/giant-boar|Giant boar]] — sign appears along root-torn ridge tracks.
+- [[beastiary/giant-axe-beak|Giant axe beaks]] — open switchbacks and ridge roads where wagons, mounts, and mud create easy openings. ^\[inferred]
 - [[beastiary/giant-wolf-spider|Giant wolf spiders]] — a risk in old cisterns and neglected wet-side structures.
 
 ---

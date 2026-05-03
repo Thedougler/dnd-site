@@ -6,7 +6,7 @@ aliases:
 title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:10:10.578-07:00
+published: 2026-05-03T04:08:47.615-07:00
 tags:
   - location
   - trench
@@ -26,8 +26,12 @@ relationships:
     target: Sentinels of the Eyrie
   - relation: threatened_by
     target: Whip Shark
+  - relation: threatened_by
+    target: Giant Squid
   - relation: rumored_threat
     target: The Leviathan
+  - relation: rumored_threat
+    target: Ancient Dragon Turtle
   - relation: rumored_threat
     target: Kraken
   - relation: threatened_by
@@ -55,9 +59,17 @@ Compasses drift within five miles and don't recover until you're through. Most c
 
 Ships cross routinely — it's the only route east to the [[places/Outer-Reach|Outer Reach]] — and most have no trouble. The ones that do have trouble come back quiet, which is its own kind of information. There are occasionally shapes visible at depth, in water that is clearer than it has any right to be this far out. Most crews don't discuss what they saw.
 
-[[beastiary/Whip-Shark|Whip sharks]] are a practical enough fear near the rim, especially where ships slow at the crossing, but deeper reports lose their edges: a [[beastiary/kraken|kraken]]'s reach, a [[beastiary/dragon-turtle|dragon turtle]]'s shell, a [[beastiary/Leviathan|Leviathan]]'s heat under the water. The sensible version of the story is that the Maw has room for large things.
+[[beastiary/Whip-Shark|Whip sharks]] are a practical enough fear near the rim, especially where ships slow at the crossing, but deeper reports lose their edges: a [[beastiary/giant-squid|giant squid]]'s reach up the drop-off at night, a [[beastiary/kraken|kraken]]'s reach below that, a [[beastiary/dragon-turtle|dragon turtle]]'s shell, an [[beastiary/ancient-dragon-turtle|ancient dragon turtle]]'s steam, a [[beastiary/Leviathan|Leviathan]]'s heat under the water. The sensible version of the story is that the Maw has room for large things, and they are arranged by depth.
 
 Pirates do not anchor over the Maw any more than honest captains do, but the rim lanes are profitable. Salvage crews carry dark-alloy fittings, insurers pay badly after losses, and frightened ships are easier to separate from escorts. [[beastiary/pirate-captain|Pirate captains]] with enough nerve work the western shelf edge, while the [[ships/The-Glass-Debt|Glass Debt]] is known for making Maw-adjacent salvage traffic change course. The [[ships/The-Velvet-Noose|Velvet Noose]] is mostly a rumor here, which is still enough to make a convoy wait for daylight.
+
+---
+
+## The Vestra Water
+
+Sailors have started using "Vestra water" for the bad stretch near the Maw where [[perren-summary|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
+
+What hit the _Vestra_ remains argued rather than proven. Perrin's signs match the old [[beastiary/Leviathan|Leviathan]] chapter in [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary]], but they also match the practical warnings attached to [[beastiary/ancient-dragon-turtle|ancient dragon turtles]]: scalding fog, heat before impact, and a shell-dark mass rising under the keel. Most captains do not care which name is correct. They care that someone survived long enough to say the water went hot before the ship died. ^\[ambiguous]
 
 ---
 

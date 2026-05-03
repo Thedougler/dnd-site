@@ -6,7 +6,7 @@ aliases:
 title: Bestiary
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:50:03.989-07:00
+published: 2026-05-03T03:33:36.351-07:00
 tags:
   - player-resource
   - index
@@ -33,12 +33,6 @@ confidence_level: medium
 ---
 
 # Bestiary
-
-## Database
-
-![[bestiary.base]]
-
----
 
 The [[places/Shattered-Sea|Shattered Sea]] has many things that call it home. Sailors name them, argue about them, and occasionally get killed by them. Some entries are confirmed creatures. Others are the kind of rumor that survives because the alternative explanation is worse.
 

@@ -6,7 +6,7 @@ aliases:
 title: The Sunken Crown
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T03:15:50.350-07:00
+published: 2026-05-03T03:49:45.162-07:00
 tags:
   - location
   - region
@@ -31,6 +31,8 @@ relationships:
     target: Sawek
   - relation: rumored_threat
     target: Dragon Turtle
+  - relation: rumored_threat
+    target: Dragon Turtle Wyrmling
   - relation: threatened_by
     target: Giant Lizard
   - relation: threatened_by
@@ -60,7 +62,15 @@ The Blue Hole occupies the majority of the Sunken Crown. From any high point on 
 
 The waters around the Blue Hole have been unsettled lately. Currents reversing without warning, fish avoiding channels they have always run, weather turning faster than the sky gives notice.
 
-The Crown's ordinary dangers gather around the edge of the drop: [[beastiary/reef-shark|reef sharks]] in the shallows, [[beastiary/giant-octopus|giant octopuses]] in the cracks, and larger shadows below the indigo line. Outsiders use the word [[beastiary/Sawek|Sawek]] too freely for anything that waits in a blue hole, but local watchers are more careful. Some shapes are predators. Some are old enough that naming them feels like an invitation.
+The Crown's ordinary dangers gather around the edge of the drop: [[beastiary/reef-shark|reef sharks]] in the shallows, [[beastiary/giant-octopus|giant octopuses]] in the cracks, and larger shadows below the indigo line. Outsiders use the word [[beastiary/Sawek|Sawek]] too freely for anything that waits in a blue hole, but local watchers are more careful. Some shapes are predators. Some are old enough that naming them feels like an invitation. A [[beastiary/dragon-turtle-wyrmling|dragon turtle wyrmling]] report is treated differently from the old island-sized stories: heat on the water, steam without weather, and a shell-ridge small enough to vanish between reef channels.
+
+---
+
+## Steam At The Drop
+
+The current warning making its way through Keth-Naar is not a dead ship but a missing skiff. A watch rotation failed near the Blue Hole edge, and the next crew found the Meth-Var landing ropes scalded stiff enough to crack. The survivor described heat before impact, a black ridge rising through the indigo water, and a tail strike that threw the skiff into the reef channel. The scale points toward a [[beastiary/dragon-turtle-wyrmling|dragon turtle wyrmling]] rather than an adult, though the distinction matters more to scholars than to anyone rowing over the drop. ^\[inferred]
+
+That story is why the Crown's dragon turtle rumor has become more practical. A wyrmling below the Blue Hole does not need to cross the whole Sunken Crown to threaten it. It only needs to wait where the safe turquoise water ends. ^\[inferred]
 
 ---
 
@@ -122,7 +132,8 @@ Getting here requires crossing east of the Drowned Maw into the Outer Reach — 
 - [[beastiary/reef-shark|Reef sharks]] — patrol the shallows around the Blue Hole's edge.
 - [[beastiary/giant-octopus|Giant octopuses]] — use cracks and drop-off shelter near the Blue Hole.
 - [[beastiary/Sawek|Sawek]] — a name outsiders use too freely for large blue-hole shadows; local watchers are more careful.
-- [[beastiary/dragon-turtle|Dragon turtles]] — rumoured in the farther Outer Reach.
+- [[beastiary/dragon-turtle-wyrmling|Dragon turtle wyrmlings]] — recent scalded-rope report at Meth-Var, likely near the Blue Hole edge. ^\[inferred]
+- [[beastiary/dragon-turtle|Dragon turtles]] — older and larger rumours in the farther Outer Reach.
 - [[beastiary/harpy|Harpies]] — possible calls are marked separately from wind noise by Meth-Var watchers.
 
 ---

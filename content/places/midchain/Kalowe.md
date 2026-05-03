@@ -5,7 +5,7 @@ aliases:
 title: Kalowe
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.547-07:00
+published: 2026-05-03T04:10:16.998-07:00
 tags:
   - location
   - port
@@ -31,6 +31,8 @@ relationships:
     target: Giant Wasp
   - relation: associated_with
     target: The Bad Receipt
+  - relation: threatened_by
+    target: Hunter Shark
   - relation: rumored_threat
     target: Pirate Captain
 updated: 2026-05-03
@@ -53,6 +55,8 @@ There is no colonial authority here, which is not the same as no authority. The 
 Kalowe is also the normal meeting place of [[Chain-Council|the Chain Council]], the occasional Midchain assembly that forms when independent islands need to answer a shared problem without surrendering their independence.
 
 A Dravosi vessel has been occupying the primary dry-dock berth for eleven days. Its stated stay was three. It has not left, it is not being repaired, and its crew has been asking questions on the causeways that have made the regulars quieter than usual.
+
+The reef gap is not as calm as the lagoon it opens into. [[beastiary/hunter-shark|Hunter sharks]] work the current through the gap, following baitfish and the chum trail that dry-dock operations generate without trying. A caulker who fell from a staging barge at the reef mouth came back aboard with a bite across the thigh and a strong opinion about night shifts. The gap now has a rope with a bell on it; the bosses pay for it quietly and don't put it on any official accounting. ^\[inferred]
 
 Kalowe's monsters are usually the kind ports pretend are not monsters until they interrupt business. [[beastiary/giant-rat|Giant rats]] and [[beastiary/swarm-of-rats|rat swarms]] live well under warehouses that never close, and [[beastiary/giant-wasp|giant wasps]] build in the hot upper works of cranes and roof beams. Harbour bosses pay quietly for those problems to be solved before a customer starts calling them omens.
 

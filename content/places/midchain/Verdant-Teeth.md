@@ -5,7 +5,7 @@ aliases:
 title: The Verdant Teeth
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:18:04.130-07:00
+published: 2026-05-03T03:58:19.651-07:00
 tags:
   - location
   - islands
@@ -32,6 +32,10 @@ relationships:
     target: Giant Spider
   - relation: threatened_by
     target: Giant Venomous Snake
+  - relation: threatened_by
+    target: Giant Constrictor Snake
+  - relation: threatened_by
+    target: Giant Ape
 updated: 2026-05-03
 sources:
   - Homebrew
@@ -53,7 +57,9 @@ The five islands have distinct reputations. Veth is the trade face of the cluste
 
 Coastal settlements across the [[Midchain|Midchain]] have noticed more raids coming from the direction of the Teeth in recent years. [[Chain-Council|The Chain Council]] has heard the complaints. For now, Veth's beach remains open for trade, Karath remains dangerous, and the canopy keeps its own counsel.
 
-Even without grung patrols, the Teeth would not be easy country. Beach traders swap stories of [[beastiary/giant-frog|giant frogs]] in flooded cuts, [[beastiary/giant-spider|giant spiders]] in the high canopy, and [[beastiary/giant-venomous-snake|giant venomous snakes]] sunning on limestone where they look like roots until they move. The grung know which paths belong to people and which belong to the island.
+Even without grung patrols, the Teeth would not be easy country. Beach traders swap stories of [[beastiary/giant-frog|giant frogs]] in flooded cuts, [[beastiary/giant-spider|giant spiders]] in the high canopy, [[beastiary/giant-constrictor-snake|giant constrictor snakes]] in drowned channels, and [[beastiary/giant-venomous-snake|giant venomous snakes]] sunning on limestone where they look like roots until they move. The grung know which paths belong to people and which belong to the island.
+
+The largest animal stories stay mostly inland. Some traders have heard the canopy break in a line too heavy for monkeys or stormfall, and Sorn-bound intermediaries sometimes arrive with fresh splinter wounds on shields that look more like thrown stone than claw. If [[beastiary/giant-ape|giant apes]] live in the Teeth, they are not beach curiosities. They are high-ridge animals, moving between fruiting canopy, freshwater, and limestone overlooks across more than one island. ^\[inferred]
 
 ---
 

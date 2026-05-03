@@ -6,7 +6,7 @@ aliases:
 title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-05-03
-published: 2026-05-02T22:39:18.205-07:00
+published: 2026-05-02T23:08:20.836-07:00
 tags:
   - item
   - reference-text
@@ -36,7 +36,7 @@ subtype: item
 
 # Clyde's Bestiary of Oceanic Creatures
 
-![[raw/assets/portraits/Clydes-Beastiary-of-Oceanic-Creatures.webp|Cover of Clyde's Bestiary of Oceanic Creatures showing a whale beside a small boat]]
+![[raw/assets/portraits/Clydes-Beastiary-of-Oceanic-Creatures.webp|Cover of Clyde's Bestiary of Oceanic Creatures showing a whale beside a small boat|800]]
 
 ---
 

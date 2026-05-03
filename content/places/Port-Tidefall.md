@@ -3,7 +3,7 @@ publish: true
 title: Port Tidefall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-02T18:55:02.912-07:00
 tags:
   - location
   - port
@@ -22,6 +22,22 @@ relationships:
     target: Calder's Tooth
   - relation: controlled_by
     target: The Dravosi Crown
+  - relation: contains
+    target: The Inspection Pier
+  - relation: contains
+    target: Harbourmaster's Office
+  - relation: contains
+    target: Fare I'a
+  - relation: contains
+    target: Tidefall Chandlery
+  - relation: contains
+    target: The Shelf Instrument Dealer
+  - relation: contains
+    target: The Hook & Ledger
+  - relation: contains
+    target: Tessarine Trade House — Port Tidefall
+  - relation: contains
+    target: Governor's Seat — Port Tidefall
   - relation: contains
     target: Fort Crestwall
 updated: 2026-05-03
@@ -45,17 +61,17 @@ This is where the Crown's authority is loudest, which also makes it where that a
 
 ## The Three Tiers
 
-**The Dockfront** sits at the waterline — the inspection pier, the Harbourmaster's Office, chandlers, the Waveservant shrine cut into the cliff base, and the Anchor & Line, which is the only tavern at waterline and the first place most crews end up. Crown patrols are constant here. The pace is fast and the paperwork is immediate.
+**The Dockfront** sits at the waterline, where arrival becomes procedure. The [[places/Inspection-Pier|Inspection Pier]] catches ships before they reach the docks proper, and the [[places/Harbourmasters-Office|Harbourmaster's Office]] turns that delay into ratings, fees, impound paperwork, and official charts. The dock market fills the gaps around that machinery with food stalls and quick purchases, including [[places/Fare-Ia|Fare I'a]], a Grung-style fish jerky counter whose sweet brine and char cut through the harbour salt before the stall comes into view. The [[places/Tidefall-Chandlery|Tidefall Chandlery]] sits at the Dockfront end of the Shelf with rope, tar, provisions, weapons, and other legal necessities stacked where crews clearing inspection can spend money immediately. The Waveservant shrine is cut into the cliff base, and the Anchor & Line is the only tavern at waterline and the first place most crews end up. Crown patrols are constant here. The pace is fast and the paperwork is immediate.
 
-**The Shelf** is the mid-cliff commercial district — trade houses, instrument dealers, the Governor's Seat set back from the trade houses, and the Hook & Ledger, where clerks and quartermasters do quieter business over food that is marginally better than the Dockfront. The Tessarine Concordat has a trade house here. The Dravosi Admiralty has offices. Most of what passes for negotiation in Tidefall happens on the Shelf.
+**The Shelf** is the mid-cliff commercial district, where the port's paperwork becomes conversation. The [[places/Tessarine-Trade-House-Tidefall|Tessarine Trade House]] handles licensing, contract brokerage, and courier dispatch behind a clerk's partition. The [[places/Shelf-Instrument-Dealer|Shelf Instrument Dealer]] sells sextants, compasses, chronometers, almanacs, and proper spyglasses to captains who can afford precision. The [[places/Governors-Seat-Tidefall|Governor's Seat]] is set back from the trade houses under the largest Dravosi flag in the city, while the [[places/Hook-and-Ledger|Hook & Ledger]] gives clerks, quartermasters, pursers, and shipmasters somewhere respectable enough for uniforms and loose enough for side deals. The Dravosi Admiralty has offices here. Most of what passes for negotiation in Tidefall happens on the Shelf.
 
-**Fort Crestwall** at the crown is pass-only. What goes on inside it is not discussed on the Shelf, and the people on the Shelf who would normally know have been finding that fact mildly concerning for several weeks.
+**[[places/Fort-Crestwall|Fort Crestwall]]** at the crown is pass-only: barracks, command post, armoury, court, and cannon battery above the harbour approach. What goes on inside it is not discussed on the Shelf, and the people on the Shelf who would normally know have been finding that fact mildly concerning for several weeks.
 
 ---
 
 ## Trade
 
-Naval gear, weapons, and Dravosi charts are abundant. Tessarine goods and arcane specialist items are scarce and priced accordingly. The [[places/Harbourmasters-Office|Harbourmaster's Office]] handles charts and commission postings. The chandlery on the Dockfront covers provisions, gear, and common equipment. A small instrument dealer on the Shelf carries navigational tools.
+Naval gear, weapons, and Dravosi charts are abundant. Tessarine goods and arcane specialist items are scarce and priced accordingly. The [[places/Harbourmasters-Office|Harbourmaster's Office]] handles charts and commission postings, the [[places/Tidefall-Chandlery|Tidefall Chandlery]] covers provisions, gear, and common equipment, and the [[places/Shelf-Instrument-Dealer|Shelf Instrument Dealer]] carries navigational tools. Contract work and salvage opportunities move through the [[places/Tessarine-Trade-House-Tidefall|Tessarine Trade House]] when the Concordat wants the terms to be enforceable under Crown law.
 
 Unsanctioned cargo moves through intermediaries. The formal scrutiny is concentrated on the western dockface; [[places/South-Harbour|South Harbour]] on the eastern side handles what the western ledgers prefer not to see.
 
@@ -64,7 +80,13 @@ Unsanctioned cargo moves through intermediaries. The formal scrutiny is concentr
 ## See Also
 
 - [[places/Harbourmasters-Office|Harbourmaster's Office]]
-- [[places/Fort-Crestwall|Fort Crestwall]]
+- [[places/Inspection-Pier|Inspection Pier]]
+- [[places/Fare-Ia|Fare I'a]]
+- [[places/Tidefall-Chandlery|Tidefall Chandlery]]
+- [[places/Shelf-Instrument-Dealer|Shelf Instrument Dealer]]
+- [[places/Tessarine-Trade-House-Tidefall|Tessarine Trade House]]
+- [[places/Hook-and-Ledger|Hook & Ledger]]
 - [[places/Governors-Seat-Tidefall|Governor's Seat]]
+- [[places/Fort-Crestwall|Fort Crestwall]]
 - [[places/South-Harbour|South Harbour]]
 - [[places/Calders-Tooth|Calder's Tooth]]

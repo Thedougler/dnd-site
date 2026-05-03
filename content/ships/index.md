@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Ships
-created: 2026-05-02T21:59:08.884-07:00
+created: 2026-05-02T22:11:02.751-07:00
 modified: 2026-05-02
-published: 2026-05-02T21:59:08.884-07:00
+published: 2026-05-02T22:33:56.155-07:00
 tags:
   - player-resource
   - index
@@ -36,7 +36,21 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 **[[ships/Vestra|The Vestra]]** — [[players/perren-summary|Perrin Black-Jaw]]'s ship. A small two-masted brig, Black-Jaw family heirloom. Destroyed before the campaign begins.
 
+**[[ships/The-Tallow-Bell|The Tallow Bell]]** — Tier 1 Waveservant shrine sloop used to move clergy, tribute records, ritual supplies, and sealed offerings between Shattered Sea ports.
+
+**[[ships/Vethka|Vethka]]** — Grung war proa. Low, resin-sealed, double-outrigger, open hull. Blue-caste scouts navigate; purple-caste warriors raid. Disappears into reef country before a response can form.
+
+**[[ships/Knifes-Wake|The Knife's Wake]]** — Tier 1 armed pirate cutter built for ambush, boarding, and reef-channel escapes. Dangerous against soft prizes; too small to trade broadsides with real naval power.
+
+**[[ships/The-Bad-Receipt|The Bad Receipt]]** — Tier 2 armed pirate schooner out of Kalowe, built around false paperwork, selective boarding actions, and Midchain reef-channel escapes. A serious prize or recurring problem.
+
+**[[ships/The-Glass-Debt|The Glass Debt]]** — Tier 3 armed pirate frigate built to break convoy discipline, take protected prizes, and carry a full late-campaign ship bastion. A regional threat or campaign-changing prize.
+
+**[[ships/The-Velvet-Noose|The Velvet Noose]]** — Tier 4 pirate man-of-war built for fleet-command piracy: overwhelming cannon weight, hostage leverage, outlaw commerce, and campaign-scale consequences.
+
 **[[ships/The-Quorum|The Quorum]]** — The Chain Council's dispatch sloop.
+
+**[[ships/The-Below|The Below]]** — _(DM only)_ A Tier 4 carrack under secret construction at Kalowe. Chain Council commission, Passage recipient. Disguised as a grain transport. Built entirely to Rattkin scale — a floating Warren, should the Kin ever need to leave.
 
 **[[ships/HCS-Constancy|HCS Constancy]]** — Dravosi Crown heavy frigate. The standard patrol vessel of the Crown fleet — the ship that was already there before the crisis. Inspects, boards, impounds.
 

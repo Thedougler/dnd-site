@@ -7,7 +7,7 @@ aliases:
 title: The Grung Clans
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.106-07:00
+published: 2026-05-02T22:11:11.866-07:00
 tags:
   - faction
   - player-resource
@@ -113,6 +113,12 @@ The [[Dravosi-Crown|Dravosi Crown]] has begun treating Grung raids as a security
 - Grung touch is poisonous.
 - The raids have been getting worse.
 - To speak with a gold Grung, address a blue intermediary.
+
+---
+
+## Ships
+
+Grung raiding vessels are built by orange-caste artisans from Verdant Teeth ironpillar hardwood — a single-trunk war proa called _vethka_. Low-profile, resin-sealed, double-outrigger, open-hull. Blue-caste navigate. Purple-caste raid. The hull beachlands and the crew is over the rail before the bow stops moving. A _vethka_ in reef country cannot be caught by anything with a keel. See [[ships/Vethka|Vethka]] for a full description.
 
 ---
 

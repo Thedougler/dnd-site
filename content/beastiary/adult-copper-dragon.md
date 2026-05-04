@@ -5,7 +5,7 @@ aliases:
 title: Adult Copper Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T05:03:36.947-07:00
+published: 2026-05-03T23:54:02.108-07:00
 tags:
   - creature
   - dragon
@@ -55,7 +55,7 @@ wis: 15
 
 ## In The Shattered Sea
 
-[[places/calders-tooth/index|Calder's Tooth]] has a lighthouse problem. The [[factions/Dravosi-Crown|Dravosi Crown]] has surveyed [[Cape-Solitude|Cape Solitude]] — the wind-battered northern point with its pre-colonial tower ruin — three times in the last forty years. The surveys produce measurements that don't quite agree with each other, equipment that migrates between sessions, and survey teams that return with subtly different memories of what they saw. The third attempt was abandoned after the senior surveyor submitted a report noting that an elderly local had provided helpful site guidance on the first day and contradictory site guidance on the second, and that when she went back to clarify, she found only the smell of wet copper on warm stone. The official record cites "insufficient site stability." The Crown's cartographic office uses that phrase when no one is willing to write down what actually stopped the work.
+[[places/crown-islands/calders-tooth/index|Calder's Tooth]] has a lighthouse problem. The [[factions/Dravosi-Crown|Dravosi Crown]] has surveyed [[Cape-Solitude|Cape Solitude]] — the wind-battered northern point with its pre-colonial tower ruin — three times in the last forty years. The surveys produce measurements that don't quite agree with each other, equipment that migrates between sessions, and survey teams that return with subtly different memories of what they saw. The third attempt was abandoned after the senior surveyor submitted a report noting that an elderly local had provided helpful site guidance on the first day and contradictory site guidance on the second, and that when she went back to clarify, she found only the smell of wet copper on warm stone. The official record cites "insufficient site stability." The Crown's cartographic office uses that phrase when no one is willing to write down what actually stopped the work.
 
 The pre-colonial tower is too intact for a ruin nobody maintains. The point faces the Central Strait approaches and the open western ocean beyond — useful for anything that wants a long view of who is coming and going. The local fishing villages treat the outer point as someone's property. They fish around it, not across it. None of them will say exactly whose property it is or when they decided that. ^\[inferred]
 
@@ -67,5 +67,5 @@ Crown supply clerk Maret Voss was sent ahead of the third survey party to log th
 
 ## See Also
 
-- [[places/calders-tooth/index|Calder's Tooth]]
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[places/Central-Strait|The Central Strait]]

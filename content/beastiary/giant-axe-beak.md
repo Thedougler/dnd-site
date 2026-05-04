@@ -5,7 +5,7 @@ aliases:
 title: Giant Axe Beak
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T03:56:18.060-07:00
+published: 2026-05-03T23:59:10.391-07:00
 tags:
   - creature
   - monstrosity
@@ -59,15 +59,15 @@ wis: 12
 
 ## In The Shattered Sea
 
-Giant axe beaks belong to exposed land where speed matters: highland grass, scrubby ridge paths, wind-cut saddles, and open limestone country where a Huge running bird can see trouble before trouble sees it. In the Shattered Sea, the best broad range is the [[places/Crown-Islands|Crown Islands]], especially the highland interiors and lesser roads outside the reach of harbour guns. Crown paperwork may call those places administered. The birds do not. ^\[inferred]
+Giant axe beaks belong to exposed land where speed matters: highland grass, scrubby ridge paths, wind-cut saddles, and open limestone country where a Huge running bird can see trouble before trouble sees it. In the Shattered Sea, the best broad range is the [[places/crown-islands/index|Crown Islands]], especially the highland interiors and lesser roads outside the reach of harbour guns. Crown paperwork may call those places administered. The birds do not. ^\[inferred]
 
 [[Calders-Tooth|Calder's Tooth]] is the most practical place for crews to encounter them because its roads already force people, cargo, and mounts through wet ridge country. A giant axe beak on the [[Overland-Track|Overland Track]] is not a port problem; it is a travel problem. It can pace a wagon from above the switchbacks, scatter pack animals, and hit the road only when mud or a broken axle has slowed the group enough to matter. ^\[inferred]
 
-Farther east, the [[Tail|Tail]] can support colder cliff-saddle birds: leaner, wind-hardened individuals that run the high grass above longline villages and feed on carrion, fishing waste, and anything careless enough to cross open ground in fog. Reports from the [[places/midchain/index|Midchain]] are less clean; if giant axe beaks appear there, they are most plausible on drier outer islands and open market approaches, not in the rainforest interiors. ^\[inferred]
+Farther east, the [[places/tail/index|Tail]] can support colder cliff-saddle birds: leaner, wind-hardened individuals that run the high grass above longline villages and feed on carrion, fishing waste, and anything careless enough to cross open ground in fog. Reports from the [[places/midchain/index|Midchain]] are less clean; if giant axe beaks appear there, they are most plausible on drier outer islands and open market approaches, not in the rainforest interiors. ^\[inferred]
 
 ## Range Pattern
 
-- **Core range:** [[places/Crown-Islands|Crown Islands]] highlands, ridge roads, and open limestone scrub.
+- **Core range:** [[places/crown-islands/index|Crown Islands]] highlands, ridge roads, and open limestone scrub.
 - **Common encounter zone:** [[Overland-Track|The Overland Track]] across [[Calders-Tooth|Calder's Tooth]], where road traffic concentrates prey and panic.
-- **Secondary range:** [[Tail|The Tail]] cliff saddles and cold upland grass near longline settlements.
+- **Secondary range:** [[places/tail/index|The Tail]] cliff saddles and cold upland grass near longline settlements.
 - **Likely signs:** three-toed tracks punched deep into mud, slashed pack saddles, scattered draft animals, high screams in fog, and stones kicked loose from ridgelines before the bird comes into view. ^\[inferred]

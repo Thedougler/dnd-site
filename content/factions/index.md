@@ -3,7 +3,7 @@ publish: true
 title: Factions
 created: 2026-05-02T15:58:16.218-07:00
 modified: 2026-05-03
-published: 2026-05-03T23:27:58.895-07:00
+published: 2026-05-04T00:00:27.766-07:00
 tags:
   - player-resource
   - index
@@ -56,7 +56,7 @@ They handle storm omens and funeral rites. Questions about either cost more than
 
 ## [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]
 
-Aarakocra. They watch the [[places/Drowned-Maw|Drowned Maw]] and have been watching it for longer than most nations have existed. They keep meticulous records and share them freely — what they saw, when, precise coordinates. What they won't do is tell you what it means. That's not their job, and they'll say so plainly.
+Aarakocra. They watch the [[Drowned-Maw|Drowned Maw]] and have been watching it for longer than most nations have existed. They keep meticulous records and share them freely — what they saw, when, precise coordinates. What they won't do is tell you what it means. That's not their job, and they'll say so plainly.
 
 If a Sentinel warns you off a route, they're not guessing.
 
@@ -80,7 +80,7 @@ Patrol boats from the clans don't negotiate. Not twice.
 
 ## [[factions/Fisks-Fleet|Fisk's Fleet]]
 
-Five ships, privateer charter, under [[players/delmar-fisk|Delmar Fisk]]. All hands lost at the [[places/Drowned-Maw|Drowned Maw]]. That's the official version. Whether you believe it depends on who you ask and how much they've had to drink. Wreck claims are unresolved. Old privateer loyalties don't dissolve cleanly. And conversations have a way of going quiet when Fisk's name comes up.
+Five ships, privateer charter, under [[party/delmar-fisk|Delmar Fisk]]. All hands lost at the [[Drowned-Maw|Drowned Maw]]. That's the official version. Whether you believe it depends on who you ask and how much they've had to drink. Wreck claims are unresolved. Old privateer loyalties don't dissolve cleanly. And conversations have a way of going quiet when Fisk's name comes up.
 
 ---
 

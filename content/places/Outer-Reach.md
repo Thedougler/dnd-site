@@ -5,7 +5,7 @@ aliases:
 title: The Outer Reach
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:54:27.144-07:00
+published: 2026-05-03T23:59:10.318-07:00
 tags:
   - location
   - ocean
@@ -63,7 +63,7 @@ Pirates are rarer beyond the Maw because distance eats profit, but the ones who 
 
 ## Cold-Lane Attacks
 
-Outer Reach serpent stories are usually brought back by ships that were not trying to be heroic. Longliners from [[Tail|the Tail]] work the cold lanes east of the Maw because the fish run rich there at night, and because a full hold can pay for a month of bad weather. The risk is that the same upwelling that brings fish also gives larger predators a road back toward the shelf.
+Outer Reach serpent stories are usually brought back by ships that were not trying to be heroic. Longliners from [[places/tail/index|the Tail]] work the cold lanes east of the Maw because the fish run rich there at night, and because a full hold can pay for a month of bad weather. The risk is that the same upwelling that brings fish also gives larger predators a road back toward the shelf.
 
 The account most pilots repeat is a damaged Tail longliner that came home under jury-rig after losing most of its stern and most of its crew. The survivor described no sail, no dorsal fin, no boarding hooks: only cold water, slack lines, a long wake crossing the current, and something tightening around the hull until the timbers screamed. That report is why some pilots now mark ancient sea serpent risk separately from ordinary sea-serpent sightings in the Reach. ^\[inferred]
 

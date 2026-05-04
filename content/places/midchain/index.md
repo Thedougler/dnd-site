@@ -6,7 +6,7 @@ aliases:
 title: The Midchain
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:51:16.432-07:00
+published: 2026-05-03T23:59:30.482-07:00
 tags:
   - location
   - region
@@ -142,7 +142,7 @@ Not every Midchain hazard lives in the water or waits at the beach. The larger s
 - [[places/Shattered-Sea|The Shattered Sea]] — wider archipelago of ports, reefs, colonial claims, and old ruins.
 - [[places/Central-Strait|The Central Strait]] — main east-west shipping corridor north of the Midchain.
 - [[Doldrums|The Doldrums]] — mirror-flat dead water along the Midchain's southern edge.
-- [[Tail|The Tail]] — eastern convergence of the Scatter near the [[places/Drowned-Maw|Drowned Maw]].
+- [[places/tail/index|The Tail]] — eastern convergence of the Scatter near the [[Drowned-Maw|Drowned Maw]].
 
 ## Kalowe And Independent Waters
 
@@ -165,8 +165,8 @@ Not every Midchain hazard lives in the water or waits at the beach. The larger s
 ## Rumours And Eastern Reefs
 
 - [[Halythion|Halythion]] — rumoured underwater city somewhere in the eastern reefs south of the Midchain.
-- [[places/Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw and the Shelfworks.
-- [[places/Shelfworks|The Shelfworks]] — salvage field on the Maw's western shelf.
+- [[Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw and the Shelfworks.
+- [[Shelfworks|The Shelfworks]] — salvage field on the Maw's western shelf.
 
 ## Passage Notes
 

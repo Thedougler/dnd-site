@@ -6,7 +6,7 @@ aliases:
 title: The Narrow
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-03T23:27:59.210-07:00
+published: 2026-05-04T00:00:28.455-07:00
 tags:
   - player-resource
   - ship
@@ -48,8 +48,8 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 
 ## Connections
 
-- [[npcs/Maren|Maren]] — captain; her soul is now inside [[players/delmar-fisk|Delmar Fisk]]
-- [[players/delmar-fisk|Delmar Fisk]] — admiral of the fleet
+- [[npcs/Maren|Maren]] — captain; her soul is now inside [[party/delmar-fisk|Delmar Fisk]]
+- [[party/delmar-fisk|Delmar Fisk]] — admiral of the fleet
 - [[ships/Red-Lady|The Red Lady]] — flagship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]

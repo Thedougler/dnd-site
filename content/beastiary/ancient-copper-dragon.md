@@ -5,7 +5,7 @@ aliases:
 title: Ancient Copper Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T05:04:18.768-07:00
+published: 2026-05-03T23:59:10.394-07:00
 tags:
   - creature
   - dragon
@@ -55,7 +55,7 @@ wis: 17
 
 ## In The Shattered Sea
 
-[[places/Tail|The Tail]] pilots have a name for a specific kind of cliff sound: speaking rock. The high basalt faces of the eastern islands produce voices in strong wind — too clear, sometimes too specific, arriving from the wrong direction for ordinary acoustics. Tail communities offer explanations that vary enough to make clear none of them is fully satisfying. The [[beastiary/harpy|harpy]] stories attach to the same faces and the same weather, which is why the harpy theory persists even among people who haven't seen a harpy and have no particular reason to believe one would choose to perch above a working fishing village.
+[[places/tail/index|The Tail]] pilots have a name for a specific kind of cliff sound: speaking rock. The high basalt faces of the eastern islands produce voices in strong wind — too clear, sometimes too specific, arriving from the wrong direction for ordinary acoustics. Tail communities offer explanations that vary enough to make clear none of them is fully satisfying. The [[beastiary/harpy|harpy]] stories attach to the same faces and the same weather, which is why the harpy theory persists even among people who haven't seen a harpy and have no particular reason to believe one would choose to perch above a working fishing village.
 
 What the harpy theory does not explain is the instruction. A fishing crew running the eastern approach in heavy weather reported hearing a voice from the high cliff that told them, clearly and without urgency, to come about twenty degrees to port and hold it. They followed it because the alternative was continuing into a shipping lane they weren't certain about in conditions that didn't reward uncertainty. The instruction put them clear of a reef that wasn't on their chart. They sounded it afterward. The reef is real. The voice did not identify itself, and when the crew described the incident to the pilot who met them at anchorage, she took notes without visible surprise and filed the report in a category Tail pilots use for accounts they believe and cannot explain. ^\[inferred]
 
@@ -67,5 +67,5 @@ Project Image extends this considerably. The shape that Tail crews sometimes rep
 
 ## See Also
 
-- [[places/Tail|The Tail]]
+- [[places/tail/index|The Tail]]
 - [[Drowned-Maw|The Drowned Maw]]

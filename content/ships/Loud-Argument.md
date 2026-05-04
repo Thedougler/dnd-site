@@ -6,7 +6,7 @@ aliases:
 title: The Loud Argument
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-03T23:27:59.214-07:00
+published: 2026-05-04T00:00:28.457-07:00
 tags:
   - player-resource
   - ship
@@ -47,7 +47,7 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 
 ## Connections
 
-- [[players/delmar-fisk|Delmar Fisk]] — admiral of the fleet
+- [[party/delmar-fisk|Delmar Fisk]] — admiral of the fleet
 - [[ships/Red-Lady|The Red Lady]] — flagship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]

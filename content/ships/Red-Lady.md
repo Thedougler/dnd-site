@@ -5,7 +5,7 @@ aliases:
 title: The Red Lady
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-03T23:28:11.811-07:00
+published: 2026-05-04T00:00:28.445-07:00
 tags:
   - player-resource
   - ship
@@ -50,7 +50,7 @@ Built for extended independent operations: fast enough to disengage, armed enoug
 
 ## Crew and Command
 
-[[npcs/Rael-Corven|Rael Corven]] served as flag captain. [[players/delmar-fisk|Delmar Fisk]] commanded as Admiral. [[crissdalynn-khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
+[[npcs/Rael-Corven|Rael Corven]] served as flag captain. [[party/delmar-fisk|Delmar Fisk]] commanded as Admiral. [[crissdalynn-khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
 
 ---
 
@@ -106,7 +106,7 @@ Three decks, organized for long independent operations.
 
 ## Connections
 
-- [[players/delmar-fisk|Delmar Fisk]] — admiral; her five captains' souls now reside in him
+- [[party/delmar-fisk|Delmar Fisk]] — admiral; her five captains' souls now reside in him
 - [[npcs/Rael-Corven|Rael Corven]] — flag captain
 - [[crissdalynn-khinriss|Crisdalynn Khinriss]] — navigator and crow, nearly two years
 - [[items/Pearl-of-Souls|Pearl of Souls]] — lost with the ship

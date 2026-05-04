@@ -5,7 +5,7 @@ aliases:
 title: Pell
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:47:35.824-07:00
+published: 2026-05-04T00:00:28.431-07:00
 tags:
   - gnome
 visibility: public
@@ -73,7 +73,7 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 
 ## Connections
 
-- [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] — the person who loved her; the person whose plan killed her; the person living her thesis
+- [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — the person who loved her; the person whose plan killed her; the person living her thesis
 - [[Simone-Tabarnack]] — the one who reported the escape attempt; Pell never knew her name
 - [[Grung-Clans|The Grung Clans]] — the system that killed her
 - [[Sorn]] — where she lived and died

@@ -6,7 +6,7 @@ aliases:
 title: Maggie Porcelain Pots
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:46:13.382-07:00
+published: 2026-05-04T00:00:27.832-07:00
 tags:
   - dragonborn
 visibility: public
@@ -57,4 +57,4 @@ She is currently expanding the operation and scouting locations on other islands
 
 ## Connections
 
-- **[[players/delmar-fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record
+- **[[party/delmar-fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record

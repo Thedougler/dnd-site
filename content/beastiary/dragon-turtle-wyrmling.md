@@ -5,7 +5,7 @@ aliases:
 title: Dragon Turtle Wyrmling
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:27:41.061-07:00
+published: 2026-05-03T23:59:21.100-07:00
 tags:
   - creature
   - dragon
@@ -57,7 +57,7 @@ wis: 10
 
 ## In The Shattered Sea
 
-Most sailors fold wyrmling reports into larger dragon turtle stories. The signs don't match. A wyrmling is still Large — it can still wreck a skiff, boil the water around a reef channel, and vanish before anyone understands what rose beneath them — but its heat signature is smaller, its shell-ridge fits between reef channels, and its wake looks nothing like a ship. In the Shattered Sea, the clearest recent sightings point east of the [[places/Drowned-Maw|Drowned Maw]], where the [[places/Outer-Reach|Outer Reach]] thins into unmarked water and the [[places/sunken-crown/index|Sunken Crown]] drops from turquoise shallows into the Blue Hole with no gradual warning. ^\[inferred]
+Most sailors fold wyrmling reports into larger dragon turtle stories. The signs don't match. A wyrmling is still Large — it can still wreck a skiff, boil the water around a reef channel, and vanish before anyone understands what rose beneath them — but its heat signature is smaller, its shell-ridge fits between reef channels, and its wake looks nothing like a ship. In the Shattered Sea, the clearest recent sightings point east of the [[Drowned-Maw|Drowned Maw]], where the [[places/Outer-Reach|Outer Reach]] thins into unmarked water and the [[places/sunken-crown/index|Sunken Crown]] drops from turquoise shallows into the Blue Hole with no gradual warning. ^\[inferred]
 
 The survivor account from [[Meth-Var|Meth-Var]] is the most specific. A Keth-Naar skiff failed to return from the eastern watch run. The next rotation found the landing ropes scalded stiff, signal stones reset, and one watcher alive in a lee crack with burned hands. Warm water before the strike. Low steam over the reef. A black shell-ridge no larger than a small boat turning beneath the skiff before the tail blow threw it into the channel. ^\[inferred]
 

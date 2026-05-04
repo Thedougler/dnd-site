@@ -3,7 +3,7 @@ publish: true
 title: Grung
 created: 2026-04-12
 modified: 2026-04-12
-published: 2026-05-03T23:28:21.181-07:00
+published: 2026-05-04T00:00:27.764-07:00
 tags:
   - species
   - playable
@@ -97,4 +97,4 @@ Skin colour determines social caste at birth. See [[Grung-Clans]] for full proto
 
 - [[Grung-Clans]] — society, caste protocols, slavery, faction details
 - [[Verdant-Teeth|Verdant Teeth]] — the [[Midchain|Midchain]] island cluster they inhabit
-- [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] — Blue Grung PC; deserter from the clans
+- [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — Blue Grung PC; deserter from the clans

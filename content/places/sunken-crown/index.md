@@ -6,7 +6,7 @@ aliases:
 title: The Sunken Crown
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T04:27:55.165-07:00
+published: 2026-05-03T23:59:21.539-07:00
 tags:
   - location
   - region
@@ -99,7 +99,7 @@ Getting here requires crossing east of the Drowned Maw into the Outer Reach — 
 ## Region Overview
 
 - [[places/Outer-Reach|The Outer Reach]] — open ocean beyond the Drowned Maw.
-- [[places/Drowned-Maw|The Drowned Maw]] — eastern trench crossed before reaching these waters.
+- [[Drowned-Maw|The Drowned Maw]] — eastern trench crossed before reaching these waters.
 - [[places/Shattered-Sea|The Shattered Sea]] — wider archipelago of reefs, ports, colonial claims, and dangerous routes.
 
 ## The Five Islands

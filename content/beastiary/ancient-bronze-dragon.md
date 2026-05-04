@@ -5,7 +5,7 @@ aliases:
 title: Ancient Bronze Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:57:05.288-07:00
+published: 2026-05-03T23:59:30.495-07:00
 tags:
   - creature
   - dragon
@@ -55,10 +55,10 @@ wis: 17
 
 ## In The Shattered Sea
 
-The [[places/Shelfworks|Shelfworks]] have rules that every experienced salvager knows: do not dive tired, do not chase something below the agreed depth, do not work the edge alone. There is a less-discussed one that veteran crews hold without advertising: do not touch the sealed rooms on the lower northwest hall.
+The [[Shelfworks|Shelfworks]] have rules that every experienced salvager knows: do not dive tired, do not chase something below the agreed depth, do not work the edge alone. There is a less-discussed one that veteran crews hold without advertising: do not touch the sealed rooms on the lower northwest hall.
 
 Nobody has posted a sign. Nobody has been told directly. The rule exists because three separate crews who broke it — across different seasons, without knowing about each other — all reported the same thing: a current that wasn't there before, cold water arriving from no clear source, and their lines going taut in a direction that had nothing to do with the drift. Two of the three surfaced without the pieces they went down for. The third surfaced without two of its divers. The current behavior in those incidents matches what the ancient's Control Water ability would produce if something very large and very deliberate decided a particular area was closed. ^\[inferred]
 
-The [[places/Drowned-Maw|Drowned Maw]] has been watched from above by the [[lore/High-Eyrie|Sentinels of the High Eyrie]] for two centuries. Their records note, without editorial comment, that a Gargantuan creature matching no ordinary marine animal has been observed moving through the western shelf waters at irregular intervals since the records began. It does not attack vessels. It avoids the dive lines. It is present more often when the [[factions/Tessarine-Concordat|Tessarine Concordat]] or [[factions/Dravosi-Crown|Dravosi Crown]] increase extraction operations, and less often when they don't. The Sentinels have drawn no conclusions in their public records. The Sentinels are careful observers. ^\[inferred]
+The [[Drowned-Maw|Drowned Maw]] has been watched from above by the [[lore/High-Eyrie|Sentinels of the High Eyrie]] for two centuries. Their records note, without editorial comment, that a Gargantuan creature matching no ordinary marine animal has been observed moving through the western shelf waters at irregular intervals since the records began. It does not attack vessels. It avoids the dive lines. It is present more often when the [[factions/Tessarine-Concordat|Tessarine Concordat]] or [[factions/Dravosi-Crown|Dravosi Crown]] increase extraction operations, and less often when they don't. The Sentinels have drawn no conclusions in their public records. The Sentinels are careful observers. ^\[inferred]
 
 An ancient bronze dragon old enough to have watched the Antheri ruins since before the current colonial era would have opinions about how they are being used. It is Lawful Good. It has not destroyed the Shelfworks. What it has done is establish, through current and cold water and the occasional very direct repositioning of a dive line, that there are parts of the ruins it considers outside the scope of the salvage gold rush. Whether the faction offices at the surface camp have quietly factored this into their site maps is not something either faction has chosen to document. ^\[inferred]

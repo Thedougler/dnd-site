@@ -6,7 +6,7 @@ aliases:
 title: Serafina Windfall Fisk
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:48:08.479-07:00
+published: 2026-05-04T00:00:27.860-07:00
 tags:
   - aasimar
   - fortune-teller
@@ -61,5 +61,5 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- **[[players/delmar-fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
+- **[[party/delmar-fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
 - **[[The-Duchess|The Duchess]]** — Fisk's musket, named for her

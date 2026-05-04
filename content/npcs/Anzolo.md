@@ -5,7 +5,7 @@ aliases:
 title: Anzolo
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:44:09.635-07:00
+published: 2026-05-03T23:55:31.341-07:00
 tags:
   - tortle
 visibility: public
@@ -32,7 +32,7 @@ sources:
 |              |                              |
 | ------------ | ---------------------------- |
 | **Species**  | Tortle                       |
-| **Location** | [[Calveno]]                  |
+| **Location** | [[places/crown-islands/calveno/index]]                  |
 
 ---
 
@@ -45,5 +45,5 @@ The Tangle vouches for him. That is enough.
 ## Connections
 
 - [[Nona-Black-Jaw]] — vouches for him; he carries her groceries and handles her chores
-- [[Calveno]] — where he operates
+- [[places/crown-islands/calveno/index]] — where he operates
 - [[Warren]] — Tangle contact

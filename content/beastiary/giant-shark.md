@@ -5,7 +5,7 @@ aliases:
 title: Giant Shark
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:07:24.624-07:00
+published: 2026-05-03T23:59:10.385-07:00
 tags:
   - creature
   - beast
@@ -48,7 +48,7 @@ wis: 10
 
 # Giant Shark
 
-Giant sharks follow cold, nutrient-rich water and the things that feed in it. Near the [[places/Galewall|Galewall]], that means damaged hulls — wreckage, blood trails, and debris from vessels that didn't make the crossing. Near the [[places/Tail|Tail]], it means the upwelling shelf edge where longline crews work the deep at night, hauling swordfish and albacore out of cold dark water that something much larger is also hunting.
+Giant sharks follow cold, nutrient-rich water and the things that feed in it. Near the [[places/Galewall|Galewall]], that means damaged hulls — wreckage, blood trails, and debris from vessels that didn't make the crossing. Near the [[places/tail/index|Tail]], it means the upwelling shelf edge where longline crews work the deep at night, hauling swordfish and albacore out of cold dark water that something much larger is also hunting.
 
 The distinction pilots draw is size. Hunter sharks are routine. A giant shark is the kind of thing a longliner comes back short-handed about: hauling line, something took the gear, and then the boat itself shifted. A crew out of the eastern Tail grounds returned to port with two oars gone, the transom boards stoved in from below, and one deckhand who described a wake like a submerged log moving against the current before the strike. He estimated the length at three times the boat. His crewmates, who were below when it happened, stopped arguing about the number and started agreeing on the shape. ^\[inferred]
 

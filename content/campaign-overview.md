@@ -3,7 +3,7 @@ publish: true
 title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.514-07:00
+published: 2026-05-03T23:59:10.322-07:00
 tags:
   - player-resource
   - campaign-overview
@@ -37,7 +37,7 @@ The [[Galewall|Galewall]] is a three-week crossing under the right pilot. Most s
 The northern arc. Five large, mountainous, heavily administered islands under the [[Dravosi-Crown|Dravosi Crown]]. Rich, fortified, and governed from behind a ledger.
 
 - [[Calders-Tooth|Calder's Tooth]] guards the western mouth of the [[places/Central-Strait|Central Strait]]. Its cliff face holds [[Port-Tidefall|Port Tidefall]] — the Crown's main fortress-port, carved into tiers from the waterline up to [[Fort-Crestwall|Fort Crestwall]] at the summit. Inspection here is mandatory, enforceable, and profitable.
-- [[places/Calveno|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
+- [[places/crown-islands/calveno/index|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
 
 ### The Central Strait
 
@@ -52,7 +52,7 @@ The southern arc. Dozens of small, close-packed islands with reefs, jungle, hidd
 
 ### The Tail and the Maw
 
-Where both arcs narrow toward the deep water. The [[Tail|Tail]] is high cliffs, serious pilots, longline grounds, and salvage staging. [[High-Eyrie|The High Eyrie]] — a basalt sea-stack monastery of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — sits on the northeastern Crown coast watching the Maw.
+Where both arcs narrow toward the deep water. The [[places/tail/index|Tail]] is high cliffs, serious pilots, longline grounds, and salvage staging. [[High-Eyrie|The High Eyrie]] — a basalt sea-stack monastery of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — sits on the northeastern Crown coast watching the Maw.
 
 The [[Drowned-Maw|Drowned Maw]] is to the east: vast, dark, compass-drifting, quiet in weather that should chop the surface to pieces. Ships cross it regularly for salvage, pilgrimage, research, and profit. The ones that have trouble tend to become warnings rather than sources. [[Shelfworks|The Shelfworks]] on the western shelf is the main salvage staging ground.
 

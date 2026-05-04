@@ -3,7 +3,7 @@ publish: true
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
-published: 2026-05-03T23:28:46.883-07:00
+published: 2026-05-04T00:00:28.433-07:00
 tags:
   - player-resource
   - planning
@@ -42,7 +42,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **1195 DR** — The [[Dravosi-Crown|Dravosi Crown]] establishes the first colonial presence in the Shattered Sea, claiming the Crown Islands and placing inspection forces at the western entrance to the Central Strait. Port Tidefall follows.
 
-**1210 DR** — The [[Tessarine-Concordat|Tessarine Concordat]] arrives. The Seven Houses of [[Calveno|Calveno]] take shape, and the slow arithmetic of obligation begins.
+**1210 DR** — The [[Tessarine-Concordat|Tessarine Concordat]] arrives. The Seven Houses of [[places/crown-islands/calveno/index|Calveno]] take shape, and the slow arithmetic of obligation begins.
 
 **1240 DR** — [[Passage|The Passage]] forms — a Rattkin courier and intelligence network built out of the Warren to evade both the Concordat and the Crown. It has been running beneath the surface of every port in the Scatter ever since.
 
@@ -52,21 +52,21 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 ## The Years Before (1488–1495 DR)
 
-**1488 DR** — [[npcs/Catarina-DaVirelli|Catarina Da'Virelli]] salvages a cache of functional Antheri components from the Shelfworks — the shallow reef shelf above the Maw ruins — and successfully reverse-engineers several into working devices. The resulting wave of prospectors, scholars, and criminal contractors is known retroactively as the _Shelfworks Goldrush_. Catarina doesn't participate in the rush she started. She returns to [[Calveno|Calveno]], puts her workshop into production, and her most visible output from this period — the Clockwork Owl Familiar — becomes common enough that most people in the Sea have seen one.
+**1488 DR** — [[npcs/Catarina-DaVirelli|Catarina Da'Virelli]] salvages a cache of functional Antheri components from the Shelfworks — the shallow reef shelf above the Maw ruins — and successfully reverse-engineers several into working devices. The resulting wave of prospectors, scholars, and criminal contractors is known retroactively as the _Shelfworks Goldrush_. Catarina doesn't participate in the rush she started. She returns to [[places/crown-islands/calveno/index|Calveno]], puts her workshop into production, and her most visible output from this period — the Clockwork Owl Familiar — becomes common enough that most people in the Sea have seen one.
 
 **1490 DR** — [[npcs/Beaumont-Sel|Beaumont Sel]] commissions a fitted section of salvaged Antheri plate from Catarina's workshop in Calveno — sized to cover the cannonball breach in his shell. He still wears it.
 
 **1493 DR** — [[crissdalynn-khinriss|Crisdalynn Khinriss]] is banished from the High Eyrie at age 14. Her assigned pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — was treated as a joke. [[npcs/Master-Kyzil|Master Kyzil]], who staked his reputation on her readiness, approves the decision. The banishment is permanent until the task is complete. She is the youngest crow in a tradition that rarely sees fifty.
 
-**1493 DR** — Crisdalynn meets [[players/delmar-fisk|Delmar Atticus Fisk]] and ships aboard the _[[ships/Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
+**1493 DR** — Crisdalynn meets [[party/delmar-fisk|Delmar Atticus Fisk]] and ships aboard the _[[ships/Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
 
-**1494 DR** — [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[npcs/Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[npcs/Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
+**1494 DR** — [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[npcs/Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[npcs/Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
 
 ---
 
 ## The Days Before Session 1 (1495 DR)
 
-**Day −35 (approx.)** — An unknown contractor engages [[factions/Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[players/delmar-fisk|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
+**Day −35 (approx.)** — An unknown contractor engages [[factions/Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[party/delmar-fisk|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
 
 **Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[stripes-bitemore|Belmore]]'s tribe has been watching the seas turn wrong for days.
 

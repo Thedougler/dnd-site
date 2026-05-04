@@ -7,7 +7,7 @@ aliases:
 title: HCS Ordinance
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.287-07:00
+published: 2026-05-03T23:54:26.719-07:00
 tags:
   - player-resource
   - ship
@@ -141,6 +141,6 @@ Four working decks plus hold.
 ## Connections
 
 - [[Dravosi-Crown|The Dravosi Crown]] — owner, operator, and the authority the ship embodies
-- [[Crown-Islands|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
+- [[places/crown-islands/index|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
 - [[Port-Tidefall|Port Tidefall]] — primary operational anchorage in the Scatter
 - [[ships/index|Ships]]

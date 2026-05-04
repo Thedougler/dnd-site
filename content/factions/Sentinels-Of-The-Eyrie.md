@@ -7,7 +7,7 @@ aliases:
 title: Sentinels of the Eyrie
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T21:02:57.930-07:00
+published: 2026-05-03T23:54:26.715-07:00
 tags:
   - faction
   - player-resource
@@ -40,7 +40,7 @@ confidence_level: medium
 # Sentinels of the Eyrie
 
 ![[factions/Sentinels-Of-The-Eyrie-Flag.webp]]
-[[High-Eyrie]] is a basalt sea stack on the northeastern [[Crown-Islands|Crown Islands]]. From it, the Sentinels have watched the [[Drowned-Maw|Drowned Maw]] for roughly two hundred years.
+[[High-Eyrie]] is a basalt sea stack on the northeastern [[places/crown-islands/index|Crown Islands]]. From it, the Sentinels have watched the [[Drowned-Maw|Drowned Maw]] for roughly two hundred years.
 
 They are aarakocra monastics: observers, record-keepers, and aerial fighters when defense requires it. They are not a navy, church, government, scout service, or mercenary company.
 

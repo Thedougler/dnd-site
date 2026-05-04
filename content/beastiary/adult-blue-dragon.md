@@ -5,7 +5,7 @@ aliases:
 title: Adult Blue Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:52:57.526-07:00
+published: 2026-05-03T23:54:26.783-07:00
 tags:
   - creature
   - dragon
@@ -55,7 +55,7 @@ wis: 15
 
 Blue dragons are territorial rather than predatory in the way that matters to shipping. They don't hunt vessels. They tax them.
 
-The [[places/Crown-Islands|Crown Islands]] dragon is laired in the limestone cliffs of the Greyteeth, the notoriously contradictory reef system between islands that has defeated three generations of Crown charts. The burrowing ability is part of why the lair has never been located precisely — it digs into coastal limestone above the waterline, hunts from elevation, and uses the Greyteeth's reputation for wreck-producing reefs as cover for a second category of loss. Ships that disappear in the Greyteeth are logged as reef casualties. Some of them are. ^\[inferred]
+The [[places/crown-islands/index|Crown Islands]] dragon is laired in the limestone cliffs of the Greyteeth, the notoriously contradictory reef system between islands that has defeated three generations of Crown charts. The burrowing ability is part of why the lair has never been located precisely — it digs into coastal limestone above the waterline, hunts from elevation, and uses the Greyteeth's reputation for wreck-producing reefs as cover for a second category of loss. Ships that disappear in the Greyteeth are logged as reef casualties. Some of them are. ^\[inferred]
 
 The arrangement that currently exists is not officially acknowledged by the [[factions/Dravosi-Crown|Dravosi Crown]], but it is functional. Captains who fly certain colours and keep a designated chest on the aft deck, unsealed, come through the northern Greyteeth passage without incident. Captains who don't know about the arrangement, or who know and decline it, take their chances with what Crown harbourmasters file as navigational error. A merchant who survived a lightning strike near the northern reef returned to port with fused iron fittings, a split boom, and three dead crew. He described a long blue shape vanishing into overcast before the thunder finished. The harbormaster's report noted challenging weather conditions. ^\[inferred]
 

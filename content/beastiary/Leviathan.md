@@ -6,7 +6,7 @@ aliases:
 title: The Leviathan
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T23:28:36.115-07:00
+published: 2026-05-03T23:59:21.091-07:00
 tags:
   - creature
   - rumor
@@ -82,5 +82,5 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 
 - [[perren-black-jaw|Perrin Black-Jaw]] — only known survivor of the _Vestra_ disaster; his backstory makes the rumor player-facing
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — contains the chapter Perrin has been studying
-- [[places/Drowned-Maw|Drowned Maw]] — deep-water region often pulled into sailor talk about things below the charted sea
+- [[Drowned-Maw|Drowned Maw]] — deep-water region often pulled into sailor talk about things below the charted sea
 - [[beastiary/Sawek|Sawek]] and [[beastiary/Whip-Shark|Whip Shark]] — confirmed dangerous sea creatures, useful contrast for how little is known about the Leviathan

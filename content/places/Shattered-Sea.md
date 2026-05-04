@@ -7,7 +7,7 @@ aliases:
 title: The Shattered Sea
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:17:39.286-07:00
+published: 2026-05-03T23:59:10.379-07:00
 tags:
   - location
   - region
@@ -46,7 +46,7 @@ confidence_level: medium
 
 The Shattered Sea is a warm archipelago of roughly sixty thousand square miles: reef, deep channel, cliff port, free harbour, old ruin, colonial ledger, storm belt, and routes that punish anyone who mistakes a chart for the truth.
 
-The air changes before the first island is visible. Warm, salt-heavy, green with rainforest. Then limestone rises in clusters: pale cliffs, dark jungle canopy, reefs showing turquoise over white sand in the shallows. The region runs in two long island arcs separated by the [[places/Central-Strait|Central Strait]]. The [[places/Crown-Islands|Crown Islands]] form the northern arc, large and heavily administered under the Dravosi flag. The [[Midchain|Midchain]] forms the southern arc, denser and harder to govern, running on free ports, island councils, pilot families, back channels, and local arrangements.
+The air changes before the first island is visible. Warm, salt-heavy, green with rainforest. Then limestone rises in clusters: pale cliffs, dark jungle canopy, reefs showing turquoise over white sand in the shallows. The region runs in two long island arcs separated by the [[places/Central-Strait|Central Strait]]. The [[places/crown-islands/index|Crown Islands]] form the northern arc, large and heavily administered under the Dravosi flag. The [[Midchain|Midchain]] forms the southern arc, denser and harder to govern, running on free ports, island councils, pilot families, back channels, and local arrangements.
 
 To the west, the [[Galewall|Galewall]] cuts the Scatter off from the colonial homelands behind a permanent storm belt. To the east, the [[Drowned-Maw|Drowned Maw]] marks the edge of confident charts, where the water goes dark and compass needles start developing opinions.
 
@@ -56,11 +56,11 @@ To the west, the [[Galewall|Galewall]] cuts the Scatter off from the colonial ho
 
 The [[places/Central-Strait|Central Strait]] is the main shipping road through the region: forty to eighty miles of navigable water between the Crown Islands and the Midchain. The Scatter Current runs east through it and curls through the wider region, giving ships a little free speed if they know where to ride it.
 
-The [[places/Crown-Islands|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[Port-Tidefall|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
+The [[places/crown-islands/index|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[Port-Tidefall|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
 
 The [[Midchain|Midchain]] is the southern counterargument: dozens of close islands, inconsistent charts, free ports, reefs, smugglers, council politics, and pilots who know which reef moved last season. [[Kalowe|Kalowe]] is the main free port there, and the place ships go when they need repair without too many questions.
 
-At the eastern end, both arcs narrow into [[Tail|the Tail]], a colder, steeper, Maw-adjacent stretch of high cliffs, longline grounds, salvage staging, and pilots who charge what survival is worth.
+At the eastern end, both arcs narrow into [[places/tail/index|the Tail]], a colder, steeper, Maw-adjacent stretch of high cliffs, longline grounds, salvage staging, and pilots who charge what survival is worth.
 
 ---
 
@@ -88,10 +88,10 @@ No chart of the Shattered Sea is innocent. Some are wrong by age, some by politi
 
 ## See Also
 
-- [[places/Crown-Islands|The Crown Islands]]
+- [[places/crown-islands/index|The Crown Islands]]
 - [[Midchain|The Midchain]]
 - [[places/Central-Strait|The Central Strait]]
-- [[Tail|The Tail]]
+- [[places/tail/index|The Tail]]
 - [[Galewall|The Galewall]]
 - [[Drowned-Maw|The Drowned Maw]]
 - [[Doldrums|The Doldrums]]

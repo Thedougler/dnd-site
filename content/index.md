@@ -7,7 +7,7 @@ aliases:
 title: The Shattered Sea
 created: 2026-05-03T03:03:53.226-07:00
 modified: 2026-05-03
-published: 2026-05-03T23:28:46.878-07:00
+published: 2026-05-04T00:00:27.766-07:00
 tags:
   - player-resource
   - index
@@ -66,9 +66,9 @@ This wiki is your table reference: the world as your characters know it, the rul
 You start at **Level 3** aboard the _[[ships/Saltwright|Saltwright]]_, a hard-used merchant brig working a dangerous [[Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
 
 - [[stripes-bitemore|Belmore]] — tiger tabaxi fighter and primal shrine guardian trying to set the seas right.
-- [[players/delmar-fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
+- [[party/delmar-fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
 - [[crissdalynn-khinriss|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
-- [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
+- [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
 - [[perren-black-jaw|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
 
 ---
@@ -109,7 +109,7 @@ The Scatter has no single throne. It has interests — old money, long memories,
 
 **[[factions/Waveservants|The Waveservants]]** — [[lore/Umberlee|Umberlee]]'s tribute network, harbour shrines, blessings, and the cost of sailing.
 
-**[[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]** — observation, records, skyborne watchers, and the edge of the [[places/Drowned-Maw|Drowned Maw]].
+**[[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]** — observation, records, skyborne watchers, and the edge of the [[Drowned-Maw|Drowned Maw]].
 
 **[[factions/Passage|The Passage]]** — Rattkin courier routes, hidden infrastructure, and information below the streets.
 
@@ -134,7 +134,7 @@ Your ship. Hard-used, understaffed, working a route that no one with better opti
 
 ## Browse
 
-- [[players/index|Characters]]
+- [[party/index|Characters]]
 - [[npcs/index|NPCs]]
 - [[beastiary/index|Bestiary]]
 - [[factions/index|Factions]]

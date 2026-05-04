@@ -7,7 +7,7 @@ aliases:
 title: The Dravosi Crown
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T00:01:48.434-07:00
+published: 2026-05-03T23:55:31.330-07:00
 tags:
   - faction
   - player-resource
@@ -42,7 +42,7 @@ confidence_level: medium
 # The Dravosi Crown
 
 ![[factions/Dravosi-Crown-Flag.webp]]
-The Dravosi Crown is the oldest colonial presence in the [[Shattered-Sea|Shattered Sea]]. It holds much of the [[Crown-Islands]], controls the western mouth of the [[Central-Strait]], taxes traffic through its waters, and calls the whole arrangement administration.
+The Dravosi Crown is the oldest colonial presence in the [[Shattered-Sea|Shattered Sea]]. It holds much of the [[places/crown-islands/index]], controls the western mouth of the [[Central-Strait]], taxes traffic through its waters, and calls the whole arrangement administration.
 
 In port, Crown power looks like navy-blue coats, brass buttons, dry stamps, inspection lines, sealed passes, and clerks who know exactly which form makes a problem worse. Its officers speak of safe passage, reliable charts, piracy suppression, ship standards, and the civilizing duty of law.
 
@@ -50,7 +50,7 @@ In port, Crown power looks like navy-blue coats, brass buttons, dry stamps, insp
 
 ## Public Face
 
-The Crown presents itself as lawful order at the edge of an unmapped sea. In the [[Crown-Islands|Crown Islands]], that argument works on people who have cargo to move and cannot afford disorder. The Dravosi fleet keeps the western Strait navigable, the Harbourmaster's Office sells charts that are usually better than rumor, and a stamped certificate from [[Port-Tidefall|Port Tidefall]] can open doors in every Crown-held anchorage.
+The Crown presents itself as lawful order at the edge of an unmapped sea. In the [[places/crown-islands/index|Crown Islands]], that argument works on people who have cargo to move and cannot afford disorder. The Dravosi fleet keeps the western Strait navigable, the Harbourmaster's Office sells charts that are usually better than rumor, and a stamped certificate from [[Port-Tidefall|Port Tidefall]] can open doors in every Crown-held anchorage.
 
 The price is submission to the document. A ship is not safe because it is seaworthy; it is safe because its papers say so. A captain is not honest because the harbour knows them; they are honest because their manifest agrees with the rating stamp. The Crown's public cruelty is rarely theatrical. It is procedural, patient, and confident that the person objecting will tire before the paperwork does.
 
@@ -72,7 +72,7 @@ Common legal tools:
 
 ## Territory
 
-The Crown's power is real but uneven. In the [[Crown-Islands]], Dravosi flags fly at every major anchorage, and ships treat Crown papers as the cost of doing business. Harwick stages the regional fleet. Calven holds [[Calveno]], the oldest commercial centre in the Scatter. [[Calders-Tooth|Calder's Tooth]] controls the western mouth of the [[Central-Strait|Central Strait]].
+The Crown's power is real but uneven. In the [[places/crown-islands/index]], Dravosi flags fly at every major anchorage, and ships treat Crown papers as the cost of doing business. Harwick stages the regional fleet. Calven holds [[places/crown-islands/calveno/index]], the oldest commercial centre in the Scatter. [[Calders-Tooth|Calder's Tooth]] controls the western mouth of the [[Central-Strait|Central Strait]].
 
 On [[Calders-Tooth|Calder's Tooth]], Crown authority is loudest at [[Port-Tidefall|Port Tidefall]] and [[Fort-Crestwall]] but thins rapidly away from the coastline. The Crown treats the island as a fortress, tollbooth, timber reserve, and legal instrument. The interior remains too forested, cave-riddled, and locally navigated for colonial cartography to fully own.
 
@@ -108,7 +108,7 @@ Dravosi speech in the islands leans formal in office and practical on deck. Offi
 - [[Port-Tidefall|Port Tidefall]] — administrative centre; [[Fort-Crestwall|Fort Crestwall]]
 - [[Calders-Tooth]] — western Crown island; claimed absolutely, controlled unevenly
 - [[South-Harbour]] — working harbour where Crown scrutiny is weaker than at Tidefall
-- [[Crown-Islands]] — territorial base
+- [[places/crown-islands/index]] — territorial base
 - [[Tessarine-Concordat|The Tessarine Concordat]] — commercial rival
 - [[Passage|The Passage]] — Rattkin network opposed to Crown bounty infrastructure
 - [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — independent aerial record-keepers

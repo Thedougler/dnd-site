@@ -5,7 +5,7 @@ aliases:
 title: Ancient Sea Serpent
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T03:42:37.527-07:00
+published: 2026-05-03T23:59:21.093-07:00
 tags:
   - creature
   - dragon
@@ -55,13 +55,13 @@ wis: 16
 
 ## In The Shattered Sea
 
-Ancient sea serpents belong to cold, deep movement: the open water beyond the [[places/Drowned-Maw|Drowned Maw]], the long currents of the [[places/Outer-Reach|Outer Reach]], and the shelf-edge approaches where [[Tail|the Tail]] sends longline crews out after night fish. They are easier to mistake for current than for island. Crews usually report the wake first: a line of black water moving against wind, then a coil under the surface, then the sudden absence of birds.
+Ancient sea serpents belong to cold, deep movement: the open water beyond the [[Drowned-Maw|Drowned Maw]], the long currents of the [[places/Outer-Reach|Outer Reach]], and the shelf-edge approaches where [[places/tail/index|the Tail]] sends longline crews out after night fish. They are easier to mistake for current than for island. Crews usually report the wake first: a line of black water moving against wind, then a coil under the surface, then the sudden absence of birds.
 
 The most repeated recent account comes from a Tail longliner that worked too far east after a good albacore run. The ship returned with the aft rail crushed inward, its sternpost cracked, and one deckhand alive enough to say the water went cold before the coil rose around the hull. No one has a clean sighting, but the damage pattern matches a constricting sea serpent better than a shark, reef strike, or pirate boarding. ^\[inferred]
 
 ## Sighting Pattern
 
 - **Attack waters:** [[places/Outer-Reach|The Outer Reach]], especially cold current lanes east of the Maw crossing.
-- **Survivor report:** [[Tail|The Tail]], where longline crews bring back damaged boats, missing hands, and accounts that get tested against practical hull damage.
+- **Survivor report:** [[places/tail/index|The Tail]], where longline crews bring back damaged boats, missing hands, and accounts that get tested against practical hull damage.
 - **Warning signs:** cold water where the current should be warm, birds lifting from the surface all at once, fish lines going slack together, and a moving wake with no sail above it.
 - **Common confusion:** Ancient sea serpent stories overlap with [[beastiary/young-sea-serpent|young sea serpent]] sightings; the older creature is usually inferred from scale, hull damage, and whether any part of the crew survived the first coil. ^\[inferred]

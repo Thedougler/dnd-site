@@ -5,7 +5,7 @@ aliases:
 title: The Galewall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:58:43.765-07:00
+published: 2026-05-03T23:54:26.717-07:00
 tags:
   - location
   - storm
@@ -52,7 +52,7 @@ confidence_level: medium
 
 The Galewall appears first as a dark band sitting across the western horizon, then as layered grey and slate-blue weather piled on itself with storm systems working inside it continuously. The chop picks up well before the boundary. The wind builds in stages. The water goes cold. Near the storm edge, the [[places/Ashwall-Islands|Ashwall Islands]] rise as cold black volcanic spires with cloud on their heights and surf white at their bases — the last stop for ships heading west, the first stop for ships coming back east. Sulphur vents mark the upper slopes. Most Galewall crews know the chain better than they know their home ports.
 
-Crossing takes about three weeks with an experienced pilot and a hull that has done it before. The accepted loss rate is one in three. A pilot who loses less than that is considered good and is paid accordingly. Ships do it often enough to keep trade alive between the Scatter and the colonial homelands, and fail often enough that every port shrine on the western [[places/Crown-Islands|Crown Islands]] has a board with names on it. The Galewall is not a wall because it cannot be crossed. It is a wall because crossing changes the price of every mistake.
+Crossing takes about three weeks with an experienced pilot and a hull that has done it before. The accepted loss rate is one in three. A pilot who loses less than that is considered good and is paid accordingly. Ships do it often enough to keep trade alive between the Scatter and the colonial homelands, and fail often enough that every port shrine on the western [[places/crown-islands/index|Crown Islands]] has a board with names on it. The Galewall is not a wall because it cannot be crossed. It is a wall because crossing changes the price of every mistake.
 
 Storms kill more ships than monsters here, but wreckage feeds a food chain. [[beastiary/giant-shark|Giant sharks]] follow damaged hulls near the Ashwall lee. [[beastiary/killer-whale|Killer whale]] pods work the cold water on both sides of the storm belt and will follow lifeboats and debris for hours — not always attacking, sometimes circling, which most survivors describe as worse. Crews tell high-weather stories about [[beastiary/roc|rocs]] riding the stormfronts above the volcanic spires. Some crews distinguish a rarer thing: [[beastiary/arclight-phoenix|arclight phoenix]] light moving inside the storm, bright enough to draw lines across closed eyelids. Most pilots care less about proving the stories than about staying below deck when the shadow or flash passes over the sail.
 
@@ -78,4 +78,4 @@ The survivor's version is consistent in the useful places: stormlight gathered a
 
 - [[places/Ashwall-Islands|Ashwall Islands]]
 - [[Shattered-Sea|The Shattered Sea]]
-- [[places/Crown-Islands|The Crown Islands]]
+- [[places/crown-islands/index|The Crown Islands]]

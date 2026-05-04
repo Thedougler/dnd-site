@@ -5,7 +5,7 @@ aliases:
 title: Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:27:18.601-07:00
+published: 2026-05-03T23:59:21.101-07:00
 tags:
   - creature
   - dragon
@@ -55,7 +55,7 @@ wis: 12
 
 ## In The Shattered Sea
 
-Dragon turtles sit in the uncomfortable middle ground between known sea monster and island story. In the Shattered Sea, sailors put them east of the [[places/Drowned-Maw|Drowned Maw]], where the [[places/Outer-Reach|Outer Reach]] thins into long crossings and the [[places/sunken-crown/index|Sunken Crown]] drops from reef shallows into the Blue Hole with no warning. Smaller than the ancient turtle stories and more immediate to fear — large enough to break a working boat, patient enough to wait below a route, and hot enough that steam rises from flat water before anyone sees the shell.
+Dragon turtles sit in the uncomfortable middle ground between known sea monster and island story. In the Shattered Sea, sailors put them east of the [[Drowned-Maw|Drowned Maw]], where the [[places/Outer-Reach|Outer Reach]] thins into long crossings and the [[places/sunken-crown/index|Sunken Crown]] drops from reef shallows into the Blue Hole with no warning. Smaller than the ancient turtle stories and more immediate to fear — large enough to break a working boat, patient enough to wait below a route, and hot enough that steam rises from flat water before anyone sees the shell.
 
 The clearest local account comes from the Sunken Crown watchers. A Keth-Naar skiff failed to return from the eastern watch rotation, and the next crew at [[Meth-Var|Meth-Var]] found the signal stones reset and the landing ropes scalded stiff enough to crack. One watcher survived by clinging to outer rocks until dawn. Their account: a black ridged shape lifting through the Blue Hole edge, steam off the water, a tail strike that turned the skiff sideways before the shell fully breached. ^\[inferred]
 

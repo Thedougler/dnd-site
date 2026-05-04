@@ -6,7 +6,7 @@ aliases:
 title: The Sunken Crown
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T03:49:45.162-07:00
+published: 2026-05-03T04:27:55.165-07:00
 tags:
   - location
   - region
@@ -70,7 +70,9 @@ The Crown's ordinary dangers gather around the edge of the drop: [[beastiary/ree
 
 The current warning making its way through Keth-Naar is not a dead ship but a missing skiff. A watch rotation failed near the Blue Hole edge, and the next crew found the Meth-Var landing ropes scalded stiff enough to crack. The survivor described heat before impact, a black ridge rising through the indigo water, and a tail strike that threw the skiff into the reef channel. The scale points toward a [[beastiary/dragon-turtle-wyrmling|dragon turtle wyrmling]] rather than an adult, though the distinction matters more to scholars than to anyone rowing over the drop. ^\[inferred]
 
-That story is why the Crown's dragon turtle rumor has become more practical. A wyrmling below the Blue Hole does not need to cross the whole Sunken Crown to threaten it. It only needs to wait where the safe turquoise water ends. ^\[inferred]
+That story is why the Crown's dragon turtle rumor has become more practical. A wyrmling below the Blue Hole does not need to cross the whole Sunken Crown to threaten it. It only needs to wait where the safe turquoise water ends.
+
+The Keth-Naar watchers have noted, without elaborating to outsiders, that the heat events since the skiff attack have not centered on the Blue Hole. They cluster nearer the outer beaches of the less-inhabited islands. The elders call the current season by a name they do not translate. When asked whether the wyrmling is still in the area, the standard answer from anyone who keeps the watch rotation is that the question is the wrong one. ^\[inferred]
 
 ---
 

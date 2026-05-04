@@ -5,7 +5,7 @@ aliases:
 title: Dragon Turtle Wyrmling
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T03:49:45.162-07:00
+published: 2026-05-03T04:27:41.061-07:00
 tags:
   - creature
   - dragon
@@ -57,13 +57,10 @@ wis: 10
 
 ## In The Shattered Sea
 
-Dragon turtle wyrmlings are rare enough that most sailors fold them into larger dragon turtle stories, but the signs do not match an island-sized monster. A wyrmling can still wreck a skiff, boil the water around a reef channel, and disappear before a crew understands what rose beneath them. In the Shattered Sea, the clearest recent pattern points east of the [[places/Drowned-Maw|Drowned Maw]], where the [[places/Outer-Reach|Outer Reach]] breaks into thin charts and the [[places/sunken-crown/index|Sunken Crown]] drops abruptly from turquoise shallows into the Blue Hole. ^\[inferred]
+Most sailors fold wyrmling reports into larger dragon turtle stories. The signs don't match. A wyrmling is still Large — it can still wreck a skiff, boil the water around a reef channel, and vanish before anyone understands what rose beneath them — but its heat signature is smaller, its shell-ridge fits between reef channels, and its wake looks nothing like a ship. In the Shattered Sea, the clearest recent sightings point east of the [[places/Drowned-Maw|Drowned Maw]], where the [[places/Outer-Reach|Outer Reach]] thins into unmarked water and the [[places/sunken-crown/index|Sunken Crown]] drops from turquoise shallows into the Blue Hole with no gradual warning. ^\[inferred]
 
-The most useful survivor account comes from [[Meth-Var|Meth-Var]], the exposed watch island facing open Maw waters. A Keth-Naar skiff failed to return cleanly from the eastern watch run, and the next rotation found the landing ropes scalded stiff, the signal stones reset, and one watcher alive in a lee crack with burned hands. The survivor described warm water before the strike, low steam over the reef, and a black shell-ridge no larger than a small boat turning beneath the skiff before a tail blow threw it into the channel. ^\[inferred]
+The survivor account from [[Meth-Var|Meth-Var]] is the most specific. A Keth-Naar skiff failed to return from the eastern watch run. The next rotation found the landing ropes scalded stiff, signal stones reset, and one watcher alive in a lee crack with burned hands. Warm water before the strike. Low steam over the reef. A black shell-ridge no larger than a small boat turning beneath the skiff before the tail blow threw it into the channel. ^\[inferred]
 
-## Sighting Pattern
+What the Keth-Naar watchers have noticed since — and have not shared with outsiders — is that the heat events cluster near the outer beaches of the quieter islands rather than around the Blue Hole drop. The elders call the current season by a name they do not translate for visitors. The wyrmling that hit the Meth-Var skiff was not hunting. The watchers believe it was close to something it wasn't moving away from. ^\[inferred]
 
-- **Likely attack waters:** the [[places/sunken-crown/index|Sunken Crown]] Blue Hole edge, especially where safe reef shallows drop into deep indigo water.
-- **Survivor report:** [[Meth-Var|Meth-Var]], because the watch island faces the open approach and keeps warning marks for Keth-Naar.
-- **Warning signs:** water warming without sun, steam sitting low over calm reef, fish abandoning the drop-off, scalded rope, and a dark ridge that is too small for an adult dragon turtle but too deliberate for drift stone. ^\[inferred]
-- **Common confusion:** Wyrmling reports overlap with [[beastiary/dragon-turtle|dragon turtle]] and [[beastiary/ancient-dragon-turtle|ancient dragon turtle]] rumors; local watchers separate them by scale, the size of the wake, and whether the target was a skiff rather than a ship. ^\[inferred]
+The warning signs overlap with adult dragon turtle reports: water warming without sun, steam low over calm reef, fish abandoning the drop-off. The useful distinction is scale. A wyrmling leaves a wake that fits between reef channels. An adult fills one. An ancient doesn't leave a wake — it leaves a change in the current. ^\[inferred]

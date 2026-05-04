@@ -3,7 +3,7 @@ publish: true
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
-published: 2026-05-03T02:18:48.529-07:00
+published: 2026-05-03T19:14:06.467-07:00
 tags:
   - player-resource
   - planning
@@ -68,7 +68,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **Day −35 (approx.)** — An unknown contractor engages [[factions/Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[players/delmar-summary|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
 
-**Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[players/belmore-summary|Belmore]]'s tribe has been watching the seas turn wrong for days.
+**Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[stripes-summary|Belmore]]'s tribe has been watching the seas turn wrong for days.
 
 **Day −6** — Fisk's fleet successfully takes the [[items/Pearl-of-Souls|Pearl of Souls]] from Umberlee's shrine at Vel Orn. The Pearl departs aboard the _Red Lady_.
 

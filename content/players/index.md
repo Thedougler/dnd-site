@@ -3,7 +3,7 @@ publish: true
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-02T20:15:09.857-07:00
+published: 2026-05-03T19:14:06.466-07:00
 tags:
   - player-resource
   - index
@@ -23,7 +23,7 @@ updated: 2026-05-03
 
 ## Player character summaries
 
-- [[players/belmore-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
+- [[stripes-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
 - [[players/delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
 - [[players/crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
 - [[players/jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.

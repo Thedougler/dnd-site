@@ -6,7 +6,7 @@ aliases:
 title: The Midchain
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:13:50.206-07:00
+published: 2026-05-03T04:51:16.432-07:00
 tags:
   - location
   - region
@@ -177,6 +177,7 @@ Not every Midchain hazard lives in the water or waits at the beach. The larger s
 
 ## Hazards
 
+- [[beastiary/ancient-black-dragon|Ancient black dragon]] — Aruhe; the real reason the island is abandoned and the Grung won't land on it.
 - [[beastiary/Sawek|Sawek]] — apex sinkhole predators whose lairs can look like useful shelter from above.
 - [[beastiary/giant-crocodile|Giant crocodiles]] — mangrove cuts and river mouths.
 - [[beastiary/swarm-of-piranhas|Swarms of piranhas]] — interior freshwater lakes and spring pools, especially Vatumei; lower casks on a line, don't wade.

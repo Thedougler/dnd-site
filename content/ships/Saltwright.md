@@ -5,7 +5,7 @@ aliases:
 title: The Saltwright
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T19:34:21.160-07:00
+published: 2026-05-03T19:14:06.468-07:00
 tags:
   - player-resource
   - ship
@@ -83,7 +83,7 @@ Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe
 - [[npcs/Beaumont-Sel|Beaumont Sel]] — captain
 - [[npcs/Bisou|Bisou]] — ship's capuchin
 - [[players/perren-summary|Perrin Black-Jaw]] — stowed away at [[Keth-Naar|Keth Naar]] after the _Vestra_ went down
-- [[players/belmore-summary|Belmore]] — bargained passage west from Keth Naar
+- [[stripes-summary|Belmore]] — bargained passage west from Keth Naar
 - [[players/delmar-summary|Delmar Fisk]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[players/crissdalynn-summary|Crisdalynn Khinriss]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[players/jean-claude-summary|Jean-Claude Tabarnack]] — boarded at campaign start, pursued across a Midchain island

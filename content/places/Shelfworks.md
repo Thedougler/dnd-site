@@ -6,7 +6,7 @@ aliases:
 title: The Shelfworks
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:09:01.805-07:00
+published: 2026-05-03T04:58:59.093-07:00
 tags:
   - location
   - ruins
@@ -32,6 +32,8 @@ relationships:
     target: The Tessarine Concordat
   - relation: contested_by
     target: The Dravosi Crown
+  - relation: watched_by
+    target: Ancient Bronze Dragon
   - relation: threatened_by
     target: Giant Squid
   - relation: threatened_by
@@ -93,6 +95,8 @@ That lack of control also attracts people who prefer prize law to salvage law. A
 ## What Crews Say
 
 Every Shelfworks crew has rules. Do not dive tired. Do not ignore a line-tug. Do not chase something below the agreed depth. Do not work the edge alone. Do not laugh at the person who comes up early.
+
+There is a less-discussed rule that veteran crews hold without advertising: do not touch the sealed rooms on the lower northwest hall. No sign marks them. Three separate crews across different seasons broke the rule without knowing about each other and all reported the same thing — a current arriving from no clear source, lines going taut against the drift, cold water pressing from below. Two surfaced without the pieces they went down for. The current behavior matches what something very large and very deliberate would produce if it had decided a particular area was closed. ^\[inferred]
 
 The rule about the agreed depth exists because a salvager named Orvalle broke it. He came back without his dive partner's line, missing a knife, and described a [[beastiary/giant-squid|giant squid]] that spread wider than the archway he was working through and extended a limb the length of a boarding pike. His partner's buoy surfaced forty minutes later, alone. Orvalle works the air pumps now. ^\[inferred]
 

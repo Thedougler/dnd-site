@@ -5,7 +5,7 @@ aliases:
 title: Giant Ape
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T03:54:06.909-07:00
+published: 2026-05-03T04:35:02.236-07:00
 tags:
   - creature
   - beast
@@ -57,15 +57,12 @@ wis: 12
 
 ## In The Shattered Sea
 
-Giant apes belong to the green interior, not to a single landmark. In the Shattered Sea they are most plausible across the southern [[places/midchain/index|Midchain]] where large islands still carry enough rainforest, freshwater, fruiting canopy, and limestone high ground to hide something Huge. Sailors rarely see the animal itself. They see snapped canopy paths, broken terrace walls, stones thrown from ridgelines, and fruit trees stripped too high for ordinary beasts. ^\[inferred]
+Giant apes belong to the green interior, not to a single landmark. In the Shattered Sea they are most plausible across the southern [[places/midchain/index|Midchain]] where large islands still carry enough rainforest, freshwater, fruiting canopy, and limestone high ground to sustain something Huge. Sailors rarely see the animal itself. They see snapped canopy paths above the reef line, broken terrace walls, stones thrown from ridgelines, and fruit trees stripped too high for ordinary beasts.
 
-The densest reports come from the [[Verdant-Teeth|Verdant Teeth]], where the [[factions/Grung-Clans|Grung clans]] already control the interior and outsiders have no clean way to verify what lives beyond the trade beaches. A giant ape in the Teeth is not necessarily a wandering monster; it may be an old territorial animal whose range cuts across several islands, following seasonal fruit, freshwater, and cliff nests. ^\[inferred]
+The densest reports come from the [[Verdant-Teeth|Verdant Teeth]], where the [[factions/Grung-Clans|Grung clans]] control the interior and outsiders have no clean way to verify what lives beyond the trade beaches. The animal's range in the Teeth appears to cross island boundaries — following seasonal fruit, freshwater, and cliff nests rather than stopping at the water between islands. The channels between Dreth and Orak, and between Karath and Sorn, are narrow enough that a swimming Huge ape is not implausible, and the grung do not treat the Teeth as five separate territories at the high-ridge level. Whether they manage the apes or simply coexist with them at a respectful distance is not something beach traders can determine. ^\[inferred]
 
-[[Sorn|Sorn]] gives the rumor a practical edge. Its interior agriculture creates exactly the kind of border where a huge forager becomes a problem: field margins broken overnight, watch platforms torn down, and grung patrols driving something heavy away from the terraces without letting beach traders see what it was. Similar sign could appear on [[Veth|Veth]] above the trade path, [[Karath|Karath]] behind the dart line, or the wet eastern pair of [[Dreth|Dreth]] and [[Orak|Orak]]. The animal range is regional; the encounter site depends on where food, territory, and people overlap. ^\[inferred]
+[[Sorn|Sorn]] gives the rumor a practical edge. Its interior agriculture creates exactly the kind of border where a large forager becomes a problem: field margins broken overnight, watch platforms pulled down, grung patrols moving inland without explanation and returning with crushed gear and no report. The pattern on Sorn is aftermath. Nobody on the trade beach is shown the thing producing it. ^\[inferred]
 
-## Habitat Pattern
+The clearest outside account comes from a Kalowe trader who anchored off Karath at dusk to take a bearing and heard, from the ridge above the dart line, three impacts in sequence — heavy, evenly spaced, the kind of sound a thrown stone makes on wet limestone. Nothing came over the ridge. The interval between impacts was wrong for a rockfall and too regular for storm. He took his bearing and left. He spent the return trip to Kalowe drawing what he thought the throwing arc would have looked like from above. The sketch has been passed around certain Midchain pilot circles as the most useful documentation anyone has produced from outside Grung territory. ^\[inferred]
 
-- **Core range:** [[Verdant-Teeth|The Verdant Teeth]], especially interior ridges and old canopy routes.
-- **Broader range:** larger southern [[places/midchain/index|Midchain]] islands with freshwater, steep limestone, and mature rainforest.
-- **Likely signs:** snapped trunks, thrown stones, crushed garden walls, stripped fruit canopy, sudden silence among birds, and grung patrols moving inland without explanation. ^\[inferred]
-- **Best use at the table:** not a port monster; a wilderness pressure, territorial hazard, or sign that the island interior is larger and older than coastal charts admit. ^\[inferred]
+This is not a port monster. It is a sign that the island interior is older and larger than any coastal chart admits — a wilderness pressure that moves between islands on its own logic, surfaces as aftermath, and is best understood by the silence that replaces bird noise when something that heavy passes through the canopy above. ^\[inferred]

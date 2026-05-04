@@ -6,7 +6,7 @@ aliases:
 title: Ashwall Islands
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:04:20.963-07:00
+published: 2026-05-03T04:32:33.118-07:00
 tags:
   - location
   - islands
@@ -24,6 +24,8 @@ relationships:
     target: The Shattered Sea
   - relation: near
     target: The Galewall
+  - relation: birthplace_of
+    target: Arclight Phoenix
   - relation: rumored_threat
     target: Arclight Phoenix
   - relation: threatened_by
@@ -54,6 +56,16 @@ Sailors running the western passage know the Ashwalls as a threshold. Outbound, 
 The spires are not empty just because they are hard to land on. [[beastiary/giant-bat|Giant bats]] roost in warm vent caves, [[beastiary/giant-vulture|giant vultures]] work the cliffs after wrecks, and high-wind crews still tell [[beastiary/harpy|harpy]] stories about voices in the storm gaps. Most pilots file those stories under weather until someone follows the wrong sound inland.
 
 The vent fissures in the high stone also hold [[beastiary/giant-scorpion|giant scorpions]]. The volcanic heat keeps the crevices warm through cold sea air, and the same crack systems that look like good handholds on the cliff face can run back several feet into occupied dark. A carpenter from a repair crew — name passed around Ashwall crews as Duvane — was attacked in a fissure while assessing a fouled spar: claw across the forearm, sting through the boot, two days down from the poison. He described not seeing it at all before both claws were engaged. Ashwall repair work now typically sends two hands up the stone face, with one watching the rock instead of the job. ^\[inferred]
+
+---
+
+## The Hatching Sign
+
+Ashwall crews distinguish between two kinds of eruption lightning. The first is vertical: storm discharge running from cloud to stone, ordinary enough that no one marks it. The second moves sideways through the ash column — branching, lateral, holding for a breath before it goes dark. That is the sign. Crews who see it know what it means and know roughly how long they have before something emerges from the vent.
+
+[[beastiary/arclight-phoenix|Arclight phoenixes]] are born inside the Ashwall volcanoes. The volcanic discharge is what hatches them — the egg left behind when a phoenix dies requires lightning to open, and the vent systems provide it continuously and at close range. The bird that climbs out of the stone is already oriented toward the storm edge. It flies west into the [[places/Galewall|Galewall]] and does not come back east until it has died again somewhere inside the weather. ^\[inferred]
+
+How long this has been happening is not recorded. The oldest Ashwall pilot families mark the sign in their log books as a navigational note — _lateral vent-fire, westward departure, expected increase in Galewall activity_ — without commentary. The colonial academies have never sent anyone to watch a hatching. The Ashwall crews who have seen one do not describe it as something you would choose to watch from close range. ^\[inferred]
 
 ---
 

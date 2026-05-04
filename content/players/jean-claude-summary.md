@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Jean-Claude Tabarnack
+  - Pierre Le Merde
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T21:13:30.681-07:00
+published: 2026-05-03T23:19:26.263-07:00
 tags:
   - player-character
   - pc
@@ -16,6 +19,15 @@ type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: passenger_on
+    target: Saltwright
+  - relation: deserter_from
+    target: Botukuri Clan
+  - relation: grieving
+    target: Pell
+  - relation: estranged_from
+    target: Simone Tabarnack
 updated: 2026-05-03
 sources:
   - Homebrew

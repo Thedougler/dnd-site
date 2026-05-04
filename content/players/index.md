@@ -1,9 +1,13 @@
 ---
 publish: true
+aliases:
+  - The Party
+  - Player Characters
+  - PCs
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-03T19:14:06.466-07:00
+published: 2026-05-03T23:21:32.711-07:00
 tags:
   - player-resource
   - index
@@ -14,6 +18,17 @@ audience: players
 summary: Public index for Shattered Sea player character pages.
 type: index
 campaign: shattered-sea
+relationships:
+  - relation: member
+    target: Stripes Bitemore
+  - relation: member
+    target: Delmar Fisk
+  - relation: member
+    target: Crisdalynn Khinriss
+  - relation: member
+    target: Jean-Claude Tabarnack
+  - relation: member
+    target: Perrin Black-Jaw
 updated: 2026-05-03
 ---
 

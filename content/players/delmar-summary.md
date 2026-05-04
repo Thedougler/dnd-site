@@ -1,9 +1,13 @@
 ---
 publish: true
-title: Delmar Atticus Fisk
+aliases:
+  - Admiral Fisk
+  - Delmar Fisk
+  - Delmar Atticus Fisk
+title: Delmar Fisk
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T21:09:27.886-07:00
+published: 2026-05-03T23:17:24.727-07:00
 tags:
   - player-character
   - pc
@@ -16,6 +20,15 @@ type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: passenger_on
+    target: Saltwright
+  - relation: survived_with
+    target: Crisdalynn Khinriss
+  - relation: married_to
+    target: Serafina Windfall Fisk
+  - relation: commanded
+    target: Fisk's Fleet
 updated: 2026-05-03
 sources:
   - Homebrew

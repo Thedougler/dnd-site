@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Perrin Black-Jaw
+  - PBJ
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T21:12:20.177-07:00
+published: 2026-05-03T23:20:04.586-07:00
 tags:
   - player-character
   - pc
@@ -16,6 +19,15 @@ type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: stowaway_on
+    target: Saltwright
+  - relation: grandson_of
+    target: Nona Black-Jaw
+  - relation: lost
+    target: Vestra
+  - relation: from
+    target: Warren
 updated: 2026-05-03
 sources:
   - Homebrew

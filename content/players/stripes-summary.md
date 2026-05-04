@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Stripes Bitemore
+  - Stripes
 title: Stripes Bitemore
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T21:18:44.267-07:00
+published: 2026-05-03T23:20:46.211-07:00
 tags:
   - player-character
   - pc
@@ -16,6 +19,13 @@ type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: passenger_on
+    target: Saltwright
+  - relation: hunter_of
+    target: Keth-Naar
+  - relation: sent_by
+    target: Keth-Naar Elders
 updated: 2026-05-03
 sources:
   - Homebrew

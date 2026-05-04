@@ -1,9 +1,12 @@
 ---
 publish: true
+aliases:
+  - Crisdalynn Khinriss
+  - Crissdalynn
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T21:06:49.845-07:00
+published: 2026-05-03T23:18:59.558-07:00
 tags:
   - player-character
   - pc
@@ -16,6 +19,15 @@ type: character
 subtype: character-summary
 status: active
 campaign: shattered-sea
+relationships:
+  - relation: passenger_on
+    target: Saltwright
+  - relation: survived_with
+    target: Delmar Fisk
+  - relation: student_of
+    target: Master Kyzil
+  - relation: pilgrimage_from
+    target: High Eyrie
 updated: 2026-05-03
 sources:
   - Homebrew

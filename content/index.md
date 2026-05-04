@@ -1,9 +1,13 @@
 ---
 publish: true
+aliases:
+  - The Scatter
+  - Shattered Sea Campaign
+  - Campaign Hub
 title: The Shattered Sea
 created: 2026-05-03T03:03:53.226-07:00
 modified: 2026-05-03
-published: 2026-05-03T19:14:06.465-07:00
+published: 2026-05-03T23:24:25.647-07:00
 tags:
   - player-resource
   - index
@@ -12,6 +16,29 @@ audience: players
 summary: Player-facing root hub for the Shattered Sea campaign wiki, with onboarding links, rules references, character creation resources, and setting indexes.
 type: index
 campaign: shattered-sea
+relationships:
+  - relation: contains
+    target: Beatiary
+  - relation: contains
+    target: Factions
+  - relation: contains
+    target: Items
+  - relation: contains
+    target: Lore
+  - relation: contains
+    target: NPCs
+  - relation: contains
+    target: Places
+  - relation: contains
+    target: Players
+  - relation: contains
+    target: Reference
+  - relation: contains
+    target: Rules
+  - relation: contains
+    target: Ships
+  - relation: contains
+    target: Species
 updated: 2026-05-03
 ---
 

@@ -6,7 +6,7 @@ aliases:
 title: Serafina Windfall Fisk
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T23:27:58.932-07:00
 tags:
   - npc
   - aasimar
@@ -50,7 +50,7 @@ species: aasimar
 
 Serafina Windfall Fisk is an Aasimar fortune-teller who moves through the Scatter on compulsion — drawn to specific places and people at specific times by a precognitive pull she has stopped trying to explain or fight. She goes where she is needed. She does not always know why until she arrives.
 
-She is [[Delmar-Fisk|Delmar Fisk's]] wife. They married knowing their work would keep them apart more often than not. She was not aboard the _Red Lady_ when the fleet went down. Fisk named his musket after her.
+She is [[private/players/Delmar-Fisk|Delmar Fisk's]] wife. They married knowing their work would keep them apart more often than not. She was not aboard the _Red Lady_ when the fleet went down. Fisk named his musket after her.
 
 ## Appearance
 
@@ -64,5 +64,5 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- **[[delmar-summary|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
+- **[[players/delmar-fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
 - **[[The-Duchess|The Duchess]]** — Fisk's musket, named for her

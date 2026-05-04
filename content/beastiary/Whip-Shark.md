@@ -7,7 +7,7 @@ aliases:
 title: Whip Shark
 created: 2026-04-12
 modified: 2026-05-03
-published: 2026-05-03T02:52:09.102-07:00
+published: 2026-05-03T23:28:34.269-07:00
 tags:
   - creature
   - monstrosity
@@ -70,5 +70,5 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 - [[Antheri-Ruins]] — patrols the Abyssal Bore perimeter (40–200 ft); attracted by surface dive operations
 - [[Sawek]] — co-listed in [[Midchain|Midchain]] maritime creature lore
 - [[Ship-Stats]] — Hooking Drive interacts with vessel HP rules
-- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[perren-summary|Perrin Black-Jaw]] carries this text
+- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[perren-black-jaw|Perrin Black-Jaw]] carries this text
 - [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]

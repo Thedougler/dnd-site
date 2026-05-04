@@ -6,7 +6,7 @@ aliases:
 title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T04:08:47.615-07:00
+published: 2026-05-03T23:28:35.818-07:00
 tags:
   - location
   - trench
@@ -67,7 +67,7 @@ Pirates do not anchor over the Maw any more than honest captains do, but the rim
 
 ## The Vestra Water
 
-Sailors have started using "Vestra water" for the bad stretch near the Maw where [[perren-summary|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
+Sailors have started using "Vestra water" for the bad stretch near the Maw where [[perren-black-jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
 
 What hit the _Vestra_ remains argued rather than proven. Perrin's signs match the old [[beastiary/Leviathan|Leviathan]] chapter in [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary]], but they also match the practical warnings attached to [[beastiary/ancient-dragon-turtle|ancient dragon turtles]]: scalding fog, heat before impact, and a shell-dark mass rising under the keel. Most captains do not care which name is correct. They care that someone survived long enough to say the water went hot before the ship died. ^\[ambiguous]
 

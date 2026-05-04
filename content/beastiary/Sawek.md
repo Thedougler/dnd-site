@@ -7,7 +7,7 @@ aliases:
 title: Sawek
 created: 2026-04-12
 modified: 2026-05-03
-published: 2026-05-03T02:52:08.373-07:00
+published: 2026-05-03T23:28:34.261-07:00
 tags:
   - creature
   - monstrosity
@@ -78,5 +78,5 @@ It is an ambush predator, the tentacles emerge from the entrance and grab whatev
 - [[Kalowe|Kalowe]] — reef divers here use the indigenous name; mark claimed holes with knotted cord
 - [[The-Grandfather-Hole]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
 - [[Whip-Shark]] — co-listed in [[Midchain|Midchain]] maritime creature lore
-- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[perren-summary|Perrin Black-Jaw]] carries this text
+- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[perren-black-jaw|Perrin Black-Jaw]] carries this text
 - [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]

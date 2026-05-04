@@ -6,7 +6,7 @@ aliases:
 title: The Heft
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-03T23:27:59.209-07:00
 tags:
   - player-resource
   - ship
@@ -48,8 +48,8 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 
 ## Connections
 
-- [[npcs/Detto-Kalash|Detto Kalash]] — captain; his soul is now inside [[players/delmar-summary|Delmar Fisk]]
-- [[players/delmar-summary|Delmar Fisk]] — admiral of the fleet
+- [[npcs/Detto-Kalash|Detto Kalash]] — captain; his soul is now inside [[players/delmar-fisk|Delmar Fisk]]
+- [[players/delmar-fisk|Delmar Fisk]] — admiral of the fleet
 - [[ships/Red-Lady|The Red Lady]] — flagship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]

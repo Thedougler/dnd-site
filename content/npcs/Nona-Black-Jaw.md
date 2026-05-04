@@ -6,7 +6,7 @@ aliases:
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-03T23:28:34.271-07:00
 tags:
   - npc
   - rattkin
@@ -74,7 +74,7 @@ Her late husband built the ship, captained her for decades, and left her to the 
 
 ## Connections
 
-- **[[perren-summary|Perrin Black-Jaw]]** — her grandson; Black-Jaw Run heir; she is looking for him
+- **[[perren-black-jaw|Perrin Black-Jaw]]** — her grandson; Black-Jaw Run heir; she is looking for him
 - **[[Warren]]** — the fixed Rattkin settlement she anchors; most senior voice
 - **[[Passage|The Passage]]** — the Tangle is the network's center; she is at the Tangle's center
 - **[[ships/Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed

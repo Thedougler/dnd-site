@@ -5,7 +5,7 @@ aliases:
 title: Ancient Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T03:39:57.262-07:00
+published: 2026-05-03T23:28:36.121-07:00
 tags:
   - creature
   - dragon
@@ -32,7 +32,7 @@ updated: 2026-05-03
 sources:
   - FTD
   - Homebrew
-  - "[[perren-summary|Perrin Black-Jaw]]"
+  - "[[perren-black-jaw|Perrin Black-Jaw]]"
 source_count: 3
 confidence_level: medium
 cr: 24
@@ -58,7 +58,7 @@ wis: 19
 
 Ancient dragon turtles belong in the parts of the Sea where the chart stops being useful: the [[places/Drowned-Maw|Drowned Maw]], the open water beyond it, and the deep indigo edge around the [[Keth-Naar|Keth-Naar]] Blue Hole. Sailors do not usually identify them cleanly. They report heat first: warm brine, softened pitch, fog lying low on water that had been still a moment before. Then they report mass, a dark shell-shape moving under the keel or rising through steam too thick to read.
 
-The most useful public account is still indirect. [[perren-summary|Perrin Black-Jaw]] survived the destruction of the _Vestra_ near the Maw and later washed ashore at [[Keth-Naar|Keth-Naar]]. His account describes boiling water, a burned rail, and a deliberate strike from below. That evidence is not enough to prove an ancient dragon turtle rather than the older [[beastiary/Leviathan|Leviathan]] rumor, but it is enough that experienced sailors now treat the Maw-to-Sunken-Crown run as dragon-turtle water. ^\[ambiguous]
+The most useful public account is still indirect. [[perren-black-jaw|Perrin Black-Jaw]] survived the destruction of the _Vestra_ near the Maw and later washed ashore at [[Keth-Naar|Keth-Naar]]. His account describes boiling water, a burned rail, and a deliberate strike from below. That evidence is not enough to prove an ancient dragon turtle rather than the older [[beastiary/Leviathan|Leviathan]] rumor, but it is enough that experienced sailors now treat the Maw-to-Sunken-Crown run as dragon-turtle water. ^\[ambiguous]
 
 ## Sighting Pattern
 

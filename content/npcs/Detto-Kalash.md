@@ -5,7 +5,7 @@ aliases:
 title: Detto Kalash
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-03T23:27:59.014-07:00
 tags:
   - npc
   - player-resource
@@ -53,7 +53,7 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 
 ## Connections
 
-- [[delmar-summary|Delmar Fisk]] — Admiral; carries Detto's soul
+- [[players/delmar-fisk|Delmar Fisk]] — Admiral; carries Detto's soul
 - [[ships/Heft|The Heft]] — his ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet he served
 - [[Drowned-Maw|Drowned Maw]] — where he died

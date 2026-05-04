@@ -6,7 +6,7 @@ aliases:
 title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-05-03
-published: 2026-05-02T23:08:20.836-07:00
+published: 2026-05-03T23:28:34.275-07:00
 tags:
   - item
   - reference-text
@@ -28,7 +28,7 @@ gravity_sources:
   Kaden: 3
 rarity: common
 requires_attunement: false
-current_holder: "[[perren-summary|Perrin Black-Jaw]]"
+current_holder: "[[perren-black-jaw|Perrin Black-Jaw]]"
 summary: Clyde's Volume II naturalist survey of oceanic fauna — Perrin's copy, margins annotated.
 tag_line: Clyde's Volume II naturalist survey of oceanic fauna — Perrin's copy, margins annotated.
 subtype: item
@@ -46,7 +46,7 @@ _Common Item_
 
 Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]. Covers appearance, behaviour, habitat, and practical identification for maritime creatures. The author's contempt for his subject matter is evident throughout and is, by reader consensus, an improvement over other texts in the genre.
 
-[[perren-summary|Perrin Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
+[[perren-black-jaw|Perrin Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
 
 ---
 
@@ -92,10 +92,10 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald
 
 _Common item. No attunement required. Non-magical._
 
-A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[perren-summary|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[beastiary/Leviathan]]).
+A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[perren-black-jaw|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[beastiary/Leviathan]]).
 
 ## Connections
 
 - [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]] — author
-- [[perren-summary|Perrin Black-Jaw]] — current holder
+- [[perren-black-jaw|Perrin Black-Jaw]] — current holder
 - [[beastiary/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy

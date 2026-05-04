@@ -6,7 +6,7 @@ aliases:
 title: The Tallow Bell
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.308-07:00
+published: 2026-05-03T23:27:59.249-07:00
 tags:
   - player-resource
   - ship
@@ -134,7 +134,7 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 
 **At sea rites:** If a captain pays for an open-water blessing, the ship comes alongside, the basin is uncovered, terms are spoken, coin or token is accepted, and the bell rings once. The Waveservants do not linger.
 
-**PC gravity:** The ship pressures [[Delmar-Fisk]] through Umberlee's active claim and the cost of ignored tribute. It pressures [[Perrin-Black-Jaw]] because hidden routes and hidden sailors still owe the sea. It gives any party ship a small, practical way to meet the Waveservants outside a formal harbour shrine.
+**PC gravity:** The ship pressures [[private/players/Delmar-Fisk]] through Umberlee's active claim and the cost of ignored tribute. It pressures [[Perrin-Black-Jaw]] because hidden routes and hidden sailors still owe the sea. It gives any party ship a small, practical way to meet the Waveservants outside a formal harbour shrine.
 
 ## At The Table
 

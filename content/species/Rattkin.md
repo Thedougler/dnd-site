@@ -3,7 +3,7 @@ publish: true
 title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
-published: 2026-05-02T18:01:27.088-07:00
+published: 2026-05-03T23:28:34.164-07:00
 tags:
   - species
   - playable
@@ -134,7 +134,7 @@ Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on p
 
 - [[Passage|The Passage]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
 - [[Warren]] — the only fixed Rattkin settlement, beneath [[Calveno]]
-- [[perren-summary|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[Calveno]] Run
+- [[perren-black-jaw|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[Calveno]] Run
 
 ## Overview
 
@@ -144,4 +144,4 @@ Small humanoids calibrated for getting into places they are not supposed to be. 
 
 - [[Passage|The Passage]] — the traveling network of Runs and Holds spanning the Scatter
 - [[Warren]] — the only fixed Rattkin settlement, beneath [[Calveno]]
-- [[perren-summary|Perrin Black-Jaw]] — Fancy Rat PC; from the [[Calveno]] Run
+- [[perren-black-jaw|Perrin Black-Jaw]] — Fancy Rat PC; from the [[Calveno]] Run

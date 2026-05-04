@@ -3,7 +3,7 @@ publish: true
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
-published: 2026-05-03T19:14:06.467-07:00
+published: 2026-05-03T23:28:46.883-07:00
 tags:
   - player-resource
   - planning
@@ -56,25 +56,25 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **1490 DR** — [[npcs/Beaumont-Sel|Beaumont Sel]] commissions a fitted section of salvaged Antheri plate from Catarina's workshop in Calveno — sized to cover the cannonball breach in his shell. He still wears it.
 
-**1493 DR** — [[players/crissdalynn-summary|Crisdalynn Khinriss]] is banished from the High Eyrie at age 14. Her assigned pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — was treated as a joke. [[npcs/Master-Kyzil|Master Kyzil]], who staked his reputation on her readiness, approves the decision. The banishment is permanent until the task is complete. She is the youngest crow in a tradition that rarely sees fifty.
+**1493 DR** — [[crissdalynn-khinriss|Crisdalynn Khinriss]] is banished from the High Eyrie at age 14. Her assigned pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — was treated as a joke. [[npcs/Master-Kyzil|Master Kyzil]], who staked his reputation on her readiness, approves the decision. The banishment is permanent until the task is complete. She is the youngest crow in a tradition that rarely sees fifty.
 
-**1493 DR** — Crisdalynn meets [[players/delmar-summary|Delmar Atticus Fisk]] and ships aboard the _[[ships/Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
+**1493 DR** — Crisdalynn meets [[players/delmar-fisk|Delmar Atticus Fisk]] and ships aboard the _[[ships/Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
 
-**1494 DR** — [[players/jean-claude-summary|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[npcs/Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[npcs/Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
+**1494 DR** — [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[npcs/Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[npcs/Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
 
 ---
 
 ## The Days Before Session 1 (1495 DR)
 
-**Day −35 (approx.)** — An unknown contractor engages [[factions/Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[players/delmar-summary|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
+**Day −35 (approx.)** — An unknown contractor engages [[factions/Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[players/delmar-fisk|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
 
-**Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[stripes-summary|Belmore]]'s tribe has been watching the seas turn wrong for days.
+**Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[stripes-bitemore|Belmore]]'s tribe has been watching the seas turn wrong for days.
 
 **Day −6** — Fisk's fleet successfully takes the [[items/Pearl-of-Souls|Pearl of Souls]] from Umberlee's shrine at Vel Orn. The Pearl departs aboard the _Red Lady_.
 
 **Day −5** — Umberlee's retribution finds the fleet over the [[Drowned-Maw|Drowned Maw]]. Fog. A rogue trench opens and drives all five ships 80 feet down; the water closes overhead. Crisdalynn dives from the crow's nest, grabs Fisk, and flies them both clear. The Pearl is lost with the _Red Lady_. Umberlee presses the souls of all five captains — [[npcs/Rael-Corven|Rael Corven]], [[npcs/Detto-Kalash|Detto Kalash]], [[npcs/Maren|Maren]], [[npcs/Sienne-Orre|Sienne Orre]], and Fisk himself — into Fisk as the hulls go down. Five ships lost. Two survivors.
 
-**Day −4** — Something destroys the _Vestra_ near the Maw. [[players/perren-summary|Perrin Black-Jaw]] barely survives. He believes his Cloak of the Manta Ray saved him. He limps the beach at Keth Naar and stows away aboard the _[[ships/Saltwright|Saltwright]]_ in harbour.
+**Day −4** — Something destroys the _Vestra_ near the Maw. [[perren-black-jaw|Perrin Black-Jaw]] barely survives. He believes his Cloak of the Manta Ray saved him. He limps the beach at Keth Naar and stows away aboard the _[[ships/Saltwright|Saltwright]]_ in harbour.
 
 **Day −4** — Belmore's tribe reads the sea as actively wrong and sends their strongest hunter to find the cause. Belmore is tasked with learning why Umberlee is furious. He finds the _Saltwright_ in harbour and barters passage west with [[npcs/Beaumont-Sel|Beaumont Sel]].
 

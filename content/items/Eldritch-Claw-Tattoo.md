@@ -3,7 +3,7 @@ publish: true
 title: Eldritch Claw Tattoo
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T21:04:21.922-07:00
+published: 2026-05-03T23:28:11.813-07:00
 tags:
   - item
   - wondrous-item
@@ -21,7 +21,7 @@ status: active
 visibility: public
 audience: players
 campaign: shattered-sea
-current_holder: "[[crissdalynn-summary|Crisdalynn Khinriss]]"
+current_holder: "[[crissdalynn-khinriss|Crisdalynn Khinriss]]"
 summary: Inky black tattoo across talons and forearms — makes unarmed strikes magical and once per dawn extends them into 15-ft force-damage tendrils. An ancient Sentinel tradition, given at the completion of training.
 sources:
   - "[[Crisdalynn-Khinriss-Interview]]"
@@ -53,7 +53,7 @@ Most Sentinels carry the mark for life.
 
 ## Appearance
 
-Fine lines following the tendons and joints — talons to forearms, tracing the skeleton beneath. On lighter-feathered aarakocra they're visible in any light. On crow-type plumage like [[crissdalynn-summary|Crisdalynn's]], they nearly disappear in shadow. In direct light they catch differently than the feathers around them, a slightly different sheen, like ink that hasn't quite dried.
+Fine lines following the tendons and joints — talons to forearms, tracing the skeleton beneath. On lighter-feathered aarakocra they're visible in any light. On crow-type plumage like [[crissdalynn-khinriss|Crisdalynn's]], they nearly disappear in shadow. In direct light they catch differently than the feathers around them, a slightly different sheen, like ink that hasn't quite dried.
 
 When the Long Reach activates, the lines darken and move. They don't follow the skin. They reach ahead of the strike, extending further than the arm should, then snap back.
 
@@ -82,13 +82,13 @@ Activate for 1 minute. While active:
 
 ## Crisdalynn's Mark
 
-[[crissdalynn-summary|Crisdalynn Khinriss]] received the needle from [[Master-Kyzil|Master Kyzil]] on the same day she received her pilgrimage task. The mark runs across her talons and up her forearms, nearly invisible against her crow plumage. She hasn't remarked on that.
+[[crissdalynn-khinriss|Crisdalynn Khinriss]] received the needle from [[Master-Kyzil|Master Kyzil]] on the same day she received her pilgrimage task. The mark runs across her talons and up her forearms, nearly invisible against her crow plumage. She hasn't remarked on that.
 
 ---
 
 ## Connections
 
-- [[crissdalynn-summary|Crisdalynn Khinriss]] — current holder; attuned; received from Kyzil alongside her pilgrimage assignment
+- [[crissdalynn-khinriss|Crisdalynn Khinriss]] — current holder; attuned; received from Kyzil alongside her pilgrimage assignment
 - [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — the order that practices and passes on this tattoo art
 - [[Master-Kyzil|Master Kyzil]] — the master who presented Crisdalynn with the needle
 - [[High-Eyrie|High Eyrie]] — where the tradition originates and is sustained

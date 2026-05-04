@@ -7,7 +7,7 @@ aliases:
 title: Players
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-03T23:21:32.711-07:00
+published: 2026-05-03T23:28:46.883-07:00
 tags:
   - player-resource
   - index
@@ -38,11 +38,11 @@ updated: 2026-05-03
 
 ## Player character summaries
 
-- [[stripes-summary|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-- [[players/delmar-summary|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
-- [[players/crissdalynn-summary|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
-- [[players/jean-claude-summary|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
-- [[players/perren-summary|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
+- [[stripes-bitemore|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
+- [[players/delmar-fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
+- [[crissdalynn-khinriss|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
+- [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
+- [[perren-black-jaw|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
 
 ---
 

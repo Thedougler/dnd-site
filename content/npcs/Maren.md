@@ -5,7 +5,7 @@ aliases:
 title: Maren
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-03T23:27:59.019-07:00
 tags:
   - npc
   - player-resource
@@ -53,7 +53,7 @@ She was outside the cave when the fleet sank. She drowned in the Maw when Umberl
 
 ## Connections
 
-- [[delmar-summary|Delmar Fisk]] — Admiral; carries Maren's soul
+- [[players/delmar-fisk|Delmar Fisk]] — Admiral; carries Maren's soul
 - [[ships/Narrow|The Narrow]] — her ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet she served
 - [[Drowned-Maw|Drowned Maw]] — where she died

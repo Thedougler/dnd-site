@@ -6,7 +6,7 @@ aliases:
 title: The Leviathan
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:52:07.632-07:00
+published: 2026-05-03T23:28:36.115-07:00
 tags:
   - creature
   - rumor
@@ -35,7 +35,7 @@ updated: 2026-05-03
 sources:
   - Homebrew
   - "[[Clydes-Bestiary-of-Oceanic-Creatures]]"
-  - "[[perren-summary|Perrin Black-Jaw]]"
+  - "[[perren-black-jaw|Perrin Black-Jaw]]"
 source_count: 3
 confidence_level: low
 environment: deep water
@@ -50,7 +50,7 @@ No sensible captain says they have seen the Leviathan. That is how you lose a cr
 
 They say they have seen where it passed. Fish cooked white in calm water, miles from any reef. A hull limping into harbour with the underside scorched black. Lines hauled in hot enough to blister palms. The sea boiling in the distance.
 
-[[perren-summary|Perrin Black-Jaw]] is why the old story has started moving again. The _Vestra_ went down three days before the campaign began, on an ordinary fishing day that stopped being ordinary all at once. The water around the hull began to bubble. Perrin touched the rail and the wood burned his hand. Then something enormous struck from below, and the ship was gone.
+[[perren-black-jaw|Perrin Black-Jaw]] is why the old story has started moving again. The _Vestra_ went down three days before the campaign began, on an ordinary fishing day that stopped being ordinary all at once. The water around the hull began to bubble. Perrin touched the rail and the wood burned his hand. Then something enormous struck from below, and the ship was gone.
 
 Perrin survived. That alone makes his version harder to dismiss.
 
@@ -80,7 +80,7 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 
 ## Connections
 
-- [[perren-summary|Perrin Black-Jaw]] — only known survivor of the _Vestra_ disaster; his backstory makes the rumor player-facing
+- [[perren-black-jaw|Perrin Black-Jaw]] — only known survivor of the _Vestra_ disaster; his backstory makes the rumor player-facing
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — contains the chapter Perrin has been studying
 - [[places/Drowned-Maw|Drowned Maw]] — deep-water region often pulled into sailor talk about things below the charted sea
 - [[beastiary/Sawek|Sawek]] and [[beastiary/Whip-Shark|Whip Shark]] — confirmed dangerous sea creatures, useful contrast for how little is known about the Leviathan

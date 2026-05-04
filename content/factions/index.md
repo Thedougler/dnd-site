@@ -3,7 +3,7 @@ publish: true
 title: Factions
 created: 2026-05-02T15:58:16.218-07:00
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.500-07:00
+published: 2026-05-03T23:27:58.895-07:00
 tags:
   - player-resource
   - index
@@ -80,7 +80,7 @@ Patrol boats from the clans don't negotiate. Not twice.
 
 ## [[factions/Fisks-Fleet|Fisk's Fleet]]
 
-Five ships, privateer charter, under [[players/delmar-summary|Delmar Fisk]]. All hands lost at the [[places/Drowned-Maw|Drowned Maw]]. That's the official version. Whether you believe it depends on who you ask and how much they've had to drink. Wreck claims are unresolved. Old privateer loyalties don't dissolve cleanly. And conversations have a way of going quiet when Fisk's name comes up.
+Five ships, privateer charter, under [[players/delmar-fisk|Delmar Fisk]]. All hands lost at the [[places/Drowned-Maw|Drowned Maw]]. That's the official version. Whether you believe it depends on who you ask and how much they've had to drink. Wreck claims are unresolved. Old privateer loyalties don't dissolve cleanly. And conversations have a way of going quiet when Fisk's name comes up.
 
 ---
 

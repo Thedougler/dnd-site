@@ -6,7 +6,7 @@ aliases:
 title: Maggie Porcelain Pots
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T23:27:58.931-07:00
 tags:
   - npc
   - dragonborn
@@ -46,7 +46,7 @@ species: dragonborn
 
 Margaret "Maggie" Porcelain Pots is a dragonborn potter whose family has fired ceramics on their home island for three generations. She uses her fire breath to feed the kilns. Her work is exclusive, beautiful, and extraordinarily durable. She is an absolute sweetheart to everyone she meets and takes no shit from anyone, and there is no contradiction there.
 
-She is [[Delmar-Fisk|Delmar Fisk]]'s first love. They were together for a couple of years before his wanderlust ended it badly — with an argument she punctuated by leaving him with a shiner that lasted a week. He has avoided his home island ever since. The shiner is locally famous. She has never felt the need to explain it.
+She is [[private/players/Delmar-Fisk|Delmar Fisk]]'s first love. They were together for a couple of years before his wanderlust ended it badly — with an argument she punctuated by leaving him with a shiner that lasted a week. He has avoided his home island ever since. The shiner is locally famous. She has never felt the need to explain it.
 
 ## Appearance
 
@@ -60,4 +60,4 @@ She is currently expanding the operation and scouting locations on other islands
 
 ## Connections
 
-- **[[delmar-summary|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record
+- **[[players/delmar-fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record

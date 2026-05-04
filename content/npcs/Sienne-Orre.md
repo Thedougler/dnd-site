@@ -5,7 +5,7 @@ aliases:
 title: Sienne Orre
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T19:45:12.611-07:00
+published: 2026-05-03T23:27:59.026-07:00
 tags:
   - npc
   - player-resource
@@ -52,7 +52,7 @@ She drowned in the Maw when Umberlee closed the water over all five ships. Her s
 
 ## Connections
 
-- [[delmar-summary|Delmar Fisk]] — Admiral; carries Sienne's soul
+- [[players/delmar-fisk|Delmar Fisk]] — Admiral; carries Sienne's soul
 - [[ships/Fernen|The Fernen]] — her ship; lost at the Maw
 - [[Maren]] — ran the parallel scout team
 - [[Fisks-Fleet]] — the fleet she served

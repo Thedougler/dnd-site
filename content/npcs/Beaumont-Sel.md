@@ -6,7 +6,7 @@ aliases:
 title: Beaumont Sel
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T21:44:54.263-07:00
+published: 2026-05-03T23:28:46.883-07:00
 tags:
   - npc
   - captain
@@ -57,7 +57,7 @@ species: tortle
 
 Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe|Kalowe]] working the [[Midchain|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[Midchain|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
 
-He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[crissdalynn-summary|Crisdalynn Khinriss]] and [[delmar-summary|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
+He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[crissdalynn-khinriss|Crisdalynn Khinriss]] and [[players/delmar-fisk|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
 
 ## Appearance
 
@@ -80,7 +80,7 @@ The capuchin on his shoulder is [[npcs/Bisou]], and she is not decorative. She h
 - **[[Saltwright]]** — his vessel; eleven years on the [[Midchain|Midchain]]
 - **[[factions/Beaumonts-Crew|Beaumont's Crew]]** — his working crew
 - **[[npcs/Bisou]]** — capuchin companion; rides his left shoulder
-- **[[crissdalynn-summary|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
-- **[[delmar-summary|Delmar Fisk]]** — same
-- **[[stripes-summary|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
-- **[[jean-claude-summary|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island
+- **[[crissdalynn-khinriss|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
+- **[[players/delmar-fisk|Delmar Fisk]]** — same
+- **[[stripes-bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
+- **[[players/jean-claude-tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island

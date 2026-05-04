@@ -5,7 +5,7 @@ aliases:
 title: Simone Tabarnack
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:06:02.642-07:00
+published: 2026-05-03T23:28:21.226-07:00
 tags:
   - npc
   - grung
@@ -46,7 +46,7 @@ species: grung
 
 ## Overview
 
-Simone Tabarnack is [[Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[Sorn]] when Jean-Claude left.
+Simone Tabarnack is [[private/players/Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[Sorn]] when Jean-Claude left.
 
 She is the one who told their parents about Pell.
 
@@ -62,7 +62,7 @@ She was younger than him and always more certain. Where he questioned the system
 
 ## Connections
 
-- [[jean-claude-summary|Jean-Claude Tabarnack]] — her older brother; the one who ran
+- [[players/jean-claude-tabarnack|Jean-Claude Tabarnack]] — her older brother; the one who ran
 - [[Sorn]] — her garrison post and home island
 - [[Grung-Clans|The Grung Clans]] — the clan and caste structure she serves
 - [[Verdant-Teeth|Verdant Teeth]] — the island cluster she operates from

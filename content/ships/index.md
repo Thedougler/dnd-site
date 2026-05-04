@@ -3,7 +3,7 @@ publish: true
 title: Ships
 created: 2026-05-02T22:11:02.751-07:00
 modified: 2026-05-02
-published: 2026-05-02T22:33:56.155-07:00
+published: 2026-05-03T23:28:35.938-07:00
 tags:
   - player-resource
   - index
@@ -34,7 +34,7 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 **[[ships/Loud-Argument|The Loud Argument]]** — Gun brig, fifth ship of the fleet. The fleet's dedicated combat vessel. Not built to carry things.
 
-**[[ships/Vestra|The Vestra]]** — [[players/perren-summary|Perrin Black-Jaw]]'s ship. A small two-masted brig, Black-Jaw family heirloom. Destroyed before the campaign begins.
+**[[ships/Vestra|The Vestra]]** — [[perren-black-jaw|Perrin Black-Jaw]]'s ship. A small two-masted brig, Black-Jaw family heirloom. Destroyed before the campaign begins.
 
 **[[ships/The-Tallow-Bell|The Tallow Bell]]** — Tier 1 Waveservant shrine sloop used to move clergy, tribute records, ritual supplies, and sealed offerings between Shattered Sea ports.
 

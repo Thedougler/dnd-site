@@ -5,7 +5,7 @@ aliases:
 title: The Vestra
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-02T19:38:49.402-07:00
+published: 2026-05-03T23:28:35.984-07:00
 tags:
   - player-resource
   - ship
@@ -24,7 +24,7 @@ sources:
   - Homebrew
 campaign: shattered-sea
 ship_class: Two-masted brig
-captain: "[[players/perren-summary|Perrin Black-Jaw]]"
+captain: "[[perren-black-jaw|Perrin Black-Jaw]]"
 banner: raw/assets/banners/The-Vestra.webp
 ---
 
@@ -39,7 +39,7 @@ banner: raw/assets/banners/The-Vestra.webp
 
 ## Overview
 
-A small two-masted brig, older than most Midchain traffic, sized for a Rattkin captain and a light crew. A [[npcs/Nona-Black-Jaw|Black-Jaw]] family heirloom. [[players/perren-summary|Perrin]] had re-rigged her and added two gun mounts before she was lost.
+A small two-masted brig, older than most Midchain traffic, sized for a Rattkin captain and a light crew. A [[npcs/Nona-Black-Jaw|Black-Jaw]] family heirloom. [[perren-black-jaw|Perrin]] had re-rigged her and added two gun mounts before she was lost.
 
 She wasn't just transportation. She was his contacts, his capital, his crew, and his working life.
 
@@ -63,6 +63,6 @@ Fitted for a small independent crew — not cargo hauling or line fighting, just
 
 ## Connections
 
-- [[players/perren-summary|Perrin Black-Jaw]] — captain and owner
+- [[perren-black-jaw|Perrin Black-Jaw]] — captain and owner
 - [[npcs/Nona-Black-Jaw|Nona Black-Jaw]] — family connection to the vessel
 - [[ships/index|Ships]]

@@ -3,7 +3,7 @@ publish: true
 title: FAQ
 created: 2026-05-01T20:03:59.146-07:00
 modified: 2026-05-03
-published: 2026-05-02T20:14:20.494-07:00
+published: 2026-05-04T00:09:50.432-07:00
 tags:
   - player-resource
   - faq
@@ -35,9 +35,9 @@ Everything navigable on the public wiki is public and can be read. Nothing priva
 Read these:
 
 1. [[player-primer|The Shattered Sea Player Primer]]
-2. [[rules/Mortis|Mortis]]
-3. [[rules/Ship-Stats|Ship Stats]] (Optional)
-4. [[rules/Ship-Bastion|Ship Bastion]] (Optional)
+2. [[Mortis|Mortis]]
+3. [[Ship-Stats|Ship Stats]] (Optional)
+4. [[Ship-Bastion|Ship Bastion]] (Optional)
 5. Any homebrew species page you are considering from [[species/index|Playable Species]]
 
 You do not need to memorize the setting. You need a character with a reason to be aboard the _[[ships/Saltwright|Saltwright]]_, a reason to cross dangerous water, and a problem that could follow them into port.
@@ -57,10 +57,10 @@ For setting context, read the linked species page and any linked faction or lore
 
 The main public rules references are:
 
-- [[rules/Ship-Stats|Ship Stats]] — ship tiers, crew, cargo, travel, weapons, upgrades, and upkeep.
-- [[rules/Ship-Bastion|Ship Bastion]] — the party ship as a shared mobile bastion.
-- [[rules/Bastions|Bastions]] — 2024 Bastion rules reference.
-- [[rules/Mortis|Mortis]] — death, consequence, and targeted benefits.
+- [[Ship-Stats|Ship Stats]] — ship tiers, crew, cargo, travel, weapons, upgrades, and upkeep.
+- [[Ship-Bastion|Ship Bastion]] — the party ship as a shared mobile bastion.
+- [[Bastions|Bastions]] — 2024 Bastion rules reference.
+- [[Mortis|Mortis]] — death, consequence, and targeted benefits.
 
 ## How do I use this wiki with ChatGPT or another chatbot?
 

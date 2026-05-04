@@ -6,7 +6,7 @@ aliases:
 title: The Velvet Noose
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T23:27:59.244-07:00
+published: 2026-05-04T00:09:50.534-07:00
 tags:
   - player-resource
   - ship
@@ -191,5 +191,5 @@ The _Velvet Noose_ can be sailed by sixty but requires a full complement to comm
 - [[places/Central-Strait|Central Strait]] - convoy pressure and strategic theatre
 - [[Drowned-Maw|The Drowned Maw]] - salvage lanes, superstition, and bad-water escape options
 - [[lore/Umberlee|Umberlee]] - shrine terms, storm fear, and the cost of arrogance at sea
-- [[rules/Ship-Stats|Ship Stats]]
-- [[rules/Ship-Bastion|Ship Bastion]]
+- [[Ship-Stats|Ship Stats]]
+- [[Ship-Bastion|Ship Bastion]]

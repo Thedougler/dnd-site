@@ -6,7 +6,7 @@ aliases:
 title: The Bad Receipt
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T23:28:21.329-07:00
+published: 2026-05-04T00:09:50.509-07:00
 tags:
   - player-resource
   - ship
@@ -157,5 +157,5 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 - [[Chain-Council|The Chain Council]] — false commission cover and possible political embarrassment
 - [[Passage|The Passage]] — occasional runners, caches, and moral red lines around bondage
 - [[lore/Umberlee|Umberlee]] — paid, feared, and never trusted
-- [[rules/Ship-Stats|Ship Stats]]
-- [[rules/Ship-Bastion|Ship Bastion]]
+- [[Ship-Stats|Ship Stats]]
+- [[Ship-Bastion|Ship Bastion]]

@@ -7,7 +7,7 @@ aliases:
 title: The Shattered Sea
 created: 2026-05-03T03:03:53.226-07:00
 modified: 2026-05-03
-published: 2026-05-04T00:00:27.766-07:00
+published: 2026-05-04T00:09:50.430-07:00
 tags:
   - player-resource
   - index
@@ -75,12 +75,12 @@ You start at **Level 3** aboard the _[[ships/Saltwright|Saltwright]]_, a hard-us
 
 ## Rules
 
-- [[rules/Ship-Stats|Ship Stats]] — ship tiers, vehicle stats, crew, upkeep, cargo, weapons, and upgrades.
-- [[rules/Ship-Bastion|Ship Bastion]] — the _Saltwright_ as a shared mobile base.
-- [[rules/Bastions|Bastions]] — 2024 Bastion rules reference underlying the ship adaptation.
-- [[rules/Mortis|Mortis]] — optional Session Zero option: a permanent drawback paired with a targeted benefit.
+- [[Ship-Stats|Ship Stats]] — ship tiers, vehicle stats, crew, upkeep, cargo, weapons, and upgrades.
+- [[Ship-Bastion|Ship Bastion]] — the _Saltwright_ as a shared mobile base.
+- [[Bastions|Bastions]] — 2024 Bastion rules reference underlying the ship adaptation.
+- [[Mortis|Mortis]] — optional Session Zero option: a permanent drawback paired with a targeted benefit.
 
-Full rules index: [[rules/index|Rules Index]].
+Full rules index: [[reference/rules 1/index|Rules Index]].
 
 ---
 
@@ -142,6 +142,6 @@ Your ship. Hard-used, understaffed, working a route that no one with better opti
 - [[lore/index|Lore]]
 - [[places/index|Places]]
 - [[reference/index|Reference]]
-- [[rules/index|Rules]]
+- [[reference/rules 1/index|Rules]]
 - [[ships/index|Ships]]
 - [[species/index|Species]]

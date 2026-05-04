@@ -6,7 +6,7 @@ aliases:
 title: The Tallow Bell
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T23:27:59.249-07:00
+published: 2026-05-04T00:09:50.538-07:00
 tags:
   - player-resource
   - ship
@@ -150,5 +150,5 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 - [[Port-Tidefall|Port Tidefall]] - one regular shrine harbour
 - [[Drowned-Maw|The Drowned Maw]] - dangerous water where open-sea rites become more common
 - [[ships/index|Ships]]
-- [[rules/Ship-Stats|Ship Stats]]
-- [[rules/Ship-Bastion|Ship Bastion]]
+- [[Ship-Stats|Ship Stats]]
+- [[Ship-Bastion|Ship Bastion]]

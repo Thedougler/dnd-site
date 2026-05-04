@@ -6,7 +6,7 @@ aliases:
 title: The Glass Debt
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T23:27:59.239-07:00
+published: 2026-05-04T00:09:50.522-07:00
 tags:
   - player-resource
   - ship
@@ -178,5 +178,5 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 - [[Chain-Council|The Chain Council]] - political complication if the ship shelters in Kalowe
 - [[lore/Umberlee|Umberlee]] - shrine terms and storm fear
 - [[ships/The-Bad-Receipt|The Bad Receipt]] - smaller Tier 2 pirate contrast
-- [[rules/Ship-Stats|Ship Stats]]
-- [[rules/Ship-Bastion|Ship Bastion]]
+- [[Ship-Stats|Ship Stats]]
+- [[Ship-Bastion|Ship Bastion]]

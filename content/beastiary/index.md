@@ -6,7 +6,7 @@ aliases:
 title: Bestiary
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T03:33:36.351-07:00
+published: 2026-05-04T00:09:50.433-07:00
 tags:
   - player-resource
   - index
@@ -143,4 +143,4 @@ The [[places/Shattered-Sea|Shattered Sea]] has many things that call it home. Sa
 
 ---
 
-For ship rules relevant to creature encounters, see [[rules/Ship-Stats|Ship Stats]].
+For ship rules relevant to creature encounters, see [[Ship-Stats|Ship Stats]].

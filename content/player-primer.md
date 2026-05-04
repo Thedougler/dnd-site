@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T23:59:23.544-07:00
+published: 2026-05-04T00:09:50.424-07:00
 tags:
   - player-resource
 visibility: public
@@ -176,11 +176,11 @@ If you want to play something stranger, ask. [[Shattered-Sea|The Shattered Sea]]
 
 Your vessel is not just transportation. It is shelter, leverage, reputation, storage, escape route, and eventually home.
 
-Once the ship is yours, it operates as a combined **[[rules/Ship-Bastion|Ship Bastion]]**: the 2024 [[rules/Bastions|Bastion]] rules adapted for a mobile vessel.
+Once the ship is yours, it operates as a combined **[[Ship-Bastion|Ship Bastion]]**: the 2024 [[Bastions|Bastion]] rules adapted for a mobile vessel.
 
 - Facility slots are pooled across the party.
 - Weekly Bastion Turns handle upkeep, crew wages, facility orders, repairs, trade, visitors, and maritime events.
-- Ship size matters. A sloop cannot hold the same life, guns, cargo, and magical infrastructure as a frigate. See **[[rules/Ship-Stats|Ship Stats]]** for the tier system.
+- Ship size matters. A sloop cannot hold the same life, guns, cargo, and magical infrastructure as a frigate. See **[[Ship-Stats|Ship Stats]]** for the tier system.
 
 Early on, expect to think like sailors even before you own the deck under your feet. Crew, cargo, water, repairs, charts, port fees, bribes, and grudges all matter.
 
@@ -210,7 +210,7 @@ You might be a paying passenger, a working hand, a shipwrecked survivor, a stowa
 - Powerful, strange, optimized, comedic, or highly specific builds are welcome. The one hard requirement: make a character with some reason to work with the party.
 - Character death is possible. The DM will not aim to kill you, but the sea, the dice, and your decisions will not be padded. Death will be treated with narrative weight, and resurrection or a new same-level character are both on the table.
 
-### Optional: [[rules/Mortis|The Mortis System]]
+### Optional: [[Mortis|The Mortis System]]
 
 A Mortis is a Session Zero option that pairs a permanent mechanical drawback with a targeted mechanical benefit. It is not a curse and not a punishment. It is a fact about your character expressed through mechanics: the same truth that limits them also makes them exceptional.
 

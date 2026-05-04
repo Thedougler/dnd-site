@@ -6,7 +6,7 @@ aliases:
 title: The Knife's Wake
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:17:50.592-07:00
+published: 2026-05-04T00:09:50.492-07:00
 tags:
   - player-resource
   - ship
@@ -138,8 +138,8 @@ Replacing the Captain's Cabin with an Expanded Cargo Hold is possible, but it ch
 ## Connections
 
 - [[ships/index|Ships]]
-- [[rules/Ship-Stats|Ship Stats]]
-- [[rules/Ship-Bastion|Ship Bastion]]
+- [[Ship-Stats|Ship Stats]]
+- [[Ship-Bastion|Ship Bastion]]
 - [[Midchain|Midchain]] — ideal hunting ground for reef-channel ambushes
 - [[Dravosi-Crown]] — the kind of authority the ship avoids rather than fights
 

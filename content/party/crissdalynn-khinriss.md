@@ -6,7 +6,7 @@ aliases:
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T00:00:28.459-07:00
+published: 2026-05-04T00:10:36.448-07:00
 tags:
   - player-character
   - pc
@@ -83,7 +83,7 @@ She found a berth on the _Red Lady_ as lookout and cartographer, spent two years
 
 Crisdalynn was in the crow's nest when the fog came in — so thick the water disappeared from sight around all five ships at once. A rogue trench opened beneath the fleet and all five ships plunged eighty feet into a valley of water. She dove, grabbed Admiral Fisk, and flew straight back up. She had only risen fifty feet when the walls of water closed in. Her momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet was swallowed whole.
 
-Two days on wreckage. Then [[Saltwright|the *Saltwright*]] found them.
+Two days on wreckage. Then the [[Saltwright|Saltwright]] found them.
 
 The charts are still in the satchel. The task is still unfinished. She hasn't gone back.
 

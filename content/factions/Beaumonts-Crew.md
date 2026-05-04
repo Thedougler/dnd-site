@@ -5,7 +5,7 @@ aliases:
 title: Beaumont's Crew
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T21:50:52.087-07:00
+published: 2026-05-04T00:09:50.540-07:00
 tags:
   - faction
   - player-resource
@@ -30,7 +30,7 @@ sources:
 
 # Beaumont's Crew
 
-The working hands of the _[[Saltwright]]_. Four hirelings filling the ship's required [[rules/Ship-Stats#Crew Roles|operational roles]] under [[npcs/Beaumont-Sel|Beaumont Sel]]. None of them are remarkable. All of them are competent.
+The working hands of the _[[Saltwright]]_. Four hirelings filling the ship's required [[Ship-Stats#Crew Roles|operational roles]] under [[npcs/Beaumont-Sel|Beaumont Sel]]. None of them are remarkable. All of them are competent.
 
 ---
 

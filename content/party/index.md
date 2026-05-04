@@ -7,7 +7,7 @@ aliases:
 title: The Party
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-04T00:00:27.767-07:00
+published: 2026-05-04T00:03:07.699-07:00
 tags:
   - player-resource
   - index
@@ -38,7 +38,7 @@ updated: 2026-05-03
 
 ## Player character summaries
 
-- [[stripes-bitemore|Belmore]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
+- [[stripes-bitemore|Stripes]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
 - [[party/delmar-fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
 - [[crissdalynn-khinriss|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
 - [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.

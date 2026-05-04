@@ -4,10 +4,10 @@ aliases:
   - Players
   - Player Characters
   - PCs
-title: The Party
+title: Party
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-04T00:03:07.699-07:00
+published: 2026-05-04T00:22:36.358-07:00
 tags:
   - player-resource
   - index

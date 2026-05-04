@@ -2,8 +2,8 @@
 publish: true
 title: Calveno
 created: 2026-05-01
-modified: 2026-05-03
-published: 2026-05-03T23:56:29.868-07:00
+modified: 2026-05-04
+published: 2026-05-04T01:17:36.055-07:00
 tags:
   - location
   - city
@@ -24,7 +24,7 @@ relationships:
     target: The Tessarine Concordat
   - relation: contains
     target: The Warren
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - Homebrew
 source_count: 1
@@ -45,9 +45,14 @@ Rumour has it the [[Warren]] is hidden somewhere within Calveno, though only a m
 
 ---
 
+## Places in Calveno
+
+- [[places/crown-islands/calveno/Warren|The Warren]] — Rattkin settlement beneath the Saltmarsh district, in old drainage channels and hidden holds; the deepest anchor of the Passage.
+- [[places/crown-islands/calveno/Cats-Curios|Cat's Curios]] — referral-only artificer workshop; no sign, no walk-ins.
+
+---
+
 ## See Also
 
-- Tessarine Trade House - [[Port-Tidefall|Port Tidefall]]
-- [[Warren|The Warren]]
-- Cat's Curio's
-- [[places/crown-islands/index|The Crown Islands]]
+- [[places/crown-islands/index|The Crown Islands]] — regional overview
+- [[places/crown-islands/calders-tooth/port-tidefall/Tessarine-Trade-House|Tessarine Trade House — Port Tidefall]] — Concordat factor office on Calder's Tooth

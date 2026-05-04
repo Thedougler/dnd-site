@@ -4,8 +4,8 @@ aliases:
   - Crown Islands
 title: The Crown Islands
 created: 2026-05-01
-modified: 2026-05-03
-published: 2026-05-03T23:55:31.376-07:00
+modified: 2026-05-04
+published: 2026-05-04T01:16:33.224-07:00
 tags:
   - location
   - crown-islands
@@ -39,7 +39,7 @@ relationships:
     target: The Knife's Wake
   - relation: rumored_threat
     target: The Glass Debt
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - Homebrew
 source_count: 1
@@ -64,10 +64,22 @@ Most pirate ships avoid the Crown Islands unless they have a very good exit. Sma
 
 ---
 
+## Islands & Settlements
+
+### [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
+
+The western gatekeeper island at the mouth of the [[places/Central-Strait|Central Strait]]. Sheer windward cliffs, fog-choked interior ridge, and mangrove mudflats on the eastern side. The Crown's inspection apparatus lives here — every ship entering the Strait is expected to stop and answer questions.
+
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — Dravosi fortress-port carved into the cliff face in three tiers; cannon battery, inspection pier, and the main Strait checkpoint.
+- [[places/crown-islands/calders-tooth/South-Harbour|South Harbour]] — eastern working harbour on the calmer, muddier side of the island.
+
+### [[places/crown-islands/calveno/index|Calveno]]
+
+Canal city of pale stone and witnessed deals, the oldest continuous commercial centre in the Scatter. Seven merchant families hold council seats. The [[Tessarine-Concordat|Tessarine Concordat]] factor house stands at the harbour end of the Mercatura. Rumour connects the city to [[places/crown-islands/calveno/Warren|the Warren]], though only a member of the Passage could confirm this.
+
+---
+
 ## See Also
 
-- [[Calders-Tooth|Calder's Tooth]]
-- [[Port-Tidefall|Port Tidefall]]
-- [[places/crown-islands/calveno/index|Calveno]]
-- [[Fort-Crestwall|Fort Crestwall]]
-- [[High-Eyrie|The High Eyrie]]
+- [[places/Shattered-Sea|The Shattered Sea]] — regional overview
+- [[places/Central-Strait|The Central Strait]] — main shipping corridor flanked by the Crown Islands

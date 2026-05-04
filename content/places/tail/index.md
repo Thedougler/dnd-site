@@ -5,8 +5,8 @@ aliases:
   - The Tail
 title: The Tail
 created: 2026-05-01
-modified: 2026-05-03
-published: 2026-05-03T23:54:26.718-07:00
+modified: 2026-05-04
+published: 2026-05-04T01:23:29.647-07:00
 tags:
   - location
   - region
@@ -51,7 +51,7 @@ relationships:
     target: The Glass Debt
   - relation: rumored_threat
     target: The Velvet Noose
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - Homebrew
 source_count: 1
@@ -64,7 +64,7 @@ confidence_level: medium
 
 ## Overview
 
-The Tail is the eastern end of the Verdant Scatter, where both island arcs narrow and converge near the [[Drowned-Maw|Drowned Maw]]. The islands here grow fewer, taller, and more vertical than the rest of the Sea: high cliffs, wind exposure, and faces of stone dropping straight into cold deep water.
+The Tail is the eastern end of the Verdant Scatter, where both island arcs narrow and converge near the [[places/tail/Drowned-Maw|Drowned Maw]]. The islands here grow fewer, taller, and more vertical than the rest of the Sea: high cliffs, wind exposure, and faces of stone dropping straight into cold deep water.
 
 The communities here have lived beside the trench for generations. They know the shelf edge, the fog schedules, the reefs that changed last season, and where the Maw's discolouration begins on a clear day. Less settled than the [[places/crown-islands/index|Crown Islands]], not empty, and not forgiving.
 
@@ -100,17 +100,25 @@ Nobody in the Tail treats that as a clean identification. The attack happened ea
 
 ## Shelfworks Access
 
-Salvage operations bound for the [[Shelfworks|Shelfworks]] stage from the closest inhabited Tail islands before heading out to the open-water dive site. The Tail is where crews take on pilots, supplies, rope, weights, replacement fittings, and the kind of advice nobody writes down because writing it down makes it look optional.
+Salvage operations bound for the [[places/tail/Shelfworks|Shelfworks]] stage from the closest inhabited Tail islands before heading out to the open-water dive site. The Tail is where crews take on pilots, supplies, rope, weights, replacement fittings, and the kind of advice nobody writes down because writing it down makes it look optional.
 
 Weather, current, and depth change quickly here. A pleasant morning can become instrument work by noon.
 
 ---
 
+## Places in the Tail
+
+- [[places/tail/High-Eyrie|The High Eyrie]] — cliff-top settlement and the Tail's main inhabited anchorage.
+- [[places/tail/Drowned-Maw|The Drowned Maw]] — eastern trench at the convergence point; compass drift begins within five miles of its edge.
+- [[places/tail/Shelfworks|The Shelfworks]] — open-water salvage site on the Maw's western shelf; crews stage from Tail islands before heading out.
+- [[places/tail/Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw.
+
+---
+
 ## See Also
 
-- [[places/Central-Strait|The Central Strait]]
-- [[places/crown-islands/index|The Crown Islands]]
-- [[Midchain|The Midchain]]
-- [[Drowned-Maw|The Drowned Maw]]
-- [[Shelfworks|The Shelfworks]]
-- [[High-Eyrie|The High Eyrie]]
+- [[places/Shattered-Sea|The Shattered Sea]] — wider archipelago context
+- [[places/Central-Strait|The Central Strait]] — main shipping corridor to the west
+- [[places/crown-islands/index|The Crown Islands]] — northern arc the Tail connects to
+- [[places/midchain/index|The Midchain]] — southern arc the Tail connects to
+- [[places/Outer-Reach|The Outer Reach]] — open ocean east of the Maw

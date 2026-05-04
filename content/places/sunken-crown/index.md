@@ -5,8 +5,8 @@ aliases:
   - The Sunken Crown
 title: The Sunken Crown
 created: 2026-05-02
-modified: 2026-05-03
-published: 2026-05-03T23:59:21.539-07:00
+modified: 2026-05-04
+published: 2026-05-04T01:22:16.127-07:00
 tags:
   - location
   - region
@@ -37,7 +37,7 @@ relationships:
     target: Giant Lizard
   - relation: threatened_by
     target: Giant Bat
-updated: 2026-05-03
+updated: 2026-05-04
 sources:
   - Homebrew
 source_count: 1
@@ -78,15 +78,15 @@ The Keth-Naar watchers have noted, without elaborating to outsiders, that the he
 
 ## The Five Islands
 
-**[[Keth-Naar|Keth-Naar]]** — The main settlement. Tabaxi hunting community, black basalt promontories, tide pools. The region's clearest point of contact for outsiders.
+**[[places/sunken-crown/Keth-Naar|Keth-Naar]]** — The main settlement. Tabaxi hunting community, black basalt promontories, tide pools. The region's clearest point of contact for outsiders.
 
-**[[Vel-Orn|Vel-Orn]]** — The shrine island at the Blue Hole's centre. Barren, difficult to approach, kept outside ordinary travel.
+**[[places/sunken-crown/Vel-Orn|Vel-Orn]]** — The shrine island at the Blue Hole's centre. Barren, difficult to approach, kept outside ordinary travel.
 
-**[[Ral-Arn|Ral-Arn]]** — The record island. Where the oldest family histories and seasonal marks are kept in stone.
+**[[places/sunken-crown/Ral-Arn|Ral-Arn]]** — The record island. Where the oldest family histories and seasonal marks are kept in stone.
 
-**[[Dath-Mar|Dath-Mar]]** — The refuge island. Maintained for emergencies, shelter, and solitary retreat.
+**[[places/sunken-crown/Dath-Mar|Dath-Mar]]** — The refuge island. Maintained for emergencies, shelter, and solitary retreat.
 
-**[[Meth-Var|Meth-Var]]** — The watch island, facing open Maw waters. Staffed by rotating watchers rather than permanent inhabitants.
+**[[places/sunken-crown/Meth-Var|Meth-Var]]** — The watch island, facing open Maw waters. Staffed by rotating watchers rather than permanent inhabitants.
 
 ---
 
@@ -96,25 +96,19 @@ Getting here requires crossing east of the Drowned Maw into the Outer Reach — 
 
 ---
 
-## Region Overview
-
-- [[places/Outer-Reach|The Outer Reach]] — open ocean beyond the Drowned Maw.
-- [[Drowned-Maw|The Drowned Maw]] — eastern trench crossed before reaching these waters.
-- [[places/Shattered-Sea|The Shattered Sea]] — wider archipelago of reefs, ports, colonial claims, and dangerous routes.
-
 ## The Five Islands
 
-- [[Keth-Naar|Keth-Naar]] — main tabaxi settlement on black basalt promontories, with tide pools, hunting routes, and the clearest point of contact for visitors.
-- [[Vel-Orn|Vel-Orn]] — barren shrine island at the Blue Hole's centre, kept apart from ordinary travel.
-- [[Ral-Arn|Ral-Arn]] — memory island where family lines, tide accounts, storm signs, and seasonal records are kept in stone.
-- [[Dath-Mar|Dath-Mar]] — refuge island for emergencies, hard weather, and solitary decisions.
-- [[Meth-Var|Meth-Var]] — eastern watch island facing open Maw waters, staffed by rotating Keth-Naar watchers.
+- [[places/sunken-crown/Keth-Naar|Keth-Naar]] — main tabaxi settlement on black basalt promontories, with tide pools, hunting routes, and the clearest point of contact for visitors.
+- [[places/sunken-crown/Vel-Orn|Vel-Orn]] — barren shrine island at the Blue Hole's centre, kept apart from ordinary travel.
+- [[places/sunken-crown/Ral-Arn|Ral-Arn]] — memory island where family lines, tide accounts, storm signs, and seasonal records are kept in stone.
+- [[places/sunken-crown/Dath-Mar|Dath-Mar]] — refuge island for emergencies, hard weather, and solitary decisions.
+- [[places/sunken-crown/Meth-Var|Meth-Var]] — eastern watch island facing open Maw waters, staffed by rotating Keth-Naar watchers.
 
-## Shrine And Water-Debt
+## Shrine & Water-Debt
 
-- [[Umberlee-Shrine|Umberlee's Shrine — Sunken Crown]] — old shrine cut into black stone on Vel-Orn, tied to drowned names, offerings, and water-debt.
+- [[places/sunken-crown/Umberlee-Shrine|Umberlee's Shrine — Sunken Crown]] — old shrine cut into black stone on Vel-Orn, tied to drowned names, offerings, and water-debt.
 - [[lore/Umberlee|Umberlee]] — deity associated with the sea's debts and what the water takes.
-- [[Waveservants|Waveservants]] — shrine-keepers and sea-priests associated with Umberlee's local worship.
+- [[factions/Waveservants|Waveservants]] — shrine-keepers and sea-priests associated with Umberlee's local worship.
 
 ## Access Notes
 
@@ -140,4 +134,8 @@ Getting here requires crossing east of the Drowned Maw into the Outer Reach — 
 
 ---
 
-- [[places/index|Places]] · [[index|The Shattered Sea]]
+## See Also
+
+- [[places/Outer-Reach|The Outer Reach]] — open ocean region the Sunken Crown sits within
+- [[places/tail/Drowned-Maw|The Drowned Maw]] — eastern trench crossed before reaching these waters
+- [[places/Shattered-Sea|The Shattered Sea]] — wider archipelago context

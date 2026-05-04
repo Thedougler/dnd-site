@@ -3,7 +3,7 @@ publish: true
 title: Stripes Bitemore
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T21:07:55.596-07:00
+published: 2026-05-03T21:18:44.267-07:00
 tags:
   - player-character
   - pc
@@ -38,7 +38,8 @@ confidence_level: medium
 
 ## Overview
 
-**Stripes Bitemore** is a tiger tabaxi fighter, shrine guardian, and current passenger aboard [[Saltwright|the *Saltwright*]]. His purpose is simple enough: he's been sent to find out why [[lore/Umberlee|Umberlee]] is angry and do something about it.
+**Stripes Bitemore** is a tiger tabaxi fighter, shrine guardian, and current passenger aboard the [[Saltwright|Saltwright]]
+. His purpose is simple enough: he's been sent to find out why the sea is angry and do something about it.
 
 He's not subtle. He's not a diplomat. Where most sailors deal with problems by talking their way around them, Stripes looks built to stand in the middle and not move.
 
@@ -86,7 +87,7 @@ The obligation underneath all of it is real. He's not out here for adventure or 
 - Sent by his tribe to investigate why [[lore/Umberlee|Umberlee]] is angry.
 - Bartered for passage west aboard the _[[Saltwright|Saltwright]]_ from [[Keth-Naar]].
 - Darkvision and climbing ability let him operate from angles many companions cannot reach.
-- Carries **Bracers of Archery** — uncommon magic item.
+- Carries **[[Bracers-of-Archery|Bracers of Archery]]** — uncommon magic item.
 
 ---
 
@@ -97,7 +98,7 @@ The obligation underneath all of it is real. He's not out here for adventure or 
 - **Defenses:** AC 18.
 - **Training:** Athletics, Perception, Stealth.
 - **Battle Master resources:** 4d8 superiority dice.
-- **Magic item:** Bracers of Archery (uncommon) — +2 to ranged weapon attack rolls; proficiency with longbow and shortbow while worn.
+- **Magic item:** [[Bracers-of-Archery|Bracers of Archery]] (uncommon) — +2 to ranged weapon attack rolls; proficiency with longbow and shortbow while worn.
 
 ---
 
@@ -111,6 +112,6 @@ The obligation underneath all of it is real. He's not out here for adventure or 
 
 ## Public Standing
 
-Stripes doesn't have much of a reputation west of the Sunken Crown yet. What people see is a tiger tabaxi with a fighter's build, a Germanic lilt, and an apparent need to demonstrate his capabilities to anyone within sight. The bracers get noticed. The accent gets noticed. The spear gets noticed.
+Stripes doesn't have much of a reputation west of the Sunken Crown yet. What people see is a tiger tabaxi with a fighter's build, a Germanic lilt, and an apparent need to demonstrate his capabilities to anyone within sight. The [[Bracers-of-Archery|bracers]] get noticed. The accent gets noticed. The spear gets noticed.
 
 What's underneath that — the shrine obligation, the dying blessing, the weight of what the elders asked him to do — hasn't come up yet.

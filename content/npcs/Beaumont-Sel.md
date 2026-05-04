@@ -6,7 +6,7 @@ aliases:
 title: Beaumont Sel
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T20:34:32.540-07:00
+published: 2026-05-03T21:44:54.263-07:00
 tags:
   - npc
   - captain
@@ -78,6 +78,7 @@ The capuchin on his shoulder is [[npcs/Bisou]], and she is not decorative. She h
 ## Connections
 
 - **[[Saltwright]]** — his vessel; eleven years on the [[Midchain|Midchain]]
+- **[[factions/Beaumonts-Crew|Beaumont's Crew]]** — his working crew
 - **[[npcs/Bisou]]** — capuchin companion; rides his left shoulder
 - **[[crissdalynn-summary|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
 - **[[delmar-summary|Delmar Fisk]]** — same

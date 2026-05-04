@@ -5,7 +5,7 @@ aliases:
 title: The Saltwright
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-03T19:14:06.468-07:00
+published: 2026-05-03T21:44:48.335-07:00
 tags:
   - player-resource
   - ship
@@ -68,7 +68,7 @@ Roughly six feet of headroom beneath the deck beams. Cargo stacked tight among b
 
 **[[npcs/Bisou|Bisou]]** — Beaumont's capuchin. Has free run of the ship. Maintains a hoard in the hold. Is not crew in any formal sense but acts like he is.
 
-The full crew roster beyond the captain is not yet established. At least one crew member keeps stank leaf in a glass jar and rolled cigarettes.
+See [[factions/Beaumonts-Crew|Beaumont's Crew]] for the full roster.
 
 ---
 
@@ -81,6 +81,7 @@ Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe
 ## Connections
 
 - [[npcs/Beaumont-Sel|Beaumont Sel]] — captain
+- [[factions/Beaumonts-Crew|Beaumont's Crew]] — working crew roster
 - [[npcs/Bisou|Bisou]] — ship's capuchin
 - [[players/perren-summary|Perrin Black-Jaw]] — stowed away at [[Keth-Naar|Keth Naar]] after the _Vestra_ went down
 - [[stripes-summary|Belmore]] — bargained passage west from Keth Naar

@@ -7,7 +7,7 @@ aliases:
 title: Sentinels of the Eyrie
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T00:02:31.517-07:00
+published: 2026-05-03T21:02:57.930-07:00
 tags:
   - faction
   - player-resource
@@ -88,6 +88,16 @@ The order's public principles are:
 The order is small by design: a working observation post, not an army. Masters train students, assign pilgrims, maintain ledgers, and decide which circuits matter. Sentinels conduct aerial observation runs over the Maw and nearby waters, then return to log positions, conditions, and events in standardized notation.
 
 Ranks are informal outside the order. Outsiders generally hear "student," "Sentinel," and "master." Internal distinctions are expressed through circuit assignments and ledger permissions rather than public titles.
+
+## The Needle
+
+At the close of formal training, a master presents the student with a tattoo needle. The attunement is performed alone. The resulting mark — the [[Eldritch-Claw-Tattoo|Eldritch Claw Tattoo]] — traces the tendons of the hands and forearms and is one of the order's oldest continuous traditions, older than the current building and older than any ledger entry that attempts to explain its origin.
+
+The order calls the tattoo's active ability the _Long Reach_. The doctrine's interpretation: a Sentinel who cannot extend their awareness past the reach of their own arm has not yet learned to observe. The ability makes the metaphor physical.
+
+Most Sentinels receive the needle on the same day they receive their pilgrimage task.
+
+---
 
 ## Pilgrimage Tradition
 

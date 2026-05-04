@@ -3,7 +3,7 @@ publish: true
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-02T23:30:50.430-07:00
+published: 2026-05-03T21:13:30.681-07:00
 tags:
   - player-character
   - pc
@@ -43,15 +43,13 @@ confidence_level: medium
 
 **Jean-Claude Tabarnack**, sometimes known as '_Pierre Le Merde_', is a three-foot-tall blue Grung Gloomstalker Ranger, twelve years old and early middle-age by the standards of his kind. He comes from the Botukuri clan of the [[Verdant-Teeth|Verdant Teeth]] — a closed, hierarchical Grung society built on slavery, caste, and the assumption that this is simply how things are. He disagrees. He has disagreed for long enough that he left, and the manner of his leaving burned every bridge behind him.
 
-He is, by most appearances on a dockside, a compact blue amphibian in a red beret with a fake moustache. This is not a joke. His reasoning for the disguise is entirely sincere and, on some level, correct. He has not been found. He does not find this remarkable.
-
-He is also, underneath the moustache, one of the most transparent people in any room: honest to a fault, observant by instinct, and incapable of hiding what he thinks in any way that matters. The two facts — the disguise that works, the honesty that is impossible to mask — coexist in him without apparent tension.
+On a dockside he reads as a compact blue amphibian in a red beret with a fake moustache. This is not a joke. His reasoning for the disguise is entirely sincere and, on some level, correct. He has not been found. Underneath it, he is one of the most transparent people in any room: honest to a fault, observant by instinct, incapable of hiding what he thinks in any way that matters. The disguise works. The honesty is impossible to mask. He doesn't appear to find this contradictory.
 
 ---
 
 ## Appearance
 
-Toxic-blue Grung skin, bright and unmistakable. A compact frame, visibly scarred, worn without apology. He stands three feet tall and carries himself like someone who stopped being surprised by hostile rooms a long time ago. His eyes have the particular stillness of a creature that has spent years noticing things before anyone else does.
+Toxic-blue Grung skin, bright and unmistakable. A compact frame, visibly scarred, worn without apology. He stands three feet tall and carries himself like someone who stopped being surprised by hostile rooms a long time ago. His eyes have a stillness that comes from years of noticing things before anyone else does.
 
 The beret is red. The moustache is false. He wears both with the conviction of someone who has thought this through.
 
@@ -93,17 +91,15 @@ The grief for Pell — for the slaves who died behind him, for what the month of
 
 ## Character
 
-Jean-Claude cannot lie. Not in any way that holds. His face, his posture, his blunt and entirely legible amphibian stare give him away before he finishes the sentence. He has accepted this. It has cost him in ways he does not enumerate. The same quality that makes him a poor liar makes him an extraordinary observer: nothing escapes his attention, no trail goes cold, no ambush gets through without some part of him registering it first.
+Jean-Claude cannot lie. Not in any way that holds. His face, his posture, his blunt and entirely legible amphibian stare give him away before he finishes the sentence. He has accepted this. The same quality that makes him a poor liar makes him an extraordinary observer: nothing escapes his attention, no trail goes cold, no ambush gets through without some part of him registering it first.
 
-In any crisis, his first three seconds are all observation — he reads the room before he commits to anything. Unless someone is being actively harmed. If he is watching abuse or slavery in progress, the observation stops. He acts, immediately and without tactical calculation, and the consequences sort themselves out after.
-
-This is not a choice he is making in the moment. It is simply what happens. He is aware of it.
+In any crisis, his first three seconds are all observation — he reads the room before he commits to anything. Unless someone is being actively harmed. If he is watching abuse or slavery in progress, the observation stops and he acts, immediately, without tactical calculation. The consequences sort themselves out after. He doesn't decide to do this. It just happens. He is aware of it.
 
 He has a deep and abiding respect for [[lore/Umberlee|Umberlee]] — not because she is good, but because she is indifferent. The sea does not care about caste or colour or who your parents are. "Equally a bitch to everyone," he has said, more than once. "There is something almost fair in that." For a creature raised in a society where your colour determined your entire life from birth, genuine indifference reads as a kind of justice.
 
 He is afraid of birds. Not cripplingly, not always — if a bird is calm and unthreatening he holds it together. But avian creatures make him uneasy in the particular way of a Grung who grew up knowing what large birds do to small frogs, and when one moves fast or turns aggressive the fear shows plainly on his face. He has never once managed to hide it.
 
-He also believes, in complete sincerity, that any non-combat skin-to-skin contact between individuals in a social setting is the beginning of a mating ritual. This is not a Grung idiom or figure of speech. It is how Grung physiology and courtship actually work. Watching people hug each other and walk away as if nothing has happened genuinely baffles and mildly horrifies him. He has decided not to comment unless directly asked.
+He also believes, in complete sincerity, that any non-combat skin-to-skin contact is the beginning of a mating ritual. This is not a Grung idiom. It is how Grung physiology and courtship actually work. Watching people hug each other and walk away as if nothing has happened genuinely baffles and mildly horrifies him. He has decided not to comment unless directly asked.
 
 ---
 
@@ -131,6 +127,6 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 
 Jean-Claude's reputation in human ports is small and specific: he is the blue Grung in the moustache. The one who appeared on the _[[Saltwright|Saltwright]]_ under pursuit and did not explain much afterward. The one who speaks with uncomfortable directness about slavery and caste and the society he came from, and who watches avian creatures with an expression that is difficult to categorize.
 
-He is not easy to read wrong, because he is not trying to be read at all. Whatever he is thinking is already visible on his face. In a world full of people performing, that tends to be more disarming than any disguise.
+He doesn't try to be hard to read. He just isn't trying to be read at all. Whatever he is thinking is already on his face. In a world full of people performing, that tends to be more disarming than any disguise.
 
 The beret helps too.

@@ -6,7 +6,7 @@ aliases:
 title: Keth-Naar
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T03:39:57.263-07:00
+published: 2026-05-03T20:36:07.030-07:00
 tags:
   - location
   - settlement
@@ -45,6 +45,8 @@ confidence_level: medium
 ## Overview
 
 Keth-Naar is not one island but twelve promontories of ancient black basalt, clustered close enough that you cross between them at low tide on stepping-stone paths worn smooth by generations of feet. It sits at the edge of the Blue Hole — the vast, dark-indigo circle of deep water at the heart of the Sunken Crown — and from the highest point on the island the boundary between the turquoise shallows and that indigo drop is clean as a cut. The windward faces are spray-lashed and sharp-edged. The leeward sides shelter the tabaxi community that has lived here longer than any outsider chart acknowledges: hunters, readers of currents, people who know which tide channel the amberjack runs in and which deep shadow off the reef edge to leave alone.
+
+The tribe speaks with a distinct accent — clipped consonants and a precise, slightly stiff cadence that persists through Tabaxi inflection. Sailors who have traded around the Sunken Crown recognize it immediately as Keth-Naar speech. Those who have not heard it before tend to describe it as formal, or crisp, or occasionally as though the speaker is annoyed. They are not usually annoyed. It is simply how the island sounds.
 
 Visitors who arrive carefully may be watched before they are spoken to. This is not unfriendliness. It is the habit of a community that has been here long enough to know what a ship that does not read the water correctly looks like, and what usually follows it.
 

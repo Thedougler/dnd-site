@@ -6,7 +6,7 @@ aliases:
 title: Beaumont Sel
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T20:34:32.540-07:00
 tags:
   - npc
   - captain
@@ -81,5 +81,5 @@ The capuchin on his shoulder is [[npcs/Bisou]], and she is not decorative. She h
 - **[[npcs/Bisou]]** — capuchin companion; rides his left shoulder
 - **[[crissdalynn-summary|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
 - **[[delmar-summary|Delmar Fisk]]** — same
-- **[[Belmore]]** — first crew member; aboard before the others
+- **[[stripes-summary|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
 - **[[jean-claude-summary|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island

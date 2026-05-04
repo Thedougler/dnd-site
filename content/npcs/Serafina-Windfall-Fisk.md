@@ -6,12 +6,10 @@ aliases:
 title: Serafina Windfall Fisk
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:27:58.932-07:00
+published: 2026-05-03T23:48:08.479-07:00
 tags:
-  - npc
   - aasimar
   - fortune-teller
-  - player-resource
 visibility: public
 audience: players
 summary: Aasimar fortune-teller and compelled wanderer, Delmar Fisk's wife — drawn to specific places at specific times by a precognitive pull she has stopped trying to fight, currently somewhere in the Scatter.
@@ -29,7 +27,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: aasimar
 ---
 
 # Serafina Windfall Fisk

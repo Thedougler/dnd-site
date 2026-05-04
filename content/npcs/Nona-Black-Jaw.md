@@ -6,12 +6,10 @@ aliases:
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:28:34.271-07:00
+published: 2026-05-03T23:47:07.328-07:00
 tags:
-  - npc
   - rattkin
   - matriarch
-  - player-resource
 visibility: public
 audience: players
 summary: Rattkin matriarch, senior elder of the Tangle, and Perrin's grandmother — the most senior voice in the Warren, the person he is not ready to call, and the woman whose late husband built the Vestra.
@@ -33,7 +31,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: rattkin
 ---
 
 # Nona Black-Jaw

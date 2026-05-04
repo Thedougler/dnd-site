@@ -6,12 +6,9 @@ aliases:
 title: Catarina Da'Virelli
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.479-07:00
+published: 2026-05-03T23:45:04.254-07:00
 tags:
-  - npc
   - artificer
-  - calveno
-  - player-resource
 visibility: public
 audience: players
 summary: An artificer operating out of Calveno by referral only — the foremost living expert on Antheri materials, and the person to find if you need something built that shouldn't exist yet.
@@ -31,7 +28,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: human
 ---
 
 # Catarina Da'Virelli

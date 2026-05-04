@@ -5,12 +5,9 @@ aliases:
 title: Pell
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:28:21.232-07:00
+published: 2026-05-03T23:47:35.824-07:00
 tags:
-  - npc
-  - player-resource
   - gnome
-  - jean-claude
 visibility: public
 audience: players
 summary: Gnome labour slave at Sorn — the person who talked to Jean-Claude as if he were an equal, told him there were other ways of living, and whose death he could not prevent.
@@ -28,7 +25,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: gnome
 ---
 
 # Pell

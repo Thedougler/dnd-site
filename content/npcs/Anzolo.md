@@ -5,12 +5,9 @@ aliases:
 title: Anzolo
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.079-07:00
+published: 2026-05-03T23:44:09.635-07:00
 tags:
-  - npc
   - tortle
-  - player-resource
-  - calveno
 visibility: public
 audience: players
 summary: A contact in Calveno vouched for by Nona Black-Jaw — "a nice young man who always helps an old lady out with chores."
@@ -26,7 +23,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: tortle
 ---
 
 # Anzolo

@@ -3,13 +3,11 @@ publish: true
 title: Bisou
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T23:44:50.435-07:00
 tags:
-  - npc
   - beast
   - companion
   - monkey
-  - player-resource
 visibility: public
 audience: players
 summary: Beaumont Sel's capuchin companion — eleven years on his left shoulder, amber-eyed, quick-fingered, and constitutionally opposed to his pipe staying in his mouth.
@@ -25,7 +23,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: capuchin monkey
 ---
 
 # Bisou

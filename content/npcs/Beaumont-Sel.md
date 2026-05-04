@@ -6,12 +6,10 @@ aliases:
 title: Beaumont Sel
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:28:46.883-07:00
+published: 2026-05-03T23:44:32.793-07:00
 tags:
-  - npc
   - captain
   - tortle
-  - player-resource
 visibility: public
 audience: players
 summary: A tortle captain who has run the Midchain route for eleven years — steady, patient, and harder to rattle than his ship.
@@ -35,7 +33,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: tortle
 ---
 
 # Beaumont Sel

@@ -5,11 +5,8 @@ aliases:
 title: Iacopo Fieschi
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.077-07:00
+published: 2026-05-03T23:45:40.941-07:00
 tags:
-  - npc
-  - player-resource
-  - concordat
   - calveno
 visibility: public
 audience: players
@@ -26,9 +23,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-source_count: 1
-confidence_level: low
-species: human
 ---
 
 # Iacopo Fieschi

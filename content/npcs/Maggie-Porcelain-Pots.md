@@ -6,14 +6,12 @@ aliases:
 title: Maggie Porcelain Pots
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:27:58.931-07:00
+published: 2026-05-03T23:46:13.382-07:00
 tags:
-  - npc
   - dragonborn
-  - player-resource
 visibility: public
 audience: players
-summary: Dragonborn potter, peach-and-cream scales, three generations of kilns behind her, and the woman who left Delmar Fisk with a shiner that lasted a week — a fact that is locally famous and that she has never once felt the need to explain.
+summary: Dragonborn potter, peach-and-cream scales, three generations of kilns behind her, and the woman who left Delmar Fisk with a shiner that lasted a week — a fact that is locally famous for.
 type: npc
 subtype: npc-summary
 status: active
@@ -24,7 +22,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: dragonborn
 ---
 
 # Maggie Porcelain Pots

@@ -5,12 +5,10 @@ aliases:
 title: Simone Tabarnack
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:28:21.226-07:00
+published: 2026-05-03T23:49:02.404-07:00
 tags:
-  - npc
   - grung
   - botukuri
-  - player-resource
   - jean-claude
 visibility: public
 audience: players
@@ -29,7 +27,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: grung
 ---
 
 # Simone Tabarnack

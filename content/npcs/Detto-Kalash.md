@@ -5,14 +5,11 @@ aliases:
 title: Detto Kalash
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:27:59.014-07:00
+published: 2026-05-03T23:45:21.761-07:00
 tags:
-  - npc
-  - player-resource
   - captain
   - fisk-fleet
   - earth-genasi
-  - soul-in-fisk
 visibility: public
 audience: players
 summary: Earth Genasi captain of the Heft, Fisk's heavy ship — drowned at the Drowned Maw when Umberlee sank the fleet. His soul is inside Delmar Fisk.
@@ -30,7 +27,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: earth-genasi
 ---
 
 # Detto Kalash

@@ -5,13 +5,11 @@ aliases:
 title: Master Kyzil
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:39:06.480-07:00
+published: 2026-05-03T23:46:49.510-07:00
 tags:
-  - npc
   - aarakocra
   - sentinel
   - monk
-  - player-resource
 visibility: public
 audience: players
 summary: Senior master of the Sentinels of the Eyrie — barn owl aarakocra, quiet authority, and the man who assigned Crisdalynn her pilgrimage.
@@ -31,7 +29,6 @@ relationships:
 updated: 2026-05-03
 sources:
   - Homebrew
-species: aarakocra
 ---
 
 # Master Kyzil

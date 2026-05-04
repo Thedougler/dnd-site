@@ -3,7 +3,7 @@ publish: true
 title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
-published: 2026-05-03T23:55:31.259-07:00
+published: 2026-05-04T02:19:26.568-07:00
 tags:
   - species
   - playable
@@ -133,8 +133,8 @@ Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on p
 ## See Also
 
 - [[Passage|The Passage]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
-- [[Warren]] — the only fixed Rattkin settlement, beneath [[places/crown-islands/calveno/index]]
-- [[perren-black-jaw|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[places/crown-islands/calveno/index]] Run
+- [[Warren]] — the only fixed Rattkin settlement, beneath [[places/crown-islands/calven/calveno/index]]
+- [[perren-black-jaw|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[places/crown-islands/calven/calveno/index]] Run
 
 ## Overview
 
@@ -143,5 +143,5 @@ Small humanoids calibrated for getting into places they are not supposed to be. 
 ## Connections
 
 - [[Passage|The Passage]] — the traveling network of Runs and Holds spanning the Scatter
-- [[Warren]] — the only fixed Rattkin settlement, beneath [[places/crown-islands/calveno/index]]
-- [[perren-black-jaw|Perrin Black-Jaw]] — Fancy Rat PC; from the [[places/crown-islands/calveno/index]] Run
+- [[Warren]] — the only fixed Rattkin settlement, beneath [[places/crown-islands/calven/calveno/index]]
+- [[perren-black-jaw|Perrin Black-Jaw]] — Fancy Rat PC; from the [[places/crown-islands/calven/calveno/index]] Run

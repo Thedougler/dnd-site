@@ -5,7 +5,7 @@ aliases:
 title: Adult Black Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:49:33.455-07:00
+published: 2026-05-04T01:55:53.572-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Adult Black Dragon, a CR 14 dragon in the Shattered Sea bestiary.
+summary: The Adult Black Dragon, a CR 14 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

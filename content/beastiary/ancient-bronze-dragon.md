@@ -5,7 +5,7 @@ aliases:
 title: Ancient Bronze Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:59:30.495-07:00
+published: 2026-05-04T01:56:53.338-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Ancient Bronze Dragon, a CR 22 dragon in the Shattered Sea bestiary.
+summary: The Ancient Bronze Dragon, a CR 22 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

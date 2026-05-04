@@ -5,7 +5,7 @@ aliases:
 title: The Crown Islands
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T01:16:33.224-07:00
+published: 2026-05-04T02:26:36.664-07:00
 tags:
   - location
   - crown-islands
@@ -73,9 +73,24 @@ The western gatekeeper island at the mouth of the [[places/Central-Strait|Centra
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — Dravosi fortress-port carved into the cliff face in three tiers; cannon battery, inspection pier, and the main Strait checkpoint.
 - [[places/crown-islands/calders-tooth/South-Harbour|South Harbour]] — eastern working harbour on the calmer, muddier side of the island.
 
-### [[places/crown-islands/calveno/index|Calveno]]
+### [[places/crown-islands/calven/index|Calven]]
 
-Canal city of pale stone and witnessed deals, the oldest continuous commercial centre in the Scatter. Seven merchant families hold council seats. The [[Tessarine-Concordat|Tessarine Concordat]] factor house stands at the harbour end of the Mercatura. Rumour connects the city to [[places/crown-islands/calveno/Warren|the Warren]], though only a member of the Passage could confirm this.
+The oldest settled island in the northern arc, three days east of Tidefall. Low-lying marshland and tidal flats surround farmland and old orchard rows on the interior plateau. Commercial power here is Tessarine, not Dravosi — the Seven Houses run the money, and the Tessarine Concordat factor house on the Mercatura is a full story taller than everything around it.
+
+- [[places/crown-islands/calven/calveno/index|Calveno]] — canal city of pale stone, witnessed deals, and a thousand conversations in the open; oldest continuous commercial centre in the Scatter.
+- [[places/crown-islands/calven/Warren|The Warren]] — rumoured Rattkin settlement beneath Calveno's Le Paludi district; only a member of the Passage could confirm the details.
+
+### [[places/crown-islands/harwick/index|Harwick]]
+
+The Crown's primary naval base in the Shattered Sea and the military centre of Dravosi power in the region. The Harwick Naval Yard has built every class of Crown warship for six generations of governors. The Admiralty here administers patrol rotations, commission papers, and sealed orders for the entire fleet.
+
+### [[places/crown-islands/aldenmere/index|Aldenmere]]
+
+The quietest island in the northern arc — farms, fishing fleets, and a small harbour organised around a broad inland tidal lake called the mere. No military installation. The Crown collects tithes twice a year and otherwise leaves it alone.
+
+### [[places/crown-islands/stenmark/index|Stenmark]]
+
+The easternmost Crown island. From the eastern cliffs, the Drowned Maw's water discolouration is visible on clear days — the blue-green of the Scatter going flat and dark at the horizon. A Crown signal station watches the Maw edge and files monthly reports nobody cross-references as often as they should.
 
 ---
 

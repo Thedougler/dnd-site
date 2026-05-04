@@ -6,7 +6,7 @@ aliases:
 title: The Tail
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T01:23:29.647-07:00
+published: 2026-05-04T02:11:06.009-07:00
 tags:
   - location
   - region
@@ -108,7 +108,7 @@ Weather, current, and depth change quickly here. A pleasant morning can become i
 
 ## Places in the Tail
 
-- [[places/tail/High-Eyrie|The High Eyrie]] — cliff-top settlement and the Tail's main inhabited anchorage.
+- [[High-Eyrie|The High Eyrie]] — cliff-top settlement and the Tail's main inhabited anchorage.
 - [[places/tail/Drowned-Maw|The Drowned Maw]] — eastern trench at the convergence point; compass drift begins within five miles of its edge.
 - [[places/tail/Shelfworks|The Shelfworks]] — open-water salvage site on the Maw's western shelf; crews stage from Tail islands before heading out.
 - [[places/tail/Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw.

@@ -5,7 +5,7 @@ aliases:
 title: Ancient Black Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:50:03.435-07:00
+published: 2026-05-04T01:56:39.218-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Ancient Black Dragon, a CR 21 dragon in the Shattered Sea bestiary.
+summary: The Ancient Black Dragon, a CR 21 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

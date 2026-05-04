@@ -5,7 +5,7 @@ aliases:
 title: Giant Crocodile
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:01:52.897-07:00
+published: 2026-05-04T01:54:16.130-07:00
 tags:
   - creature
   - beast
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Giant Crocodile, a CR 5 beast in the Shattered Sea bestiary.
+summary: The Giant Crocodile, a CR 5 beast in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

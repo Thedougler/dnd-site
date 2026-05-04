@@ -7,7 +7,7 @@ aliases:
 title: Sawek
 created: 2026-04-12
 modified: 2026-05-03
-published: 2026-05-03T23:28:34.261-07:00
+published: 2026-05-04T01:59:32.330-07:00
 tags:
   - creature
   - monstrosity
@@ -21,7 +21,7 @@ tags:
   - bestiary
 visibility: public
 audience: players
-summary: A large aquatic predator that lurks in the blue holes of the Midchain, striking with tentacles and dragging prey into its lair.
+summary: The Sawek, A large aquatic predator that lurks in the blue holes of the Midchain, striking with tentacles and dragging prey into its lair.
 type: monster
 subtype: monster
 status: unmet

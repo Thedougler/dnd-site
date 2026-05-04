@@ -5,7 +5,7 @@ aliases:
 title: Giant Squid
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:59:30.482-07:00
+published: 2026-05-04T01:54:35.066-07:00
 tags:
   - creature
   - beast
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Giant Squid, a CR 6 beast in the Shattered Sea bestiary.
+summary: The Giant Squid, a CR 6 beast in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

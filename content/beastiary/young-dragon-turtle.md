@@ -5,7 +5,7 @@ aliases:
 title: Young Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.748-07:00
+published: 2026-05-04T01:55:46.332-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Young Dragon Turtle, a CR 10 dragon in the Shattered Sea bestiary.
+summary: The Young Dragon Turtle, a CR 10 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

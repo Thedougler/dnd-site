@@ -7,7 +7,7 @@ aliases:
 title: Whip Shark
 created: 2026-04-12
 modified: 2026-05-03
-published: 2026-05-03T23:28:34.269-07:00
+published: 2026-05-04T01:59:48.109-07:00
 tags:
   - creature
   - monstrosity
@@ -20,7 +20,7 @@ tags:
   - bestiary
 visibility: public
 audience: players
-summary: A massive aquatic predator known for its barbed tail and ability to sink vessels, lurking in the open oceans.
+summary: The Whip Shark, A massive aquatic predator known for its barbed tail and ability to sink vessels, lurking in the open oceans.
 type: monster
 subtype: monster
 status: unmet

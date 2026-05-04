@@ -5,7 +5,7 @@ aliases:
 title: Iacopo Fieschi
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:55:31.344-07:00
+published: 2026-05-04T02:19:26.689-07:00
 tags:
   - calveno
 visibility: public
@@ -32,15 +32,15 @@ sources:
 |              |                                                            |
 | ------------ | ---------------------------------------------------------- |
 | **Species**  | Human                                                      |
-| **Role**     | Envoy, [[Tessarine-Concordat\|Tessarine Concordat]]; [[places/crown-islands/calveno/index]] |
+| **Role**     | Envoy, [[Tessarine-Concordat\|Tessarine Concordat]]; [[places/crown-islands/calven/calveno/index]] |
 
 ---
 
 ## What Perrin Knows
 
-Fieschi is the Tessarine Concordat's envoy in [[places/crown-islands/calveno/index]] — the visible face of Concordat interests in the city. Anyone who spent time in Calveno would know the name. He is the man you deal with if the Concordat is involved in something, and the man you avoid if you'd rather the Concordat wasn't.
+Fieschi is the Tessarine Concordat's envoy in [[places/crown-islands/calven/calveno/index]] — the visible face of Concordat interests in the city. Anyone who spent time in Calveno would know the name. He is the man you deal with if the Concordat is involved in something, and the man you avoid if you'd rather the Concordat wasn't.
 
 ## Connections
 
 - [[Tessarine-Concordat]] — the faction he represents
-- [[places/crown-islands/calveno/index]] — his posting
+- [[places/crown-islands/calven/calveno/index]] — his posting

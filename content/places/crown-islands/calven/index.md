@@ -1,0 +1,106 @@
+---
+publish: true
+aliases:
+  - Calven Island
+  - Isle of Calven
+title: Calven
+created: 2026-05-04
+modified: 2026-05-04
+published: 2026-05-04T02:23:26.071-07:00
+tags:
+  - location
+  - island
+  - crown-islands
+  - tessarine
+  - player-resource
+visibility: public
+audience: players
+summary: The oldest settled island in the Crown Islands — low-lying marshland and tidal flats beneath a Tessarine-dominated commercial city, with a Rattkin population beneath it older than either colonial power.
+type: location
+subtype: location-summary
+status: active
+campaign: shattered-sea
+relationships:
+  - relation: part_of
+    target: The Crown Islands
+  - relation: controlled_by
+    target: The Dravosi Crown
+  - relation: dominated_by
+    target: The Tessarine Concordat
+  - relation: contains
+    target: Calveno
+  - relation: contains
+    target: The Warren
+  - relation: threatened_by
+    target: Giant Crab
+  - relation: threatened_by
+    target: Hunter Shark
+  - relation: threatened_by
+    target: Giant Wolf Spider
+updated: 2026-05-04
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
+---
+
+# Calven
+
+## Overview
+
+Calven is the second island east of [[places/crown-islands/calders-tooth/index|Calder's Tooth]] — three days from [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] on a fair wind, longer on anything else. It is the oldest continuously settled island in the northern arc, and has been a commercial centre for long enough that the city built on it is named as its diminutive: [[places/crown-islands/calven/calveno/index|Calveno]], little Calven. The name is Tessarine in origin, which tells you something about who got there first and who wrote it down.
+
+The Dravosi flag flies at the harbour. The Tessarine Concordat runs the money. The island's original occupants — the Rattkin, settled deep beneath Le Paludi's oldest drainage channels — predate both, and have no particular interest in correcting the record.
+
+---
+
+## Geography
+
+Calven is low. Not the dramatic limestone-and-cliff low of Calder's Tooth, but flat and marshy at the edges, the kind of island that offers no obvious reason to build a fortress on it. The interior is a shallow plateau of reasonable farmland — grain, orchard rows, kitchen gardens — surrounded by tidal marshland on the northern and western shores. The southeast coast, where Calveno sits, is the most stable ground on the island and the only place the stone goes reliably deep enough to build on.
+
+The tidal flats on the north and west run wide at low water. They are not navigable to anything with a keel and not safe to cross on foot without knowing the channels. Wading birds, crab runs, and the occasional eel fisher. On very low tides, old timbers appear in the mud — the remnants of structures that predate the city, provenance unknown.^\[inferred]
+
+The prevailing winds from the northeast push straight along the northern shore and into the harbour mouth without impediment. Calveno's deep-water approach is straight and well-charted. There is no reason to approach from the north.
+
+---
+
+## Calveno
+
+The island's only city occupies the southeastern coast, built across and around a network of channels that were once the lower marsh drainage system. Stone facades rise four and five stories straight from the water. Flat-bottomed boats work the channels between them. The sound of the place, heard from the approach, is not the sound of a port — it is the sound of a thousand people talking at once, close together, in the open.
+
+[[places/crown-islands/calven/calveno/index|→ Calveno (city)]]
+
+---
+
+## The Warren
+
+Beneath Le Paludi — Calveno's oldest district, built on the marshy ground where the drainage channels once ran open — is the only fixed Rattkin settlement in the Shattered Sea. The Warren predates the city above it. Most people in Calveno know it as a rumour. The Rattkin know it as home.
+
+Access is not obtained by asking. Nobody worth asking will tell you how.
+
+[[places/crown-islands/calven/Warren|→ The Warren]]
+
+---
+
+## Flora
+
+The island's interior farmland runs to grain and root crops, with old orchard rows on the higher ground producing fruit that shows up in Calveno's markets and in the trading ledgers of the Seven Houses. The tidal marshes hold thick stands of saltmarsh cord-grass, sea lavender, and reed beds wide enough to swallow a small boat if the channel markers go unmaintained. The waterline at the northern shore is fringed with mangrove where the mud runs deep. Kelp grows in the sheltered water behind the harbour breakwater. The older, less-farmed patches of the interior plateau carry dense scrub: thorny coastal shrubs, wind-bent hardwoods, patches of fern in the wetter hollows. ^\[inferred]
+
+---
+
+## Fauna
+
+The tidal flats host [[beastiary/giant-crab|giant crabs]] in numbers — larger individuals in the deeper mud channels, smaller ones swarming the shallows at low water. Crab harvest is one of Calven's oldest industries and one of its least prestigious. The harbour mouth and the southern approaches hold [[beastiary/hunter-shark|hunter sharks]], reliable and unsentimental. The city posts warnings; the fishermen already know.
+
+Inland, [[beastiary/giant-wolf-spider|giant wolf spiders]] occupy the neglected sections of the drainage network, old cisterns, and any structure that has gone unwatched long enough. In Calveno, that means certain buildings in Le Paludi that even the landlords approach cautiously. The island's scrub interior has [[beastiary/giant-owl|giant owls]], rarely seen during the day, occasionally heard at night across the farmland. They cause problems for livestock and almost nobody else.
+
+---
+
+## See Also
+
+- [[places/crown-islands/index|The Crown Islands]] — regional overview
+- [[places/crown-islands/calven/calveno/index|Calveno]] — the canal city
+- [[places/crown-islands/calven/Warren|The Warren]] — Rattkin settlement beneath Le Paludi
+- [[factions/Tessarine-Concordat|The Tessarine Concordat]] — dominant commercial power on Calven
+- [[factions/Dravosi-Crown|The Dravosi Crown]] — nominal governing authority
+- [[places/Central-Strait|The Central Strait]] — the shipping corridor Calven faces south

@@ -7,7 +7,7 @@ aliases:
 title: The Dravosi Crown
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T23:55:31.330-07:00
+published: 2026-05-04T02:19:26.675-07:00
 tags:
   - faction
   - player-resource
@@ -72,7 +72,7 @@ Common legal tools:
 
 ## Territory
 
-The Crown's power is real but uneven. In the [[places/crown-islands/index]], Dravosi flags fly at every major anchorage, and ships treat Crown papers as the cost of doing business. Harwick stages the regional fleet. Calven holds [[places/crown-islands/calveno/index]], the oldest commercial centre in the Scatter. [[Calders-Tooth|Calder's Tooth]] controls the western mouth of the [[Central-Strait|Central Strait]].
+The Crown's power is real but uneven. In the [[places/crown-islands/index]], Dravosi flags fly at every major anchorage, and ships treat Crown papers as the cost of doing business. Harwick stages the regional fleet. Calven holds [[places/crown-islands/calven/calveno/index]], the oldest commercial centre in the Scatter. [[Calders-Tooth|Calder's Tooth]] controls the western mouth of the [[Central-Strait|Central Strait]].
 
 On [[Calders-Tooth|Calder's Tooth]], Crown authority is loudest at [[Port-Tidefall|Port Tidefall]] and [[Fort-Crestwall]] but thins rapidly away from the coastline. The Crown treats the island as a fortress, tollbooth, timber reserve, and legal instrument. The interior remains too forested, cave-riddled, and locally navigated for colonial cartography to fully own.
 

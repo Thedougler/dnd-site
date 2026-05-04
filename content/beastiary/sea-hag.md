@@ -5,7 +5,7 @@ aliases:
 title: Sea Hag
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.747-07:00
+published: 2026-05-04T01:57:31.131-07:00
 tags:
   - creature
   - fey
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Sea Hag, a CR 2 fey in the Shattered Sea bestiary.
+summary: The Sea Hag, a CR 2 fey in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

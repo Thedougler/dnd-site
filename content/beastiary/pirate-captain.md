@@ -5,7 +5,7 @@ aliases:
 title: Pirate Captain
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.746-07:00
+published: 2026-05-04T01:58:36.862-07:00
 tags:
   - creature
   - humanoid
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Pirate Captain, a CR 6 humanoid in the Shattered Sea bestiary.
+summary: The Pirate Captain, a CR 6 humanoid in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

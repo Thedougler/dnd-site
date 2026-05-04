@@ -5,7 +5,7 @@ aliases:
 title: Hunter Shark
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:54:26.766-07:00
+published: 2026-05-04T01:53:33.022-07:00
 tags:
   - creature
   - beast
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Hunter Shark, a CR 2 beast in the Shattered Sea bestiary.
+summary: The Hunter Shark, a CR 2 beast in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

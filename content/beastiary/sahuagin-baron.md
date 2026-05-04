@@ -5,7 +5,7 @@ aliases:
 title: Sahuagin Baron
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.746-07:00
+published: 2026-05-04T01:58:29.080-07:00
 tags:
   - creature
   - fiend
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Sahuagin Baron, a CR 5 fiend in the Shattered Sea bestiary.
+summary: The Sahuagin Baron, a CR 5 fiend in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

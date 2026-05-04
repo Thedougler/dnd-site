@@ -5,7 +5,7 @@ aliases:
 title: Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:59:21.101-07:00
+published: 2026-05-04T01:56:32.961-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Dragon Turtle, a CR 17 dragon in the Shattered Sea bestiary.
+summary: The Dragon Turtle, a CR 17 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

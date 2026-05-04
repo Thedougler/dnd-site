@@ -5,7 +5,7 @@ aliases:
 title: Ancient Blue Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:53:27.041-07:00
+published: 2026-05-04T01:57:01.187-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Ancient Blue Dragon, a CR 23 dragon in the Shattered Sea bestiary.
+summary: The Ancient Blue Dragon, a CR 23 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

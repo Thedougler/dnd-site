@@ -6,7 +6,7 @@ aliases:
 title: Bestiary
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T01:13:28.762-07:00
+published: 2026-05-04T01:58:07.840-07:00
 tags:
   - player-resource
   - index
@@ -131,7 +131,7 @@ The [[places/Shattered-Sea|Shattered Sea]] has many dangerous things that call i
 
 ## Fiendish Swarms
 
-- [[beastiary/swarm-of-lemures|Swarm of Lemures]] - Recorded near the approaches to the [[Drowned-Maw|Drowned Maw]]; masses of half-formed damned that flow toward heat and sound — no one who has gone deep into the Maw's channels denies what they saw
+- [[swarm-of-lemures|Swarm of Lemures]] - Recorded near the approaches to the [[Drowned-Maw|Drowned Maw]]; masses of half-formed damned that flow toward heat and sound — no one who has gone deep into the Maw's channels denies what they saw
 - [[beastiary/swarm-of-larvae|Swarm of Larvae]] - Linked to planar scarring near [[Antheri-Ruins|Antheri Ruins]]; larval forms of the damned that swarm toward the living — encountered by those who dig too far into the ruins' lower levels
 
 ---

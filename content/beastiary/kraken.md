@@ -5,7 +5,7 @@ aliases:
 title: Kraken
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.745-07:00
+published: 2026-05-04T02:00:03.226-07:00
 tags:
   - creature
   - monstrosity
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Kraken, a CR 23 monstrosity in the Shattered Sea bestiary.
+summary: The Kraken, a CR 23 monstrosity in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

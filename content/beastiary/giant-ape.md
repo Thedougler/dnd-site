@@ -5,7 +5,7 @@ aliases:
 title: Giant Ape
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:35:02.236-07:00
+published: 2026-05-04T01:54:48.979-07:00
 tags:
   - creature
   - beast
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Giant Ape, a CR 7 beast in the Shattered Sea bestiary.
+summary: The Giant Ape, a CR 7 beast in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

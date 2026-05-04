@@ -5,7 +5,7 @@ aliases:
 title: Guardian Naga
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.743-07:00
+published: 2026-05-04T01:55:17.338-07:00
 tags:
   - creature
   - celestial
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Guardian Naga, a CR 10 celestial in the Shattered Sea bestiary.
+summary: The Guardian Naga, a CR 10 celestial in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

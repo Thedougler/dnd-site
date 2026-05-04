@@ -3,7 +3,7 @@ publish: true
 title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T23:59:10.322-07:00
+published: 2026-05-04T02:19:26.660-07:00
 tags:
   - player-resource
   - campaign-overview
@@ -37,7 +37,7 @@ The [[Galewall|Galewall]] is a three-week crossing under the right pilot. Most s
 The northern arc. Five large, mountainous, heavily administered islands under the [[Dravosi-Crown|Dravosi Crown]]. Rich, fortified, and governed from behind a ledger.
 
 - [[Calders-Tooth|Calder's Tooth]] guards the western mouth of the [[places/Central-Strait|Central Strait]]. Its cliff face holds [[Port-Tidefall|Port Tidefall]] — the Crown's main fortress-port, carved into tiers from the waterline up to [[Fort-Crestwall|Fort Crestwall]] at the summit. Inspection here is mandatory, enforceable, and profitable.
-- [[places/crown-islands/calveno/index|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
+- [[places/crown-islands/calven/calveno/index|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
 
 ### The Central Strait
 

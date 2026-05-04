@@ -5,7 +5,7 @@ aliases:
 title: Adult Blue Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:54:26.783-07:00
+published: 2026-05-04T01:56:27.564-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Adult Blue Dragon, a CR 16 dragon in the Shattered Sea bestiary.
+summary: The Adult Blue Dragon, a CR 16 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

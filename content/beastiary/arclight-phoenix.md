@@ -5,7 +5,7 @@ aliases:
 title: Arclight Phoenix
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:32:14.747-07:00
+published: 2026-05-04T01:57:22.831-07:00
 tags:
   - creature
   - elemental
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Arclight Phoenix, a CR 12 elemental in the Shattered Sea bestiary.
+summary: The Arclight Phoenix, a CR 12 elemental in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

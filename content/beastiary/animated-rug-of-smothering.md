@@ -5,7 +5,7 @@ aliases:
 title: Animated Rug of Smothering
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.733-07:00
+published: 2026-05-04T01:55:26.874-07:00
 tags:
   - creature
   - construct
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Animated Rug of Smothering, a CR 2 construct in the Shattered Sea bestiary.
+summary: The Animated Rug of Smothering, a CR 2 construct in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

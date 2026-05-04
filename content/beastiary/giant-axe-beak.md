@@ -5,7 +5,7 @@ aliases:
 title: Giant Axe Beak
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:59:10.391-07:00
+published: 2026-05-04T01:59:10.718-07:00
 tags:
   - creature
   - monstrosity
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Giant Axe Beak, a CR 5 monstrosity in the Shattered Sea bestiary.
+summary: The Giant Axe Beak, a CR 5 monstrosity in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

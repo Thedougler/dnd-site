@@ -5,7 +5,7 @@ aliases:
 title: Giant Shark
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:59:10.385-07:00
+published: 2026-05-04T01:54:22.437-07:00
 tags:
   - creature
   - beast
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Giant Shark, a CR 5 beast in the Shattered Sea bestiary.
+summary: The Giant Shark, a CR 5 beast in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

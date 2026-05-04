@@ -6,7 +6,7 @@ aliases:
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-03T23:55:31.371-07:00
+published: 2026-05-04T02:19:26.723-07:00
 tags:
   - player-character
   - pc
@@ -71,7 +71,7 @@ He is small even by Rattkin standards in the way that matters on ships — every
 
 ## Backstory
 
-Perrin grew up in the Tangle — the family network at the heart of [[Warren]], the only fixed Rattkin settlement in the [[Shattered-Sea|Shattered Sea]], built beneath the city of [[places/crown-islands/calveno/index]]. He was raised on the practical lessons of the Run: read people, build capital, stay useful, know which doors to use and which ledgers to stay out of. [[Dravosi-Crown|The Dravosi Crown]] keeps standing bounties on Rattkin that are rarely enforced and always present. He learned early what that background pressure means for how you move through the world.
+Perrin grew up in the Tangle — the family network at the heart of [[Warren]], the only fixed Rattkin settlement in the [[Shattered-Sea|Shattered Sea]], built beneath the city of [[places/crown-islands/calven/calveno/index]]. He was raised on the practical lessons of the Run: read people, build capital, stay useful, know which doors to use and which ledgers to stay out of. [[Dravosi-Crown|The Dravosi Crown]] keeps standing bounties on Rattkin that are rarely enforced and always present. He learned early what that background pressure means for how you move through the world.
 
 He was good at the Run's lessons. Contacts became capital, capital became crew, crew became a ship. The ship had belonged to his grandfather — [[Nona-Black-Jaw|Nona Black-Jaw's]] late husband built and captained her, then left her to the family when he died. When the _Vestra_ passed to Perrin, it came with the weight of that inheritance and the responsibility of the route. He upgraded her, added gun mounts, crewed her himself, and ran a fishing operation.
 

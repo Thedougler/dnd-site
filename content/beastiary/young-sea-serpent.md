@@ -5,7 +5,7 @@ aliases:
 title: Young Sea Serpent
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.748-07:00
+published: 2026-05-04T01:55:39.904-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Young Sea Serpent, a CR 8 dragon in the Shattered Sea bestiary.
+summary: The Young Sea Serpent, a CR 8 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

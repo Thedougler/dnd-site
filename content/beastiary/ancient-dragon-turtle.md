@@ -5,7 +5,7 @@ aliases:
 title: Ancient Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T23:59:21.094-07:00
+published: 2026-05-04T01:57:08.171-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Ancient Dragon Turtle, a CR 24 dragon in the Shattered Sea bestiary.
+summary: The Ancient Dragon Turtle, a CR 24 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

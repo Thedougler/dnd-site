@@ -7,7 +7,7 @@ aliases:
 title: The Passage
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T23:55:31.333-07:00
+published: 2026-05-04T02:19:26.676-07:00
 tags:
   - faction
   - player-resource
@@ -54,7 +54,7 @@ The operational body of the Passage is the Run: travelling Rattkin families, cre
 
 ## Holds
 
-A Hold is a Rattkin-maintained cache or shelter inside a port's structure: drainage channels, dock supports, wall cavities, old foundations, roof voids, cisterns, or spaces a city has forgotten. When a city rebuilds or changes hands, the Passage adapts. Routes are reseeded into new construction. [[Warren]] in [[places/crown-islands/calveno/index]] is the only fixed Rattkin settlement in the [[Shattered-Sea|Shattered Sea]] and the most established anchor of Passage memory in the region.
+A Hold is a Rattkin-maintained cache or shelter inside a port's structure: drainage channels, dock supports, wall cavities, old foundations, roof voids, cisterns, or spaces a city has forgotten. When a city rebuilds or changes hands, the Passage adapts. Routes are reseeded into new construction. [[Warren]] in [[places/crown-islands/calven/calveno/index]] is the only fixed Rattkin settlement in the [[Shattered-Sea|Shattered Sea]] and the most established anchor of Passage memory in the region.
 
 ---
 
@@ -80,6 +80,6 @@ Knowing one route shown by one Rattkin is not knowledge of the Passage. Do not m
 
 - [[species/Rattkin|Rattkin]]
 - [[Warren]]
-- [[places/crown-islands/calveno/index]]
+- [[places/crown-islands/calven/calveno/index]]
 - [[Port-Tidefall|Port Tidefall]]
 - [[Shattered-Sea|Shattered Sea]]

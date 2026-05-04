@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Places
-created: 2026-05-01T17:14:31.950-07:00
+created: 2026-05-04T02:26:40.821-07:00
 modified: 2026-05-04
-published: 2026-05-04T01:25:01.575-07:00
+published: 2026-05-04T02:26:40.821-07:00
 tags:
   - player-resource
   - places
@@ -35,9 +35,12 @@ Ports, islands, storm belts, routes, shrines, ruins, and dangerous water the cha
 - [[places/crown-islands/calders-tooth/index|Calder's Tooth]] — gatekeeper island at the mouth of the Central Strait; Port Tidefall, South Harbour, overland crossings.
   - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — Dravosi fortress-port with cannon battery, inspection pier, and chandlery.
   - [[places/crown-islands/calders-tooth/port-tidefall/Hook-and-Ledger|The Hook & Ledger]] — Shelf tavern for paperwork-adjacent business and quiet deals.
-- [[places/crown-islands/calveno/index|Calveno]] — canal city of witnessed deals, pale stone, and carefully public commerce.
-  - [[places/crown-islands/calveno/Cats-Curios|Cat's Curios]] — referral-only artificer workshop; no sign, no walk-ins.
-  - [[places/crown-islands/calveno/Warren|The Warren]] — rumoured Rattkin settlement beneath Calveno.
+- [[places/crown-islands/calven/calveno/index|Calveno]] — canal city of witnessed deals, pale stone, and carefully public commerce.
+  - [[Cats-Curios|Cat's Curios]] — referral-only artificer workshop; no sign, no walk-ins.
+  - [[Warren|The Warren]] — rumoured Rattkin settlement beneath Calveno.
+- [[places/crown-islands/harwick/index|Harwick]] — the Crown's primary naval base; home of the Naval Yard, the Admiralty, and the regional fleet anchorage.
+- [[places/crown-islands/aldenmere/index|Aldenmere]] — quiet farming and fishing island organised around an inland tidal lake; no military presence.
+- [[places/crown-islands/stenmark/index|Stenmark]] — easternmost Crown island; signal station faces the Drowned Maw; harpies in the eastern cliffs.
 
 ## The Midchain
 
@@ -49,7 +52,7 @@ Ports, islands, storm belts, routes, shrines, ruins, and dangerous water the cha
 ## The Tail & The Maw
 
 - [[places/tail/index|The Tail]] — eastern convergence of the Scatter near the Drowned Maw; high cliffs, cold upwelling, and Shelfworks staging.
-  - [[places/tail/High-Eyrie|The High Eyrie]] — basalt sea-stack monastery of the [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]].
+  - [[High-Eyrie|The High Eyrie]] — basalt sea-stack monastery of the [[factions/Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]].
   - [[places/tail/Drowned-Maw|The Drowned Maw]] — vast eastern trench where charts, compasses, and sailors grow less confident.
   - [[places/tail/Shelfworks|The Shelfworks]] — open-water salvage field on the Maw's western shelf.
   - [[places/tail/Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw and the Shelfworks.

@@ -5,7 +5,7 @@ aliases:
 title: Adult Bronze Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T04:56:29.511-07:00
+published: 2026-05-04T01:56:18.697-07:00
 tags:
   - creature
   - dragon
@@ -16,7 +16,7 @@ cssclasses:
   - wiki-monster
 visibility: public
 audience: players
-summary: Public statblock reference for Adult Bronze Dragon, a CR 15 dragon in the Shattered Sea bestiary.
+summary: The Adult Bronze Dragon, a CR 15 dragon in the Shattered Sea bestiary.
 type: monster
 subtype: monster
 status: bestiary

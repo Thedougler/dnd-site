@@ -3,7 +3,7 @@ publish: true
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T00:09:50.424-07:00
+published: 2026-05-04T02:19:26.598-07:00
 tags:
   - player-resource
 visibility: public
@@ -77,11 +77,11 @@ Publicly, the [[places/crown-islands/index|Crown Islands]] mean administration: 
 
 This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The [[Harbourmasters-Office|Harbourmaster's Office]] sells charts and ratings; the [[Waveservants|Waveservants]] keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
 
-### [[places/crown-islands/calveno/index]]
+### [[places/crown-islands/calven/calveno/index]]
 
 ![[raw/assets/banners/Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
 
-[[places/crown-islands/calveno/index|Calveno]] is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
+[[places/crown-islands/calven/calveno/index|Calveno]] is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
 
 Everything here is visible. That is the point. Deals are witnessed, alliances are performed, and the right association seen by the right people can matter as much as the cargo itself. [[Tessarine-Concordat|The Tessarine Concordat]] has deep roots here, as does the [[Rattkin]] [[Passage|Passage]].
 

@@ -12,7 +12,7 @@ tags:
   - tessarine
 ---
 
-# [[Tessarine-Trade-House-Tidefall-Secrets|Tessarine Trade House — Port Tidefall]]
+# [[Tessarine-Trade-House-Secrets|Tessarine Trade House — Port Tidefall]]
 
 Three storeys of pale stone on the Shelf, a Tessarine Concordat pennant above the door. Inside: four chairs against the wall, a clerk behind a partition, the smell of ink and cedar oil. The appointment book slides across the counter without a word. Next slot is the day after tomorrow.
 

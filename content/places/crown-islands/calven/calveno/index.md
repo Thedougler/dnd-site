@@ -23,6 +23,14 @@ See [[Calveno]] for city overview.
 - [[Warren|The Warren]] — Rattkin settlement beneath the Saltmarsh district, in old drainage channels and hidden holds; the deepest anchor of the Passage.
 - [[Cats-Curios|Cat's Curios]] — referral-only artificer workshop; no sign, no walk-ins.
 
+## NPCs
+
+- [[Nona-Black-Jaw|Nona Black-Jaw]] — Rattkin matriarch, senior elder of the Tangle, and Perrin's grandmother.
+- [[Iacopo-Fieschi|Iacopo Fieschi]] — Tessarine Concordat envoy to Calveno; the public human face of Concordat authority here.
+- [[Catarina-DaVirelli|Catarina Da Virelli]] — artificer operating by referral only; the foremost living practitioner in the region.
+- [[Anzolo|Anzolo]] — a contact vouched for by Nona Black-Jaw; "a nice young man who always helps an old lady out with chores."
+- [[Cosimo-Verantio-Secrets|Cosimo Verantio]] — elderly Tessarine merchant, white-bearded, dressed in plain cloth that costs more than it looks.
+
 ---
 
 ## See Also

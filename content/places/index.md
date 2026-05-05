@@ -22,6 +22,7 @@ Ports, islands, storm belts, routes, shrines, ruins, and dangerous water the cha
 - [[Central-Strait|The Central Strait]] — main east-west shipping corridor between the [[places/crown-islands/index|Crown Islands]] and the [[places/midchain/index|Midchain]].
 - [[Doldrums|The Doldrums]] — mirror-flat dead water south of the Midchain where sail ships can lose days.
 - [[Outer-Reach|The Outer Reach]] — open ocean beyond the Maw, thinly charted and outside ordinary colonial reach.
+- [[Ashwall-Islands|The Ashwall Islands]] — cold volcanic spire-chain near the Galewall.
 
 ## Crown Islands
 

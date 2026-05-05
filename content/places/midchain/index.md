@@ -44,6 +44,13 @@ See [[Midchain|The Midchain]] for region overview.
 - [[Halythion|Halythion]] — rumoured underwater city somewhere in the eastern reefs south of the Midchain.
 - [[Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw and the Shelfworks.
 - [[Shelfworks|The Shelfworks]] — salvage field on the Maw's western shelf.
+- [[Huahei-Secrets|Huahei]] — small overgrown marshy island in the Midchain; peculiar in ways pilots don't discuss with outsiders.
+
+## NPCs
+
+- [[Simone-Tabarnack|Simone Tabarnack]] — Jean-Claude's younger sister; purple-caste Grung garrison soldier from Sorn.
+- [[Pell|Pell]] — gnome labour slave at Sorn; spoke to Jean-Claude as if he weren't a stranger.
+- [[Maggie-Porcelain-Pots|Maggie Porcelain-Pots]] — Dragonborn potter, peach-and-cream scales, three generations of kilns behind her.
 
 ## Passage Notes
 

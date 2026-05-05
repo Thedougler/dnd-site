@@ -8,8 +8,6 @@ created: 2026-05-02
 modified: 2026-05-03
 tags:
   - cape
-  - calders_tooth
-  - player_resource
 ---
 
 # Cape Solitude

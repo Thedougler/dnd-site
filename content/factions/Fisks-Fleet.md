@@ -8,12 +8,9 @@ title: Fisk's Fleet
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
   - fleet
-  - fisk
-  - destroyed
-  - drowned_maw
+  - maritime
+  - military
 ---
 
 # Fisk's Fleet

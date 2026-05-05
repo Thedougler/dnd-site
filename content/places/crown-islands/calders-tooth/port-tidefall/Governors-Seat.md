@@ -8,12 +8,9 @@ title: Governor's Seat — Port Tidefall
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - building
-  - port_tidefall
   - dravosi
   - government
-  - player_resource
 ---
 
 # Governor's Seat — Port Tidefall

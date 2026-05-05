@@ -8,9 +8,6 @@ title: The Waveservants
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
-  - waveservants
   - umberlee
   - religion
 ---

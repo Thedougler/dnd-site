@@ -9,12 +9,8 @@ title: Umberlee's Shrine — Sunken Crown
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - shrine
   - umberlee
-  - sunken_crown
-  - waveservants
-  - player_resource
 ---
 
 # Umberlee's Shrine — Sunken Crown

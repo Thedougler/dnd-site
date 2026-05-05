@@ -9,7 +9,7 @@ created: 2026-05-02
 modified: 2026-05-03
 tags:
   - aasimar
-  - fortune_teller
+  - arcane
 ---
 
 # Serafina Windfall Fisk

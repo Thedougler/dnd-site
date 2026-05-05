@@ -7,10 +7,7 @@ title: Aruhe
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - island
-  - midchain
-  - player_resource
 ---
 
 # Aruhe

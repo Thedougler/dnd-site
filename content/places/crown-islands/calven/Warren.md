@@ -8,12 +8,9 @@ title: The Warren
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
-  - calveno
   - rattkin
   - passage
   - underground
-  - player_resource
 ---
 
 # The Warren

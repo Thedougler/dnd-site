@@ -7,11 +7,8 @@ title: Sorn
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - island
   - grung
-  - verdant_teeth
-  - player_resource
 ---
 
 # Sorn

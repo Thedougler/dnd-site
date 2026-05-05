@@ -8,10 +8,8 @@ title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-03
 tags:
-  - player_character
-  - pc
   - rattkin
-  - player_resource
+  - bard
 ---
 
 # Perrin Black-Jaw

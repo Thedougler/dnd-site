@@ -8,11 +8,8 @@ title: Tessarine Trade House — Port Tidefall
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - building
-  - port_tidefall
   - tessarine
-  - player_resource
 ---
 
 # Tessarine Trade House — Port Tidefall

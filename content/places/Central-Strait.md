@@ -8,10 +8,8 @@ title: The Central Strait
 created: 2026-05-01
 modified: 2026-05-04
 tags:
-  - location
   - waterway
   - navigation
-  - player_resource
 ---
 
 # The Central Strait

@@ -1,13 +1,12 @@
 ---
 publish: true
 permalink: /beastiary/monstrosity/mimic.md
-title: mimic
+title: Mimic
 created: 2026-04-25
-modified: 2026-04-25
+modified: 2026-05-05
 tags:
   - creature
   - monstrosity
-  - mm
 cssclasses:
   - wiki-monster
 ---

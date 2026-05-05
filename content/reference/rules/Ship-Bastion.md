@@ -7,7 +7,6 @@ modified: 2026-04-17
 tags:
   - mechanics
   - reference
-  - ships
   - bastion
   - rules
 cssclasses:

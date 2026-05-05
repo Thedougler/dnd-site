@@ -8,8 +8,6 @@ title: The Knife's Wake
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - ship
   - pirate
   - tier_1
   - raiding

@@ -8,7 +8,6 @@ created: 2026-05-02
 modified: 2026-05-03
 tags:
   - captain
-  - fisk_fleet
   - earth_genasi
 ---
 

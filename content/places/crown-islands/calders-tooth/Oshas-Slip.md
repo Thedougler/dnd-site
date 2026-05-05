@@ -7,11 +7,8 @@ title: Osha's Slip
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - village
-  - calders_tooth
   - mudflats
-  - player_resource
 ---
 
 # Osha's Slip

@@ -7,12 +7,8 @@ title: Orak
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - island
-  - verdant_teeth
   - grung
-  - midchain
-  - player_resource
 ---
 
 # Orak

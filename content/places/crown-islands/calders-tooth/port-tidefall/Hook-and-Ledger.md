@@ -9,12 +9,9 @@ title: The Hook & Ledger
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - building
-  - port_tidefall
   - tavern
   - shelf
-  - player_resource
 ---
 
 # The Hook & Ledger

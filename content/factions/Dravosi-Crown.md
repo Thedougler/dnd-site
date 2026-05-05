@@ -9,10 +9,7 @@ title: The Dravosi Crown
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
   - dravosi
-  - crown_islands
   - colonial_power
 ---
 

@@ -7,11 +7,8 @@ title: High-Line
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - hamlet
-  - calders_tooth
   - fishing
-  - player_resource
 ---
 
 # High-Line

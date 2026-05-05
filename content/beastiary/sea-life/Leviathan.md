@@ -9,11 +9,9 @@ created: 2026-05-03
 modified: 2026-05-03
 tags:
   - creature
-  - rumor
+  - legend
   - sea_monster
   - maritime
-  - perrin_connection
-  - player_resource
   - bestiary
 ---
 

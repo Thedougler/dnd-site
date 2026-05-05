@@ -13,11 +13,9 @@ tags:
   - monstrosity
   - aquatic
   - lair
-  - midchain
-  - blue_hole
+  - underwater
   - grapple
   - ink
-  - player_resource
   - bestiary
 ---
 

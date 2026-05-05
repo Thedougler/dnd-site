@@ -8,9 +8,7 @@ title: The Doldrums
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - sea_hazard
-  - player_resource
 ---
 
 # The Doldrums

@@ -7,11 +7,8 @@ title: Fare I'a
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - location
   - market
-  - port_tidefall
   - grung
-  - player_resource
 ---
 
 # Fare I'a

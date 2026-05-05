@@ -9,12 +9,8 @@ title: The Grung Clans
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
   - grung
-  - verdant_teeth
-  - midchain
-  - caste
+  - social
   - poison
 ---
 

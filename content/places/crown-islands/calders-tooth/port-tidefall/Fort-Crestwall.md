@@ -7,8 +7,6 @@ modified: 2026-05-03
 tags:
   - fort
   - dravosi
-  - tidefall
-  - player_resource
 ---
 
 # Fort Crestwall

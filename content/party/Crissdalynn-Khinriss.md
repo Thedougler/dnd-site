@@ -8,10 +8,8 @@ title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-03
 tags:
-  - player_character
-  - pc
   - aarakocra
-  - player_resource
+  - monk
 ---
 
 # Crisdalynn Khinriss

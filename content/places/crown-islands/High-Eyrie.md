@@ -7,12 +7,9 @@ title: The High Eyrie
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - landmark
   - monastery
-  - sentinels
   - aarakocra
-  - player_resource
 ---
 
 # The High Eyrie

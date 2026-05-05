@@ -8,10 +8,8 @@ title: Ashwall Islands
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - islands
-  - galewall
-  - player_resource
+  - volcanic
 ---
 
 # Ashwall Islands

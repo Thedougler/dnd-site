@@ -8,10 +8,7 @@ title: The Tallow Bell
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - ship
   - tier_1
-  - waveservants
   - umberlee
   - clergy
 cssclasses:

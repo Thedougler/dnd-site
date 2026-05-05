@@ -4,8 +4,6 @@ permalink: /player-primer.md
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-tags:
-  - player_resource
 ---
 
 # Shattered Sea Player Primer

@@ -9,11 +9,9 @@ title: Sentinels of the Eyrie
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
-  - sentinels
   - aarakocra
-  - drowned_maw
+  - military
+  - religion
 ---
 
 # Sentinels of the Eyrie

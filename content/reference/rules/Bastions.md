@@ -7,7 +7,6 @@ modified: 2026-04-21
 tags:
   - rule
   - reference
-  - dmg_2024
   - bastion
 ---
 

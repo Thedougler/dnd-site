@@ -8,8 +8,7 @@ created: 2026-05-02
 modified: 2026-05-03
 tags:
   - grung
-  - botukuri
-  - jean_claude
+  - military
 ---
 
 # Simone Tabarnack

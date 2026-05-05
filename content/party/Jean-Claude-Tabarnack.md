@@ -8,10 +8,8 @@ title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
 tags:
-  - player_character
-  - pc
   - grung
-  - player_resource
+  - ranger
 ---
 
 # Jean-Claude Tabarnack

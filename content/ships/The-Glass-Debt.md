@@ -8,13 +8,10 @@ title: The Glass Debt
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - ship
   - pirate
   - tier_3
   - frigate
   - raiding
-  - midchain
 cssclasses:
   - wiki-ship
 ---

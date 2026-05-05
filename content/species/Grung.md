@@ -5,7 +5,6 @@ title: Grung
 created: 2026-04-12
 modified: 2026-04-12
 tags:
-  - species
   - playable
   - grung
   - amphibious

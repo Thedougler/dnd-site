@@ -8,12 +8,9 @@ title: The Shelfworks
 created: 2026-05-01
 modified: 2026-05-04
 tags:
-  - location
   - ruins
   - salvage
-  - maw
   - antheri
-  - player_resource
 ---
 
 # The Shelfworks

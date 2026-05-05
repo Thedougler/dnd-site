@@ -8,11 +8,8 @@ title: Keth-Naar
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - settlement
-  - sunken_crown
   - tabaxi
-  - player_resource
 ---
 
 # Keth-Naar

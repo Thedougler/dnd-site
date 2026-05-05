@@ -9,10 +9,7 @@ title: HCS Ordinance
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - ship
   - dravosi
-  - crown_islands
   - fleet
 cssclasses:
   - wiki-ship

@@ -8,11 +8,7 @@ title: The Verdant Scatter
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
-  - region
   - archipelago
-  - world_region
-  - player_resource
 ---
 
 # The Verdant Scatter

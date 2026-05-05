@@ -8,12 +8,9 @@ title: The Inspection Pier
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - building
-  - port_tidefall
   - dravosi
   - pier
-  - player_resource
 ---
 
 # The Inspection Pier

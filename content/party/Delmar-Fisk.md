@@ -9,10 +9,8 @@ title: Delmar Fisk
 created: 2026-04-29
 modified: 2026-05-03
 tags:
-  - player_character
-  - pc
   - human
-  - player_resource
+  - fighter
 ---
 
 # Delmar Atticus Fisk

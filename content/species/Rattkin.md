@@ -5,7 +5,6 @@ title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
 tags:
-  - species
   - playable
   - rattkin
   - smuggling

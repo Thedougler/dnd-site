@@ -7,11 +7,8 @@ title: Dath-Mar
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - island
-  - sunken_crown
   - tabaxi
-  - player_resource
 ---
 
 # Dath-Mar

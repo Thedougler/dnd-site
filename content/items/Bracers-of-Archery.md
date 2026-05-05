@@ -5,11 +5,8 @@ title: Bracers of Archery
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - item
-  - wondrous_item
-  - uncommon
-  - stripes_bitemore
-  - player_resource
+  - homebrew
+  - ranged
 ---
 
 # Bracers of Archery

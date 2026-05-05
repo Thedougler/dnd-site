@@ -9,8 +9,6 @@ modified: 2026-05-03
 tags:
   - creature
   - beast
-  - phb
-  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster

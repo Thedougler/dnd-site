@@ -7,10 +7,9 @@ title: Beaumont's Crew
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
-  - ship
   - crew
+  - maritime
+  - recurring
 ---
 
 # Beaumont's Crew

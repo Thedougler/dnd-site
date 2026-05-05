@@ -8,11 +8,7 @@ title: The Quorum
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - ship
-  - midchain
   - council
-  - kalowe
 cssclasses:
   - wiki-ship
 ---

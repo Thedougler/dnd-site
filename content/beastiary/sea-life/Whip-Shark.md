@@ -13,11 +13,8 @@ tags:
   - creature
   - monstrosity
   - aquatic
-  - ship
-  - open_ocean
+  - ocean
   - siege
-  - shattered_sea
-  - player_resource
   - bestiary
 ---
 

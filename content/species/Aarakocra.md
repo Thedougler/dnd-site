@@ -5,10 +5,8 @@ title: Aarakocra
 created: 2026-04-21
 modified: 2026-04-22
 tags:
-  - species
   - playable
   - aarakocra
-  - homebrew_2024
 cssclasses:
   - wiki-species
 ---

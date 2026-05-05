@@ -8,10 +8,8 @@ title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-05-03
 tags:
-  - item
-  - reference_text
-  - scholarly
-  - sea_monsters
+  - arcane
+  - maritime
 cssclasses:
   - wiki-item
 ---

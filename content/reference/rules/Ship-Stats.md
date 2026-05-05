@@ -7,9 +7,7 @@ modified: 2026-04-17
 tags:
   - mechanics
   - reference
-  - ships
   - crew
-  - stats
   - rules
 cssclasses:
   - wiki-concept

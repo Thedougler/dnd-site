@@ -5,10 +5,8 @@ title: Tabaxi
 created: 2026-04-19
 modified: 2026-04-22
 tags:
-  - species
   - playable
   - tabaxi
-  - homebrew_2024
 cssclasses:
   - wiki-species
 ---

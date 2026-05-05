@@ -9,8 +9,6 @@ title: The Tessarine Concordat
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
   - tessarine
   - colonial_power
 ---

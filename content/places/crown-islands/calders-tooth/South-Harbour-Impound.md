@@ -7,11 +7,9 @@ title: South Harbour Impound
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - impound
   - south_harbour
   - dravosi
-  - player_resource
 ---
 
 # South Harbour Impound

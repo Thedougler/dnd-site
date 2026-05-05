@@ -9,8 +9,6 @@ modified: 2026-05-03
 tags:
   - creature
   - monstrosity
-  - mm
-  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster

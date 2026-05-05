@@ -1,13 +1,12 @@
 ---
 publish: true
 permalink: /beastiary/dragons/ancient-green-dragon.md
-title: ancient green dragon
+title: Ancient Green Dragon
 created: 2026-04-25
-modified: 2026-04-25
+modified: 2026-05-05
 tags:
   - creature
   - dragon
-  - mm
 cssclasses:
   - wiki-monster
 ---

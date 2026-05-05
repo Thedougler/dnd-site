@@ -7,11 +7,8 @@ title: Halythion
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - rumour
   - underwater
-  - midchain
-  - player_resource
 ---
 
 # Halythion

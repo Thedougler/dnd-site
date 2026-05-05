@@ -9,11 +9,9 @@ title: The Chain Council
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - faction
-  - player_resource
-  - midchain
   - council
-  - kalowe
+  - government
+  - political
 ---
 
 # The Chain Council

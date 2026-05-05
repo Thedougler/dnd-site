@@ -5,10 +5,7 @@ title: South Harbour
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - harbour
-  - calders_tooth
-  - player_resource
 ---
 
 # South Harbour

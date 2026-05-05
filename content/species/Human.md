@@ -4,9 +4,6 @@ permalink: /species/Human.md
 title: Human
 created: 2026-04-21
 modified: 2026-04-21
-tags:
-  - species
-  - phb_2024
 ---
 
 # Human

@@ -7,9 +7,6 @@ title: The Red Lady
 created: 2026-05-02
 modified: 2026-05-02
 tags:
-  - player_resource
-  - ship
-  - destroyed
   - wreck
   - fleet
 cssclasses:

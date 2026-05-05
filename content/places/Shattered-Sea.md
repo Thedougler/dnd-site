@@ -9,10 +9,7 @@ title: The Shattered Sea
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
-  - region
   - setting
-  - player_resource
 ---
 
 # The Shattered Sea

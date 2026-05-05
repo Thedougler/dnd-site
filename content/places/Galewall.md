@@ -7,10 +7,8 @@ title: The Galewall
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - storm
   - navigation
-  - player_resource
 ---
 
 # The Galewall

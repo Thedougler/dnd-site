@@ -5,7 +5,6 @@ title: Cat's Curios
 created: 2026-05-02
 modified: 2026-05-02
 tags:
-  - calveno
   - artificer
 ---
 

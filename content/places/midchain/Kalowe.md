@@ -7,10 +7,7 @@ title: Kalowe
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - port
-  - midchain
-  - player_resource
 ---
 
 # Kalowe

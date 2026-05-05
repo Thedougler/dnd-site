@@ -5,8 +5,8 @@ title: FAQ
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - faq
+  - reference
+  - setting
 ---
 
 # Frequently Asked Questions

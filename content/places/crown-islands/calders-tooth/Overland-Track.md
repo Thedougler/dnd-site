@@ -8,12 +8,9 @@ title: The Overland Track
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - road
-  - calders_tooth
   - passage
   - travel
-  - player_resource
 ---
 
 # The Overland Track

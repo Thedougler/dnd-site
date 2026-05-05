@@ -7,8 +7,6 @@ title: The Saltwright
 created: 2026-05-02
 modified: 2026-05-02
 tags:
-  - player_resource
-  - ship
   - merchant_vessel
 cssclasses:
   - wiki-ship

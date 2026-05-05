@@ -9,8 +9,6 @@ modified: 2026-05-03
 tags:
   - deity
   - umberlee
-  - waveservants
-  - player_resource
 ---
 
 # Umberlee and the Waveservants

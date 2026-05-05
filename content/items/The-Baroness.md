@@ -5,11 +5,8 @@ title: The Baroness
 created: 2026-04-26
 modified: 2026-04-26
 tags:
-  - item
-  - weapon
   - melee
-  - shattered_sea
-  - delmar_fisk
+  - homebrew
 ---
 
 # The Baroness

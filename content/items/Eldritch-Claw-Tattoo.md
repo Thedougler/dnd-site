@@ -5,13 +5,8 @@ title: Eldritch Claw Tattoo
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - item
-  - wondrous_item
-  - tattoo
-  - uncommon
-  - crisdalynn_khinriss
-  - sentinels
-  - player_resource
+  - arcane
+  - military
 ---
 
 # Eldritch Claw Tattoo

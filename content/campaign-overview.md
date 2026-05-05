@@ -5,8 +5,9 @@ title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - player_resource
-  - campaign_overview
+  - reference
+  - setting
+  - campaign_guidance
 ---
 
 # Shattered Sea Campaign Overview

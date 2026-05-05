@@ -5,12 +5,9 @@ title: Pearl of Souls
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - item
-  - artifact
   - umberlee
   - divine
   - souls
-  - shattered_sea
 ---
 
 # Pearl of Souls

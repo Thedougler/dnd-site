@@ -7,11 +7,8 @@ title: The Verdant Teeth
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - islands
   - grung
-  - midchain
-  - player_resource
 ---
 
 # The Verdant Teeth

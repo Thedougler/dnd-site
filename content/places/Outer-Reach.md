@@ -7,9 +7,7 @@ title: The Outer Reach
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - ocean
-  - player_resource
 ---
 
 # The Outer Reach

@@ -11,8 +11,6 @@ tags:
   - ruins
   - antheri
   - ancient_civilization
-  - maw
-  - player_resource
 ---
 
 # Antheri Ruins

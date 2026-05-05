@@ -8,11 +8,8 @@ title: Harbourmaster's Office
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - building
-  - port_tidefall
   - dravosi
-  - player_resource
 ---
 
 # Harbourmaster's Office

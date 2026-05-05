@@ -7,7 +7,8 @@ title: Iacopo Fieschi
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - calveno
+  - tessarine
+  - political
 ---
 
 # Iacopo Fieschi

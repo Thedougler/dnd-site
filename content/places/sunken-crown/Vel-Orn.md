@@ -9,11 +9,8 @@ title: Vel-Orn — Sunken Crown
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - island
-  - sunken_crown
   - umberlee
-  - player_resource
 ---
 
 # Vel-Orn — Sunken Crown

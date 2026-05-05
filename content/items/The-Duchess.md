@@ -5,11 +5,8 @@ title: The Duchess
 created: 2026-04-26
 modified: 2026-04-26
 tags:
-  - item
-  - weapon
   - ranged
-  - shattered_sea
-  - delmar_fisk
+  - homebrew
 ---
 
 # The Duchess

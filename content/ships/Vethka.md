@@ -8,10 +8,7 @@ title: Vethka
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - player_resource
-  - ship
   - grung
-  - verdant_teeth
   - raiding
 cssclasses:
   - wiki-ship

@@ -5,7 +5,6 @@ title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
 tags:
-  - player_resource
   - planning
   - timeline
 ---

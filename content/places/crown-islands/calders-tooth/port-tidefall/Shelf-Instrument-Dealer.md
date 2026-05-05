@@ -7,13 +7,9 @@ title: The Shelf Instrument Dealer
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - location
   - building
-  - port_tidefall
   - dravosi
-  - crown_islands
   - navigation
-  - player_resource
 ---
 
 # The Shelf Instrument Dealer

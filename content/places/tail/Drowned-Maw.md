@@ -8,10 +8,7 @@ title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - location
   - trench
-  - maw
-  - player_resource
 ---
 
 # The Drowned Maw

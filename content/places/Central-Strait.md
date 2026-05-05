@@ -12,7 +12,7 @@ tags:
   - navigation
 ---
 
-# The Central Strait
+# [[Central-Strait-Secrets|The Central Strait]]
 
 ![[raw/assets/banners/Central-Strait.webp|Wide blue-green shipping strait cutting between low islands and reef shallows]]
 
@@ -20,7 +20,7 @@ tags:
 
 The Central Strait is the main east-west highway of the Scatter — a broad corridor of pale blue-green water running forty to eighty miles wide between the [[places/crown-islands/index|Crown Islands]] to the north and the [[places/midchain/index|Midchain]] to the south. The water is clear enough that the sandy bottom shows through on good days, though the sounding line will tell you it is eighty to two hundred feet down and the bottom has no opinions about your draft. The Scatter Current pushes steadily east through the whole length of it, giving eastbound ships half a knot to a full knot they did not have to earn. Pods of spinner dolphins work the shipping lanes year-round, and flying fish break silver off every bow from the western mouth to the Narrows.
 
-Deep water, sheltered approaches, and a current behind you: three things that rarely arrive together. Almost everything moving between the colonial homelands and the Midchain uses the Strait. The cost of that convenience is paid at the western end, where [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] extends its inspection pier across the channel and nothing enters under Crown law without pausing to answer questions and sign things.
+Deep water, sheltered approaches, and a current behind you: three things that rarely arrive together. Almost everything moving between the colonial homelands and [[Midchain-Secrets|the Midchain]] uses the Strait. The cost of that convenience is paid at the western end, where [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] extends its inspection pier across the channel and nothing enters under Crown law without pausing to answer questions and sign things.
 
 Eastbound, the Strait narrows as both arcs converge toward [[places/tail/index|the Tail]]. The current accelerates. The water changes character. By the time [[places/crown-islands/stenmark/index|Stenmark]]'s cliffs are visible to the north, the comfortable certainties of the mid-Strait are already behind you.
 
@@ -28,9 +28,9 @@ Eastbound, the Strait narrows as both arcs converge toward [[places/tail/index|t
 
 ## Dimensions and Conditions
 
-At its widest — roughly south of [[places/crown-islands/harwick/index|Harwick]] — the Strait runs close to eighty miles across. At the western mouth it compresses to forty miles between Calder's Tooth and the nearest Midchain approaches. At the eastern end, where the arcs pinch toward the Tail, it narrows further and the sounding depths increase sharply as the shelf gives way to the deep water that eventually becomes the [[Drowned-Maw|Drowned Maw]].
+At its widest — roughly south of [[places/crown-islands/harwick/index|Harwick]] — the Strait runs close to eighty miles across. At the western mouth it compresses to forty miles between [[Calders-Tooth-Secrets|Calder's Tooth]] and the nearest Midchain approaches. At the eastern end, where the arcs pinch toward [[Tail-Secrets|the Tail]], it narrows further and the sounding depths increase sharply as the shelf gives way to the deep water that eventually becomes the [[Drowned-Maw|Drowned Maw]].
 
-The prevailing winds blow northeast to southwest across the whole Scatter. Eastbound ships run with them and the current both; the Strait is generous in that direction. Westbound ships beat against the wind for the full length of the passage, tacking between the northern and southern shore, which is how experienced pilots develop opinions about which tacks are less bad. The broad mid-Strait is the worst of it. Closer to the Midchain's northern reef faces or the Crown Islands' southern coasts there are lee pockets worth knowing.
+The prevailing winds blow northeast to southwest across the whole Scatter. Eastbound ships run with them and the current both; the Strait is generous in that direction. Westbound ships beat against the wind for the full length of the passage, tacking between the northern and southern shore, which is how experienced pilots develop opinions about which tacks are less bad. The broad mid-Strait is the worst of it. Closer to the Midchain's northern reef faces or [[Crown-Islands-Secrets|the Crown Islands]]' southern coasts there are lee pockets worth knowing.
 
 Fog forms in the eastern Strait overnight and burns off by mid-morning, more reliably in summer than in winter. The western mouth stays clearer. Rain squalls move through fast and without much warning; the spinner dolphins tend to sound before them, which is the kind of navigation aid that does not appear on any chart.
 
@@ -50,7 +50,7 @@ The current turns north at the eastern end, bending away from the Strait and up 
 
 **The Blue Lane** — The established mid-Strait shipping route, following the strongest line of the Scatter Current roughly equidistant between the northern and southern shores. It is not a marked channel. It is where every merchant goes because that is where every merchant went before them. The water is deepest here, the current is strongest, and a ship in the Blue Lane is visible to both shores, which cuts both ways: Crown patrols can see you, but so can anyone else watching traffic.
 
-**The Calven Roads** — The broad, sheltered water south of [[places/crown-islands/calven/index|Calven]] island, between the Calven coast and the mid-Strait. The prevailing wind is partially blocked by the island mass, which makes this one of the better anchorage options in the northern Strait for ships waiting out weather or waiting for tide. Calveno's canal city is visible from here on clear days — pale stone rising four stories above the waterline, close enough that a spyglass picks up individual boats in the channels. ^\[inferred]
+**The Calven Roads** — The broad, sheltered water south of [[places/crown-islands/calven/index|Calven]] island, between the Calven coast and the mid-Strait. The prevailing wind is partially blocked by the island mass, which makes this one of the better anchorage options in the northern Strait for ships waiting out weather or waiting for tide. [[Calveno-Secrets|Calveno]]'s canal city is visible from here on clear days — pale stone rising four stories above the waterline, close enough that a spyglass picks up individual boats in the channels. ^\[inferred]
 
 **The Harwick Reach** — The deeper water south of [[places/crown-islands/harwick/index|Harwick]], where the island's deep-water anchorage faces onto the Strait. Crown patrol frigates and enforcement vessels stage from here. A ship on the Blue Lane can see the masts of the Harwick Naval Yard from mid-channel in calm conditions. This is also where Crown convoy escorts form up before running east or west with cargo. Captains who carry their papers in good order find the Reach uneventful. Others find it less so.
 
@@ -68,7 +68,7 @@ The current turns north at the eastern end, bending away from the Strait and up 
 
 A sailor running the Strait east has a sequence of landmarks to fix position against. West to east:
 
-**Fort Crestwall** — [[Fort-Crestwall|The fortified crown]] above Port Tidefall, visible from the western approach and south into the Strait on clear days. Arriving captains use it to orient before the inspection pier comes into view. Departing captains watch it shrink behind them as a rough measure of how far they are from Crown authority and how close they are to Crown authority catching up.
+**Fort Crestwall** — [[Fort-Crestwall|The fortified crown]] above [[Port-Tidefall-Secrets|Port Tidefall]], visible from the western approach and south into the Strait on clear days. Arriving captains use it to orient before [[Inspection-Pier-Secrets|the inspection pier]] comes into view. Departing captains watch it shrink behind them as a rough measure of how far they are from Crown authority and how close they are to Crown authority catching up.
 
 **The Pale City** — Calveno visible from mid-Strait: pale stone facades catching morning light, the city's height above the waterline making it legible at distances where most settlements are invisible. Experienced pilots use the angle of the city against the horizon to confirm their northing.
 
@@ -106,3 +106,14 @@ The [[The-Bad-Receipt|Bad Receipt]] is the name merchants lower their voices for
 - [[places/tail/index|The Tail]] — eastern terminus where the Strait narrows toward the Maw
 - [[Drowned-Maw|The Drowned Maw]] — visible influence in the Narrows; compass drift begins near the eastern Strait
 - [[Dravosi-Crown|The Dravosi Crown]] — nominal authority over the Strait; patrols, inspections, convoys
+
+## Related
+
+- [[Drowned-Maw-Secrets]] — The Drowned Maw
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
+- [[Verdant-Scatter]] — The Verdant Scatter
+- [[Shattered-Sea]] — The Shattered Sea
+- [[The-Shallows]] — The Shallows
+- [[The-Deep]] — The Deep
+- [[The-Below]] — The Below

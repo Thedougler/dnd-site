@@ -18,7 +18,7 @@ cssclasses:
 # The _Knife's Wake_
 
 > [!READ-ALOUD]
-> A low cutter comes on with patched tan canvas and a tired brown hull, the kind of working boat that should smell of fish and wet rope. Then the gunports open. Black-painted teeth show along the rail, boarding hooks come up from behind the bulwark, and the false trade pennant drops before the real flag rises: a narrow black streamer cut like a knife wound.
+> A low cutter comes on with patched tan canvas and a tired brown hull, the kind of working boat that should smell of fish and wet rope. Then the gunports open. Black-painted teeth show along the rail, boarding hooks come up from behind the bulwark, and the false trade pennant drops before the real flag rises: a [[Narrow]] black streamer cut like a knife wound.
 
 ---
 
@@ -131,3 +131,10 @@ Replacing the Captain's Cabin with an Expanded Cargo Hold is possible, but it ch
 ## Session Events
 
 _(No sessions yet.)_
+
+## Related
+
+- [[The-Below]] — The Below
+- [[The-Bad-Receipt]] — The Bad Receipt
+- [[The-Glass-Debt]] — The Glass Debt
+- [[Midchain-Secrets]] — The Midchain

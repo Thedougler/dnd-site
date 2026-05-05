@@ -34,3 +34,9 @@ Farther east, the [[places/tail/index|Tail]] can support colder cliff-saddle bir
 - **Common encounter zone:** [[Overland-Track|The Overland Track]] across [[places/crown-islands/calders-tooth/index|Calder's Tooth]], where road traffic concentrates prey and panic.
 - **Secondary range:** [[places/tail/index|The Tail]] cliff saddles and cold upland grass near longline settlements.
 - **Likely signs:** three-toed tracks punched deep into mud, slashed pack saddles, scattered draft animals, high screams in fog, and stones kicked loose from ridgelines before the bird comes into view. ^\[inferred]
+
+## Related
+
+- [[Tail-Secrets]] — The Tail
+- [[Calders-Tooth-Secrets]] — Calder's Tooth
+- [[Midchain-Secrets]] — The Midchain

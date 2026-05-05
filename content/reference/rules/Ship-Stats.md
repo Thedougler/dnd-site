@@ -13,9 +13,9 @@ cssclasses:
   - wiki-concept
 ---
 
-# Ship Stats — The Shattered Sea
+# Ship Stats — [[Shattered-Sea-Secrets|The Shattered Sea]]
 
-> Tiers, vehicle stats, crew roles, and minimum crew for Shattered Sea ship play.
+> Tiers, vehicle stats, crew roles, and minimum crew for [[Shattered-Sea|Shattered Sea]] ship play.
 
 ---
 
@@ -81,3 +81,11 @@ The minimum crew fills all required roles and provides enough ordinary sailors t
 ## Connections
 
 [[Ship-Stats]] | [[Ship-Bastion]]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Ship-Upgrades]] — Ship Upgrades
+- [[Sailor]] — Sailor - D\&D 5e (2024)
+- [[Ship-Operations]] — Ship Operations
+- [[Siege-Rules]] — Siege Rules

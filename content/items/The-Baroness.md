@@ -22,3 +22,9 @@ One of two named weapons carried by [[party/Delmar-Fisk|Delmar Fisk]], alongside
 - [[party/Delmar-Fisk|Delmar Fisk]] — owner
 - [[The-Duchess]] — paired weapon
 - [[Rapier]] — base weapon type
+
+## Related
+
+- [[Delmar-Fisk]] — Delmar Fisk
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

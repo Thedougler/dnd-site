@@ -79,3 +79,9 @@ A scholarly reference text. Consulting a relevant chapter requires 10 minutes of
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]] — author
 - [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — current holder
 - [[beastiary/sea-life/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy
+
+## Related
+
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Leviathan]] — The Leviathan
+- [[Terror]] — Terror

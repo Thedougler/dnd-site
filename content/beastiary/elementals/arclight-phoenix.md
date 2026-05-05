@@ -20,7 +20,7 @@ cssclasses:
 
 ---
 
-## In The Shattered Sea
+## In [[Shattered-Sea-Secrets|The Shattered Sea]]
 
 Arclight phoenixes are not ordinary birds and not ordinary storms. They belong to the western edge where volcanic stone meets permanent weather: the black spires of the [[Ashwall-Islands|Ashwall Islands]] and the [[Galewall|Galewall]] that begins just past them.
 
@@ -30,8 +30,12 @@ The cycle follows the statblock's own logic: when a phoenix dies, it explodes an
 
 The most repeated crossing account has a burning-white shape moving along a failing ship's mastline without touching it, lightning jumping from spar to spar as if the vessel were a ladder. The crew lost the mainmast and most of its topside hands before making the Ashwall lee. One survivor insisted the bird was not riding the storm but hunting through it — moving deliberately toward iron fittings and wet rigging and breathing crew. Burns ran along contact points rather than down from a single strike. Iron fittings magnetized hard enough to pull nails from a workbench. The accounts match well enough that Ashwall pilots now keep arclight phoenix reports separate from ordinary lightning-strike stories, and treat lateral stormlight as a different warning from thunder. ^\[inferred]
 
-## The Galewall Question
+## [[Galewall-Secrets|The Galewall]] Question
 
 Ashwall crews hold a belief the colonial weather-offices dismiss: that the Galewall is not the environment the arclight phoenix inhabits — it is what the arclight phoenix makes. The storm belt exists because the birds charge it, fly through it continuously, and sustain it the way a fire sustains itself on new wood. The permanent weather is not a natural feature of the western ocean. It is the accumulated output of something alive. ^\[inferred]
 
 No one has proven this. What is harder to dismiss is that the Galewall does not behave like weather. It does not move seasonally, does not dissipate after the conditions that produce it have passed, and maintains a consistent energy profile that meteorologists from the colonial academies have been trying to explain for a century without settling on one answer. Ashwall crews are not trying to explain it. They know what they see coming out of the volcanic vents, and they know what the Galewall looks like from inside, and they have decided the two are the same thing at different stages. ^\[inferred]
+
+## Related
+
+- [[Shattered-Sea]] — The Shattered Sea

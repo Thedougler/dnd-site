@@ -11,11 +11,11 @@ tags:
   - grung
 ---
 
-# Orak
+# [[Orak-Secrets|Orak]]
 
 The second of the two eastern [[Verdant-Teeth|Verdant Teeth]], sitting close enough to [[Dreth|Dreth]] that the channel between them is shadowed and flat. Orak's shore is low and wet, the roots crowding down to the waterline, the canopy running thick from the beach inward. Nothing on the beach looks guarded until the canopy moves once and then holds perfectly still.
 
-Less militarized than Karath. Still Grung territory.
+Less militarized than [[Karath]]. Still Grung territory.
 
 Orak's danger is low, wet, and patient. [[beastiary/beasts/giant-frog|Giant frogs]] sit half-buried along the channel edge, [[beastiary/beasts/giant-constrictor-snake|giant constrictor snakes]] hold the darker root water between Orak and [[Dreth|Dreth]], [[beastiary/beasts/giant-spider|giant spiders]] bridge the root gaps above animal paths, and [[beastiary/beasts/swarm-of-venomous-snakes|venomous snake swarms]] gather in warm hollows after rain. Grung scouts move through it like a known street. Outsiders do not.
 
@@ -25,3 +25,10 @@ Orak's danger is low, wet, and patient. [[beastiary/beasts/giant-frog|Giant frog
 
 - [[Verdant-Teeth|Verdant Teeth]]
 - [[Dreth|Dreth]]
+
+## Related
+
+- [[Karath-Secrets]] — Karath
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Grung]] — Grung

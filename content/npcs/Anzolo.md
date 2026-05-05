@@ -11,7 +11,7 @@ tags:
   - recurring
 ---
 
-# Anzolo
+# [[Anzolo-Secrets|Anzolo]]
 
 ---
 
@@ -33,3 +33,9 @@ The Tangle vouches for him. That is enough.
 - [[Nona-Black-Jaw]] — vouches for him; he carries her groceries and handles her chores
 - [[places/crown-islands/calven/calveno/index]] — where he operates
 - [[Warren]] — Tangle contact
+
+## Related
+
+- [[Calveno-Secrets]] — Calveno
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

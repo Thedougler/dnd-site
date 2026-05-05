@@ -20,12 +20,20 @@ cssclasses:
 
 ---
 
-## In The Shattered Sea
+## In [[Shattered-Sea-Secrets|The Shattered Sea]]
 
-The oldest Midchain pilots know that [[Aruhe|Aruhe]] is not avoided because of the Grung. The Grung don't go there either.
+The oldest Midchain pilots know that [[Aruhe|Aruhe]] is not avoided because of the [[Grung]]. The Grung don't go there either.
 
 The public story — patrol boats, territorial pressure, a settlement that never held — is true as far as it goes. The settlement failed because people started disappearing. Not all at once. One a season, then two, then the kind of rate that makes a community decide it has misread the island and leave while there are still enough of them to sail. The Grung patrol boats came after, and they are a sufficient reason to stay away, which is convenient because the real reason is harder to say out loud.
 
 The water around Aruhe's eastern tip runs a faint brown-gold at low tide. Not silt. Not algae. Old Midchain pilots who have passed close enough know the smell — the same sharp-mineral bite as a hull plank dissolved by acid seep. Something in the flooded interior drains into the sea, and what drains out of something that old, in something that large, in an island it has had to itself for long enough to shape the drainage — that is not weather. The terraces didn't fall from neglect. They dissolved from the base up, slowly, over the kind of time that an ancient black dragon uses the way other things use a season. ^\[inferred]
 
-The Grung name for Aruhe doesn't translate, but the Sorn intermediaries who know enough of the language to trade have described the nearest equivalent as something like _the island that is already eaten_. Nobody from outside has verified this. Nobody from outside has had a reason to get close enough to try. ^\[inferred]
+The Grung name for Aruhe doesn't translate, but the [[Sorn-Secrets|Sorn]] intermediaries who know enough of the language to trade have described the nearest equivalent as something like _the island that is already eaten_. Nobody from outside has verified this. Nobody from outside has had a reason to get close enough to try. ^\[inferred]
+
+## Related
+
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Grung-Clans]] — The Grung Clans
+- [[Sorn]] — Sorn
+- [[ancient-dragon-turtle]] — Ancient Dragon Turtle

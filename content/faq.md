@@ -9,7 +9,8 @@ tags:
   - setting
 ---
 
-# Frequently Asked Questions
+sources: \[]
+\--- Frequently Asked Questions
 
 ## Where should I start?
 
@@ -95,3 +96,9 @@ The page is not public. It may exist in the campaign notes, but it has not been 
 
 - [[index|The Shattered Sea]] — campaign hub
 - [[player-primer|Player Primer]] · [[campaign-overview|Campaign Overview]]
+
+## Related
+
+- [[Grung]] — Grung
+- [[Grung-Clans]] — The Grung Clans
+- [[weapons]] — weapons

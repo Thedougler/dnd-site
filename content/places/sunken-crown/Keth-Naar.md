@@ -48,7 +48,7 @@ Most land threats on Keth-Naar are known by route and season. [[beastiary/beasts
 
 ## The Five Islands
 
-Keth-Naar is the most populated of five small islands arranged around the Blue Hole. The others each hold a specific role in the life of the community: Vel-Orn at the centre holds the shrine, kept apart from ordinary travel; Ral-Arn holds the oldest family records; [[Dath-Mar|Dath-Mar]] is the refuge island, kept ready for emergencies; Meth-Var faces the open Maw waters and is maintained as a permanent watch post.
+Keth-Naar is the most populated of five small islands arranged around the Blue Hole. The others each hold a specific role in the life of the community: [[Vel-Orn]] at the centre holds the shrine, kept apart from ordinary travel; [[Ral-Arn]] holds the oldest family records; [[Dath-Mar|Dath-Mar]] is the refuge island, kept ready for emergencies; [[Meth-Var]] faces the open Maw waters and is maintained as a permanent watch post.
 
 ---
 
@@ -58,3 +58,9 @@ Keth-Naar is the most populated of five small islands arranged around the Blue H
 - [[Dath-Mar|Dath-Mar]]
 - Ral-Arn
 - Meth-Var
+
+## Related
+
+- [[The-Deep]] — The Deep
+- [[Vestra]] — The Vestra
+- [[The-Below]] — The Below

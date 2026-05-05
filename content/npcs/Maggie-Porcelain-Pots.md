@@ -12,7 +12,7 @@ tags:
   - social
 ---
 
-# Maggie Porcelain Pots
+# [[Maggie-Porcelain-Pots-Secrets|Maggie Porcelain Pots]]
 
 ![[raw/assets/banners/Maggie-Porcelain-Pots.webp|Maggie Porcelain Pots working among stacked clay vessels as warm firelight glows behind her]]
 
@@ -46,3 +46,9 @@ She is currently expanding the operation and scouting locations on other islands
 ## Connections
 
 - **[[party/Delmar-Fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record
+
+## Related
+
+- [[Delmar-Fisk]] — Delmar Fisk
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

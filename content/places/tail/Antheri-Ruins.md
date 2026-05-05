@@ -73,3 +73,9 @@ Surface danger has compounded the change. Antheri prizes leave the site in visib
 - [[Drowned-Maw|The Drowned Maw]] — the trench the ruins are built into; the source of the Bore's compass drift
 - [[places/tail/index|The Tail]] — staging islands for the surface operations
 - [[Catarina-DaVirelli|Catarina DaVirelli]] — reverse-engineered the first working Antheri mechanism; sparked the gold rush; foremost living expert on Antheri materials
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Tail-Secrets]] — The Tail
+- [[Drowned-Maw-Secrets]] — The Drowned Maw

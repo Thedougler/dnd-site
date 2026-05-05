@@ -55,3 +55,9 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — contains the chapter Perrin has been studying
 - [[Drowned-Maw|Drowned Maw]] — deep-water region often pulled into sailor talk about things below the charted sea
 - [[Sawek|Sawek]] and [[Whip-Shark|Whip Shark]] — confirmed dangerous sea creatures, useful contrast for how little is known about the Leviathan
+
+## Related
+
+- [[Vestra]] — The Vestra
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Algernon-Reginald-Clyde]] — Algernon Reginald Clyde

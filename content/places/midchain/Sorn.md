@@ -32,5 +32,11 @@ The crop terraces make Sorn one of the few places where giant ape sign can reach
 ## See Also
 
 - [[Verdant-Teeth|The Verdant Teeth]]
-- Veth
+- [[Veth]]
 - [[Karath|Karath]]
+
+## Related
+
+- [[Sorn-Secrets]] — Sorn
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

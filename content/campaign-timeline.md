@@ -9,7 +9,7 @@ tags:
   - timeline
 ---
 
-# Campaign Timeline
+# [[Campaign-Timeline|Campaign Timeline]]
 
 _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
@@ -87,3 +87,9 @@ _(Append after session runs)_
 
 - [[index|The Shattered Sea]] — campaign hub
 - [[campaign-overview|Campaign Overview]] — geography, powers, and starting situation
+
+## Related
+
+- [[The-Deep]] — The Deep
+- [[Fernen]] — The Fernen
+- [[Narrow]] — The Narrow

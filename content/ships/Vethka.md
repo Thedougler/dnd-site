@@ -35,7 +35,7 @@ The double outrigger arrangement — one float per side, lashed on crossed vine-
 
 The _vethka_ is a blue-and-purple operation. Blue-caste scouts navigate and pilot; they know the coastal approaches, the tide windows, the harbour markers, and the distance at which a lamp on shore stops seeing anything that isn't lit. Purple-caste warriors handle the assault and the restraint of captives taken in bondage raids. Green-caste do not crew raiding vessels. Red and gold do not get wet.
 
-Orange-caste artisans build the _vethka_ at interior yards on Veth and Karath, working under red-caste specification. The poison preparation benches — forward of amidships, sealed with a flat resin panel — are red-caste design: a narrow work surface for coating weapons before the approach. Purple-caste warriors touch that surface. No other caste does.
+Orange-caste artisans build the _vethka_ at interior yards on Veth and Karath, working under red-caste specification. The poison preparation benches — forward of amidships, sealed with a flat resin panel — are red-caste design: a [[Narrow]] work surface for coating weapons before the approach. Purple-caste warriors touch that surface. No other caste does.
 
 ---
 
@@ -100,3 +100,10 @@ If a _vethka_ crew cannot run, they swim. Grung are amphibious. Abandoning the h
 - [[Grung-Clans|The Grung Clans]] — builders and operators; orange-caste construction, blue-and-purple crew
 - [[Verdant-Teeth|The Verdant Teeth]] — home waters, construction yards, and the reef country where pursuit fails
 - [[ships/index|Ships]]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Karath-Secrets]] — Karath
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

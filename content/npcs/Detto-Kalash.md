@@ -11,7 +11,7 @@ tags:
   - earth_genasi
 ---
 
-# Detto Kalash
+# [[Detto-Kalash-Secrets|Detto Kalash]]
 
 ---
 
@@ -35,3 +35,9 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 - [[Heft|The Heft]] — his ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet he served
 - [[Drowned-Maw|Drowned Maw]] — where he died
+
+## Related
+
+- [[Umberlee]] — Umberlee and the Waveservants
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

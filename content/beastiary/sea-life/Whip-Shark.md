@@ -45,3 +45,9 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 - [[Ship-Stats]] — Hooking Drive interacts with vessel HP rules
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Tail-Secrets]] — The Tail

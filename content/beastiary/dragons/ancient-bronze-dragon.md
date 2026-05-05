@@ -29,3 +29,9 @@ Nobody has posted a sign. Nobody has been told directly. The rule exists because
 The [[Drowned-Maw|Drowned Maw]] has been watched from above by the [[public/lore/High-Eyrie|Sentinels of the High Eyrie]] for two centuries. Their records note, without editorial comment, that a Gargantuan creature matching no ordinary marine animal has been observed moving through the western shelf waters at irregular intervals since the records began. It does not attack vessels. It avoids the dive lines. It is present more often when the [[Tessarine-Concordat|Tessarine Concordat]] or [[Dravosi-Crown|Dravosi Crown]] increase extraction operations, and less often when they don't. The Sentinels have drawn no conclusions in their public records. The Sentinels are careful observers. ^\[inferred]
 
 An ancient bronze dragon old enough to have watched the Antheri ruins since before the current colonial era would have opinions about how they are being used. It is Lawful Good. It has not destroyed the Shelfworks. What it has done is establish, through current and cold water and the occasional very direct repositioning of a dive line, that there are parts of the ruins it considers outside the scope of the salvage gold rush. Whether the faction offices at the surface camp have quietly factored this into their site maps is not something either faction has chosen to document. ^\[inferred]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[High-Eyrie-Secrets]] — The High Eyrie
+- [[Antheri-Ruins-Secrets]] — Antheri Ruins

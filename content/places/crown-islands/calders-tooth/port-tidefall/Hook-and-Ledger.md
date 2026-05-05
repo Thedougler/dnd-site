@@ -14,7 +14,7 @@ tags:
   - shelf
 ---
 
-# The Hook & Ledger
+# [[Hook-and-Ledger-Secrets|The Hook & Ledger]]
 
 The Hook & Ledger is a narrow tavern halfway up the Shelf road in [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]], close enough to the Harbourmaster's Office for clerks to reach it on a short break and far enough from Dockfront noise to conduct business in a normal voice.
 
@@ -51,3 +51,9 @@ The useful thing is not the stock. It is that every ordinary item comes with som
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]
 - [[South-Harbour-Impound|South Harbour Impound]]
+
+## Related
+
+- [[Narrow]] — The Narrow
+- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
+- [[Port-Tidefall-Secrets]] — Port Tidefall

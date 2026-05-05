@@ -6,7 +6,8 @@ created: 2026-04-29
 modified: 2026-05-03
 ---
 
-# Shattered Sea Player Primer
+sources: \[]
+\--- Shattered Sea Player Primer
 
 ![[raw/assets/banners/The-Shattered-Sea.webp|Aerial view of the Shattered Sea island chain with turquoise reefs and scattered green islands]]
 
@@ -225,3 +226,10 @@ Once you have a concept, schedule a short character interview with the DM. The g
 - [[campaign-timeline|Campaign Timeline]]
 - [[campaign-overview|Campaign Overview]]
 - [[faq|Frequently Asked Questions]]
+
+## Related
+
+- [[campaign-timeline]] — Campaign Timeline
+- [[Narrow]] — The Narrow
+- [[Umberlee]] — Umberlee and the Waveservants
+- [[Calveno-Secrets]] — Calveno

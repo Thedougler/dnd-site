@@ -2,7 +2,7 @@
 publish: true
 permalink: /factions/index.md
 title: Factions
-created: 2026-05-02T15:58:16.218-07:00
+created: 2026-05-05T14:47:27.759-07:00
 modified: 2026-05-03
 tags:
   - player-resource

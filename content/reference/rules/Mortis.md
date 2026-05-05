@@ -106,3 +106,14 @@ A Mortis pairs a permanent mechanical disadvantage (the **Mark**) with a targete
 ## Context
 
 Session zero option only — not available mid-campaign. Requires DM approval on both sides. The Mark must have real teeth; the Gift must exceed the Mark in value and target the player's core fantasy. See Design Rules and Constraints above for creation guidance.
+
+## Related
+
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
+- [[SRD-Actions]] — SRD Actions
+- [[Session-Zero]] — Session Zero
+- [[Siege-Rules]] — Siege Rules
+- [[Ship-Upgrades]] — Ship Upgrades

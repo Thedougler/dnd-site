@@ -12,7 +12,7 @@ tags:
   - setting
 ---
 
-# The Shattered Sea
+# [[Shattered-Sea-Secrets|The Shattered Sea]]
 
 ![[raw/assets/banners/The-Shattered-Sea.webp|Aerial view of the Shattered Sea island chain with turquoise reefs and scattered green islands]]
 
@@ -28,7 +28,7 @@ To the west, the [[Galewall|Galewall]] cuts the Scatter off from the colonial ho
 
 ## The Shape Of The Sea
 
-The [[Central-Strait|Central Strait]] is the main shipping road through the region: forty to eighty miles of navigable water between the Crown Islands and the Midchain. The Scatter Current runs east through it and curls through the wider region, giving ships a little free speed if they know where to ride it.
+The [[Central-Strait|Central Strait]] is the main shipping road through the region: forty to eighty miles of navigable water between [[Crown-Islands-Secrets|the Crown Islands]] and [[Midchain-Secrets|the Midchain]]. The Scatter Current runs east through it and curls through the wider region, giving ships a little free speed if they know where to ride it.
 
 The [[places/crown-islands/index|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
 
@@ -70,3 +70,18 @@ No chart of the Shattered Sea is innocent. Some are wrong by age, some by politi
 - [[Drowned-Maw|The Drowned Maw]]
 - [[Doldrums|The Doldrums]]
 - [[Outer-Reach|The Outer Reach]]
+
+## Related
+
+- [[Tail-Secrets]] — The Tail
+- [[Outer-Reach-Secrets]] — The Outer Reach
+- [[Doldrums-Secrets]] — The Doldrums
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Drowned-Maw-Secrets]] — The Drowned Maw
+- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
+- [[Verdant-Scatter]] — The Verdant Scatter
+- [[Central-Strait-Secrets]] — The Central Strait
+- [[Galewall-Secrets]] — The Galewall
+- [[The-Shallows]] — The Shallows
+- [[Narrow]] — The Narrow
+- [[The-Below]] — The Below

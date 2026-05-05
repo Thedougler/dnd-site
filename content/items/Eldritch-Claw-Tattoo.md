@@ -71,3 +71,9 @@ Activate for 1 minute. While active:
 - [[Master-Kyzil|Master Kyzil]] — the master who presented Crisdalynn with the needle
 - [[High-Eyrie|High Eyrie]] — where the tradition originates and is sustained
 - [[Crissdalynn-Khinriss-Sheet]] — character sheet
+
+## Related
+
+- [[Aarakocra]] — Aarakocra
+- [[Crisdalynn-Khinriss]] — Crisdalynn Khinriss
+- [[weapons]] — weapons

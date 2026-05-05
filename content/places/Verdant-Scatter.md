@@ -11,7 +11,7 @@ tags:
   - archipelago
 ---
 
-# The Verdant Scatter
+# [[Verdant-Scatter-Secrets|The Verdant Scatter]]
 
 The Verdant Scatter is the primary archipelago of the [[Shattered-Sea|Shattered Sea]], running east to west between the [[Galewall|Galewall]] and the [[Drowned-Maw|Drowned Maw]]. It is not one island chain so much as two arcs with a shipping road between them.
 
@@ -21,7 +21,7 @@ The southern arc is the [[places/midchain/index|Midchain]]: dozens of smaller is
 
 Between them runs the [[Central-Strait|Central Strait]], the main navigable corridor through the region. To the east, both arcs narrow and converge at [[places/tail/index|the Tail]], where the water grows colder and the Maw starts shaping every decision.
 
-The Scatter's land threats change with the island underfoot. The Crown highlands have [[beastiary/beasts/giant-boar|giant boars]] and sinkhole predators; the Midchain interiors are better known for [[beastiary/beasts/giant-spider|giant spiders]], [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]], and wet-country ambush hunters. Islanders do not talk about these as wilderness trivia. They are part of route planning.
+The Scatter's land threats change with the island underfoot. The Crown highlands have [[beastiary/beasts/giant-boar|giant boars]] and sinkhole predators; [[Midchain-Secrets|the Midchain]] interiors are better known for [[beastiary/beasts/giant-spider|giant spiders]], [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]], and wet-country ambush hunters. Islanders do not talk about these as wilderness trivia. They are part of route planning.
 
 Its pirate threats scale the same way. The [[Knifes-Wake|Knife's Wake]] is the kind of cutter that makes a single bad channel choice expensive. The [[The-Bad-Receipt|Bad Receipt]] turns Midchain paperwork and repair harbours into a weapon. The [[The-Glass-Debt|Glass Debt]] is what happens when piracy grows large enough that convoys, patrols, and councils all have to react.
 
@@ -36,3 +36,14 @@ Its pirate threats scale the same way. The [[Knifes-Wake|Knife's Wake]] is the k
 - [[places/tail/index|The Tail]]
 - [[Galewall|The Galewall]]
 - [[Drowned-Maw|The Drowned Maw]]
+
+## Related
+
+- [[Tail-Secrets]] — The Tail
+- [[Drowned-Maw-Secrets]] — The Drowned Maw
+- [[Central-Strait-Secrets]] — The Central Strait
+- [[Galewall-Secrets]] — The Galewall
+- [[Crown-Islands-Secrets]] — The Crown Islands
+- [[Narrow]] — The Narrow
+- [[Dravosi-Crown]] — The Dravosi Crown
+- [[giant-venomous-snake]] — Giant Venomous Snake

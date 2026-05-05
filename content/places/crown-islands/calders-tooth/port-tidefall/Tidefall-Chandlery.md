@@ -12,7 +12,7 @@ tags:
   - market
 ---
 
-# Tidefall Chandlery
+# [[Tidefall-Chandlery-Secrets|Tidefall Chandlery]]
 
 Tidefall Chandlery is the main resupply shop for vessels clearing [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] inspection. It sits at the Dockfront end of the Shelf, with barrels and supply crates stacked outside, a long counter inside, and a price board mounted where nobody can claim they did not see it.
 
@@ -36,3 +36,9 @@ At the back, a locked glass case holds the magic items. The clerk knows the list
 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Shelf-Instrument-Dealer|Shelf Instrument Dealer]]
+
+## Related
+
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

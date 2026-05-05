@@ -12,7 +12,7 @@ tags:
   - arcane
 ---
 
-# Algernon Reginald Clyde
+# [[Algernon-Reginald-Clyde-Secrets|Algernon Reginald Clyde]]
 
 ![[raw/assets/banners/Clyde.webp|Argibald Reginald Clyde, an elderly gnome scholar, standing on wet docks with a book and walking stick]]
 
@@ -68,3 +68,9 @@ He is easy to find at the docks. He is usually the one in an argument about some
 - **[[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]** — first book tour stop
 - **[[Kalowe|Kalowe]]** — second stop; prior field history here with the [[Sawek|Sawek]]
 - **[[places/crown-islands/calven/calveno/index]]** — third stop
+
+## Related
+
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Verdant-Scatter-Secrets]] — The Verdant Scatter

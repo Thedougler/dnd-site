@@ -11,7 +11,7 @@ tags:
   - druid
 ---
 
-# Sienne Orre
+# [[Sienne-Orre-Secrets|Sienne Orre]]
 
 ---
 
@@ -35,3 +35,9 @@ She drowned in the Maw when Umberlee closed the water over all five ships. Her s
 - [[Maren]] — ran the parallel scout team
 - [[Fisks-Fleet]] — the fleet she served
 - [[Drowned-Maw|Drowned Maw]] — where she died
+
+## Related
+
+- [[Umberlee]] — Umberlee and the Waveservants
+- [[Vel-Orn-Secrets]] — Vel-Orn — Sunken Crown
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

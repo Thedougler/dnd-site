@@ -11,7 +11,7 @@ tags:
   - maritime
 ---
 
-# Maren
+# [[Maren-Secrets|Maren]]
 
 ---
 
@@ -35,3 +35,9 @@ She was outside the cave when the fleet sank. She drowned in the Maw when Umberl
 - [[Narrow|The Narrow]] — her ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet she served
 - [[Drowned-Maw|Drowned Maw]] — where she died
+
+## Related
+
+- [[Beaumont-Sel-Secrets]] — Beaumont Sel
+- [[Umberlee]] — Umberlee and the Waveservants
+- [[Vel-Orn-Secrets]] — Vel-Orn — Sunken Crown

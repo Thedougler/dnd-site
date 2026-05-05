@@ -74,3 +74,10 @@ This arrangement means Council-built ships are spread across the Shattered Sea i
 - [[Dravosi-Crown|The Dravosi Crown]] - external patrol and inspection pressure.
 - [[Tessarine-Concordat|The Tessarine Concordat]] - external commercial pressure.
 - [[Fisks-Fleet|Fisk's Fleet]] - known privateer fleet associated with a recent disaster.
+
+## Related
+
+- [[Chain-Council-Secrets]] — Secrets of the Chain Council
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

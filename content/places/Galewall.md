@@ -11,7 +11,7 @@ tags:
   - navigation
 ---
 
-# The Galewall
+# [[Galewall-Secrets|The Galewall]]
 
 ## Overview
 
@@ -44,3 +44,12 @@ The survivor's version is consistent in the useful places: stormlight gathered a
 - [[Ashwall-Islands|Ashwall Islands]]
 - [[Shattered-Sea|The Shattered Sea]]
 - [[places/crown-islands/index|The Crown Islands]]
+
+## Related
+
+- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
+- [[Verdant-Scatter]] — The Verdant Scatter
+- [[Crown-Islands-Secrets]] — The Crown Islands
+- [[Narrow]] — The Narrow
+- [[The-Below]] — The Below
+- [[Dravosi-Crown]] — The Dravosi Crown

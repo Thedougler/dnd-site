@@ -12,7 +12,7 @@ tags:
   - tortle
 ---
 
-# Beaumont Sel
+# [[Beaumont-Sel-Secrets|Beaumont Sel]]
 
 ![[raw/assets/banners/Beaumont-Sel.webp|Beaumont Sel, a weathered sailor, standing on deck beside a large reptilian companion at sunset]]
 
@@ -58,3 +58,9 @@ The capuchin on his shoulder is [[Bisou]], and she is not decorative. She has be
 - **[[party/Delmar-Fisk|Delmar Fisk]]** — same
 - **[[party/Stripes-Bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
 - **[[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[places/midchain/index|Midchain]] island
+
+## Related
+
+- [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
+- [[Delmar-Fisk]] — Delmar Fisk
+- [[stripes-bitemore]] — Stripes Bitemore

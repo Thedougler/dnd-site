@@ -13,7 +13,7 @@ tags:
   - pier
 ---
 
-# The Inspection Pier
+# [[Inspection-Pier-Secrets|The Inspection Pier]]
 
 The Inspection Pier is the first stop for any vessel entering [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]. It runs out into the harbour mouth before the docks proper: wide planks, cleats along both sides, and a covered station at the far end where Crown clerks work through rating, manifests, and fees.
 
@@ -44,3 +44,10 @@ The underside is mostly old wood, barnacles, soft clay, and the smell of brine. 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]
 - [[South-Harbour-Impound|South Harbour Impound]]
+
+## Related
+
+- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
+- [[The-Below]] — The Below
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[South-Harbour-Secrets]] — South Harbour

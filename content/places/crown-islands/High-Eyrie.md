@@ -12,7 +12,7 @@ tags:
   - aarakocra
 ---
 
-# The High Eyrie
+# [[High-Eyrie-Secrets|The High Eyrie]]
 
 ![[raw/assets/banners/The-High-Eyrie.webp|Stone fortress monastery perched on a sheer sea stack above dark water]]
 
@@ -91,3 +91,9 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 - [[places/crown-islands/index|The Crown Islands]]
 - [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]
 - [[Aarakocra|Aarakocra]]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Tail-Secrets]] — The Tail
+- [[Drowned-Maw-Secrets]] — The Drowned Maw

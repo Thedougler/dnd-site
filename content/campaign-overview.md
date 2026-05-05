@@ -10,7 +10,8 @@ tags:
   - campaign_guidance
 ---
 
-# Shattered Sea Campaign Overview
+sources: \[]
+\--- Shattered Sea Campaign Overview
 
 _1495 DR. Sixty thousand square miles of reef, deep channel, colonial paperwork, old gods, and water that remembers._
 
@@ -105,3 +106,9 @@ The [[Drowned-Maw|Drowned Maw]] is the eastern boundary of what is administrated
 The Maw itself is not forbidden. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[Sentinels-Of-The-Eyrie|Sentinels]] watch it and record what they see. The [[Waveservants|Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
 There are things in the Scatter that do not fit the economy yet: impossible stone, wrong currents, missing ships, old records, sailors who will not say what they saw east of the charts. The edges of the map are where the sea stops being navigable and starts being a question.
+
+## Related
+
+- [[The-Deep]] — The Deep
+- [[Narrow]] — The Narrow
+- [[The-Below]] — The Below

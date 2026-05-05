@@ -11,7 +11,7 @@ tags:
   - political
 ---
 
-# Iacopo Fieschi
+# [[Iacopo-Fieschi-Secrets|Iacopo Fieschi]]
 
 ---
 
@@ -30,3 +30,9 @@ Fieschi is the Tessarine Concordat's envoy in [[places/crown-islands/calven/calv
 
 - [[Tessarine-Concordat]] — the faction he represents
 - [[places/crown-islands/calven/calveno/index]] — his posting
+
+## Related
+
+- [[Calveno-Secrets]] — Calveno
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

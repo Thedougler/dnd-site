@@ -12,7 +12,7 @@ cssclasses:
   - wiki-ship
 ---
 
-# The Saltwright
+# [[Saltwright-Secrets|The Saltwright]]
 
 ![[raw/assets/banners/Saltwright.webp]]
 
@@ -41,7 +41,7 @@ Small and practical. Beaumont keeps a lockbox under the bed. One of the only spa
 
 ### Hold
 
-Roughly six feet of headroom beneath the deck beams. Cargo stacked tight among barrels, crates, and sacks. Two lanterns hang amidships; the hull creaks under sail. A small gap above the waterline in the aft corner lets in fresh air and a narrow sliver of outside light. [[Bisou|Bisou]]'s hoard is hidden somewhere in this clutter.
+Roughly six feet of headroom beneath the deck beams. Cargo stacked tight among barrels, crates, and sacks. Two lanterns hang amidships; the hull creaks under sail. A small gap above the waterline in the aft corner lets in fresh air and a [[Narrow]] sliver of outside light. [[Bisou|Bisou]]'s hoard is hidden somewhere in this clutter.
 
 ---
 
@@ -66,10 +66,17 @@ Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe
 - [[Beaumont-Sel|Beaumont Sel]] — captain
 - [[Beaumonts-Crew|Beaumont's Crew]] — working crew roster
 - [[Bisou|Bisou]] — ship's capuchin
-- [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — stowed away at [[Keth-Naar|Keth Naar]] after the _Vestra_ went down
+- [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — stowed away at [[Keth-Naar|Keth Naar]] after the _[[Vestra]]_ went down
 - [[party/Stripes-Bitemore|Belmore]] — bargained passage west from Keth Naar
 - [[party/Delmar-Fisk|Delmar Fisk]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — boarded at campaign start, pursued across a Midchain island
 - [[places/midchain/index|Midchain]] — operating region
 - [[Kalowe|Kalowe]] — home port
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
+- [[Delmar-Fisk]] — Delmar Fisk

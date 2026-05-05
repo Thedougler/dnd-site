@@ -57,3 +57,8 @@ Seventeen or eighteen, working on a beard that hasn't committed. Eight months at
 
 - [[Beaumont-Sel|Beaumont Sel]]
 - [[Saltwright]]
+
+## Related
+
+- [[Midchain-Secrets]] — The Midchain
+- [[Sailor]] — Sailor - D\&D 5e (2024)

@@ -53,3 +53,9 @@ It is an ambush predator, the tentacles emerge from the entrance and grab whatev
 - [[Whip-Shark]] — co-listed in [[places/midchain/index|Midchain]] maritime creature lore
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]
+
+## Related
+
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

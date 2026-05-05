@@ -12,7 +12,7 @@ tags:
   - arcane
 ---
 
-# Catarina Da'Virelli
+# [[Catarina-DaVirelli-Secrets|Catarina Da'Virelli]]
 
 ![[raw/assets/banners/Catarina-DaVirelli.webp|Catarina DaVirelli in her workshop, holding tools among benches of mechanisms and ship fittings]]
 
@@ -61,3 +61,9 @@ She does not pay cash for Antheri metalwork. She trades. If you have a piece and
 - **[[Clockwork-Familiar|Clockwork Owl Familiar]]** — her most widely circulated creation
 - **[[Dravosi-Crown]]** — holds a fleet contract; will not arm parties against them
 - **[[Brass-Cat|The *Brass Cat*]]** — her personal vessel; prototype schooner; not for sale
+
+## Related
+
+- [[Calveno-Secrets]] — Calveno
+- [[Cats-Curio's-Secrets]] — Cat's Curio's
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

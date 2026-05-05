@@ -89,3 +89,10 @@ Jaguars hunt the dense forest and complex terrain. They are built for agility, s
 ## Tabaxi Instinct
 
 Tabaxi do not form social bonds easily. They are creatures of territory and competition. In a party, a Tabaxi must choose whether to extend loyalty to their companions or follow solitary impulse. This is not a mechanical trait — it is the fundamental tension of being Cat Lord's children among other species. How your character resolves this tension shapes who they are.
+
+## Related
+
+- [[Dravosi-Crown]] — The Dravosi Crown
+- [[Rattkin]] — Rattkin
+- [[Grung]] — Grung
+- [[Antherian]] — Antherian

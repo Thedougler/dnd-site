@@ -17,7 +17,7 @@ cssclasses:
 
 _Small Humanoid_
 
-Rattkin get into places they are not supposed to be. A city's walls keep out armies. They don't keep out Rattkin. A locked cargo hold is a delay, not a barrier. A ship's bilge, a drainage pipe, a gap between walls that a human would dismiss as impassable — to a Rattkin, these are hallways. Combined with senses calibrated for threat detection and a survival instinct sharpened across generations of being hunted, Rattkin are as close to uncatchable as a creature comes.
+Rattkin get into places they are not supposed to be. A city's walls keep out armies. They don't keep out Rattkin. A locked cargo hold is a delay, not a barrier. A ship's bilge, a drainage pipe, a gap between walls that a [[Human]] would dismiss as impassable — to a Rattkin, these are hallways. Combined with senses calibrated for threat detection and a survival instinct sharpened across generations of being hunted, Rattkin are as close to uncatchable as a creature comes.
 
 In the [[Shattered-Sea|Shattered Sea]], Rattkin are the oldest continuous presence in every major port. See [[Passage|The Passage]] for the canonical Rattkin faction — the traveling network of Runs and Holds that spans every sea in the scatter.
 
@@ -129,3 +129,10 @@ Small humanoids calibrated for getting into places they are not supposed to be. 
 - [[Passage|The Passage]] — the traveling network of Runs and Holds spanning the Scatter
 - [[Warren]] — the only fixed Rattkin settlement, beneath [[places/crown-islands/calven/calveno/index]]
 - [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Fancy Rat PC; from the [[places/crown-islands/calven/calveno/index]] Run
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Calveno-Secrets]] — Calveno
+- [[Tail-Secrets]] — The Tail

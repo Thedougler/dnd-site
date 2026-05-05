@@ -91,3 +91,9 @@ What they do not phrase plainly, but demonstrate by habit: experienced divers do
 - [[Tessarine-Concordat|Tessarine Concordat]] — factor presence on site; early maps; manifest intelligence
 - [[Dravosi-Crown|Dravosi Crown]] — inspection authority; contested, partially effective
 - [[Catarina-DaVirelli|Catarina DaVirelli]] — artificer who sparked the gold rush; foremost living expert on Antheri materials
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Tail-Secrets]] — The Tail
+- [[Shelfworks-Secrets]] — The Shelfworks

@@ -20,10 +20,17 @@ cssclasses:
 
 ---
 
-## In The Shattered Sea
+## In [[Shattered-Sea-Secrets|The Shattered Sea]]
 
 The [[Doldrums|Doldrums]] are the right habitat. Still water, no wind, mangrove shallows, the accumulated rot of anything that blooms or dies in flat heat with nowhere to go. A black dragon laired in the Doldrums' deeper mangrove channels has everything it needs: cover, patience, and prey that cannot run.
 
 A becalmed ship is close to ideal hunting. The crew cannot sail. Towing with boats means people in the water. The Doldrums silence carries the acid breath line clean across a deck with nothing to scatter it. The dragon is amphibious — it can strike from below, surface for one clean pass, and go back under before a crossbow is drawn. Crews that survive describe the attack in very similar terms: something long and dark alongside the hull that they mistook for shadow, then a burning line across the deck that smelled wrong, then a wing-shape dropping back into water that barely registered the impact. ^\[inferred]
 
-The account that made it into Midchain pilot circles came from a brig becalmed for three days south of the Midchain's edge. On the second night, a deckhand checking the stern in the pre-dawn saw a shadow beneath the keel that blotted out the bottom. Nothing else. By morning, one of the stern planks had a seam that hadn't been there at departure — dissolved rather than split. The captain towed out at first light and ran the oars for six hours until the wind found them. His repair log described weather damage. The hull carpenter's private notes said something else. Neither man has sailed the Doldrums since. ^\[inferred]
+The account that made it into Midchain pilot circles came from a brig becalmed for three days south of [[Midchain-Secrets|the Midchain]]'s edge. On the second night, a deckhand checking the stern in the pre-dawn saw a shadow beneath the keel that blotted out the bottom. Nothing else. By morning, one of the stern planks had a seam that hadn't been there at departure — dissolved rather than split. The captain towed out at first light and ran the oars for six hours until the wind found them. His repair log described weather damage. The hull carpenter's private notes said something else. Neither man has sailed the Doldrums since. ^\[inferred]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Doldrums-Secrets]] — The Doldrums
+- [[ancient-dragon-turtle]] — Ancient Dragon Turtle

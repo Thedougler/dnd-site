@@ -12,7 +12,7 @@ tags:
   - matriarch
 ---
 
-# Nona Black-Jaw
+# [[Nona-Black-Jaw-Secrets|Nona Black-Jaw]]
 
 ![[raw/assets/banners/Nona-Black-Jaw.webp|Nona Black-Jaw standing in a firelit canal street, wrapped in weathered red cloth]]
 
@@ -55,3 +55,9 @@ Her late husband built the ship, captained her for decades, and left her to the 
 - **[[Passage|The Passage]]** — the Tangle is the network's center; she is at the Tangle's center
 - **[[Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed
 - **[[places/crown-islands/calven/calveno/index]]** — the city above the Warren
+
+## Related
+
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Calveno-Secrets]] — Calveno
+- [[Tail-Secrets]] — The Tail

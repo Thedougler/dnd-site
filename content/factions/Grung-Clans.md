@@ -14,7 +14,7 @@ tags:
   - poison
 ---
 
-# The Grung Clans
+# The [[Grung]] Clans
 
 ![[factions/Grung-Clans-Flag.webp]]
 Two days south of [[Kalowe|Kalowe]], the [[Verdant-Teeth|Verdant Teeth]] rise from the [[places/midchain/index|Midchain]] as reef, beach, and rainforest. The interiors belong to the Grung.
@@ -105,3 +105,9 @@ Grung raiding vessels are built by orange-caste artisans from Verdant Teeth iron
 - [[species/Grung|Grung Species Notes]]
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Kalowe|Kalowe]]
+
+## Related
+
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

@@ -129,3 +129,10 @@ Introduced in the 2024 DMG as the official stronghold/home base system. Availabl
 - [[Ship-Bastion]] — [[Shattered-Sea|Shattered Sea]] maritime adaptation of these rules
 - [[reference/rules/Feats]] — Origin feat interactions (Human species)
 - [[Species]] — No direct interaction, but character class abilities affect facility prerequisites
+
+## Related
+
+- [[Feats]] — Feats
+- [[The-Below]] — The Below
+- [[Human]] — Human
+- [[poisons]] — poisons

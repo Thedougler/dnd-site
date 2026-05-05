@@ -11,7 +11,7 @@ tags:
   - mudflats
 ---
 
-# Osha's Slip
+# [[Oshas-Slip-Secrets|Osha's Slip]]
 
 A fishing village built on stilt-platforms over the southeastern mudflats of [[places/crown-islands/calders-tooth/index|Calder's Tooth]]. The villagers trap mud-crabs, spear river-eels, and maintain a rope-and-plank bridge network that shifts with wind and tide. There are no solid roads. Overland approach from Tidefall means crossing the mudflats, which is slow and unpleasant at any tide and impossible in armour at the wrong one.
 
@@ -25,3 +25,9 @@ The same mudflats that feed Osha's Slip give large constrictors room to hunt. Vi
 
 - [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]
+
+## Related
+
+- [[Calders-Tooth-Secrets]] — Calder's Tooth
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

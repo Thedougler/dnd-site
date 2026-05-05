@@ -41,3 +41,11 @@ Humans originate from Sigil, the torus-shaped city at the center of the multiver
 
 - [[Species]] — species overview and character creation rules
 - [[reference/rules/Feats|Feats]] — Versatile trait grants an Origin feat; Human is the only species with this bonus
+
+## Related
+
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Rattkin]] — Rattkin
+- [[Grung]] — Grung
+- [[Antherian]] — Antherian

@@ -11,7 +11,7 @@ tags:
   - sea_hazard
 ---
 
-# The Doldrums
+# [[Doldrums-Secrets|The Doldrums]]
 
 ![[raw/assets/banners/The-Doldrums.webp|Calm glassy sea with scattered low islands under a hazy bright sky]]
 
@@ -23,7 +23,7 @@ The band drifts 50 to 100 miles north or south by season. Experienced captains t
 
 The Doldrums do not need apex monsters to be dangerous. Still water gathers blooms, carrion, and anything that hunts by patience. [[beastiary/beasts/giant-wasp|Giant wasps]] and biting insects make any attempt to tow through mangrove shallows worse than the charts imply. A crew becalmed here learns quickly that silence is not safety.
 
-The worst thing the Doldrums hold is not a weather problem. The mangrove channels south of the Midchain's edge have their own apex predator — an [[beastiary/dragons/adult-black-dragon|adult black dragon]] that has used the still water and the trapped quiet as hunting cover long enough that Midchain pilots treat the Doldrums' deeper southern channels as a category of hazard distinct from the calm itself. A becalmed ship cannot sail, cannot maneuver, and cannot outrun anything that chooses to surface alongside it. The dragon does not always attack. Sometimes it circles below and leaves. Pilots who have had this experience agree that the leaving is not reassuring. ^\[inferred]
+The worst thing the Doldrums hold is not a weather problem. The mangrove channels south of [[Midchain-Secrets|the Midchain]]'s edge have their own apex predator — an [[beastiary/dragons/adult-black-dragon|adult black dragon]] that has used the still water and the trapped quiet as hunting cover long enough that Midchain pilots treat the Doldrums' deeper southern channels as a category of hazard distinct from the calm itself. A becalmed ship cannot sail, cannot maneuver, and cannot outrun anything that chooses to surface alongside it. The dragon does not always attack. Sometimes it circles below and leaves. Pilots who have had this experience agree that the leaving is not reassuring. ^\[inferred]
 
 That silence helps people too. Becalmed ships cannot choose distance, and rowed cutters can move where sail cannot. [[beastiary/humanoid/pirate|Pirates]] use the Doldrums less as home waters than as a trap already set by the weather. A low raider like [[Knifes-Wake|the Knife's Wake]] is exactly the wrong shape to see moving by oar through flat water at dusk.
 
@@ -33,3 +33,10 @@ That silence helps people too. Becalmed ships cannot choose distance, and rowed 
 
 - [[Shattered-Sea|The Shattered Sea]]
 - [[Central-Strait|The Central Strait]]
+
+## Related
+
+- [[Central-Strait-Secrets]] — The Central Strait
+- [[The-Below]] — The Below
+- [[Monsters]] — Monsters
+- [[adult-black-dragon]] — Adult Black Dragon

@@ -38,3 +38,9 @@ Piracy enters Kalowe through repair bills, not banners. A [[beastiary/humanoid/p
 - [[Chain-Council|The Chain Council]]
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Central-Strait|The Central Strait]]
+
+## Related
+
+- [[Kalowe-Secrets]] — Kalowe
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

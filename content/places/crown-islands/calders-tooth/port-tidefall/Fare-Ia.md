@@ -11,7 +11,7 @@ tags:
   - grung
 ---
 
-# Fare I'a
+# [[Fare-Ia-Secrets|Fare I'a]]
 
 ![[raw/assets/banners/Fare-Ia.webp|Small dock-market fish jerky stall with clay marinade pots and hanging strips of cured fish]]
 
@@ -32,3 +32,9 @@ Fare I'a sells cured fish by the strip or bundle, packed in paper or wrapped for
 ## See Also
 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
+
+## Related
+
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

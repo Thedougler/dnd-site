@@ -32,3 +32,10 @@ The most repeated recent account comes from a Tail longliner that worked too far
 - **Survivor report:** [[places/tail/index|The Tail]], where longline crews bring back damaged boats, missing hands, and accounts that get tested against practical hull damage.
 - **Warning signs:** cold water where the current should be warm, birds lifting from the surface all at once, fish lines going slack together, and a moving wake with no sail above it.
 - **Common confusion:** Ancient sea serpent stories overlap with [[beastiary/dragons/young-sea-serpent|young sea serpent]] sightings; the older creature is usually inferred from scale, hull damage, and whether any part of the crew survived the first coil. ^\[inferred]
+
+## Related
+
+- [[young-sea-serpent]] — Young Sea Serpent
+- [[Tail-Secrets]] — The Tail
+- [[Outer-Reach-Secrets]] — The Outer Reach
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

@@ -85,3 +85,9 @@ Skin colour determines social caste at birth. See [[Grung-Clans]] for full proto
 - [[Grung-Clans]] — society, caste protocols, slavery, faction details
 - [[Verdant-Teeth|Verdant Teeth]] — the [[places/midchain/index|Midchain]] island cluster they inhabit
 - [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — Blue Grung PC; deserter from the clans
+
+## Related
+
+- [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
+- [[Midchain-Secrets]] — The Midchain
+- [[Grappled]] — Grappled

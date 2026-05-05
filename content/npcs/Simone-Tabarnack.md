@@ -11,7 +11,7 @@ tags:
   - military
 ---
 
-# Simone Tabarnack
+# [[Simone-Tabarnack-Secrets|Simone Tabarnack]]
 
 ---
 
@@ -27,9 +27,9 @@ tags:
 
 Simone Tabarnack is [[private/players/Jean-Claude-Tabarnack|Jean-Claude's]] younger sister. She is purple-caste — skilled, disciplined, and fully committed to the Botukuri clan and its caste order. She was a garrison soldier on [[Sorn]] when Jean-Claude left.
 
-She is the one who told their parents about Pell.
+She is the one who told their parents about [[Pell]].
 
-Jean-Claude walked into that hut expecting the best day of his life. He found Simone already there, Pell already in chains, and every part of the plan already known. What followed was a month of torture. By the time he ran, he understood exactly what she had done and why. She had done it because she believed in the clan. She still does.
+Jean-Claude walked into that hut expecting the best day of his life. He found Simone already there, [[Pell-Secrets|Pell]] already in chains, and every part of the plan already known. What followed was a month of torture. By the time he ran, he understood exactly what she had done and why. She had done it because she believed in the clan. She still does.
 
 ## Appearance
 
@@ -45,3 +45,9 @@ She was younger than him and always more certain. Where he questioned the system
 - [[Sorn]] — her garrison post and home island
 - [[Grung-Clans|The Grung Clans]] — the clan and caste structure she serves
 - [[Verdant-Teeth|Verdant Teeth]] — the island cluster she operates from
+
+## Related
+
+- [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

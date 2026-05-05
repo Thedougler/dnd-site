@@ -17,7 +17,7 @@ Five closely grouped islands sit two days south of [[Kalowe|Kalowe]], where low 
 
 The [[Grung-Clans|Grung clans]] hold the cluster completely. Every Midchain chart from the last thirty years marks the interiors with some version of the same warning: do not approach. Outsiders who cross the tree line do not come back, and the locals talk about that as a rule of navigation, not a rumor.
 
-The only sanctioned contact point is the west beach on Veth, the largest island. Traders anchor offshore and wait. Blue-caste intermediaries come down to the waterline, handle the exchange, and keep the conversation short. No one goes inland. No one addresses a gold grung directly. Extra people on deck are noticed. Touch is avoided, partly because grung skin is poisonous and partly because the caste rules are not decorative.
+The only sanctioned contact point is the west beach on [[Veth]], the largest island. Traders anchor offshore and wait. Blue-caste intermediaries come down to the waterline, handle the exchange, and keep the conversation short. No one goes inland. No one addresses a gold grung directly. Extra people on deck are noticed. Touch is avoided, partly because grung skin is poisonous and partly because the caste rules are not decorative.
 
 The trade itself is narrow but steady. The grung export carved bone, resin work, plant pigments, alchemical specimens, and other things that come out of the interior. They import preserved food, worked timber, salvaged metal, rope, and plant materials used in poison-crafting. Midchain merchants who run the route describe it as profitable, efficient, and deeply unpleasant.
 
@@ -41,3 +41,9 @@ The largest animal stories stay mostly inland. Some traders have heard the canop
 - [[Karath|Karath]]
 - [[Dreth|Dreth]]
 - [[Orak|Orak]]
+
+## Related
+
+- [[Narrow]] — The Narrow
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

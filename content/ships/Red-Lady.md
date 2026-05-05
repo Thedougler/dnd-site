@@ -42,7 +42,7 @@ Umberlee's retribution came as fog — thick enough to swallow the water from th
 
 Crisdalynn dove from the crow's nest, grabbed Fisk, and flew them clear. They heard Umberlee's laughter on the wind, then her rage, as the ships went under. The _Red Lady_ went down with the [[items/Pearl-of-Souls|Pearl of Souls]] still aboard.
 
-The five ships lost: _Red Lady_, _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Two survivors.
+The five ships lost: _Red Lady_, _[[Narrow|The Narrow]]_, _[[Heft]]_, _[[Fernen]]_, _[[Loud-Argument|Loud Argument]]_. Two survivors.
 
 ---
 
@@ -95,3 +95,9 @@ Three decks, organized for long independent operations.
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]
 - [[Chain-Council]]
+
+## Related
+
+- [[Loud-Argument-Secrets]] — Loud Argument Secrets
+- [[Fernen-Secrets]] — Fernen Secrets
+- [[Heft-Secrets]] — Heft Secrets

@@ -66,7 +66,7 @@ The _Bad Receipt_ uses all 8 Tier 2 ship space units. Her one Tier 2 facility is
 | Hidden broadside lockers | Weapons Locker | 1 | Boarding arms, powder, spare shot, false cargo screens, and cutlasses wrapped in sailcloth. |
 | Packed crew racks and defender hammocks | Crew Berths | 1 | Supports a full raiding crew and defender pool. |
 | Reef chart table under the aft companion | Navigator's Chart Room | 1 | Contradictory Midchain charts, pilot notes, Tide Reader logs, and false safe routes sold to enemies. |
-| Narrow shrine basin near the bow | Waveservant Shrine | 1 | Tribute is paid before every serious voyage. Nobody aboard mistakes that for affection. |
+| [[Narrow]] shrine basin near the bow | Waveservant Shrine | 1 | Tribute is paid before every serious voyage. Nobody aboard mistakes that for affection. |
 | Low-ceilinged recovery alcove | Surgeon's Berth | 1 | Built for boarding casualties and prisoners worth keeping alive. Requires Surgeon role filled. |
 | Partitioned prize hold | Expanded Cargo Hold | 1 | High-value goods, locked courier trunks, and cargo that must look boring at first inspection. |
 | Gambling table and officer lockers | Officer's Mess | 1 | Keeps officers loyal, settles shares, and turns prize gossip into usable intelligence. |
@@ -138,3 +138,9 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 - [[lore/Umberlee|Umberlee]] — paid, feared, and never trusted
 - [[Ship-Stats|Ship Stats]]
 - [[Ship-Bastion|Ship Bastion]]
+
+## Related
+
+- [[Knifes-Wake]] — The Knife's Wake
+- [[The-Glass-Debt]] — The Glass Debt
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw

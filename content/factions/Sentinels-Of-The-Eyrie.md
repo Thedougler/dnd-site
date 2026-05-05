@@ -104,3 +104,9 @@ Ask what was recorded, not what it means. A Sentinel who declines to interpret a
 - [[Drowned-Maw|Drowned Maw]]
 - [[Aarakocra|Aarakocra]]
 - [[Shattered-Sea|Shattered Sea]]
+
+## Related
+
+- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
+- [[Verdant-Scatter]] — The Verdant Scatter
+- [[Rattkin]] — Rattkin

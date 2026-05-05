@@ -26,7 +26,7 @@ cssclasses:
 
 The _Tallow Bell_ is a Tier 1 Waveservant shrine sloop used to move clergy between working harbours. She carries priests, shrine attendants, tribute ledgers, candles, storm tokens, small sealed offerings, and ritual supplies. She does not carry comfort, prestige, or much cargo that anyone sensible would steal.
 
-The ship is deliberately plain. Salt-grey hull, smoke-stained sail, no carved figurehead, no faction pennant beyond a narrow grey streamer at the mast. The only ornament is the bronze bell under the bowsprit, rung once when departing a shrine harbour and once when entering another. Sailors know the sound. Most make room.
+The ship is deliberately plain. Salt-grey hull, smoke-stained sail, no carved figurehead, no faction pennant beyond a [[Narrow]] grey streamer at the mast. The only ornament is the bronze bell under the bowsprit, rung once when departing a shrine harbour and once when entering another. Sailors know the sound. Most make room.
 
 The _Tallow Bell_ is neutral in the same way the [[Waveservants|Waveservants]] are neutral: not kind, not warm, not uninvolved. She has carried priests to merchant ports, pirate anchorages, Crown piers, fishing hamlets, and ships that needed a blessing performed in open water because the captain did not expect to survive the next shorefall.
 
@@ -131,3 +131,9 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 - [[ships/index|Ships]]
 - [[Ship-Stats|Ship Stats]]
 - [[Ship-Bastion|Ship Bastion]]
+
+## Related
+
+- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Delmar-Fisk]] — Delmar Fisk
+- [[Umberlee]] — Umberlee and the Waveservants

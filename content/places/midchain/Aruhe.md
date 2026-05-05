@@ -12,7 +12,7 @@ tags:
 
 # Aruhe
 
-A small reef island on the Midchain's inner edge, immediately east of the [[Verdant-Teeth|Verdant Teeth]]. It shows up on older charts as a minor waypoint — freshwater spring, narrow beach, shallow garden terraces. No one lives there now. Grung patrol boats from the Verdant Teeth work the surrounding reefs close enough that no settlement ever held long enough to matter, and the island was quietly abandoned. Even the Sorn merchants who know this stretch of the Midchain well have little to say about it. It never bordered their trade routes.
+A small reef island on the Midchain's inner edge, immediately east of the [[Verdant-Teeth|Verdant Teeth]]. It shows up on older charts as a minor waypoint — freshwater spring, narrow beach, shallow garden terraces. No one lives there now. Grung patrol boats from the Verdant Teeth work the surrounding reefs close enough that no settlement ever held long enough to matter, and the island was quietly abandoned. Even the [[Sorn]] merchants who know this stretch of the Midchain well have little to say about it. It never bordered their trade routes.
 
 There is nothing there worth stopping for.
 
@@ -30,3 +30,9 @@ That is the public reason crews give. The practical reason is that abandoned gar
 
 - [[Verdant-Teeth|Verdant Teeth]]
 - [[places/midchain/index|The Midchain]]
+
+## Related
+
+- [[Narrow]] — The Narrow
+- [[Sorn-Secrets]] — Sorn
+- [[Midchain-Secrets]] — The Midchain

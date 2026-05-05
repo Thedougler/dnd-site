@@ -19,7 +19,7 @@ cssclasses:
 
 ## Overview
 
-A two-masted brigantine, mid-sized, fourth ship of the fleet. Plain-hulled — dark brown below the waterline, weathered timber above. Six gun mounts, three per side. She rode at a moderate draft, neither as deep as the _Heft_ nor as light as the _Narrow_. A working ship without distinguishing characteristics.
+A two-masted brigantine, mid-sized, fourth ship of the fleet. Plain-hulled — dark brown below the waterline, weathered timber above. Six gun mounts, three per side. She rode at a moderate draft, neither as deep as the _[[Heft]]_ nor as light as the _[[Narrow]]_. A working ship without distinguishing characteristics.
 
 Below decks: crew quarters, a compact galley, and a hold fitted for long-range independent operation — extended provisions, an oversized water cistern, and a navigator's station charting the full eastern Scatter.
 
@@ -40,3 +40,10 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 - [[Red-Lady|The Red Lady]] — flagship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Delmar-Fisk]] — Delmar Fisk
+- [[Umberlee]] — Umberlee and the Waveservants
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

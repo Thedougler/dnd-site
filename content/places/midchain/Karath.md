@@ -11,7 +11,7 @@ tags:
   - grung
 ---
 
-# Karath
+# [[Karath-Secrets|Karath]]
 
 ## Overview
 
@@ -26,5 +26,11 @@ Karath's reputation belongs to the grung first, but the island helps maintain it
 ## See Also
 
 - [[Verdant-Teeth|The Verdant Teeth]]
-- Veth
+- [[Veth]]
 - [[Sorn|Sorn]]
+
+## Related
+
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

@@ -31,3 +31,9 @@ The densest reports come from the [[Verdant-Teeth|Verdant Teeth]], where the [[G
 The clearest outside account comes from a Kalowe trader who anchored off Karath at dusk to take a bearing and heard, from the ridge above the dart line, three impacts in sequence — heavy, evenly spaced, the kind of sound a thrown stone makes on wet limestone. Nothing came over the ridge. The interval between impacts was wrong for a rockfall and too regular for storm. He took his bearing and left. He spent the return trip to Kalowe drawing what he thought the throwing arc would have looked like from above. The sketch has been passed around certain Midchain pilot circles as the most useful documentation anyone has produced from outside Grung territory. ^\[inferred]
 
 This is not a port monster. It is a sign that the island interior is older and larger than any coastal chart admits — a wilderness pressure that moves between islands on its own logic, surfaces as aftermath, and is best understood by the silence that replaces bird noise when something that heavy passes through the canopy above. ^\[inferred]
+
+## Related
+
+- [[Narrow]] — The Narrow
+- [[Karath-Secrets]] — Karath
+- [[Kalowe-Secrets]] — Kalowe

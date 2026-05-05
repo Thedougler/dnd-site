@@ -2,7 +2,7 @@
 publish: true
 permalink: /npcs/index.md
 title: NPCs
-created: 2026-05-02T16:25:19.159-07:00
+created: 2026-05-05T14:47:27.794-07:00
 modified: 2026-05-03
 tags:
   - player-resource

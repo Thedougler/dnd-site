@@ -28,3 +28,9 @@ The tower still stands. Nothing has moved into it that anyone has reported, and 
 
 - [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[Galewall|The Galewall]]
+
+## Related
+
+- [[Cape-Solitude-Secrets]] — Cape Solitude
+- [[Calders-Tooth-Secrets]] — Calder's Tooth
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

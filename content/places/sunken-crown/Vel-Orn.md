@@ -13,7 +13,7 @@ tags:
   - umberlee
 ---
 
-# Vel-Orn — Sunken Crown
+# [[Vel-Orn-Secrets|Vel-Orn — Sunken Crown]]
 
 Vel-Orn is the barren black-stone island that holds [[Umberlee-Shrine|Umberlee's shrine]] in the [[places/sunken-crown/index|Sunken Crown]]. The name carries the local tabaxi sense of water-debt. Outsiders and hurried guides still call it Shrine Island.
 
@@ -39,3 +39,9 @@ Vel-Orn has few animals because there is little to eat, which makes any sign of 
 - [[Umberlee-Shrine|Umberlee's Shrine — Sunken Crown]]
 - [[Keth-Naar|Keth-Naar]]
 - [[lore/Umberlee|Umberlee]]
+
+## Related
+
+- [[Umberlee-Shrine-Sunken-Crown-Secrets]] — Umberlee's Shrine — Sunken Crown
+- [[Sunken-Crown-Secrets]] — The Sunken Crown
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

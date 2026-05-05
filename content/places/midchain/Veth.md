@@ -32,3 +32,9 @@ The trade path is cleared because the Grung keep it cleared. Beyond that narrow 
 - [[places/midchain/index|The Midchain]]
 - [[Kalowe|Kalowe]]
 - [[Grung-Clans|The Grung Clans]]
+
+## Related
+
+- [[Narrow]] — The Narrow
+- [[Midchain-Secrets]] — The Midchain
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

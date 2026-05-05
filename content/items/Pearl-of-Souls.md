@@ -10,7 +10,7 @@ tags:
   - souls
 ---
 
-# Pearl of Souls
+# [[Pearl-of-Souls-Secrets|Pearl of Souls]]
 
 ![[raw/assets/banners/Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
 A pearl the size of a closed fist. Black as deep water, with an iridescent sheen that shifts under the light in a way that never quite resolves. It is never entirely still. Anyone with a sensitivity to the dead will feel it before they see it.
@@ -42,3 +42,9 @@ No attunement. No activation. The Pearl draws what drowns near it and holds it. 
 - [[Waveservants|Waveservants]] — tended the shrine; know what was taken
 - [[Red-Lady|The Red Lady]] — the ship it went down with
 - [[Drowned-Maw|Drowned Maw]] — current location, below the planar boundary
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Delmar-Fisk]] — Delmar Fisk
+- [[Umberlee]] — Umberlee and the Waveservants

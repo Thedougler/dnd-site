@@ -12,7 +12,7 @@ tags:
   - navigation
 ---
 
-# The Shelf Instrument Dealer
+# [[Shelf-Instrument-Dealer-Secrets|The Shelf Instrument Dealer]]
 
 The Shelf Instrument Dealer is a narrow shopfront on the Shelf in [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]], one of the few places in the Crown Islands where a captain can buy a sextant or a proper spyglass without ordering from Calveno.
 
@@ -39,3 +39,10 @@ The shop does not advertise magic, commission work, or custom devices. It sells 
 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]
+
+## Related
+
+- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
+- [[Narrow]] — The Narrow
+- [[Calveno-Secrets]] — Calveno
+- [[Central-Strait]] — The Central Strait

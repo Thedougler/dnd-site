@@ -27,3 +27,9 @@ cssclasses:
 What's consistent across the accounts is the result. The ships that follow the Stormwarden's instructions reach the [[Ashwall-Islands|Ashwall]] lee. The ships that don't — because the crew didn't believe it, because the captain refused to take orders from a stranger, because the figure arrived too late — are logged as lost to weather. [[Ashwall-Islands|Ashwall]] crews treat the legend as navigational fact: if something appears during the worst of a crossing and offers guidance, you follow it and you ask questions afterward. ^\[inferred]
 
 The shapechange ability is the reason the legend has no single face. Bronze dragons are patient observers who take humanoid form to move among people, gather information, and intervene where they judge it necessary. The Galewall is a crossing that produces exactly the kind of military courage, desperate seamanship, and genuine stakes the dragon finds worth watching. It has been watching the crossing long enough that the Ashwall pilot families have entries in their logs that predate their grandparents' time, all describing the same category of intervention in different hands. Colonial weather-offices have never produced a satisfactory explanation for the survival rate of ships reported as lost but later found at anchor in the Ashwall lee. ^\[inferred]
+
+## Related
+
+- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Galewall-Secrets]] — The Galewall

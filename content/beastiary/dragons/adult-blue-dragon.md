@@ -20,7 +20,7 @@ cssclasses:
 
 ---
 
-## In The Shattered Sea
+## In [[Shattered-Sea-Secrets|The Shattered Sea]]
 
 Blue dragons are territorial rather than predatory in the way that matters to shipping. They don't hunt vessels. They tax them.
 
@@ -29,3 +29,9 @@ The [[places/crown-islands/index|Crown Islands]] dragon is laired in the limesto
 The arrangement that currently exists is not officially acknowledged by the [[Dravosi-Crown|Dravosi Crown]], but it is functional. Captains who fly certain colours and keep a designated chest on the aft deck, unsealed, come through the northern Greyteeth passage without incident. Captains who don't know about the arrangement, or who know and decline it, take their chances with what Crown harbourmasters file as navigational error. A merchant who survived a lightning strike near the northern reef returned to port with fused iron fittings, a split boom, and three dead crew. He described a long blue shape vanishing into overcast before the thunder finished. The harbormaster's report noted challenging weather conditions. ^\[inferred]
 
 Blue dragons are lawful enough to keep agreements. The Crown is pragmatic enough to make them. Neither side has confirmed the arrangement exists. Neither side has broken it.
+
+## Related
+
+- [[Shattered-Sea]] — The Shattered Sea
+- [[ancient-dragon-turtle]] — Ancient Dragon Turtle
+- [[Merchant]] — Merchant - D\&D 5e (2024)

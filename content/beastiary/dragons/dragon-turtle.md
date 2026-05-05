@@ -27,3 +27,9 @@ Dragon turtles sit in the uncomfortable middle ground between known sea monster 
 The clearest local account comes from the Sunken Crown watchers. A Keth-Naar skiff failed to return from the eastern watch rotation, and the next crew at [[Meth-Var|Meth-Var]] found the signal stones reset and the landing ropes scalded stiff enough to crack. One watcher survived by clinging to outer rocks until dawn. Their account: a black ridged shape lifting through the Blue Hole edge, steam off the water, a tail strike that turned the skiff sideways before the shell fully breached. ^\[inferred]
 
 The attack pattern clusters around the Blue Hole edge and the eastern approaches where safe reef shallows drop into deep water without transition. Warm water without sun, steam sitting low on flat sea, fish abandoning the drop-off — these are the warning signs Sunken Crown watchers have learned to read as a sequence rather than separate events. Reports of dragon turtles, ancient dragon turtles, and wyrmlings overlap because the heat and the shell and the strike read similarly from a skiff. Keth-Naar watchers separate them by scale and by whether the creature follows a vessel or attacks it. ^\[inferred]
+
+## Related
+
+- [[The-Below]] — The Below
+- [[Tail-Secrets]] — The Tail
+- [[Sunken-Crown-Secrets]] — The Sunken Crown

@@ -11,7 +11,7 @@ tags:
   - monk
 ---
 
-# Master Kyzil
+# [[Master-Kyzil-Secrets|Master Kyzil]]
 
 ![[raw/assets/banners/Master-Kyzil.webp|Master Kyzil in a pale hooded cloak, standing on a misty waterfront between moored ships]]
 
@@ -55,3 +55,9 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 - **[[Crisdalynn-Khinriss]]** — his pilgrim; gave her his dreidel; in Port-Tidefall to hear her account
 - **[[Drowned-Maw|Drowned Maw]]** — subject of Crisdalynn's pilgrimage; two centuries of Sentinel observation
 - **[[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]** — where he is now
+
+## Related
+
+- [[Red-Lady]] — The Red Lady
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Shattered-Sea-Secrets]] — The Shattered Sea

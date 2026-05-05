@@ -11,7 +11,7 @@ tags:
   - umberlee
 ---
 
-# Umberlee and the Waveservants
+# [[Umberlee-Secrets|Umberlee]] and the Waveservants
 
 Umberlee is the sea as sailors fear it: black water under moonless cloud, a mast cracking in a squall, a reef appearing where the chart promised depth, the wave that takes one person and leaves the rest alive to remember it. Her common title is **the Bitch Queen**, and in the [[Shattered-Sea|Shattered Sea]] the name is spoken with less blasphemy than caution.
 
@@ -89,3 +89,9 @@ You do not need to worship Umberlee to live under her shadow. In the [[Shattered
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Drowned-Maw|Drowned Maw]]
 - [[Shattered-Sea|Shattered Sea]]
+
+## Related
+
+- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Dravosi-Crown]] — The Dravosi Crown
+- [[Umberlee-Shrine]] — Umberlee's Shrine — Sunken Crown

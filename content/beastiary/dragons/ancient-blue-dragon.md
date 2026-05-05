@@ -20,7 +20,7 @@ cssclasses:
 
 ---
 
-## In The Shattered Sea
+## In [[Shattered-Sea-Secrets|The Shattered Sea]]
 
 The Redwind Isles are described on pilot charts as hot, arid, and barely inhabited. The barely is doing significant work.
 
@@ -29,3 +29,8 @@ The Isles sit in the southeastern [[Outer-Reach|Outer Reach]], named for the sea
 The Isles were not always barely inhabited. Old charts from before the colonial era mark permanent settlements on two of the larger islands and seasonal anchorages on three more. Those marks stopped appearing in the records within a generation of each other, without explanation. The gap between the last record of settlement and the first colonial chart labelling them uninhabited is short enough that it has a cause. Something moved in, or something that had always been there finally made its presence felt, and the people on those islands made a reasonable decision. ^\[inferred]
 
 An ancient blue dragon does not need to attack frequently. It is patient, methodical, and large enough that a single encounter leaves no ambiguity about whether the Isles have an owner. The few vessels that have anchored in the Redwind harbours and returned describe a stillness that doesn't match the wind — an absence of birds, a quality of silence that has intent in it, and, in one account from a pilgrim ship that cut its visit very short, a shape moving through overcast above the southern cliffs that was too deliberate for weather and too large for anything else. The pilgrim ship did not attempt the anchorage again. The account is careful to describe only what was seen, because the crew understood that what was seen was already more than enough. ^\[inferred]
+
+## Related
+
+- [[Shattered-Sea]] — The Shattered Sea
+- [[ancient-dragon-turtle]] — Ancient Dragon Turtle

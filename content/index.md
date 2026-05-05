@@ -34,7 +34,7 @@ This wiki is your table reference: the world as your characters know it, the rul
 
 ## The Party
 
-You start at **Level 3** aboard the _[[Saltwright|Saltwright]]_, a hard-used merchant brig working a dangerous [[Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
+You start at **Level 3** aboard the _[[Saltwright|Saltwright]]_, a hard-used merchant brig working a dangerous [[places/midchain/index|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
 
 - [[party/Stripes-Bitemore|Belmore]] — tiger tabaxi fighter and primal shrine guardian trying to set the seas right.
 - [[party/Delmar-Fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.

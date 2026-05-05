@@ -48,6 +48,6 @@ Pay tribute before departure and after safe return. Do not ask a Waveservant to 
 ## See Also
 
 - [[lore/Umberlee|Umberlee and the Waveservants]]
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Drowned-Maw|Drowned Maw]]
 - [[Shattered-Sea|Shattered Sea]]

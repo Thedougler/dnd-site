@@ -42,7 +42,7 @@ Tiger tabaxi — feline build, climbing agility, the physical presence of someon
 
 ## Background
 
-Stripes comes from [[Keth-Naar|Keth-Naar]], one of five small islands around the Blue Hole at the heart of the [[Sunken-Crown|Sunken Crown]]. His tribe has guarded a primal shrine of [[lore/Umberlee|Umberlee]] for generations. When the sea around the Blue Hole started going wrong, the elders sent their strongest hunter west to find the cause.
+Stripes comes from [[Keth-Naar|Keth-Naar]], one of five small islands around the Blue Hole at the heart of the [[places/sunken-crown/index|Sunken Crown]]. His tribe has guarded a primal shrine of [[lore/Umberlee|Umberlee]] for generations. When the sea around the Blue Hole started going wrong, the elders sent their strongest hunter west to find the cause.
 
 The tribe speaks with a distinct accent — clipped consonants, a slight Germanic lilt that sits underneath even casual speech. Stripes carries it wherever he goes. West of the Sunken Crown, it marks him immediately as someone from somewhere else.
 
@@ -70,7 +70,7 @@ The obligation underneath all of it is real. He's not out here for adventure or 
 
 ## What We Know
 
-- Tiger tabaxi fighter from [[Keth-Naar]] in the [[Sunken-Crown|Sunken Crown]].
+- Tiger tabaxi fighter from [[Keth-Naar]] in the [[places/sunken-crown/index|Sunken Crown]].
 - Battle Master training, with tactics and control emphasized over brute force alone.
 - Associated with a primal shrine of [[lore/Umberlee|Umberlee]].
 - Sent by his tribe to investigate why [[lore/Umberlee|Umberlee]] is angry.

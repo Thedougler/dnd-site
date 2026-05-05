@@ -14,7 +14,7 @@ tags:
 
 # The Shelf Instrument Dealer
 
-The Shelf Instrument Dealer is a narrow shopfront on the Shelf in [[Port-Tidefall|Port Tidefall]], one of the few places in the Crown Islands where a captain can buy a sextant or a proper spyglass without ordering from Calveno.
+The Shelf Instrument Dealer is a narrow shopfront on the Shelf in [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]], one of the few places in the Crown Islands where a captain can buy a sextant or a proper spyglass without ordering from Calveno.
 
 A glass-fronted case in the window holds brass instruments: sextants, compasses, and chronometers, including one with a cracked face and a reduced tag. Inside, rolled charts and printed almanacs sit on the back shelves, with a few second-hand pieces laid out on felt behind the counter.
 
@@ -37,5 +37,5 @@ The shop does not advertise magic, commission work, or custom devices. It sells 
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]

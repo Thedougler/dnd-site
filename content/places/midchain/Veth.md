@@ -18,7 +18,7 @@ Veth is the largest island in the [[Verdant-Teeth|Verdant Teeth]], and the only 
 
 Traders anchor offshore and wait. Blue-caste intermediaries come down to the waterline, handle the exchange, and leave again by the same controlled path. Everyone else stays where they are supposed to be. Outsiders do not go inland, do not follow the intermediaries, and do not address higher-caste grung directly.
 
-The beach trade is steady enough that certain [[Midchain|Midchain]] merchants know the route by habit. Veth takes preserved food, worked timber, salvaged metal, rope, and materials used in poison-crafting. In return, the grung offer carved bone, resin pieces, pigments, alchemical specimens, and other goods from the interior. Nobody who profits from the route seems especially eager to describe the interior in detail.
+The beach trade is steady enough that certain [[places/midchain/index|Midchain]] merchants know the route by habit. Veth takes preserved food, worked timber, salvaged metal, rope, and materials used in poison-crafting. In return, the grung offer carved bone, resin pieces, pigments, alchemical specimens, and other goods from the interior. Nobody who profits from the route seems especially eager to describe the interior in detail.
 
 From the water, the important thing about Veth is how little of it can be seen. The island permits commerce at the edge and keeps everything else above the sightline.
 
@@ -29,6 +29,6 @@ The trade path is cleared because the Grung keep it cleared. Beyond that narrow 
 ## See Also
 
 - [[Verdant-Teeth|The Verdant Teeth]]
-- [[Midchain|The Midchain]]
+- [[places/midchain/index|The Midchain]]
 - [[Kalowe|Kalowe]]
 - [[Grung-Clans|The Grung Clans]]

@@ -22,5 +22,5 @@ The office handles trade licensing, contract brokerage, and courier dispatch und
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Tessarine-Concordat|Tessarine Concordat]]

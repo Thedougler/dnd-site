@@ -51,7 +51,7 @@ Every Sentinel who comes out of the Eyrie carries two things: the discipline to 
 
 Her master, [[Master-Kyzil|Kyzil]], gave her the hardest one on record: map the [[Drowned-Maw|Drowned Maw]] from inside a storm. He gave it to her at fourteen because she was capable of it. He gave it to her at fourteen specifically because the day before he assigned it, she'd been flying lazy circles with her friends when she should have been at her post. Kyzil is not a man who says the same thing twice.
 
-She found a berth on the _Red Lady_ as lookout and cartographer, spent two years navigating the [[Midchain|Midchain]]'s worst shallows by instrument and instinct, and was close to finishing when the fleet went down.
+She found a berth on the _Red Lady_ as lookout and cartographer, spent two years navigating the [[places/midchain/index|Midchain]]'s worst shallows by instrument and instinct, and was close to finishing when the fleet went down.
 
 ---
 
@@ -63,7 +63,7 @@ Two days on wreckage. Then the [[Saltwright|Saltwright]] found them.
 
 The charts are still in the satchel. The task is still unfinished. She hasn't gone back.
 
-In the stories spreading through the [[Midchain|Midchain]], Crisdalynn is the black-feathered scout who flew the admiral out of the Maw when the sea should have taken them both. What the stories leave out is that she was close enough to the surface to see daylight when the water closed in, and she flew through it anyway.
+In the stories spreading through the [[places/midchain/index|Midchain]], Crisdalynn is the black-feathered scout who flew the admiral out of the Maw when the sea should have taken them both. What the stories leave out is that she was close enough to the surface to see daylight when the water closed in, and she flew through it anyway.
 
 ---
 
@@ -84,7 +84,7 @@ What she says she wants is Kyzil's approval, the pilgrimage finished, kinship wi
 ## Known Possessions
 
 - **Crystal dreidel** — Kyzil pressed it into her talons when she left the [[High-Eyrie|High Eyrie]]. His once, now hers. She spins it when she's thinking. In sunlight it throws rainbows.
-- **Satchel of charts** — two years of [[Midchain|Midchain]] navigational work from the _Red Lady_. Still being added to.
+- **Satchel of charts** — two years of [[places/midchain/index|Midchain]] navigational work from the _Red Lady_. Still being added to.
 - **Geometric leatherwork** — her armour, maintained with care that doesn't match the rest of her public presentation.
 - **[[Eldritch-Claw-Tattoo|Eldritch Claw Tattoo]]** (uncommon, attuned) — inky lines across her talons and forearms, nearly invisible against her dark plumage until they move. Her unarmed strikes are magical. Once per dawn she can activate the Long Reach: for one minute, her melee strikes extend to fifteen feet as inky tendrils reach toward the target, and each hit deals an extra 1d6 force damage. A [[Sentinels-Of-The-Eyrie|Sentinel]] tradition — she received the needle from Kyzil the same day he gave her the pilgrimage.
 

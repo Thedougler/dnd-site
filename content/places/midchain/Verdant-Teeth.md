@@ -23,7 +23,7 @@ The trade itself is narrow but steady. The grung export carved bone, resin work,
 
 The five islands have distinct reputations. Veth is the trade face of the cluster. [[Sorn|Sorn]] is known for interior agriculture and guarded beach traffic. [[Karath|Karath]] is the one sailors give the widest berth, because boats nosing into its reef gaps are met with dart fire before anyone asks questions. [[Dreth|Dreth]] and [[Orak|Orak]] sit to the east, lower, wetter, and quieter, which should not be mistaken for safe.
 
-Coastal settlements across the [[Midchain|Midchain]] have noticed more raids coming from the direction of the Teeth in recent years. [[Chain-Council|The Chain Council]] has heard the complaints. For now, Veth's beach remains open for trade, Karath remains dangerous, and the canopy keeps its own counsel.
+Coastal settlements across the [[places/midchain/index|Midchain]] have noticed more raids coming from the direction of the Teeth in recent years. [[Chain-Council|The Chain Council]] has heard the complaints. For now, Veth's beach remains open for trade, Karath remains dangerous, and the canopy keeps its own counsel.
 
 Even without grung patrols, the Teeth would not be easy country. Beach traders swap stories of [[beastiary/beasts/giant-frog|giant frogs]] in flooded cuts, [[beastiary/beasts/giant-spider|giant spiders]] in the high canopy, [[beastiary/beasts/giant-constrictor-snake|giant constrictor snakes]] in drowned channels, and [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]] sunning on limestone where they look like roots until they move. The grung know which paths belong to people and which belong to the island.
 
@@ -33,7 +33,7 @@ The largest animal stories stay mostly inland. Some traders have heard the canop
 
 ## See Also
 
-- [[Midchain|The Midchain]]
+- [[places/midchain/index|The Midchain]]
 - [[Chain-Council|The Chain Council]]
 - [[Kalowe|Kalowe]]
 - Veth

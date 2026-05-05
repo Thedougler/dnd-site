@@ -13,7 +13,7 @@ tags:
 
 # Osha's Slip
 
-A fishing village built on stilt-platforms over the southeastern mudflats of [[Calders-Tooth|Calder's Tooth]]. The villagers trap mud-crabs, spear river-eels, and maintain a rope-and-plank bridge network that shifts with wind and tide. There are no solid roads. Overland approach from Tidefall means crossing the mudflats, which is slow and unpleasant at any tide and impossible in armour at the wrong one.
+A fishing village built on stilt-platforms over the southeastern mudflats of [[places/crown-islands/calders-tooth/index|Calder's Tooth]]. The villagers trap mud-crabs, spear river-eels, and maintain a rope-and-plank bridge network that shifts with wind and tide. There are no solid roads. Overland approach from Tidefall means crossing the mudflats, which is slow and unpleasant at any tide and impossible in armour at the wrong one.
 
 The village is independent in the way small places far from the fort tend to be. The Crown's authority here is largely theoretical.
 
@@ -23,5 +23,5 @@ The same mudflats that feed Osha's Slip give large constrictors room to hunt. Vi
 
 ## See Also
 
-- [[Calders-Tooth|Calder's Tooth]]
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]

@@ -65,6 +65,6 @@ He is easy to find at the docks. He is usually the one in an argument about some
 ## Connections
 
 - **[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]** — his life's work; Volumes I and II published; available for purchase
-- **[[Port-Tidefall|Port Tidefall]]** — first book tour stop
+- **[[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]** — first book tour stop
 - **[[Kalowe|Kalowe]]** — second stop; prior field history here with the [[Sawek|Sawek]]
 - **[[places/crown-islands/calven/calveno/index]]** — third stop

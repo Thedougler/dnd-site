@@ -213,4 +213,4 @@ Cost: 250gp per 5-foot exterior section, same rate as RAW Defensive Walls. Mason
 
 ## Connections
 
-[[Bastions]] | [[Ship-Stats]] | [[Port-Tidefall|Port Tidefall]] | [[Drowned-Maw|Drowned Maw]] | [[Waveservants|Waveservants]] | [[lore/Umberlee|Umberlee]]
+[[Bastions]] | [[Ship-Stats]] | [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] | [[Drowned-Maw|Drowned Maw]] | [[Waveservants|Waveservants]] | [[lore/Umberlee|Umberlee]]

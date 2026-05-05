@@ -24,7 +24,7 @@ cssclasses:
 
 ## Overview
 
-The _Bad Receipt_ is a Tier 2 armed pirate schooner built for Midchain work: false papers, quick pursuit, selective violence, and retreat through channels where Crown captains start arguing with their own charts. She was refitted at [[Kalowe|Kalowe]] from a seized courier hull and now operates between the [[Midchain|Midchain]] back passages and the southern edge of the [[Central-Strait|Central Strait]].
+The _Bad Receipt_ is a Tier 2 armed pirate schooner built for Midchain work: false papers, quick pursuit, selective violence, and retreat through channels where Crown captains start arguing with their own charts. She was refitted at [[Kalowe|Kalowe]] from a seized courier hull and now operates between the [[places/midchain/index|Midchain]] back passages and the southern edge of the [[Central-Strait|Central Strait]].
 
 At distance she reads as a legitimate but unlucky commercial vessel: patched sails, mismatched cargo nets, a tired merchant stern, and registry plates that make clerks feel useful. Up close, the lie becomes theatrical. Her deck is too clear, her gun crews move too fast, and every visible defect has been placed where an inspector expects to find one.
 
@@ -130,7 +130,7 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 ## Connections
 
 - [[Kalowe|Kalowe]] — refit port and likely repair harbour
-- [[Midchain|The Midchain]] — home waters and escape terrain
+- [[places/midchain/index|The Midchain]] — home waters and escape terrain
 - [[Central-Strait|Central Strait]] — hunting ground
 - [[Dravosi-Crown|The Dravosi Crown]] — inspection pressure and false-paper target
 - [[Chain-Council|The Chain Council]] — false commission cover and possible political embarrassment

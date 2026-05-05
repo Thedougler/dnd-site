@@ -57,7 +57,7 @@ He genuinely loved the fishing. That tends to surprise people who meet the diplo
 
 ## The Vestra
 
-The _Vestra_ was a small two-masted brig, older than most [[Midchain|Midchain]] traffic, her topsides painted a deep green that had been reapplied so many times it no longer matched from plank to plank. A rat figurehead at the prow with one hand extended, palm up. Compact, practical, built for a small crew travelling light. She was not remarkable. She was his.
+The _Vestra_ was a small two-masted brig, older than most [[places/midchain/index|Midchain]] traffic, her topsides painted a deep green that had been reapplied so many times it no longer matched from plank to plank. A rat figurehead at the prow with one hand extended, palm up. Compact, practical, built for a small crew travelling light. She was not remarkable. She was his.
 
 She went down three days before the campaign begins, on what had been an ordinary fishing day. The water around the hull began to bubble. Perrin touched the rail and the wood burned his hand. Then something enormous struck from below — not a reef, not a storm, something deliberate — and the hull was simply gone. The _Vestra_ went down too fast for anyone aboard to understand what was happening.
 

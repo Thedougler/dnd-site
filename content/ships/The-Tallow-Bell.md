@@ -126,7 +126,7 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 
 - [[Waveservants|The Waveservants]] - operators and passengers
 - [[lore/Umberlee|Umberlee]] - deity served through tribute and rites
-- [[Port-Tidefall|Port Tidefall]] - one regular shrine harbour
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] - one regular shrine harbour
 - [[Drowned-Maw|The Drowned Maw]] - dangerous water where open-sea rites become more common
 - [[ships/index|Ships]]
 - [[Ship-Stats|Ship Stats]]

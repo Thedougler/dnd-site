@@ -125,5 +125,5 @@ Four working decks plus hold.
 
 - [[Dravosi-Crown|The Dravosi Crown]] — owner, operator, and the authority the ship embodies
 - [[places/crown-islands/index|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
-- [[Port-Tidefall|Port Tidefall]] — primary operational anchorage in the Scatter
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — primary operational anchorage in the Scatter
 - [[ships/index|Ships]]

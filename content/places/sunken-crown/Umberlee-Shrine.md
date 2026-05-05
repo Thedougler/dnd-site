@@ -15,7 +15,7 @@ tags:
 
 # Umberlee's Shrine — Sunken Crown
 
-Umberlee's shrine on Vel-Orn is cut into black stone in the [[Sunken-Crown|Sunken Crown]], where five small islands ring the Blue Hole and the water drops too cleanly from turquoise into dark indigo. Outsiders sometimes call Vel-Orn the shrine island. Locals use the older name, which carries the sense of water-debt.
+Umberlee's shrine on Vel-Orn is cut into black stone in the [[places/sunken-crown/index|Sunken Crown]], where five small islands ring the Blue Hole and the water drops too cleanly from turquoise into dark indigo. Outsiders sometimes call Vel-Orn the shrine island. Locals use the older name, which carries the sense of water-debt.
 
 The island has no friendly harbour. It rises sheer from pale reef, with no obvious landing until a boat is nearly on it. The shrine entrance is a mouth in the cliff face, worn smooth by salt spray and years of tide. Kelp wraps the pillars. Candles burn inside where wind should have killed them.
 
@@ -33,7 +33,7 @@ Inside, a ledger chamber holds names, tokens, coins, fish bones, carved shells, 
 
 ## See Also
 
-- [[Sunken-Crown|The Sunken Crown]]
+- [[places/sunken-crown/index|The Sunken Crown]]
 - [[lore/Umberlee|Umberlee]]
 - [[Waveservants|Waveservants]]
 - [[Keth-Naar|Keth-Naar]]

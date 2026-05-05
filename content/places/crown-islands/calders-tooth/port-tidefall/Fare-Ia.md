@@ -15,7 +15,7 @@ tags:
 
 ![[raw/assets/banners/Fare-Ia.webp|Small dock-market fish jerky stall with clay marinade pots and hanging strips of cured fish]]
 
-Fare I'a is a small fish jerky stall in the [[Port-Tidefall|Port Tidefall]] dock market, close enough to the water that dock-salt never leaves the air. The counter is low, the hanging rack is crowded with dark strips of cured fish, and three clay pots of rust-red marinade sit where the smell can do most of the advertising.
+Fare I'a is a small fish jerky stall in the [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] dock market, close enough to the water that dock-salt never leaves the air. The counter is low, the hanging rack is crowded with dark strips of cured fish, and three clay pots of rust-red marinade sit where the smell can do most of the advertising.
 
 The food is Grung-style: sweet brine, pepper heat, char, and a sharpness that cuts through the harbour stink. Dock workers buy it because it is cheap, portable, and better than it looks. Sailors buy it because somebody else dared them first. Regulars tend to have opinions about how much is too much.
 
@@ -31,4 +31,4 @@ Fare I'a sells cured fish by the strip or bundle, packed in paper or wrapped for
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]

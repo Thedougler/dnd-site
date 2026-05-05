@@ -15,7 +15,7 @@ tags:
 
 # Vel-Orn — Sunken Crown
 
-Vel-Orn is the barren black-stone island that holds [[Umberlee-Shrine|Umberlee's shrine]] in the [[Sunken-Crown|Sunken Crown]]. The name carries the local tabaxi sense of water-debt. Outsiders and hurried guides still call it Shrine Island.
+Vel-Orn is the barren black-stone island that holds [[Umberlee-Shrine|Umberlee's shrine]] in the [[places/sunken-crown/index|Sunken Crown]]. The name carries the local tabaxi sense of water-debt. Outsiders and hurried guides still call it Shrine Island.
 
 The people of [[Keth-Naar|Keth-Naar]] treat Vel-Orn as a boundary, not a destination. It is visible from the Lookout Stone as a black point across the water, but visibility does not make it welcoming. The island has no natural harbour, no village, no hunting ground, and no refuge worth seeking.
 
@@ -35,7 +35,7 @@ Vel-Orn has few animals because there is little to eat, which makes any sign of 
 
 ## See Also
 
-- [[Sunken-Crown|The Sunken Crown]]
+- [[places/sunken-crown/index|The Sunken Crown]]
 - [[Umberlee-Shrine|Umberlee's Shrine — Sunken Crown]]
 - [[Keth-Naar|Keth-Naar]]
 - [[lore/Umberlee|Umberlee]]

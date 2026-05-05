@@ -17,7 +17,7 @@ The Verdant Scatter is the primary archipelago of the [[Shattered-Sea|Shattered 
 
 The northern arc is the [[places/crown-islands/index|Crown Islands]]: five larger, mountainous islands with deep harbours, forested highlands, fortifications, inspections, and the Dravosi Crown's strongest regional foothold.
 
-The southern arc is the [[Midchain|Midchain]]: dozens of smaller islands packed close together, with free ports, reefs, local councils, pilot families, and routes that make more sense to people who learned them from grandparents than from charts.
+The southern arc is the [[places/midchain/index|Midchain]]: dozens of smaller islands packed close together, with free ports, reefs, local councils, pilot families, and routes that make more sense to people who learned them from grandparents than from charts.
 
 Between them runs the [[Central-Strait|Central Strait]], the main navigable corridor through the region. To the east, both arcs narrow and converge at [[places/tail/index|the Tail]], where the water grows colder and the Maw starts shaping every decision.
 
@@ -31,7 +31,7 @@ Its pirate threats scale the same way. The [[Knifes-Wake|Knife's Wake]] is the k
 
 - [[Shattered-Sea|The Shattered Sea]]
 - [[places/crown-islands/index|The Crown Islands]]
-- [[Midchain|The Midchain]]
+- [[places/midchain/index|The Midchain]]
 - [[Central-Strait|The Central Strait]]
 - [[places/tail/index|The Tail]]
 - [[Galewall|The Galewall]]

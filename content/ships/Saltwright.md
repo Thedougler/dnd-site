@@ -23,7 +23,7 @@ cssclasses:
 
 ## Overview
 
-A two-masted merchant brig out of [[Kalowe|Kalowe]], built for trade rather than display. Old, plain, and thoroughly practical: a deep hold, a small captain's cabin, and no space wasted on comfort or prestige. [[Beaumont-Sel|Beaumont Sel]] has captained her on the [[Midchain|Midchain]] cargo run for eleven years.
+A two-masted merchant brig out of [[Kalowe|Kalowe]], built for trade rather than display. Old, plain, and thoroughly practical: a deep hold, a small captain's cabin, and no space wasted on comfort or prestige. [[Beaumont-Sel|Beaumont Sel]] has captained her on the [[places/midchain/index|Midchain]] cargo run for eleven years.
 
 She is the party's current ship and home.
 
@@ -57,7 +57,7 @@ See [[Beaumonts-Crew|Beaumont's Crew]] for the full roster.
 
 ## Cargo
 
-Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe]]. An ordinary [[Midchain|Midchain]] cargo brig — old and salt-worked enough to disappear into normal trade traffic.
+Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe]]. An ordinary [[places/midchain/index|Midchain]] cargo brig — old and salt-worked enough to disappear into normal trade traffic.
 
 ---
 
@@ -71,5 +71,5 @@ Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe
 - [[party/Delmar-Fisk|Delmar Fisk]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — boarded at campaign start, pursued across a Midchain island
-- [[Midchain|Midchain]] — operating region
+- [[places/midchain/index|Midchain]] — operating region
 - [[Kalowe|Kalowe]] — home port

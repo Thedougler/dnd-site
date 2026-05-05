@@ -49,13 +49,13 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **1493 DR** — Crisdalynn meets [[party/Delmar-Fisk|Delmar Atticus Fisk]] and ships aboard the _[[Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
 
-**1494 DR** — [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[Midchain|Midchain]], living rough to avoid leaving a trail.
+**1494 DR** — [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] plans to desert his clan and leave the [[Verdant-Teeth|Verdant Teeth]]. [[Pell|Pell]] — a gnome slave and scholar at Sorn — is tortured to death in reprisal after [[Simone-Tabarnack|Simone Tabarnack]] reports Jean-Claude's intentions. Jean-Claude escapes east through the [[places/midchain/index|Midchain]], living rough to avoid leaving a trail.
 
 ---
 
 ## The Days Before Session 1 (1495 DR)
 
-**Day −35 (approx.)** — An unknown contractor engages [[Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[party/Delmar-Fisk|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
+**Day −35 (approx.)** — An unknown contractor engages [[Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[party/Delmar-Fisk|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[places/sunken-crown/index|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
 
 **Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[party/Stripes-Bitemore|Belmore]]'s tribe has been watching the seas turn wrong for days.
 

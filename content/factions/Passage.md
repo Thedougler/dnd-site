@@ -56,5 +56,5 @@ Knowing one route shown by one Rattkin is not knowledge of the Passage. Do not m
 - [[Rattkin|Rattkin]]
 - [[Warren]]
 - [[places/crown-islands/calven/calveno/index]]
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Shattered-Sea|Shattered Sea]]

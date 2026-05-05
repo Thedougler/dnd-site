@@ -23,5 +23,5 @@ This is where Port Tidefall's administrative weight lives. Civic disputes, comme
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Fort-Crestwall|Fort Crestwall]]

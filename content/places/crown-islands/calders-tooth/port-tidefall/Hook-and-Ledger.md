@@ -16,7 +16,7 @@ tags:
 
 # The Hook & Ledger
 
-The Hook & Ledger is a narrow tavern halfway up the Shelf road in [[Port-Tidefall|Port Tidefall]], close enough to the Harbourmaster's Office for clerks to reach it on a short break and far enough from Dockfront noise to conduct business in a normal voice.
+The Hook & Ledger is a narrow tavern halfway up the Shelf road in [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]], close enough to the Harbourmaster's Office for clerks to reach it on a short break and far enough from Dockfront noise to conduct business in a normal voice.
 
 A brass ship's hook hangs over the bar. Ledgers sit on shelves behind the bottles like holy texts. Candlelight catches in dusty green glass, and the room smells of lamp oil, wet wool, damp paper, and wine gone a little sharp in the cask. Nobody stops talking when a stranger enters, but the careful tables get quieter.
 
@@ -48,6 +48,6 @@ The useful thing is not the stock. It is that every ordinary item comes with som
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]
 - [[South-Harbour-Impound|South Harbour Impound]]

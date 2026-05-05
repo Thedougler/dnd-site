@@ -86,6 +86,6 @@ You do not need to worship Umberlee to live under her shadow. In the [[Shattered
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Drowned-Maw|Drowned Maw]]
 - [[Shattered-Sea|Shattered Sea]]

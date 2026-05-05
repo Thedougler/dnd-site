@@ -19,7 +19,7 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Anzolo|Anzolo]]** — A [[places/crown-islands/calven/calveno/index|Calveno]] contact vouched for by [[Nona-Black-Jaw|Nona]], who describes him as "a nice young man who always helps an old lady out with chores." Take that as you will.
 
-**[[Beaumont-Sel|Beaumont Sel]]** — Tortle captain of the _[[Saltwright|Saltwright]]_. Eleven years on the [[Midchain|Midchain]]. Patient, practical, and rarely without his capuchin on his shoulder.
+**[[Beaumont-Sel|Beaumont Sel]]** — Tortle captain of the _[[Saltwright|Saltwright]]_. Eleven years on the [[places/midchain/index|Midchain]]. Patient, practical, and rarely without his capuchin on his shoulder.
 
 **[[Bisou|Bisou]]** — Beaumont's capuchin. Amber eyes, eleven years of history, and a personal vendetta against the pipe staying in Beaumont's mouth.
 

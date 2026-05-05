@@ -13,7 +13,7 @@ tags:
 
 # High-Line
 
-A fishing hamlet built into the northeastern cliffs of [[Calders-Tooth|Calder's Tooth]], where the cold upwellings come in thick with yellowtail and the rock face drops straight to the water. There is no beach. There are no docks. What there is: massive counterweighted wooden winches bolted to the cliff edge, lowering nets down the face and hauling the catch back up.
+A fishing hamlet built into the northeastern cliffs of [[places/crown-islands/calders-tooth/index|Calder's Tooth]], where the cold upwellings come in thick with yellowtail and the rock face drops straight to the water. There is no beach. There are no docks. What there is: massive counterweighted wooden winches bolted to the cliff edge, lowering nets down the face and hauling the catch back up.
 
 The settlement is vertical — ladders, rope platforms, creaking stairways cut into stone, winch-baskets that double as the only transport between levels. The fisherfolk here know every handhold and wind angle. Visitors take longer to learn which gaps are fatal.
 
@@ -21,5 +21,5 @@ The settlement is vertical — ladders, rope platforms, creaking stairways cut i
 
 ## See Also
 
-- [[Calders-Tooth|Calder's Tooth]]
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]

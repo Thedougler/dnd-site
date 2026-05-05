@@ -15,7 +15,7 @@ tags:
 
 # The Overland Track
 
-The Overland Track is the muddy southern switchback road connecting [[South-Harbour|South Harbour]] to [[Port-Tidefall|Port Tidefall]] across [[Calders-Tooth|Calder's Tooth]]. The crossing takes roughly a day and a half on foot or by mount, assuming the weather has not recently made a point.
+The Overland Track is the muddy southern switchback road connecting [[South-Harbour|South Harbour]] to [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] across [[places/crown-islands/calders-tooth/index|Calder's Tooth]]. The crossing takes roughly a day and a half on foot or by mount, assuming the weather has not recently made a point.
 
 Wagons break axles daily on corduroy logs laid over the worst mud. The road climbs through wet interior ridge country, then drops again toward the opposite coast, never quite deciding whether it wants to be a road or a tolerated wound in the island.
 
@@ -27,6 +27,6 @@ The road also concentrates the kind of prey a giant axe beak can use. Pack anima
 
 ## See Also
 
-- [[Calders-Tooth|Calder's Tooth]]
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]

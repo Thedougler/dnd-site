@@ -23,4 +23,4 @@ Debt accumulates. Ships don't move. Release requires full payment of outstanding
 ## See Also
 
 - [[South-Harbour|South Harbour]]
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]

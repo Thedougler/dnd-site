@@ -169,7 +169,7 @@ The _Velvet Noose_ can be sailed by sixty but requires a full complement to comm
 - [[Dravosi-Crown|The Dravosi Crown]] - main naval opposition and likely claimant if the hull's origin is exposed
 - [[Tessarine-Concordat|The Tessarine Concordat]] - insurance, ransom finance, and underwritten cargo pressure
 - [[Chain-Council|The Chain Council]] - political danger if the ship seeks shelter in Midchain waters
-- [[Midchain|The Midchain]] - crew, pilots, fences, and quiet repair relationships
+- [[places/midchain/index|The Midchain]] - crew, pilots, fences, and quiet repair relationships
 - [[Central-Strait|Central Strait]] - convoy pressure and strategic theatre
 - [[Drowned-Maw|The Drowned Maw]] - salvage lanes, superstition, and bad-water escape options
 - [[lore/Umberlee|Umberlee]] - shrine terms, storm fear, and the cost of arrogance at sea

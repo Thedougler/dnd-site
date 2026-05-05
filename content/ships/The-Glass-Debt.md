@@ -25,7 +25,7 @@ cssclasses:
 
 ## Overview
 
-The _Glass Debt_ is a Tier 3 armed pirate frigate: too large for ordinary smuggling, too expensive for casual raiding, and too dangerous to dismiss as a local nuisance. She operates where the [[Midchain|Midchain]] back routes open toward the [[Central-Strait|Central Strait]], the Tail, and the western approaches to the [[Drowned-Maw|Drowned Maw]]. Smaller pirate ships take prizes. The _Glass Debt_ changes how convoys behave.
+The _Glass Debt_ is a Tier 3 armed pirate frigate: too large for ordinary smuggling, too expensive for casual raiding, and too dangerous to dismiss as a local nuisance. She operates where the [[places/midchain/index|Midchain]] back routes open toward the [[Central-Strait|Central Strait]], the Tail, and the western approaches to the [[Drowned-Maw|Drowned Maw]]. Smaller pirate ships take prizes. The _Glass Debt_ changes how convoys behave.
 
 Her hull began life as a Crown-built heavy escort, but every formal mark has been made ambiguous rather than erased. The grey still shows beneath black lacquer. Old registry scars remain under decorative brass. The ship's look is intentional: expensive, wounded, legal-looking at the edge of sight, and insulting up close.
 
@@ -151,7 +151,7 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 
 ## Connections
 
-- [[Midchain|The Midchain]] - routes, pilots, and unofficial repair options
+- [[places/midchain/index|The Midchain]] - routes, pilots, and unofficial repair options
 - [[Central-Strait|Central Strait]] - convoy pressure and Crown response
 - [[Drowned-Maw|The Drowned Maw]] - eastern-edge hunting ground and navigation risk
 - [[Dravosi-Crown|The Dravosi Crown]] - wanted status, former hull lineage, and primary naval opposition

@@ -125,7 +125,7 @@ Replacing the Captain's Cabin with an Expanded Cargo Hold is possible, but it ch
 - [[ships/index|Ships]]
 - [[Ship-Stats|Ship Stats]]
 - [[Ship-Bastion|Ship Bastion]]
-- [[Midchain|Midchain]] — ideal hunting ground for reef-channel ambushes
+- [[places/midchain/index|Midchain]] — ideal hunting ground for reef-channel ambushes
 - [[Dravosi-Crown]] — the kind of authority the ship avoids rather than fights
 
 ## Session Events

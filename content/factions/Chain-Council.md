@@ -17,7 +17,7 @@ tags:
 # The Chain Council
 
 ![[factions/Chain-Council-Flag.webp]]
-The Chain Council is the closest thing the [[Midchain|Midchain]] has to a regional government, which is to say it is not one unless the islands need it to be. Every Midchain island technically belongs to the Chain, but each island remains independent in ordinary matters. Local councils set their own harbour rules, trade customs, fees, patrol arrangements, and grudges.
+The Chain Council is the closest thing the [[places/midchain/index|Midchain]] has to a regional government, which is to say it is not one unless the islands need it to be. Every Midchain island technically belongs to the Chain, but each island remains independent in ordinary matters. Local councils set their own harbour rules, trade customs, fees, patrol arrangements, and grudges.
 
 When a problem reaches beyond any one island, affected representatives may gather in [[Kalowe|Kalowe]] to form the Chain Council. They argue, bargain, count who is actually affected, and vote on what the Midchain will do together.
 
@@ -68,7 +68,7 @@ This arrangement means Council-built ships are spread across the Shattered Sea i
 
 ## Connections
 
-- [[Midchain|The Midchain]] - region represented by the Chain.
+- [[places/midchain/index|The Midchain]] - region represented by the Chain.
 - [[Kalowe|Kalowe]] - normal meeting place and neutral free port.
 - [[Verdant-Teeth|The Verdant Teeth]] - recurring pressure point because of worsening raids.
 - [[Dravosi-Crown|The Dravosi Crown]] - external patrol and inspection pressure.

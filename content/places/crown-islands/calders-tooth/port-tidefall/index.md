@@ -23,7 +23,7 @@ tags:
 
 ## Overview
 
-Port Tidefall is carved directly into the cliff face of [[Calders-Tooth|Calder's Tooth]] in three tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] at the crown with cannon pointed seaward. The harbour mouth is narrow, the inspection pier extends to starboard before any ship reaches the dock, and three nooses hang from the gate arch above the entrance — empty, freshly painted black. Nobody in port remembers when they went up. Every ship entering the western Strait is expected to stop, answer questions, and produce the right paper in the right order. Most do.
+Port Tidefall is carved directly into the cliff face of [[places/crown-islands/calders-tooth/index|Calder's Tooth]] in three tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] at the crown with cannon pointed seaward. The harbour mouth is narrow, the inspection pier extends to starboard before any ship reaches the dock, and three nooses hang from the gate arch above the entrance — empty, freshly painted black. Nobody in port remembers when they went up. Every ship entering the western Strait is expected to stop, answer questions, and produce the right paper in the right order. Most do.
 
 This is where the Crown's authority is loudest, which also makes it where that authority is most negotiable. The Harbourmaster's Office sells charts and vessel ratings. The inspection process sells delay. The taverns on the Shelf sell the composure to discuss paperwork without raising your voice near an officer. Paper can save you here, and paper can sink you, and paper can become a different kind of problem if the clerk on duty has time and initiative. Keep the cargo story short and the copies dry.
 
@@ -49,7 +49,7 @@ Unsanctioned cargo moves through intermediaries. The formal scrutiny is concentr
 
 ## Area Overview
 
-- [[Calders-Tooth|Calder's Tooth]] — western gatekeeper island of the Central Strait.
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]] — western gatekeeper island of the Central Strait.
 - [[South-Harbour|South Harbour]] — eastern working harbour for traffic that does not belong in Tidefall's western ledgers.
 
 ## Dockfront

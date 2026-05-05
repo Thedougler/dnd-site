@@ -28,5 +28,5 @@ The chart clerk sells official Dravosi surveys over the counter. Crown Islands a
 
 ## See Also
 
-- [[Port-Tidefall|Port Tidefall]]
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[South-Harbour|South Harbour]]

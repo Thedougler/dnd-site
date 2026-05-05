@@ -24,13 +24,13 @@ In port, Crown power looks like navy-blue coats, brass buttons, dry stamps, insp
 
 ## Public Face
 
-The Crown presents itself as lawful order at the edge of an unmapped sea. In the [[places/crown-islands/index|Crown Islands]], that argument works on people who have cargo to move and cannot afford disorder. The Dravosi fleet keeps the western Strait navigable, the Harbourmaster's Office sells charts that are usually better than rumor, and a stamped certificate from [[Port-Tidefall|Port Tidefall]] can open doors in every Crown-held anchorage.
+The Crown presents itself as lawful order at the edge of an unmapped sea. In the [[places/crown-islands/index|Crown Islands]], that argument works on people who have cargo to move and cannot afford disorder. The Dravosi fleet keeps the western Strait navigable, the Harbourmaster's Office sells charts that are usually better than rumor, and a stamped certificate from [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] can open doors in every Crown-held anchorage.
 
 The price is submission to the document. A ship is not safe because it is seaworthy; it is safe because its papers say so. A captain is not honest because the harbour knows them; they are honest because their manifest agrees with the rating stamp. The Crown's public cruelty is rarely theatrical. It is procedural, patient, and confident that the person objecting will tire before the paperwork does.
 
 ## Government and Law
 
-The Dravosi colonial government in the Scatter is split between civil administration and Admiralty command. The Governor in [[Port-Tidefall|Port Tidefall]] manages courts, fees, harbour law, seizure claims, and commercial permissions. The Admiralty controls forts, patrol cutters, convoy routes, and sealed military orders.
+The Dravosi colonial government in the Scatter is split between civil administration and Admiralty command. The Governor in [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] manages courts, fees, harbour law, seizure claims, and commercial permissions. The Admiralty controls forts, patrol cutters, convoy routes, and sealed military orders.
 
 The two branches overlap constantly. If the civil office cannot seize a vessel, the Admiralty can inspect it. If the Admiralty cannot justify a detention, the Harbourmaster can discover an unresolved fee.
 
@@ -46,9 +46,9 @@ Common legal tools:
 
 ## Territory
 
-The Crown's power is real but uneven. In the [[places/crown-islands/index]], Dravosi flags fly at every major anchorage, and ships treat Crown papers as the cost of doing business. Harwick stages the regional fleet. Calven holds [[places/crown-islands/calven/calveno/index]], the oldest commercial centre in the Scatter. [[Calders-Tooth|Calder's Tooth]] controls the western mouth of the [[Central-Strait|Central Strait]].
+The Crown's power is real but uneven. In the [[places/crown-islands/index]], Dravosi flags fly at every major anchorage, and ships treat Crown papers as the cost of doing business. Harwick stages the regional fleet. Calven holds [[places/crown-islands/calven/calveno/index]], the oldest commercial centre in the Scatter. [[places/crown-islands/calders-tooth/index|Calder's Tooth]] controls the western mouth of the [[Central-Strait|Central Strait]].
 
-On [[Calders-Tooth|Calder's Tooth]], Crown authority is loudest at [[Port-Tidefall|Port Tidefall]] and [[Fort-Crestwall]] but thins rapidly away from the coastline. The Crown treats the island as a fortress, tollbooth, timber reserve, and legal instrument. The interior remains too forested, cave-riddled, and locally navigated for colonial cartography to fully own.
+On [[places/crown-islands/calders-tooth/index|Calder's Tooth]], Crown authority is loudest at [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] and [[Fort-Crestwall]] but thins rapidly away from the coastline. The Crown treats the island as a fortress, tollbooth, timber reserve, and legal instrument. The interior remains too forested, cave-riddled, and locally navigated for colonial cartography to fully own.
 
 Outside the major harbours, authority becomes geography-dependent. Cannon, piers, roads, and ledgers extend the Crown. Mudflats, cave systems, local pilots, and unwritten routes weaken it. [[South-Harbour]] survives because Tidefall's attention faces west; [[Passage|the Passage]] survives because the Crown cannot tax a route it cannot see.
 
@@ -70,17 +70,17 @@ Dravosi speech in the islands leans formal in office and practical on deck. Offi
 
 ## What Everyone Knows
 
-- The Crown controls the western mouth of the [[Central-Strait|Central Strait]] through [[Port-Tidefall|Port Tidefall]].
+- The Crown controls the western mouth of the [[Central-Strait|Central Strait]] through [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]].
 - Tidefall's inspection pier is unavoidable for vessels entering under Crown law.
 - Crown papers matter. Missing papers matter more.
 - Rattkin bounties exist, are rarely enforced consistently, and become dangerous whenever an ambitious officer wants leverage.
 - The Crown and [[Tessarine-Concordat|the Tessarine Concordat]] are rivals, but both recognize enough of each other's commercial law to make life difficult for everyone else.
-- The Crown's grip is strongest at forts, harbours, and roads; it weakens sharply in caves, mudflats, local villages, and [[Midchain|Midchain]] waters.
+- The Crown's grip is strongest at forts, harbours, and roads; it weakens sharply in caves, mudflats, local villages, and [[places/midchain/index|Midchain]] waters.
 
 ## Connections
 
-- [[Port-Tidefall|Port Tidefall]] — administrative centre; [[Fort-Crestwall|Fort Crestwall]]
-- [[Calders-Tooth]] — western Crown island; claimed absolutely, controlled unevenly
+- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — administrative centre; [[Fort-Crestwall|Fort Crestwall]]
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]] — western Crown island; claimed absolutely, controlled unevenly
 - [[South-Harbour]] — working harbour where Crown scrutiny is weaker than at Tidefall
 - [[places/crown-islands/index]] — territorial base
 - [[Tessarine-Concordat|The Tessarine Concordat]] — commercial rival

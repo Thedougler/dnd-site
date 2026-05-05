@@ -42,7 +42,7 @@ Two hard boundaries define the Scatter. To the west, the [[Galewall|Galewall]]. 
 
 The air changes before land appears: warm, salt-heavy, green with rainforest carried over the water. Then the islands rise in pieces: pale limestone, black basalt, dark jungle, reef water bright enough to hurt your eyes, and deep channels where the colour drops away all at once.
 
-The main island chain is the **[[Verdant-Scatter|Verdant Scatter]]**, running between the [[Galewall|Galewall]] and the [[Drowned-Maw|Drowned Maw]] in two arcs: the larger, more administered **[[places/crown-islands/index|Crown Islands]]** to the north and the denser, harder-to-govern **[[Midchain|Midchain]]** to the south. Between them runs the **[[Central-Strait|Central Strait]]**, the main trade route of the region.
+The main island chain is the **[[Verdant-Scatter|Verdant Scatter]]**, running between the [[Galewall|Galewall]] and the [[Drowned-Maw|Drowned Maw]] in two arcs: the larger, more administered **[[places/crown-islands/index|Crown Islands]]** to the north and the denser, harder-to-govern **[[places/midchain/index|Midchain]]** to the south. Between them runs the **[[Central-Strait|Central Strait]]**, the main trade route of the region.
 
 ### [[Galewall|The Galewall]]
 
@@ -58,13 +58,13 @@ Crossing it takes about three weeks with an experienced pilot. Everyone knows a 
 
 The northern arc is made of five broad, mountainous islands with forested highlands, deep natural harbours, reef systems, and Dravosi flags at every major anchorage. The islands are rich enough to feed cities and steep enough to fortify, which is why the colonial powers have never stopped caring about them.
 
-Publicly, the [[places/crown-islands/index|Crown Islands]] mean administration: ratings, inspections, port fees, naval patrols, trade houses, and harbours where authority has a uniform. They are safer than the [[Midchain|Midchain]] in the way a locked room is safer than an open road.
+Publicly, the [[places/crown-islands/index|Crown Islands]] mean administration: ratings, inspections, port fees, naval patrols, trade houses, and harbours where authority has a uniform. They are safer than the [[places/midchain/index|Midchain]] in the way a locked room is safer than an open road.
 
-### [[Port-Tidefall|Port Tidefall]]
+### [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 
 ![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
-[[Port-Tidefall|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[Central-Strait|Central Strait]], carved directly into the cliff face of [[Calders-Tooth|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
+[[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[Central-Strait|Central Strait]], carved directly into the cliff face of [[places/crown-islands/calders-tooth/index|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
 
 This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The [[Harbourmasters-Office|Harbourmaster's Office]] sells charts and ratings; the [[Waveservants|Waveservants]] keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
 
@@ -80,25 +80,25 @@ Everything here is visible. That is the point. Deals are witnessed, alliances ar
 
 ![[raw/assets/banners/Central-Strait.webp|Wide blue-green shipping strait cutting between low islands and reef shallows]]
 
-[[Central-Strait|The Central Strait]] is the broad corridor of pale blue-green water between the [[places/crown-islands/index|Crown Islands]] and the [[Midchain|Midchain]]. It runs forty to eighty miles wide depending on where you cross, deep enough for the largest vessels in the region and sheltered enough that smaller ships use it constantly.
+[[Central-Strait|The Central Strait]] is the broad corridor of pale blue-green water between the [[places/crown-islands/index|Crown Islands]] and the [[places/midchain/index|Midchain]]. It runs forty to eighty miles wide depending on where you cross, deep enough for the largest vessels in the region and sheltered enough that smaller ships use it constantly.
 
 This is the Scatter's main east-west highway. The current pushes east whether you want it to or not, spinner dolphins work the shipping lanes, and Dravosi inspection at the western mouth makes the Strait profitable before a single cargo changes hands.
 
-### [[Midchain|The Midchain]]
+### [[places/midchain/index|The Midchain]]
 
 ![[raw/assets/banners/The-Midchain.webp|Cluster of lush Midchain islands surrounded by bright reef water and deep channels]]
 
 The southern arc is dozens of small and medium islands packed close together: limestone, coral, jungle, reef, hidden channels, and local arrangements that do not survive contact with paperwork. Most islands are a half-day's sail from the next. Fresh water, shelter, and trouble are always nearby.
 
-[[Midchain|The Midchain]] is difficult to govern from outside. Colonial powers hold strategic points and send patrols through the channels, but most of the region belongs to island groups, free ports, smugglers, pilots, family networks, and whoever knows the reef better than the person chasing them. [[Kalowe]] as well as the [[Verdant-Teeth|Verdant Teeth]] both call the midchain home.
+[[places/midchain/index|The Midchain]] is difficult to govern from outside. Colonial powers hold strategic points and send patrols through the channels, but most of the region belongs to island groups, free ports, smugglers, pilots, family networks, and whoever knows the reef better than the person chasing them. [[Kalowe]] as well as the [[Verdant-Teeth|Verdant Teeth]] both call the midchain home.
 
 ### [[Kalowe|Kalowe]]
 
 ![[raw/assets/banners/Kalowe.webp|Harbor settlement on a low tropical island at sunset, with cranes and boats along the shore]]
 
-[[Kalowe|Kalowe]] is the primary [[Midchain|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
+[[Kalowe|Kalowe]] is the primary [[places/midchain/index|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
 
-If [[Port-Tidefall]] is where papers become chains, [[Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
+If [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] is where papers become chains, [[Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
 
 ### [[Verdant-Teeth|The Verdant Teeth]]
 
@@ -106,7 +106,7 @@ If [[Port-Tidefall]] is where papers become chains, [[Kalowe|Kalowe]] is where p
 
 Two days south-west of [[Kalowe|Kalowe]] sit the [[Verdant-Teeth|Verdant Teeth]], five closely grouped islands held by [[Grung-Clans|Grung clans]]. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
 
-Outsiders trade at designated beaches and stay at the waterline. The [[Grung-Clans|Grung]] touch is poisonous, their caste protocols are strict, and the coastal settlements of the [[Midchain|Midchain]] know that raid activity has worsened. Everyone has heard enough to avoid the interior. Some merchants still go to the beach for the lucrative trade opportunities.
+Outsiders trade at designated beaches and stay at the waterline. The [[Grung-Clans|Grung]] touch is poisonous, their caste protocols are strict, and the coastal settlements of the [[places/midchain/index|Midchain]] know that raid activity has worsened. Everyone has heard enough to avoid the interior. Some merchants still go to the beach for the lucrative trade opportunities.
 
 ### [[places/tail/index|The Tail]]
 
@@ -124,13 +124,13 @@ To the east lies the [[Drowned-Maw|Drowned Maw]], a vast deep-sea trench where c
 
 The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrimage, research, desperation, and profit. The [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] watch it from the [[High-Eyrie|High Eyrie]]. [[Waveservants|The Waveservants]] do not like questions about it. Every chart grows less confident near the edge.
 
-### [[Outer-Reach|The Outer Reach]] and [[Sunken-Crown|Sunken Crown]]
+### [[Outer-Reach|The Outer Reach]] and [[places/sunken-crown/index|Sunken Crown]]
 
 ![[raw/assets/banners/Sunken-Crown.webp|Circular reef atoll surrounding a dark central lagoon in open water]]
 
 East of the Maw, the charts thin out into open ocean. The [[Outer-Reach|Outer Reach]] has no colonial presence, no reliable resupply, and few landmarks a western pilot would trust. Getting there means crossing the Maw and then committing to days of open water.
 
-The best-known region beyond is the [[Sunken-Crown|Sunken Crown]]: five low islands around a deep blue hole, black stone and pale reef around water that drops too cleanly to be comfortable. It is associated with old [[lore/Umberlee|Umberlee]] worship, isolated [[Tabaxi]] communities, and local navigation that outsiders routinely underestimate.
+The best-known region beyond is the [[places/sunken-crown/index|Sunken Crown]]: five low islands around a deep blue hole, black stone and pale reef around water that drops too cleanly to be comfortable. It is associated with old [[lore/Umberlee|Umberlee]] worship, isolated [[Tabaxi]] communities, and local navigation that outsiders routinely underestimate.
 
 ---
 
@@ -142,7 +142,7 @@ The best-known region beyond is the [[Sunken-Crown|Sunken Crown]]: five low isla
 
 - **[[Passage|The Passage]]** is the [[Rattkin]] network beneath and between the ports: runs, holds, courier routes, hidden caches, and spoken in skitter-cant, a completely silent language of nose and whisker movement.
 
-- **[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[Verdant-Teeth|Verdant Teeth]] in the [[Midchain|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the slave raids have been getting worse.
+- **[[Grung-Clans|The Grung Clans]]** hold the rainforest interiors of the [[Verdant-Teeth|Verdant Teeth]] in the [[places/midchain/index|Midchain]]. Coastal islanders trade at designated beaches and do not go inland. Everyone knows Grung touch is poisonous. Everyone knows the slave raids have been getting worse.
 
 - **[[lore/Umberlee|Umberlee]] and the [[Waveservants|Waveservants]]** are the religious fact of life at sea. [[lore/Umberlee|Umberlee]], often called the Bitch Queen of the Sea, is the goddess of storms, shipwrecks, and the sea's destructive appetite. Her [[Waveservants|Waveservants]] keep shrines at port entries, their robes smell of tallow and brine, and their blessings are transactional by design. They collect tribute from everyone. Sailors who do not pay do not sail, or at least do not sail confidently.
 
@@ -183,7 +183,7 @@ You begin at **Level 3** aboard the _[[Saltwright|Saltwright]]_.
 
 ![[raw/assets/banners/Saltwright.webp|The Saltwright, a dark-sailed wooden ship crossing rough seas at dusk|730|892x502]]
 
-A hard-used two-masted merchant brig captained by **[[Beaumont-Sel|Beaumont Sel]]**, who offered you passage to [[Port-Tidefall]]
+A hard-used two-masted merchant brig captained by **[[Beaumont-Sel|Beaumont Sel]]**, who offered you passage to [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 
 ![[raw/assets/portraits/Beaumont-Sel.webp|Beaumont Sel, a weathered sailor gripping a ship's wheel by lantern light]]
 

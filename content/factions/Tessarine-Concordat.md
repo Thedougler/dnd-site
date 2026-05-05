@@ -80,7 +80,7 @@ Tessarine purchase orders already exist for intact Antheri pieces. Factors maint
 | [[Passage\|The Passage]] | No official recognition. Concordat factors are rumored to use Rattkin couriers for documents that should not appear in ordinary channels. |
 | [[places/crown-islands/calven/calveno/index]]'s Seven Houses | Entangled through debt, trade access, and council arithmetic. |
 | [[Antherian]] salvage market | Purchase orders, authentication interest, and recovery financing. |
-| [[Midchain\|Midchain]] | Commercial target; harder to own because local governance runs on relationships rather than paper. |
+| [[places/midchain/index\|Midchain]] | Commercial target; harder to own because local governance runs on relationships rather than paper. |
 
 ## Daily Texture
 
@@ -108,11 +108,11 @@ Read the full contract before signing, including inheritance and collateral clau
 
 - [[places/crown-islands/calven/calveno/index]] — primary Concordat foothold; factor building anchors the Mercatura
 - [[Dravosi-Crown|The Dravosi Crown]] — rival colonial power
-- [[Tessarine-Trade-House]] — [[Port-Tidefall|Port Tidefall]] office
+- [[Tessarine-Trade-House]] — [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] office
 - [[Passage|The Passage]] — off-record courier rumors
 - [[Shelfworks|Shelfworks]] — Antheri salvage interest
 - [[Antherian]] — salvage market
-- [[Midchain|Midchain]] — commercial target
+- [[places/midchain/index|Midchain]] — commercial target
 - [[Shattered-Sea|Shattered Sea]] — wider region of Concordat ambition
 - [[Galewall]] — route to the Concordat homeland beyond the known Scatter
 - [[Tessarine-Silkvane]] — Concordat-registered vessel

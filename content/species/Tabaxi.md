@@ -19,7 +19,7 @@ _Medium Humanoid_
 
 Created by the Cat Lord — a divine being of the Upper Planes — to blend the qualities of humanoids and cats. Tabaxi are felines given reason and language, yet retain the predatory instincts of their kind. They are curious, territorial, and deadly. Some live among other peoples and adopt their ways; most follow their nature — hunting, competing, surviving on their own terms.
 
-In the [[Shattered-Sea|Shattered Sea]], Tabaxi presence is sparse but ancient. The tribes of the [[Sunken-Crown|Sunken Crown]] islands have inhabited those waters for generations beyond counting, isolated from other tabaxi populations.
+In the [[Shattered-Sea|Shattered Sea]], Tabaxi presence is sparse but ancient. The tribes of the [[places/sunken-crown/index|Sunken Crown]] islands have inhabited those waters for generations beyond counting, isolated from other tabaxi populations.
 
 ---
 

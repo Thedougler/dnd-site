@@ -22,7 +22,7 @@ tags:
 | **Species**   | Aarakocra (barn owl)                      |
 | **Role**      | Senior Master, [[Sentinels-Of-The-Eyrie]] |
 | **Home**      | [[High-Eyrie]]                            |
-| **Currently** | [[Port-Tidefall]]                         |
+| **Currently** | [[places/crown-islands/calders-tooth/port-tidefall/index\|Port Tidefall]]                         |
 
 ---
 
@@ -30,7 +30,7 @@ tags:
 
 Master Kyzil is a senior master of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]], the aarakocra observation order out of [[High-Eyrie]]. He assigned [[Crisdalynn-Khinriss]] her pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — and staked his own reputation on her readiness when he did it. Before she left, he pressed his crystal dreidel into her talons.
 
-He tracked her by current and weather patterns after the _Red Lady_ went down, deduced where she would wash ashore, and came to [[Port-Tidefall|Port Tidefall]] to find her.
+He tracked her by current and weather patterns after the _Red Lady_ went down, deduced where she would wash ashore, and came to [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] to find her.
 
 ## Appearance
 
@@ -54,4 +54,4 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 - **[[High-Eyrie]]** — home; the monastery on the basalt sea stack at the northeastern Crown coast
 - **[[Crisdalynn-Khinriss]]** — his pilgrim; gave her his dreidel; in Port-Tidefall to hear her account
 - **[[Drowned-Maw|Drowned Maw]]** — subject of Crisdalynn's pilgrimage; two centuries of Sentinel observation
-- **[[Port-Tidefall|Port Tidefall]]** — where he is now
+- **[[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]** — where he is now

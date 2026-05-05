@@ -29,4 +29,4 @@ That is the public reason crews give. The practical reason is that abandoned gar
 ## See Also
 
 - [[Verdant-Teeth|Verdant Teeth]]
-- [[Midchain|The Midchain]]
+- [[places/midchain/index|The Midchain]]

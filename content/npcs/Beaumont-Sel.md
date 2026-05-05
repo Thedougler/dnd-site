@@ -23,13 +23,13 @@ tags:
 | **Species**    | Tortle (alligator snapping)                  |
 | **Role**       | Captain, _[[Saltwright]]_                    |
 | **Home Port**  | [[Kalowe\|Kalowe]]                                       |
-| **Route**      | [[Midchain\|Midchain]], eleven years running               |
+| **Route**      | [[places/midchain/index\|Midchain]], eleven years running               |
 
 ---
 
 ## Overview
 
-Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe|Kalowe]] working the [[Midchain|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[Midchain|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
+Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe|Kalowe]] working the [[places/midchain/index|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[places/midchain/index|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
 
 He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] and [[party/Delmar-Fisk|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
 
@@ -47,14 +47,14 @@ He is not a man who talks about himself. He is a man who keeps his ship running.
 
 ## Bisou
 
-The capuchin on his shoulder is [[Bisou]], and she is not decorative. She has been riding that shoulder for the full eleven years he has run the [[Midchain|Midchain]]. She steals his pipe regularly and shows no remorse about it. Beaumont corrects this with the weary patience of a man who has lost this argument many times.
+The capuchin on his shoulder is [[Bisou]], and she is not decorative. She has been riding that shoulder for the full eleven years he has run the [[places/midchain/index|Midchain]]. She steals his pipe regularly and shows no remorse about it. Beaumont corrects this with the weary patience of a man who has lost this argument many times.
 
 ## Connections
 
-- **[[Saltwright]]** — his vessel; eleven years on the [[Midchain|Midchain]]
+- **[[Saltwright]]** — his vessel; eleven years on the [[places/midchain/index|Midchain]]
 - **[[Beaumonts-Crew|Beaumont's Crew]]** — his working crew
 - **[[Bisou]]** — capuchin companion; rides his left shoulder
 - **[[Crissdalynn-Khinriss|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
 - **[[party/Delmar-Fisk|Delmar Fisk]]** — same
 - **[[party/Stripes-Bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
-- **[[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island
+- **[[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[places/midchain/index|Midchain]] island

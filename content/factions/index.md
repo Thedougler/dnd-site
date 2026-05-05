@@ -34,7 +34,7 @@ Their factors are unfailingly polite. The collateral clauses are buried deep.
 
 ## [[Chain-Council|The Chain Council]]
 
-The Chain Council is what the [[Midchain|Midchain]] becomes when independent islands need to make one decision together. Every island technically belongs to the Chain, but the Council only matters when affected representatives gather in [[Kalowe|Kalowe]] and agree the problem is larger than any one harbour.
+The Chain Council is what the [[places/midchain/index|Midchain]] becomes when independent islands need to make one decision together. Every island technically belongs to the Chain, but the Council only matters when affected representatives gather in [[Kalowe|Kalowe]] and agree the problem is larger than any one harbour.
 
 It is slow, suspicious, and hard to command. That is the point. A Chain Council vote can move pilots, markets, privateers, and harbour bosses across the Midchain, but only if the people expected to carry the cost believe the vote was real.
 

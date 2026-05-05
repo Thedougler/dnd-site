@@ -30,7 +30,7 @@ The [[Galewall|Galewall]] is a three-week crossing under the right pilot. Most s
 
 The northern arc. Five large, mountainous, heavily administered islands under the [[Dravosi-Crown|Dravosi Crown]]. Rich, fortified, and governed from behind a ledger.
 
-- [[Calders-Tooth|Calder's Tooth]] guards the western mouth of the [[Central-Strait|Central Strait]]. Its cliff face holds [[Port-Tidefall|Port Tidefall]] — the Crown's main fortress-port, carved into tiers from the waterline up to [[Fort-Crestwall|Fort Crestwall]] at the summit. Inspection here is mandatory, enforceable, and profitable.
+- [[places/crown-islands/calders-tooth/index|Calder's Tooth]] guards the western mouth of the [[Central-Strait|Central Strait]]. Its cliff face holds [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — the Crown's main fortress-port, carved into tiers from the waterline up to [[Fort-Crestwall|Fort Crestwall]] at the summit. Inspection here is mandatory, enforceable, and profitable.
 - [[places/crown-islands/calven/calveno/index|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
 
 ### The Central Strait
@@ -41,7 +41,7 @@ The Scatter's main east-west highway, forty to eighty miles wide, current pushin
 
 The southern arc. Dozens of small, close-packed islands with reefs, jungle, hidden channels, and local arrangements that do not survive contact with colonial paperwork. Most of the region belongs to island councils, free ports, smugglers, pilots, and whoever knows the reef better than the person chasing them.
 
-- [[Kalowe|Kalowe]] is the primary [[Midchain|Midchain]] free port, built across three reef islands over a natural lagoon. No colonial authority. Not the same as no politics. The standard port for unregistered vessels, black-market cargo, crew-for-hire, and people who need to become harder to find.
+- [[Kalowe|Kalowe]] is the primary [[places/midchain/index|Midchain]] free port, built across three reef islands over a natural lagoon. No colonial authority. Not the same as no politics. The standard port for unregistered vessels, black-market cargo, crew-for-hire, and people who need to become harder to find.
 - [[Verdant-Teeth|The Verdant Teeth]] are five closely grouped islands south of [[Kalowe|Kalowe]] held by [[Grung-Clans|Grung clans]]. Charts mark the interiors with some version of "do not approach." Outsiders trade at designated beaches and stay at the waterline.
 
 ### The Tail and the Maw
@@ -87,7 +87,7 @@ Most sourcebook species have a place in the Scatter. The setting adds four homeb
 
 ## The Starting Situation
 
-The _[[Saltwright|Saltwright]]_ is captained by **[[Beaumont-Sel|Beaumont Sel]]** — an alligator-snapping tortle who has survived eleven years on the [[Midchain|Midchain]] route by treating danger as weather. You are aboard for your own reason: paying passenger, working hand, shipwrecked survivor, stowaway, fugitive, pilgrim, hired blade, scholar with bad funding, or someone who got on the wrong boat and has decided to make it everyone else's problem.
+The _[[Saltwright|Saltwright]]_ is captained by **[[Beaumont-Sel|Beaumont Sel]]** — an alligator-snapping tortle who has survived eleven years on the [[places/midchain/index|Midchain]] route by treating danger as weather. You are aboard for your own reason: paying passenger, working hand, shipwrecked survivor, stowaway, fugitive, pilgrim, hired blade, scholar with bad funding, or someone who got on the wrong boat and has decided to make it everyone else's problem.
 
 **Questions to answer before Session Zero:**
 

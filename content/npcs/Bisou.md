@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-Bisou is a small capuchin monkey who has ridden [[Beaumont-Sel]]'s left shoulder for the full eleven years he has run the [[Midchain|Midchain]] route. She is not a pet in any passive sense. She moves with precision and purpose, makes decisions quickly, and has zero hesitation about stealing the pipe from the corner of Beaumont's mouth. He corrects this with the weary patience of a man who has lost this argument many times.
+Bisou is a small capuchin monkey who has ridden [[Beaumont-Sel]]'s left shoulder for the full eleven years he has run the [[places/midchain/index|Midchain]] route. She is not a pet in any passive sense. She moves with precision and purpose, makes decisions quickly, and has zero hesitation about stealing the pipe from the corner of Beaumont's mouth. He corrects this with the weary patience of a man who has lost this argument many times.
 
 Her tail stays looped once around his neck when she is settled. She goes where he goes.
 

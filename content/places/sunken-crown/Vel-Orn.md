@@ -42,6 +42,6 @@ Vel-Orn has few animals because there is little to eat, which makes any sign of 
 
 ## Related
 
-- [[Umberlee-Shrine-Sunken-Crown-Secrets]] — Umberlee's Shrine — Sunken Crown
+- [[Umberlee-Shrine-Secrets]] — Umberlee's Shrine — Sunken Crown
 - [[Sunken-Crown-Secrets]] — The Sunken Crown
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

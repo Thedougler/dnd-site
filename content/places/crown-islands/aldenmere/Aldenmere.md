@@ -1,9 +1,10 @@
 ---
 publish: true
-permalink: /places/crown-islands/aldenmere/index.md
+permalink: /places/crown-islands/aldenmere/Aldenmere.md
 aliases:
-  - Aldenmere Index
-title: Aldenmere — Index
+  - Aldenmere Island
+  - Isle of Aldenmere
+title: Aldenmere
 created: 2026-05-04
 modified: 2026-05-05
 tags:
@@ -62,9 +63,4 @@ Offshore, the southern approaches carry [[beastiary/sea-life/hunter-shark|hunter
 
 ---
 
-## See Also
-
-- [[places/crown-islands/index|The Crown Islands]] — regional overview
-- [[places/crown-islands/harwick/index|Harwick]] — nearest island to the west; naval base and regional fleet
-- [[places/crown-islands/stenmark/index|Stenmark]] — nearest island to the east; easternmost Crown island
-- [[Dravosi-Crown|The Dravosi Crown]] — nominal governing authority
+- [[places/crown-islands/aldenmere/index|Aldenmere Index]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]

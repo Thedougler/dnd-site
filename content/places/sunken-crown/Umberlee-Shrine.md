@@ -13,7 +13,7 @@ tags:
   - umberlee
 ---
 
-# [[Umberlee-Shrine-Sunken-Crown-Secrets|Umberlee's Shrine — Sunken Crown]]
+# [[Umberlee-Shrine-Secrets|Umberlee's Shrine — Sunken Crown]]
 
 Umberlee's shrine on [[Vel-Orn]] is cut into black stone in the [[places/sunken-crown/index|Sunken Crown]], where five small islands ring the Blue Hole and the water drops too cleanly from turquoise into dark indigo. Outsiders sometimes call Vel-Orn the shrine island. Locals use the older name, which carries the sense of water-debt.
 

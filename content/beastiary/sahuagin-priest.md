@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/sahuagin-priest.md
 aliases:
   - Sahuagin Priest
 title: Sahuagin Priest
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:57:44.855-07:00
 tags:
   - creature
   - fiend
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Sahuagin Priest, a CR 2 fiend in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: coastal, underwater
-creature_type: fiend
-statblock: inline
-page: 265
-cha: 13
-con: 12
-dex: 11
-int: 12
-str: 13
-wis: 14
 ---
 
 # Sahuagin Priest

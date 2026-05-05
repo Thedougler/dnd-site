@@ -1,49 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/kraken.md
 aliases:
   - Kraken
 title: Kraken
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T02:00:03.226-07:00
 tags:
   - creature
   - monstrosity
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Kraken, a CR 23 monstrosity in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-  - relation: hunts_in
-    target: The Outer Reach
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 23
-environment: underwater
-creature_type: monstrosity
-statblock: inline
-page: 187
-cha: 20
-con: 26
-dex: 11
-int: 22
-str: 30
-wis: 18
 ---
 
 # Kraken

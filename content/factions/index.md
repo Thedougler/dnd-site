@@ -1,19 +1,13 @@
 ---
 publish: true
+permalink: /factions/index.md
 title: Factions
 created: 2026-05-02T15:58:16.218-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.342-07:00
 tags:
   - player-resource
   - index
   - factions
-visibility: public
-audience: players
-summary: Player-facing index for Shattered Sea factions, focused on what characters can know in port, on deck, or through common reputation.
-type: index
-campaign: shattered-sea
-updated: 2026-05-03
 ---
 
 # Factions of the Shattered Sea

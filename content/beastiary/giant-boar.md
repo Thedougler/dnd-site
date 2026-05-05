@@ -1,51 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-boar.md
 aliases:
   - Giant Boar
 title: Giant Boar
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:53:46.104-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Giant Boar, a CR 2 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Crown Islands
-  - relation: habitat
-    target: The Verdant Scatter
-  - relation: habitat
-    target: Calder's Tooth
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: forest, grassland, hill
-creature_type: beast
-statblock: inline
-page: 355
-cha: 5
-con: 16
-dex: 10
-int: 2
-str: 17
-wis: 7
 ---
 
 # Giant Boar

@@ -1,34 +1,17 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Fare-Ia.md
 aliases:
   - Fare Ia
 title: Fare I'a
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.317-07:00
 tags:
   - location
   - market
-  - port-tidefall
+  - port_tidefall
   - grung
-  - player-resource
-visibility: public
-audience: players
-summary: A small Port Tidefall dock-market stall selling sweet, sharp Grung-style fish jerky to sailors, dock workers, and anyone hungry enough to trust the smell.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: located_in
-    target: The Dockfront
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Fare I'a

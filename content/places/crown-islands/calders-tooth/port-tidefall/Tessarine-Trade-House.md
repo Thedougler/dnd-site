@@ -1,35 +1,18 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Tessarine-Trade-House.md
 aliases:
   - Tessarine Trade House
   - Concordat Trade House — Tidefall
 title: Tessarine Trade House — Port Tidefall
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.934-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - tessarine
-  - player-resource
-visibility: public
-audience: players
-summary: The Tessarine Concordat's commercial office on the Shelf — trade licensing, contract brokerage, and a clerk who prefers paperwork to people.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: controlled_by
-    target: The Tessarine Concordat
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Tessarine Trade House — Port Tidefall

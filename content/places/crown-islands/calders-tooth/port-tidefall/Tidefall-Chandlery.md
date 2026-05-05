@@ -1,38 +1,19 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Tidefall-Chandlery.md
 aliases:
   - The Tidefall Chandlery
 title: Tidefall Chandlery
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:35.477-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - dravosi
-  - crown-islands
+  - crown_islands
   - market
-  - player-resource
-visibility: public
-audience: players
-summary: "Port Tidefall's main Dockfront/Shelf outfitter for ships clearing inspection: naval gear, provisions, tools, weapons, and a modest locked case of magic items."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: located_in
-    target: The Shelf
-  - relation: sanctioned_by
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Tidefall Chandlery

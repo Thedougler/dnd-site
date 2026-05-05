@@ -1,51 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/hunter-shark.md
 aliases:
   - Hunter Shark
 title: Hunter Shark
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.138-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Hunter Shark, a CR 2 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Central Strait
-  - relation: hunts_in
-    target: The Crown Islands
-  - relation: hunts_in
-    target: Kalowe
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: underwater
-creature_type: beast
-statblock: inline
-page: 363
-cha: 4
-con: 15
-dex: 14
-int: 1
-str: 18
-wis: 10
 ---
 
 # Hunter Shark

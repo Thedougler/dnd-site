@@ -1,22 +1,12 @@
 ---
 publish: true
+permalink: /places/crown-islands/calven/calveno/Cats-Curios.md
 title: Cat's Curios
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:01.983-07:00
 tags:
   - calveno
   - artificer
-visibility: public
-audience: players
-summary: Referral-only artificer workshop in Calveno — no sign, no walk-ins, and the best work in the Scatter.
-type: place
-subtype: shop
-campaign: shattered-sea
-updated: 2026-05-02
-status: active
-sources:
-  - Homebrew
 ---
 
 # Cat's Curios

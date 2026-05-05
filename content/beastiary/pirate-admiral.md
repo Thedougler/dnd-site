@@ -1,51 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/pirate-admiral.md
 aliases:
   - Pirate Admiral
 title: Pirate Admiral
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:58:43.245-07:00
 tags:
   - creature
   - humanoid
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Pirate Admiral, a CR 12 humanoid in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: active_in
-    target: The Galewall
-  - relation: active_in
-    target: The Tail
-  - relation: active_in
-    target: The Central Strait
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 12
-environment: any
-creature_type: humanoid
-statblock: inline
-page: 242
-cha: 19
-con: 14
-dex: 22
-int: 12
-str: 14
-wis: 14
 ---
 
 # Pirate Admiral

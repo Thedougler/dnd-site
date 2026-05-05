@@ -1,19 +1,13 @@
 ---
 publish: true
+permalink: /places/index.md
 title: Places
 created: 2026-05-04T02:26:40.821-07:00
 modified: 2026-05-04
-published: 2026-05-04T17:55:54.529-07:00
 tags:
   - player-resource
   - places
   - index
-visibility: public
-audience: players
-summary: Player-facing gazetteer index for public Shattered Sea places, written as in-world travel knowledge for players.
-type: index
-campaign: shattered-sea
-updated: 2026-05-04
 ---
 
 # Places in the Shattered Sea

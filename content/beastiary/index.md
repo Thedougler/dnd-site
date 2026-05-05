@@ -1,35 +1,17 @@
 ---
 publish: true
+permalink: /beastiary/index.md
 aliases:
   - Bestiary
   - Shattered Sea Bestiary
 title: Bestiary
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.642-07:00
 tags:
   - player-resource
   - index
   - bestiary
   - creature
-visibility: public
-audience: players
-summary: Public index for Shattered Sea creature and monster references.
-type: index
-subtype: creature-index
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: appears_in
-    target: The Shattered Sea
-  - relation: supports
-    target: Ship Stats
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - User request 2026-05-03
-source_count: 2
-confidence_level: medium
 ---
 
 # Bestiary

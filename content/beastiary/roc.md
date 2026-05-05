@@ -1,49 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/roc.md
 aliases:
   - Roc
 title: Roc
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:59:56.643-07:00
 tags:
   - creature
   - monstrosity
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Roc, a CR 11 monstrosity in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Galewall
-  - relation: habitat
-    target: The High Eyrie
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 11
-environment: arctic, coastal, desert, hill, mountain
-creature_type: monstrosity
-statblock: inline
-page: 261
-cha: 9
-con: 20
-dex: 10
-int: 3
-str: 28
-wis: 10
 ---
 
 # Roc

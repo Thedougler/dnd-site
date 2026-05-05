@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/animated-rug-of-smothering.md
 aliases:
   - Animated Rug of Smothering
 title: Animated Rug of Smothering
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:55:26.874-07:00
 tags:
   - creature
   - construct
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Animated Rug of Smothering, a CR 2 construct in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: found_in
-    target: Cat's Curios
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: urban
-creature_type: construct
-statblock: inline
-page: 17
-cha: 1
-con: 10
-dex: 14
-int: 1
-str: 17
-wis: 3
 ---
 
 # Animated Rug of Smothering

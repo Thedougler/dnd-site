@@ -1,51 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/harpy.md
 aliases:
   - Harpy
 title: Harpy
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.744-07:00
 tags:
   - creature
   - monstrosity
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Harpy, a CR 1 monstrosity in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: Ashwall Islands
-  - relation: habitat
-    target: The Tail
-  - relation: habitat
-    target: Meth-Var
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1
-environment: coastal, forest, hill, mountain
-creature_type: monstrosity
-statblock: inline
-page: 164
-cha: 13
-con: 12
-dex: 13
-int: 7
-str: 12
-wis: 10
 ---
 
 # Harpy

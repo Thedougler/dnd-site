@@ -1,45 +1,16 @@
 ---
 publish: true
+permalink: /places/midchain/Kalowe.md
 aliases:
   - Kalowe Free Port
 title: Kalowe
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.266-07:00
 tags:
   - location
   - port
   - midchain
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for Kalowe, the main Midchain free port and repair harbour.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Midchain
-  - relation: part_of
-    target: The Midchain
-  - relation: threatened_by
-    target: Giant Rat
-  - relation: threatened_by
-    target: Swarm of Rats
-  - relation: threatened_by
-    target: Giant Wasp
-  - relation: associated_with
-    target: The Bad Receipt
-  - relation: threatened_by
-    target: Hunter Shark
-  - relation: rumored_threat
-    target: Pirate Captain
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Kalowe

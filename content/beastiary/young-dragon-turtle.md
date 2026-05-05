@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/young-dragon-turtle.md
 aliases:
   - Young Dragon Turtle
 title: Young Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:55:46.332-07:00
 tags:
   - creature
   - dragon
   - ftd
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Young Dragon Turtle, a CR 10 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Outer Reach
-updated: 2026-05-03
-sources:
-  - FTD
-source_count: 1
-confidence_level: high
-cr: 10
-environment:
-creature_type: dragon
-statblock: inline
-page: 192
-cha: 12
-con: 19
-dex: 10
-int: 10
-str: 21
-wis: 12
 ---
 
 # Young Dragon Turtle

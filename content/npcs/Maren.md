@@ -1,30 +1,13 @@
 ---
 publish: true
+permalink: /npcs/Maren.md
 aliases:
   - Maren
 title: Maren
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:57.276-07:00
 tags:
   - captain
-visibility: public
-audience: players
-summary: Water Genasi captain of the Narrow, Fisk's scout vessel — navigator and underwater scout, drowned at the Drowned Maw when Umberlee sank the fleet. Her soul is inside Delmar Fisk.
-type: npc
-subtype: npc-summary
-status: deceased
-campaign: shattered-sea
-relationships:
-  - relation: captain_of
-    target: Narrow
-  - relation: member_of
-    target: Fisk's Fleet
-  - relation: soul_in
-    target: Delmar Fisk
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Maren
@@ -35,7 +18,7 @@ sources:
 | ------------ | ---------------------------------------------------------- |
 | **Species**  | Water Genasi                                               |
 | **Role**     | Captain, _[[Narrow\|The Narrow]]_; [[Fisks-Fleet\|Fisk's Fleet]]       |
-| **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                     |
+| **Status**   | Deceased — soul inside [[delmar-fisk\|Delmar Fisk]]                     |
 
 ---
 

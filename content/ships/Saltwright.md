@@ -1,32 +1,17 @@
 ---
 publish: true
+permalink: /ships/Saltwright.md
 aliases:
   - Saltwright
 title: The Saltwright
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:00.923-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
-  - merchant-vessel
+  - merchant_vessel
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: A hard-used two-masted merchant brig captained by Beaumont Sel, working the Midchain cargo run — and the party's current home.
-status: active
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-ship_class: tier 1
-captain: "[[Beaumont-Sel|Beaumont Sel]]"
-home_port: "[[Kalowe|Kalowe]]"
-current_location: "[[Midchain|Midchain]]"
-banner: raw/assets/banners/Saltwright.webp
 ---
 
 # The Saltwright

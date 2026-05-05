@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /party/delmar-fisk.md
 aliases:
   - Admiral Fisk
   - Delmar Fisk
@@ -7,34 +8,11 @@ aliases:
 title: Delmar Fisk
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.950-07:00
 tags:
-  - player-character
+  - player_character
   - pc
   - human
-  - player-resource
-visibility: public
-audience: players
-summary: Public character entry for Delmar Atticus Fisk, a human privateer, self-styled admiral, and survivor of the Red Lady disaster.
-type: character
-subtype: character-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: passenger_on
-    target: Saltwright
-  - relation: survived_with
-    target: Crisdalynn Khinriss
-  - relation: married_to
-    target: Serafina Windfall Fisk
-  - relation: commanded
-    target: Fisk's Fleet
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - "[[Delmar-Fisk-Interview]]"
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # Delmar Atticus Fisk

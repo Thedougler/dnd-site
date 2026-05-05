@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /factions/Sentinels-Of-The-Eyrie.md
 aliases:
   - The Sentinels
   - Sentinels
@@ -7,34 +8,12 @@ aliases:
 title: Sentinels of the Eyrie
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.655-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - sentinels
   - aarakocra
-  - drowned-maw
-visibility: public
-audience: players
-summary: Public lore on the Sentinels of the Eyrie, an aarakocra monastic observation order that watches the Drowned Maw and records without interpretation.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: operates_in
-    target: The High Eyrie
-  - relation: operates_in
-    target: The Drowned Maw
-  - relation: allies
-    target: The Waveservants
-  - relation: rivals
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - drowned_maw
 ---
 
 # Sentinels of the Eyrie

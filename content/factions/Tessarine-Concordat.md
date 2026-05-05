@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /factions/Tessarine-Concordat.md
 aliases:
   - Tessarine Concordat
   - The Concordat
@@ -7,34 +8,11 @@ aliases:
 title: The Tessarine Concordat
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.709-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - tessarine
-  - colonial-power
-visibility: public
-audience: players
-summary: Public lore on the Tessarine Concordat, a colonial commercial power that turns credit, contracts, insurance, and trade dependency into political leverage.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: rivals
-    target: The Dravosi Crown
-  - relation: operates_in
-    target: Calveno
-  - relation: operates_in
-    target: The Shelfworks
-  - relation: allies
-    target: The Passage
-updated: 2026-05-03
-revised: 2026-05-02
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - colonial_power
 ---
 
 # The Tessarine Concordat

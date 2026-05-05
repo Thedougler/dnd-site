@@ -1,29 +1,14 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Fort-Crestwall.md
 title: Fort Crestwall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.318-07:00
 tags:
   - fort
   - dravosi
   - tidefall
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the Dravosi fort crowning Port Tidefall.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: controlled_by
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
+  - player_resource
 ---
 
 # Fort Crestwall

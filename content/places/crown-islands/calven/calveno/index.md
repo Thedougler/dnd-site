@@ -1,34 +1,15 @@
 ---
 publish: true
+permalink: /places/crown-islands/calven/calveno/index.md
 title: Calveno
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.983-07:00
 tags:
   - location
   - city
   - tessarine
   - crown-islands
   - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for Calveno, the canal city of witnessed deals, pale stone, and carefully public commerce.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Crown Islands
-  - relation: controlled_by
-    target: The Tessarine Concordat
-  - relation: contains
-    target: The Warren
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Calveno

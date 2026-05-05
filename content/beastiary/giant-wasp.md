@@ -1,53 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-wasp.md
 aliases:
   - Giant Wasp
 title: Giant Wasp
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.742-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Giant Wasp, a CR 1/2 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Doldrums
-  - relation: habitat
-    target: Kalowe
-  - relation: habitat
-    target: Sorn
-  - relation: habitat
-    target: Dreth
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/2
-environment: forest, grassland, urban
-creature_type: beast
-statblock: inline
-page: 361
-cha: 3
-con: 10
-dex: 14
-int: 1
-str: 10
-wis: 10
 ---
 
 # Giant Wasp

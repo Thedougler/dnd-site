@@ -1,45 +1,18 @@
 ---
 publish: true
+permalink: /places/tail/Antheri-Ruins.md
 aliases:
   - The Ruins
   - Antheri
 title: Antheri Ruins
 created: 2026-05-02
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.941-07:00
 tags:
   - ruins
   - antheri
-  - ancient-civilization
+  - ancient_civilization
   - maw
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the submerged pre-collapse ruins built into the western wall of the Drowned Maw — dark-alloy fittings, architecture built for beings that didn't need floors, and a goldrush nobody fully controls.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Drowned Maw
-  - relation: associated_with
-    target: The Tessarine Concordat
-  - relation: associated_with
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Whip Shark
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: threatened_by
-    target: The Glass Debt
-updated: 2026-05-04
-sources:
-  - Homebrew
-  - raw/antheri-ruins-expanded.md
-  - raw/antheri-species-expanded.md
-source_count: 3
-confidence_level: medium
+  - player_resource
 ---
 
 # Antheri Ruins

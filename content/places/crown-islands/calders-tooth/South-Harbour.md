@@ -1,33 +1,14 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/South-Harbour.md
 title: South Harbour
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-03T03:58:19.651-07:00
 tags:
   - location
   - harbour
-  - calders-tooth
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for South Harbour, the eastern working harbour of Calder's Tooth.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calder's Tooth
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Giant Constrictor Snake
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - calders_tooth
+  - player_resource
 ---
 
 # South Harbour

@@ -1,12 +1,12 @@
 ---
 publish: true
+permalink: /places/midchain/index.md
 aliases:
   - Midchain
   - The Midchain
 title: The Midchain
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.702-07:00
 tags:
   - location
   - region
@@ -14,45 +14,6 @@ tags:
   - player-resource
   - places
   - index
-visibility: public
-audience: players
-summary: "Index for the Midchain: free ports, reefs, back channels, the Verdant Teeth, Grung trade beaches, and southern water hazards."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: contains
-    target: Kalowe
-  - relation: contains
-    target: Verdant Teeth
-  - relation: borders
-    target: The Doldrums
-  - relation: adjacent_to
-    target: The Central Strait
-  - relation: threatened_by
-    target: Sawek
-  - relation: threatened_by
-    target: Giant Crocodile
-  - relation: threatened_by
-    target: Giant Constrictor Snake
-  - relation: threatened_by
-    target: Giant Ape
-  - relation: threatened_by
-    target: Pirate
-  - relation: threatened_by
-    target: The Knife's Wake
-  - relation: threatened_by
-    target: The Bad Receipt
-  - relation: rumored_threat
-    target: The Glass Debt
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Midchain

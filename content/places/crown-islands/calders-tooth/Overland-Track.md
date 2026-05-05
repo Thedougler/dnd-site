@@ -1,42 +1,19 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/Overland-Track.md
 aliases:
   - Overland Track
   - The Overland Track
 title: The Overland Track
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T03:56:18.061-07:00
 tags:
   - location
   - road
-  - calders-tooth
+  - calders_tooth
   - passage
   - travel
-  - player-resource
-visibility: public
-audience: players
-summary: The muddy southern switchback road crossing Calder's Tooth between South Harbour and Port Tidefall, slow enough to break wagons and official enough to collect tolls.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calder's Tooth
-  - relation: connects
-    target: South Harbour
-  - relation: connects
-    target: Port Tidefall
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Giant Axe Beak
-updated: 2026-05-03
-sources:
-  - raw/caldurs-tooth.md
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Overland Track

@@ -1,12 +1,12 @@
 ---
 publish: true
+permalink: /places/sunken-crown/index.md
 aliases:
   - Sunken Crown
   - The Sunken Crown
 title: The Sunken Crown
 created: 2026-05-02
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.742-07:00
 tags:
   - location
   - region
@@ -15,33 +15,6 @@ tags:
   - player-resource
   - places
   - index
-visibility: public
-audience: players
-summary: "Index for the Sunken Crown: five small islands around the Blue Hole, Keth-Naar, Vel-Orn, and the tabaxi-held outer settlements."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Outer Reach
-  - relation: threatened_by
-    target: Giant Octopus
-  - relation: rumored_threat
-    target: Sawek
-  - relation: rumored_threat
-    target: Dragon Turtle
-  - relation: rumored_threat
-    target: Dragon Turtle Wyrmling
-  - relation: threatened_by
-    target: Giant Lizard
-  - relation: threatened_by
-    target: Giant Bat
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Sunken Crown

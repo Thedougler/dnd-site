@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/sea-hag.md
 aliases:
   - Sea Hag
 title: Sea Hag
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:57:31.131-07:00
 tags:
   - creature
   - fey
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Sea Hag, a CR 2 fey in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: coastal, underwater
-creature_type: fey
-statblock: inline
-page: 271
-cha: 13
-con: 16
-dex: 13
-int: 12
-str: 16
-wis: 12
 ---
 
 # Sea Hag

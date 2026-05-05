@@ -1,32 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Rael-Corven.md
 aliases:
   - Rael
 title: Rael Corven
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:57.530-07:00
 tags:
   - captain
-  - fisk-fleet
+  - fisk_fleet
   - sorcerer
-visibility: public
-audience: players
-summary: Sorcerer and flag captain of the Red Lady, Fisk's flagship — the only captain who entered Umberlee's shrine alongside Fisk. Drowned at the Drowned Maw. His soul is inside Delmar Fisk, and of the five it is the loudest.
-type: npc
-subtype: npc-summary
-status: deceased
-campaign: shattered-sea
-relationships:
-  - relation: captain_of
-    target: Red Lady
-  - relation: member_of
-    target: Fisk's Fleet
-  - relation: soul_in
-    target: Delmar Fisk
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Rael Corven
@@ -36,7 +19,7 @@ sources:
 |              |                                                          |
 | ------------ | -------------------------------------------------------- |
 | **Role**     | Flag Captain, _[[Red-Lady\|Red Lady]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
-| **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                   |
+| **Status**   | Deceased — soul inside [[delmar-fisk\|Delmar Fisk]]                   |
 
 ---
 

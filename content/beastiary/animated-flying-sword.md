@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/animated-flying-sword.md
 aliases:
   - Animated Flying Sword
 title: Animated Flying Sword
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.733-07:00
 tags:
   - creature
   - construct
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Animated Flying Sword, a CR 1/4 construct in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: found_in
-    target: Calveno
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/4
-environment: urban
-creature_type: construct
-statblock: inline
-page: 17
-cha: 1
-con: 11
-dex: 15
-int: 1
-str: 12
-wis: 5
 ---
 
 # Animated Flying Sword

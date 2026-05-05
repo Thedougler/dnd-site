@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/guardian-naga.md
 aliases:
   - Guardian Naga
 title: Guardian Naga
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:55:17.338-07:00
 tags:
   - creature
   - celestial
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Guardian Naga, a CR 10 celestial in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: rumored_in
-    target: Antheri Ruins
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 10
-environment: desert, forest, planar, upper
-creature_type: celestial
-statblock: inline
-page: 161
-cha: 18
-con: 16
-dex: 18
-int: 16
-str: 19
-wis: 19
 ---
 
 # Guardian Naga

@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-eagle.md
 aliases:
   - Giant Eagle
 title: Giant Eagle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.738-07:00
 tags:
   - creature
   - celestial
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Giant Eagle, a CR 1 celestial in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The High Eyrie
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1
-environment: coastal, grassland, hill, mountain
-creature_type: celestial
-statblock: inline
-page: 356
-cha: 10
-con: 13
-dex: 17
-int: 8
-str: 16
-wis: 14
 ---
 
 # Giant Eagle

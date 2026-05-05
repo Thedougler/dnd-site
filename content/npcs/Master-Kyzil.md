@@ -1,34 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Master-Kyzil.md
 aliases:
   - Kyzil
 title: Master Kyzil
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T23:46:49.510-07:00
 tags:
   - aarakocra
   - sentinel
   - monk
-visibility: public
-audience: players
-summary: Senior master of the Sentinels of the Eyrie — barn owl aarakocra, quiet authority, and the man who assigned Crisdalynn her pilgrimage.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: member_of
-    target: Sentinels of the Eyrie
-  - relation: based_in
-    target: The High Eyrie
-  - relation: located_in
-    target: Port Tidefall
-  - relation: mentor_of
-    target: Crisdalynn Khinriss
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Master Kyzil
@@ -37,12 +18,12 @@ sources:
 
 ---
 
-|                |                                                         |
-| -------------- | ------------------------------------------------------- |
-| **Species**    | Aarakocra (barn owl)                                    |
-| **Role**       | Senior Master, [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] |
-| **Home**       | [[High-Eyrie]]                                      |
-| **Currently**  | [[Port-Tidefall\|Port Tidefall]]                                       |
+|               |                                           |
+| ------------- | ----------------------------------------- |
+| **Species**   | Aarakocra (barn owl)                      |
+| **Role**      | Senior Master, [[Sentinels-Of-The-Eyrie]] |
+| **Home**      | [[High-Eyrie]]                            |
+| **Currently** | [[Port-Tidefall]]                         |
 
 ---
 

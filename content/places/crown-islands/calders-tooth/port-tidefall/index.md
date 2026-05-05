@@ -1,11 +1,11 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/index.md
 aliases:
   - Port Tidefall
 title: Port Tidefall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.932-07:00
 tags:
   - location
   - port
@@ -15,41 +15,6 @@ tags:
   - places
   - port-tidefall
   - index
-visibility: public
-audience: players
-summary: "Index for the Port Tidefall area of Calder's Tooth: the Dravosi fortress-port, its three tiers, and the public locations inside it."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calder's Tooth
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: contains
-    target: The Inspection Pier
-  - relation: contains
-    target: Harbourmaster's Office
-  - relation: contains
-    target: Fare I'a
-  - relation: contains
-    target: Tidefall Chandlery
-  - relation: contains
-    target: The Shelf Instrument Dealer
-  - relation: contains
-    target: The Hook & Ledger
-  - relation: contains
-    target: Tessarine Trade House — Port Tidefall
-  - relation: contains
-    target: Governor's Seat — Port Tidefall
-  - relation: contains
-    target: Fort Crestwall
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Port Tidefall

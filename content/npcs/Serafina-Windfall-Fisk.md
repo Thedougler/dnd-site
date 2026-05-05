@@ -1,32 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Serafina-Windfall-Fisk.md
 aliases:
   - Serafina
   - Windfall
 title: Serafina Windfall Fisk
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.959-07:00
 tags:
   - aasimar
-  - fortune-teller
-visibility: public
-audience: players
-summary: Aasimar fortune-teller and compelled wanderer, Delmar Fisk's wife — drawn to specific places at specific times by a precognitive pull she has stopped trying to fight, currently somewhere in the Scatter.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: family_of
-    target: Delmar Atticus Fisk
-  - relation: associated_with
-    target: The Duchess
-  - relation: operates_in
-    target: The Shattered Sea
-updated: 2026-05-03
-sources:
-  - Homebrew
+  - fortune_teller
 ---
 
 # Serafina Windfall Fisk

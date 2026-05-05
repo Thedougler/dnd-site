@@ -1,26 +1,13 @@
 ---
 publish: true
+permalink: /reference/index.md
 title: Reference
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.777-07:00
 tags:
   - player-resource
   - index
   - reference
-visibility: public
-audience: players
-summary: D&D 5e rules and character building reference for the Shattered Sea campaign.
-type: index
-subtype: reference-index
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - PHB 2024
-  - DMG 2024
-source_count: 2
-confidence_level: high
 ---
 
 # Reference

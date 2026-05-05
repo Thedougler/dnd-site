@@ -1,23 +1,13 @@
 ---
 publish: true
+permalink: /campaign-timeline.md
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02
-published: 2026-05-04T17:56:00.916-07:00
 tags:
-  - player-resource
+  - player_resource
   - planning
   - timeline
-visibility: public
-audience: players
-summary: Chronological record of the Shattered Sea campaign — world history and events the party has lived through.
-type: concept
-subtype: prep
-campaign: shattered-sea
-sources:
-  - Homebrew
-status: active
-updated: 2026-05-02
 ---
 
 # Campaign Timeline

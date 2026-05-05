@@ -1,31 +1,19 @@
 ---
 publish: true
+permalink: /ships/Heft.md
 aliases:
   - Heft
   - The Heft
 title: The Heft
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:00.948-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - destroyed
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: Heavy brig and third ship of Fisk's Fleet — captained by Detto Kalash, lost at the Drowned Maw.
-status: destroyed
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-ship_class: Heavy brig
-captain: "[[Detto-Kalash|Detto Kalash]]"
 ---
 
 # The _Heft_

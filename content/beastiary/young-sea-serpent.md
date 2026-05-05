@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/young-sea-serpent.md
 aliases:
   - Young Sea Serpent
 title: Young Sea Serpent
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:55:39.904-07:00
 tags:
   - creature
   - dragon
   - ftd
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Young Sea Serpent, a CR 8 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Outer Reach
-updated: 2026-05-03
-sources:
-  - FTD
-source_count: 1
-confidence_level: high
-cr: 8
-environment:
-creature_type: dragon
-statblock: inline
-page: 219
-cha: 10
-con: 17
-dex: 12
-int: 11
-str: 19
-wis: 13
 ---
 
 # Young Sea Serpent

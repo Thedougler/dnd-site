@@ -1,6 +1,7 @@
 ---
 publish: true
 permalink: /party/Jean-Claude-Tabarnack-Sheet.md
+title: Jean Claude Tabarnack Sheet
 created: 2026-05-04
 modified: 2026-05-04
 tags:

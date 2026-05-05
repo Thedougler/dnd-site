@@ -1,52 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/dragon-turtle-wyrmling.md
 aliases:
   - Dragon Turtle Wyrmling
 title: Dragon Turtle Wyrmling
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.152-07:00
 tags:
   - creature
   - dragon
   - ftd
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Dragon Turtle Wyrmling, a CR 4 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Outer Reach
-  - relation: sighted_at
-    target: The Sunken Crown
-  - relation: sighted_at
-    target: Meth-Var
-updated: 2026-05-03
-sources:
-  - FTD
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 4
-environment:
-creature_type: dragon
-statblock: inline
-page: 192
-cha: 10
-con: 15
-dex: 10
-int: 8
-str: 17
-wis: 10
 ---
 
 # Dragon Turtle Wyrmling

@@ -1,39 +1,22 @@
 ---
 publish: true
+permalink: /ships/The-Bad-Receipt.md
 aliases:
   - Bad Receipt
   - The Bad Receipt
 title: The Bad Receipt
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.038-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - pirate
-  - tier-2
+  - tier_2
   - midchain
   - kalowe
   - raiding
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: A Tier 2 armed pirate schooner out of Kalowe, built to pass as a disputed courier, forge just enough paperwork to survive inspection, then vanish into Midchain reef channels after taking high-value prizes.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - content/shattered-sea/public/rules/Ship-Stats.md
-  - content/shattered-sea/public/rules/Ship-Bastion.md
-  - raw/ingested/gm-notes/2026-04-13-ship-mechanics-4.md
-campaign: shattered-sea
-tier: 2
-variant: armed
-ship_class: Armed schooner
-home_port: "[[Kalowe|Kalowe]]"
 ---
 
 # The _Bad Receipt_

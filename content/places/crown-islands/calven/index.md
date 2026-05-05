@@ -1,47 +1,18 @@
 ---
 publish: true
+permalink: /places/crown-islands/calven/index.md
 aliases:
   - Calven Island
   - Isle of Calven
 title: Calven
 created: 2026-05-04
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.986-07:00
 tags:
   - location
   - island
   - crown-islands
   - tessarine
   - player-resource
-visibility: public
-audience: players
-summary: The oldest settled island in the Crown Islands — low-lying marshland and tidal flats beneath a Tessarine-dominated commercial city, with a Rattkin population beneath it older than either colonial power.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Crown Islands
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: dominated_by
-    target: The Tessarine Concordat
-  - relation: contains
-    target: Calveno
-  - relation: contains
-    target: The Warren
-  - relation: threatened_by
-    target: Giant Crab
-  - relation: threatened_by
-    target: Hunter Shark
-  - relation: threatened_by
-    target: Giant Wolf Spider
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Calven

@@ -1,60 +1,29 @@
 ---
 publish: true
+permalink: /reference/rules/index.md
 title: Rules
-created: 2026-05-03
+created: 2026-05-05T01:35:22.348-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.840-07:00
 tags:
   - player-resource
   - index
-  - rule
-  - reference
-visibility: public
-audience: players
-summary: Core rules and campaign-specific mechanics reference for the Shattered Sea campaign.
-type: index
-subtype: rules-index
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - PHB 2024
-  - DMG 2024
-source_count: 2
-confidence_level: high
+  - rules
 ---
 
-# Rules
+# Public Rules
 
-## Core Mechanics
+Rules references for ship play, character options, and campaign systems.
 
-- [[SRD-Actions|Actions]]
-- [[Area-of-Effect|Area of Effect]]
-- [[SRD-Damage-Types|Damage Types]]
-- [[SRD-Senses|Senses]]
-- [[SRD-Skills|Skills]]
+---
 
-## Character Building
+**[[Ship-Stats|Ship Stats]]** — Ship tiers, vehicle stats, crew requirements, upkeep, cargo, weapons, and nautical operations. Start here if the question involves the ship doing something.
 
-- [[Backgrounds|Backgrounds]]
-- [[reference/rules/Feats|Feats]]
-- [[Species|Species]]
+**[[Ship-Bastion|Ship Bastion]]** — The party ship as a shared mobile bastion: facilities, downtime turns, bastion events, and upgrades.
 
-## Combat and Hazards
+**[[Bastions|Bastions]]** — The baseline 2024 Bastion rules the ship adaptation is built on. Reference this when Ship Bastion leaves something unanswered.
 
-- [[Battlefield-Actions|Battlefield Actions]]
-- [[Mounts-And-Vehicles|Mounts and Vehicles]]
-- [[SRD-Diseases|Diseases]]
-- [[SRD-Madness|Madness]]
+**[[Mortis|Mortis]]** — Session Zero option. Pairs a permanent drawback with a targeted benefit. Not for everyone, but it's there.
 
-## Campaign-Specific
+---
 
-- [[Circle-Magic|Circle Magic]]
-- [[Ship-Upgrades|Ship Upgrades]]
-- [[Sports-Match-Rules|Sports Match Rules]]
-
-## GM Reference
-
-- [[Optimization-Meta-2024|Optimization Meta (2024)]]
-- [[Rival-Team-Design|Rival Team Design]]
-- [[Villain-Design-Framework|Villain Design Framework]]
+For the broader campaign setup, see [[player-primer|The Shattered Sea Player Primer]] · [[index|The Shattered Sea]].

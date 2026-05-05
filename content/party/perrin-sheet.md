@@ -1,6 +1,7 @@
 ---
 publish: true
 permalink: /party/perrin-sheet.md
+title: perrin sheet
 created: 2026-05-04
 modified: 2026-05-04
 tags:

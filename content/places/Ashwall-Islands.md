@@ -1,46 +1,17 @@
 ---
 publish: true
+permalink: /places/Ashwall-Islands.md
 aliases:
   - The Ashwalls
   - Ashwalls
 title: Ashwall Islands
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.565-07:00
 tags:
   - location
   - islands
   - galewall
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the cold volcanic spire-chain near the Galewall.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: near
-    target: The Galewall
-  - relation: birthplace_of
-    target: Arclight Phoenix
-  - relation: rumored_threat
-    target: Arclight Phoenix
-  - relation: threatened_by
-    target: Giant Scorpion
-  - relation: threatened_by
-    target: Giant Bat
-  - relation: threatened_by
-    target: Giant Vulture
-  - relation: rumored_threat
-    target: Harpy
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Ashwall Islands

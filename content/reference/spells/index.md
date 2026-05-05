@@ -1,25 +1,13 @@
 ---
 publish: true
+permalink: /reference/spells/index.md
 title: Spells
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.865-07:00
 tags:
   - player-resource
   - index
   - spell
-visibility: public
-audience: players
-summary: Full spell reference for the Shattered Sea campaign — 553 spells organized by level and school.
-type: index
-subtype: spells-index
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - PHB 2024
-source_count: 1
-confidence_level: high
 ---
 
 # Spells

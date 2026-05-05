@@ -1,51 +1,19 @@
 ---
 publish: true
+permalink: /places/tail/Shelfworks.md
 aliases:
   - Shelfworks
   - The Shelfworks
 title: The Shelfworks
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.947-07:00
 tags:
   - location
   - ruins
   - salvage
   - maw
   - antheri
-  - player-resource
-visibility: public
-audience: players
-summary: Open-water Antheri salvage field on the western shelf of the Drowned Maw, where clear shallow ruins promise impossible materials before the seabed drops into black water.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Drowned Maw
-  - relation: part_of
-    target: Antheri Ruins
-  - relation: near
-    target: The Tail
-  - relation: contested_by
-    target: The Tessarine Concordat
-  - relation: contested_by
-    target: The Dravosi Crown
-  - relation: watched_by
-    target: Ancient Bronze Dragon
-  - relation: threatened_by
-    target: Giant Squid
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: threatened_by
-    target: The Glass Debt
-updated: 2026-05-04
-sources:
-  - Homebrew
-  - raw/antheri-species-expanded.md
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # The Shelfworks

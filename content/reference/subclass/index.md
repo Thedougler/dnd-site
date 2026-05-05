@@ -1,25 +1,13 @@
 ---
 publish: true
+permalink: /reference/subclass/index.md
 title: Subclasses
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.873-07:00
 tags:
   - player-resource
   - index
   - subclass
-visibility: public
-audience: players
-summary: D&D 5e subclasses available in the Shattered Sea campaign, organized by parent class.
-type: index
-subtype: subclass-index
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - PHB 2024
-source_count: 1
-confidence_level: high
 ---
 
 # Subclasses

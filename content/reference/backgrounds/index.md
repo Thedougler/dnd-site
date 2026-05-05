@@ -1,25 +1,13 @@
 ---
 publish: true
+permalink: /reference/backgrounds/index.md
 title: Backgrounds
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.787-07:00
 tags:
   - player-resource
   - index
   - background
-visibility: public
-audience: players
-summary: Player character backgrounds available in the Shattered Sea campaign.
-type: index
-subtype: backgrounds-index
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - PHB 2024
-source_count: 1
-confidence_level: high
 ---
 
 # Backgrounds

@@ -1,32 +1,17 @@
 ---
 publish: true
+permalink: /places/midchain/Halythion.md
 aliases:
   - The Sunken City
 title: Halythion
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.090-07:00
 tags:
   - location
   - rumour
   - underwater
   - midchain
-  - player-resource
-visibility: public
-audience: players
-summary: A rumour, mostly. Sailors south of the Midchain speak of an underwater city in the eastern reefs. Ships that go looking don't come back.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: near
-    target: The Midchain
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: low
+  - player_resource
 ---
 
 # Halythion

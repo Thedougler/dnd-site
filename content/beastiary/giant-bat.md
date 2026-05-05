@@ -1,53 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-bat.md
 aliases:
   - Giant Bat
 title: Giant Bat
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.735-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Giant Bat, a CR 1/4 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: Ashwall Islands
-  - relation: habitat
-    target: The Tail
-  - relation: habitat
-    target: The Sunken Crown
-  - relation: habitat
-    target: Calder's Tooth
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/4
-environment: forest, mountain, underdark
-creature_type: beast
-statblock: inline
-page: 355
-cha: 6
-con: 11
-dex: 16
-int: 2
-str: 15
-wis: 12
 ---
 
 # Giant Bat

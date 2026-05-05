@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/sahuagin-baron.md
 aliases:
   - Sahuagin Baron
 title: Sahuagin Baron
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:58:29.080-07:00
 tags:
   - creature
   - fiend
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Sahuagin Baron, a CR 5 fiend in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 5
-environment: coastal, underwater
-creature_type: fiend
-statblock: inline
-page: 265
-cha: 17
-con: 16
-dex: 15
-int: 14
-str: 19
-wis: 13
 ---
 
 # Sahuagin Baron

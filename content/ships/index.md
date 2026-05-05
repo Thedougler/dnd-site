@@ -1,19 +1,13 @@
 ---
 publish: true
+permalink: /ships/index.md
 title: Ships
 created: 2026-05-02T22:11:02.751-07:00
 modified: 2026-05-02
-published: 2026-05-04T17:56:00.919-07:00
 tags:
   - player-resource
   - index
   - ships
-visibility: public
-audience: players
-summary: Public index for Shattered Sea ships — vessels the party sails, has sailed, or should recognize on sight.
-type: index
-campaign: shattered-sea
-updated: 2026-05-02
 ---
 
 # Ships

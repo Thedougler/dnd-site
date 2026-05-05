@@ -1,38 +1,19 @@
 ---
 publish: true
+permalink: /places/crown-islands/calven/Warren.md
 aliases:
   - Warren
   - The Warren
 title: The Warren
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.982-07:00
 tags:
   - location
   - calveno
   - rattkin
   - passage
   - underground
-  - player-resource
-visibility: public
-audience: players
-summary: "The fixed Rattkin settlement beneath Calveno's Saltmarsh district: low old drainage channels, hidden holds, oil lamps, rope bridges, and the deepest anchor of the Passage."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calveno
-  - relation: controlled_by
-    target: The Passage
-  - relation: home_of
-    target: Rattkin
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Warren

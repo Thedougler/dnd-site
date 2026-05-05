@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/unicorn.md
 aliases:
   - Unicorn
 title: Unicorn
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:55:11.553-07:00
 tags:
   - creature
   - celestial
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Unicorn, a CR 5 celestial in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: rumored_in
-    target: Halythion
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 5
-environment: forest, planar, feywild
-creature_type: celestial
-statblock: inline
-page: 313
-cha: 16
-con: 15
-dex: 14
-int: 11
-str: 18
-wis: 17
 ---
 
 # Unicorn

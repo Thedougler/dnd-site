@@ -1,48 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/ancient-black-dragon.md
 aliases:
   - Ancient Black Dragon
 title: Ancient Black Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.908-07:00
 tags:
   - creature
   - dragon
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Ancient Black Dragon, a CR 21 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: lairs_in
-    target: Aruhe
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 21
-environment: swamp
-creature_type: dragon
-statblock: inline
-page: 40
-cha: 22
-con: 25
-dex: 14
-int: 16
-str: 27
-wis: 15
 ---
 
 # Ancient Black Dragon

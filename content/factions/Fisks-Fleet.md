@@ -1,36 +1,19 @@
 ---
 publish: true
+permalink: /factions/Fisks-Fleet.md
 aliases:
   - Fisk's Fleet
   - The Fleet
 title: Fisk's Fleet
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.911-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - fleet
   - fisk
   - destroyed
-  - drowned-maw
-visibility: public
-audience: players
-summary: Public lore on Fisk's Fleet — a five-ship privateer fleet under Rear Admiral Delmar Fisk, destroyed in the Drowned Maw with only two known survivors.
-type: faction
-subtype: faction-summary
-status: destroyed
-campaign: shattered-sea
-relationships:
-  - relation: led_by
-    target: Delmar Fisk
-  - relation: destroyed_at
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - drowned_maw
 ---
 
 # Fisk's Fleet

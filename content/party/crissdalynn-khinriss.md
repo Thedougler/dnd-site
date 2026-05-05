@@ -1,39 +1,17 @@
 ---
 publish: true
+permalink: /party/crissdalynn-khinriss.md
 aliases:
   - Crisdalynn Khinriss
   - Crissdalynn
 title: Crisdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.953-07:00
 tags:
-  - player-character
+  - player_character
   - pc
   - aarakocra
-  - player-resource
-visibility: public
-audience: players
-summary: Public character entry for Crisdalynn Khinriss, a crow aarakocra monk, cartographer, and survivor of the Red Lady disaster.
-type: character
-subtype: character-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: passenger_on
-    target: Saltwright
-  - relation: survived_with
-    target: Delmar Fisk
-  - relation: student_of
-    target: Master Kyzil
-  - relation: pilgrimage_from
-    target: High Eyrie
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - "[[Crisdalynn-Khinriss-Interview]]"
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # Crisdalynn Khinriss

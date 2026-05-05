@@ -1,11 +1,11 @@
 ---
 publish: true
+permalink: /places/crown-islands/harwick/index.md
 aliases:
   - Harwick Island
 title: Harwick
 created: 2026-05-04
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.981-07:00
 tags:
   - location
   - island
@@ -14,35 +14,6 @@ tags:
   - military
   - naval
   - player-resource
-visibility: public
-audience: players
-summary: The Crown's primary naval base in the Shattered Sea — home of the Harwick Naval Yard, the regional fleet anchorage, and the Admiralty that administers Crown military operations across the Scatter.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Crown Islands
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: produces
-    target: HCS Constancy
-  - relation: produces
-    target: HCS Ordinance
-  - relation: threatened_by
-    target: Giant Boar
-  - relation: threatened_by
-    target: Giant Axe Beak
-  - relation: threatened_by
-    target: Giant Wolf Spider
-  - relation: threatened_by
-    target: Hunter Shark
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Harwick

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Hook-and-Ledger.md
 aliases:
   - Hook & Ledger
   - The Hook and Ledger
@@ -7,33 +8,13 @@ aliases:
 title: The Hook & Ledger
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.334-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - tavern
   - shelf
-  - player-resource
-visibility: public
-audience: players
-summary: A narrow Shelf tavern in Port Tidefall where clerks, quartermasters, pursers, and captains drink close enough to the harbour paperwork to hear tomorrow's trouble early.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: near
-    target: Harbourmaster's Office
-  - relation: near
-    target: South Harbour Impound
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Hook & Ledger

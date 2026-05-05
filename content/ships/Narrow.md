@@ -1,31 +1,19 @@
 ---
 publish: true
+permalink: /ships/Narrow.md
 aliases:
   - Narrow
   - The Narrow
 title: The Narrow
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:01.004-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - destroyed
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: Scout sloop and second ship of Fisk's Fleet — captained by Maren, lost at the Drowned Maw.
-status: destroyed
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-ship_class: Scout sloop
-captain: "[[Maren|Maren]]"
 ---
 
 # The _Narrow_

@@ -1,19 +1,12 @@
 ---
 publish: true
+permalink: /campaign-overview.md
 title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.578-07:00
 tags:
-  - player-resource
-  - campaign-overview
-visibility: public
-audience: players
-summary: Dense reference overview of the Shattered Sea campaign — geography, powers, religion, starting situation, and the edges of the map.
-type: reference
-subtype: campaign-overview
-campaign: shattered-sea
-updated: 2026-05-03
+  - player_resource
+  - campaign_overview
 ---
 
 # Shattered Sea Campaign Overview

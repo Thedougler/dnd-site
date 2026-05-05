@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/owlbear.md
 aliases:
   - Owlbear
 title: Owlbear
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:59:03.963-07:00
 tags:
   - creature
   - monstrosity
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Owlbear, a CR 3 monstrosity in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Crown Islands
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 3
-environment: forest
-creature_type: monstrosity
-statblock: inline
-page: 234
-cha: 7
-con: 17
-dex: 12
-int: 3
-str: 20
-wis: 12
 ---
 
 # Owlbear

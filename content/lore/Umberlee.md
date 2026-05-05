@@ -1,29 +1,16 @@
 ---
 publish: true
+permalink: /lore/Umberlee.md
 aliases:
   - The Bitch Queen
 title: Umberlee and the Waveservants
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-02T18:00:31.085-07:00
 tags:
   - deity
   - umberlee
   - waveservants
-  - player-resource
-visibility: public
-audience: players
-summary: Public lore on Umberlee as the feared sea goddess of sailors and on the Waveservants, her practical clergy who collect tribute, maintain harbour shrines, and serve every side that pays.
-type: lore
-subtype: deity
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - raw/ingested/Umberlee.md
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # Umberlee and the Waveservants

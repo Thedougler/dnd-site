@@ -1,49 +1,16 @@
 ---
 publish: true
+permalink: /places/Galewall.md
 aliases:
   - Galewall
 title: The Galewall
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:00.816-07:00
 tags:
   - location
   - storm
   - navigation
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the permanent western storm belt that separates the Scatter from the colonial homelands.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: near
-    target: Ashwall Islands
-  - relation: rumored_threat
-    target: Arclight Phoenix
-  - relation: associated_with
-    target: Adult Bronze Dragon
-  - relation: threatened_by
-    target: Giant Shark
-  - relation: threatened_by
-    target: Killer Whale
-  - relation: rumored_threat
-    target: Roc
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: rumored_threat
-    target: Pirate Admiral
-  - relation: rumored_threat
-    target: The Velvet Noose
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Galewall

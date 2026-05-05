@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /places/sunken-crown/Vel-Orn.md
 aliases:
   - Vel-Orn
   - Shrine Island
@@ -7,36 +8,12 @@ aliases:
 title: Vel-Orn — Sunken Crown
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.685-07:00
 tags:
   - location
   - island
-  - sunken-crown
+  - sunken_crown
   - umberlee
-  - player-resource
-visibility: public
-audience: players
-summary: "The barren black-stone shrine island of the Sunken Crown, known locally as Vel-Orn: a water-debt place kept apart from ordinary travel."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Sunken Crown
-  - relation: contains
-    target: Umberlee's Shrine — Sunken Crown
-  - relation: near
-    target: Keth-Naar
-  - relation: threatened_by
-    target: Giant Bat
-  - relation: threatened_by
-    target: Swarm of Ravens
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Vel-Orn — Sunken Crown

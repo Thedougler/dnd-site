@@ -1,34 +1,20 @@
 ---
 publish: true
+permalink: /ships/The-Quorum.md
 aliases:
   - Quorum
   - The Quorum
 title: The Quorum
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.030-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - midchain
   - council
   - kalowe
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: The Chain Council's own dispatch sloop — a Tier 1 speed-built cutter kept at Kalowe and used to move representatives, sealed orders, and commission documents between Midchain islands.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-campaign: shattered-sea
-tier: 1
-variant: speed-built
-ship_class: Cutter
-captain: "[[Chain-Council]]"
 ---
 
 # The _Quorum_

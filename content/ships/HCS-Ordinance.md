@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /ships/HCS-Ordinance.md
 aliases:
   - Ordinance
   - HCS Ordinance
@@ -7,29 +8,14 @@ aliases:
 title: HCS Ordinance
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.031-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - dravosi
-  - crown-islands
+  - crown_islands
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: The Dravosi Crown's flagship and the most powerful warship in the Shattered Sea — a three-deck Ship of the Line that serves as mobile Admiralty court, command post, and statement of colonial authority.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-campaign: shattered-sea
-tier: 4
-variant: armed
-ship_class: Ship of the Line
-captain: "[[Dravosi-Crown]]"
 ---
 
 # HCS _Ordinance_

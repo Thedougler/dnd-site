@@ -1,56 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-constrictor-snake.md
 aliases:
   - Giant Constrictor Snake
 title: Giant Constrictor Snake
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.233-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Giant Constrictor Snake, a CR 2 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Midchain
-  - relation: habitat
-    target: The Verdant Teeth
-  - relation: habitat
-    target: Dreth
-  - relation: habitat
-    target: Orak
-  - relation: habitat
-    target: Osha's Slip
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 2
-environment: desert, forest, swamp, underwater
-creature_type: beast
-statblock: inline
-page: 355
-cha: 3
-con: 12
-dex: 14
-int: 1
-str: 19
-wis: 10
 ---
 
 # Giant Constrictor Snake

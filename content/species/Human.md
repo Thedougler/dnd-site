@@ -1,22 +1,12 @@
 ---
 publish: true
+permalink: /species/Human.md
+title: Human
 created: 2026-04-21
 modified: 2026-04-21
-published: 2026-05-04T17:56:00.598-07:00
 tags:
   - species
-  - phb-2024
-type: entity
-subtype: species
-status: active
-updated: 2026-04-21
-sources:
-  - Player's Handbook (2024)
-source_count: 1
-confidence_level: medium
-reveal_status: revealed
-appearance: Humans vary as widely as the peoples of Earth; no single build, coloring, or height defines them.
-campaign: shattered-sea
+  - phb_2024
 ---
 
 # Human

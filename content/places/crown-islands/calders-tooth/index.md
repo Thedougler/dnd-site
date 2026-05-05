@@ -1,12 +1,12 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/index.md
 aliases:
   - Calder's Tooth
   - Calders Tooth
 title: Calder's Tooth
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.932-07:00
 tags:
   - location
   - island
@@ -16,31 +16,6 @@ tags:
   - places
   - calders-tooth
   - index
-visibility: public
-audience: players
-summary: "Index for Calder's Tooth: the Dravosi gatekeeper island, Port Tidefall, South Harbour, overland crossings, and smaller public locations."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Crown Islands
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Giant Boar
-  - relation: threatened_by
-    target: Giant Axe Beak
-  - relation: threatened_by
-    target: Giant Bat
-  - relation: threatened_by
-    target: Giant Wolf Spider
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Calder's Tooth

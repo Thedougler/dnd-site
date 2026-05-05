@@ -1,61 +1,18 @@
 ---
 publish: true
+permalink: /places/tail/index.md
 aliases:
   - Tail
   - The Tail
 title: The Tail
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.939-07:00
 tags:
   - location
   - region
   - maw
   - tail
   - player-resource
-visibility: public
-audience: players
-summary: "The eastern convergence of the Scatter near the Drowned Maw: high cliffs, cold upwelling, hard pilots, longline grounds, morning fog, and Shelfworks salvage staging."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: near
-    target: The Drowned Maw
-  - relation: connects
-    target: The Crown Islands
-  - relation: connects
-    target: The Midchain
-  - relation: stages
-    target: The Shelfworks
-  - relation: threatened_by
-    target: Giant Shark
-  - relation: rumored_threat
-    target: Ancient Sea Serpent
-  - relation: threatened_by
-    target: Giant Vulture
-  - relation: threatened_by
-    target: Giant Axe Beak
-  - relation: threatened_by
-    target: Giant Bat
-  - relation: rumored_threat
-    target: Harpy
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: rumored_threat
-    target: Pirate Admiral
-  - relation: threatened_by
-    target: The Glass Debt
-  - relation: rumored_threat
-    target: The Velvet Noose
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Tail

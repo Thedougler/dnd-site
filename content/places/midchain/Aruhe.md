@@ -1,43 +1,16 @@
 ---
 publish: true
+permalink: /places/midchain/Aruhe.md
 aliases:
   - Aruhe Island
 title: Aruhe
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.250-07:00
 tags:
   - location
   - island
   - midchain
-  - player-resource
-visibility: public
-audience: players
-summary: A small deserted Midchain island east of Karath, abandoned years ago due to Grung activity. Not a port. Not a stop. Not notable enough to have made it into most pilot books.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Midchain
-  - relation: adjacent_to
-    target: Verdant Teeth
-  - relation: laired_in_by
-    target: Ancient Black Dragon
-  - relation: threatened_by
-    target: Giant Frog
-  - relation: threatened_by
-    target: Giant Scorpion
-  - relation: threatened_by
-    target: Giant Venomous Snake
-  - relation: threatened_by
-    target: Giant Spider
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Aruhe

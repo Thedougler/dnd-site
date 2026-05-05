@@ -1,50 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/ancient-sea-serpent.md
 aliases:
   - Ancient Sea Serpent
 title: Ancient Sea Serpent
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.140-07:00
 tags:
   - creature
   - dragon
   - ftd
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Ancient Sea Serpent, a CR 14 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Outer Reach
-  - relation: rumored_near
-    target: The Tail
-updated: 2026-05-03
-sources:
-  - FTD
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 14
-environment:
-creature_type: dragon
-statblock: inline
-page: 219
-cha: 12
-con: 20
-dex: 15
-int: 13
-str: 24
-wis: 16
 ---
 
 # Ancient Sea Serpent

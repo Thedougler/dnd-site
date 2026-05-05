@@ -1,46 +1,17 @@
 ---
 publish: true
+permalink: /places/midchain/Verdant-Teeth.md
 aliases:
   - Verdant Teeth
 title: The Verdant Teeth
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.561-07:00
 tags:
   - location
   - islands
   - grung
   - midchain
-  - player-resource
-visibility: public
-audience: players
-summary: "Player-facing gazetteer entry for the Grung-held island cluster south of Kalowe: five reef-fringed islands, dense rainforest interiors, strict trade protocols, and a reputation for lethal boundaries."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Midchain
-  - relation: controlled_by
-    target: The Grung Clans
-  - relation: near
-    target: Kalowe
-  - relation: threatened_by
-    target: Giant Frog
-  - relation: threatened_by
-    target: Giant Spider
-  - relation: threatened_by
-    target: Giant Venomous Snake
-  - relation: threatened_by
-    target: Giant Constrictor Snake
-  - relation: threatened_by
-    target: Giant Ape
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Verdant Teeth

@@ -1,36 +1,19 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Governors-Seat.md
 aliases:
   - Governor's Seat
   - Tidefall Governor's Seat
 title: Governor's Seat — Port Tidefall
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.323-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - dravosi
   - government
-  - player-resource
-visibility: public
-audience: players
-summary: The Dravosi Crown's administrative building on the Shelf — colonial stonework, iron shutters, the largest flag in the city, and a placard that says formal petitions are on Tuesday.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: controlled_by
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Governor's Seat — Port Tidefall

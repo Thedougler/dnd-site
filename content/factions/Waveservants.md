@@ -1,39 +1,18 @@
 ---
 publish: true
+permalink: /factions/Waveservants.md
 aliases:
   - Waveservants
   - Umberlee clergy
 title: The Waveservants
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.742-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - waveservants
   - umberlee
   - religion
-visibility: public
-audience: players
-summary: Public lore on the Waveservants, Umberlee's practical clergy in the Shattered Sea, who collect tribute, maintain harbour shrines, and bless sailors without warmth.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: operates_in
-    target: The Shattered Sea
-  - relation: operates_in
-    target: The Drowned Maw
-  - relation: allies
-    target: Umberlee and the Waveservants
-  - relation: allies
-    target: Sentinels of the Eyrie
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Waveservants

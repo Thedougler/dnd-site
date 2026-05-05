@@ -1,42 +1,17 @@
 ---
 publish: true
+permalink: /places/midchain/Sorn.md
 aliases:
   - Sorn Island
 title: Sorn
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.492-07:00
 tags:
   - location
   - island
   - grung
-  - verdant-teeth
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for Sorn, a reef-fringed Grung island known from the water as green wall, pale sand, and danger.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Verdant Teeth
-  - relation: controlled_by
-    target: The Grung Clans
-  - relation: threatened_by
-    target: Giant Wasp
-  - relation: threatened_by
-    target: Giant Centipede
-  - relation: threatened_by
-    target: Giant Frog
-  - relation: threatened_by
-    target: Giant Ape
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - verdant_teeth
+  - player_resource
 ---
 
 # Sorn

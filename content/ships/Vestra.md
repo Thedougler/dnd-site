@@ -1,31 +1,18 @@
 ---
 publish: true
+permalink: /ships/Vestra.md
 aliases:
   - Vestra
 title: The Vestra
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:00.928-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - destroyed
   - rattkin
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: Perrin Black-Jaw's ship — a small two-masted brig, Black-Jaw family heirloom, destroyed before the campaign begins.
-status: destroyed
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-ship_class: Two-masted brig
-captain: "[[perren-black-jaw|Perrin Black-Jaw]]"
-banner: raw/assets/banners/The-Vestra.webp
 ---
 
 # The Vestra

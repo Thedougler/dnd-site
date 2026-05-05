@@ -1,49 +1,16 @@
 ---
 publish: true
+permalink: /places/crown-islands/index.md
 aliases:
   - Crown Islands
 title: The Crown Islands
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.937-07:00
 tags:
   - location
   - crown-islands
   - dravosi
   - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the northern arc of large, fortified islands where Dravosi authority is strongest.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Adult Blue Dragon
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: threatened_by
-    target: Hunter Shark
-  - relation: threatened_by
-    target: Giant Boar
-  - relation: threatened_by
-    target: Giant Axe Beak
-  - relation: threatened_by
-    target: Giant Wolf Spider
-  - relation: threatened_by
-    target: The Knife's Wake
-  - relation: rumored_threat
-    target: The Glass Debt
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Crown Islands

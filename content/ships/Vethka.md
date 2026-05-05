@@ -1,34 +1,20 @@
 ---
 publish: true
+permalink: /ships/Vethka.md
 aliases:
   - Vethka
   - The Vethka
 title: Vethka
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.035-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - grung
-  - verdant-teeth
+  - verdant_teeth
   - raiding
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: A Grung Tier 1 war proa — a double-outrigger raiding vessel built from Verdant Teeth hardwood by orange-caste artisans, operated by blue-caste scouts and purple-caste warriors, designed to beach, disgorge a raid party, and withdraw before a response can form.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-campaign: shattered-sea
-tier: 1
-variant: speed-built
-ship_class: War Proa
-captain: "[[Grung-Clans]]"
 ---
 
 # _Vethka_

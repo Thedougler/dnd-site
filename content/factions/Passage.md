@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /factions/Passage.md
 aliases:
   - Passage
   - The Run
@@ -7,36 +8,12 @@ aliases:
 title: The Passage
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.630-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - passage
   - rattkin
   - smuggling
-visibility: public
-audience: players
-summary: Public lore on the Passage, the Rattkin network of routes, holds, caches, couriers, and hidden infrastructure running beneath and between Shattered Sea ports.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: operates_in
-    target: The Warren
-  - relation: operates_in
-    target: Calveno
-  - relation: operates_in
-    target: Port Tidefall
-  - relation: rivals
-    target: The Dravosi Crown
-  - relation: rivals
-    target: The Grung Clans
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Passage

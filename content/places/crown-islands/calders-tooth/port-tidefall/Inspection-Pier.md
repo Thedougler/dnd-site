@@ -1,38 +1,19 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Inspection-Pier.md
 aliases:
   - Inspection Pier
   - The Inspection Pier
 title: The Inspection Pier
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.335-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - dravosi
   - pier
-  - player-resource
-visibility: public
-audience: players
-summary: Port Tidefall's first-stop inspection pier, where incoming vessels tie up for Crown rating, manifest checks, and fees before reaching the dock proper.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: near
-    target: Harbourmaster's Office
-  - relation: controlled_by
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Inspection Pier

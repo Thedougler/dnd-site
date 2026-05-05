@@ -1,48 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/adult-black-dragon.md
 aliases:
   - Adult Black Dragon
 title: Adult Black Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.885-07:00
 tags:
   - creature
   - dragon
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Adult Black Dragon, a CR 14 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: lairs_in
-    target: The Doldrums
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 14
-environment: swamp
-creature_type: dragon
-statblock: inline
-page: 39
-cha: 19
-con: 21
-dex: 14
-int: 14
-str: 23
-wis: 13
 ---
 
 # Adult Black Dragon

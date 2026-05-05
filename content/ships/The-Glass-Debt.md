@@ -1,38 +1,22 @@
 ---
 publish: true
+permalink: /ships/The-Glass-Debt.md
 aliases:
   - Glass Debt
   - The Glass Debt
 title: The Glass Debt
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.040-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - pirate
-  - tier-3
+  - tier_3
   - frigate
   - raiding
   - midchain
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: A Tier 3 armed pirate frigate operating beyond ordinary cutter-scale piracy, built to take protected prizes, break convoy discipline, and carry a full late-campaign ship bastion.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - content/shattered-sea/public/rules/Ship-Stats.md
-  - content/shattered-sea/public/rules/Ship-Bastion.md
-  - raw/ingested/gm-notes/2026-04-13-ship-mechanics-4.md
-campaign: shattered-sea
-tier: 3
-variant: armed
-ship_class: Armed frigate
 ---
 
 # The _Glass Debt_

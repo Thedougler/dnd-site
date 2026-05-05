@@ -1,32 +1,19 @@
 ---
 publish: true
+permalink: /ships/Fernen.md
 aliases:
   - Fernen
   - The Fernen
 title: The Fernen
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:01.020-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - destroyed
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: Two-masted brigantine and fourth ship of Fisk's Fleet — captained by Sienne Orre, lost at the Drowned Maw.
-status: destroyed
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-ship_class: Two-masted brigantine
-captain: "[[Sienne-Orre|Sienne Orre]]"
-banner: raw/assets/banners/Fernen.webp
 ---
 
 # The _Fernen_

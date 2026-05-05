@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/animated-broom.md
 aliases:
   - Animated Broom
 title: Animated Broom
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.732-07:00
 tags:
   - creature
   - construct
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Animated Broom, a CR 1/4 construct in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: found_in
-    target: Cat's Curios
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/4
-environment: urban
-creature_type: construct
-statblock: inline
-page: 16
-cha: 1
-con: 10
-dex: 17
-int: 1
-str: 10
-wis: 5
 ---
 
 # Animated Broom

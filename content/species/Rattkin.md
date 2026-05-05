@@ -1,9 +1,9 @@
 ---
 publish: true
+permalink: /species/Rattkin.md
 title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
-published: 2026-05-04T17:55:54.329-07:00
 tags:
   - species
   - playable
@@ -12,21 +12,6 @@ tags:
   - passage
 cssclasses:
   - wiki-species
-type: species
-subtype: species
-status: active
-updated: 2026-04-14
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
-campaign: shattered-sea
-player_gravity: 1.5
-gravity_sources:
-  Kaden: 1.5
-visibility: public
-audience: players
-summary: Playable small humanoids built for infiltration, survival, and movement through impossible spaces, with deep roots in the ports and passage networks of the Shattered Sea.
 ---
 
 # Rattkin

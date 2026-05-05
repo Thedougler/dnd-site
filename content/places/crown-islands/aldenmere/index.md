@@ -1,43 +1,18 @@
 ---
 publish: true
+permalink: /places/crown-islands/aldenmere/index.md
 aliases:
   - Aldenmere Island
   - Isle of Aldenmere
 title: Aldenmere
 created: 2026-05-04
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.988-07:00
 tags:
   - location
   - island
   - crown-islands
   - dravosi
   - player-resource
-visibility: public
-audience: players
-summary: The quietest of the Crown Islands — farms, fishing fleets, and a small harbour organized around a broad inland tidal lake. No military installation. The Crown collects tithes twice a year and otherwise leaves it alone.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Crown Islands
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Giant Crocodile
-  - relation: threatened_by
-    target: Giant Frog
-  - relation: threatened_by
-    target: Hunter Shark
-  - relation: threatened_by
-    target: Giant Toad
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Aldenmere

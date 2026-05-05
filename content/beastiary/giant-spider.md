@@ -1,57 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-spider.md
 aliases:
   - Giant Spider
 title: Giant Spider
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.741-07:00
 tags:
   - creature
   - beast
   - phb
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Giant Spider, a CR 1 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Verdant Scatter
-  - relation: habitat
-    target: Karath
-  - relation: habitat
-    target: The Verdant Teeth
-  - relation: habitat
-    target: Orak
-  - relation: habitat
-    target: Veth
-  - relation: habitat
-    target: Aruhe
-updated: 2026-05-03
-sources:
-  - XPHB
-source_count: 1
-confidence_level: high
-cr: 1
-environment: desert, forest, swamp, underdark, urban
-creature_type: beast
-statblock: inline
-page: 351
-cha: 4
-con: 12
-dex: 16
-int: 2
-str: 14
-wis: 11
 ---
 
 # Giant Spider

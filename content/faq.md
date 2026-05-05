@@ -1,19 +1,12 @@
 ---
 publish: true
+permalink: /faq.md
 title: FAQ
-created: 2026-05-01T20:03:59.146-07:00
+created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.599-07:00
 tags:
-  - player-resource
+  - player_resource
   - faq
-visibility: public
-audience: players
-summary: Public FAQ for using the Shattered Sea campaign wiki, including where to start, how navigation-safety works, and how to use the wiki with a chatbot.
-type: reference
-subtype: faq
-campaign: shattered-sea
-updated: 2026-05-03
 ---
 
 # Frequently Asked Questions

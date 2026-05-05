@@ -1,30 +1,19 @@
 ---
 publish: true
+permalink: /ships/Loud-Argument.md
 aliases:
   - Loud Argument
   - The Loud Argument
 title: The Loud Argument
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:01.021-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - destroyed
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: Gun brig and fifth ship of Fisk's Fleet — the fleet's dedicated combat vessel, lost at the Drowned Maw.
-status: destroyed
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-ship_class: Gun brig
 ---
 
 # The _Loud Argument_

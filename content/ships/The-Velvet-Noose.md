@@ -1,38 +1,22 @@
 ---
 publish: true
+permalink: /ships/The-Velvet-Noose.md
 aliases:
   - Velvet Noose
   - The Velvet Noose
 title: The Velvet Noose
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.057-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - pirate
-  - tier-4
-  - man-of-war
+  - tier_4
+  - man_of_war
   - flagship
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: "A Tier 4 pirate man-of-war: a fleet-command flagship that uses terror, hostages, legal blackmail, and overwhelming cannon weight to make ports and convoys surrender before battle."
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - content/shattered-sea/public/rules/Ship-Stats.md
-  - content/shattered-sea/public/rules/Ship-Bastion.md
-  - raw/ingested/gm-notes/2026-04-13-ship-mechanics-4.md
-campaign: shattered-sea
-tier: 4
-variant: defended
-ship_class: Pirate Man-of-War
 ---
 
 # The _Velvet Noose_

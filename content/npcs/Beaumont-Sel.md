@@ -1,38 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Beaumont-Sel.md
 aliases:
   - Beau
   - Captain Sel
 title: Beaumont Sel
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.722-07:00
 tags:
   - captain
   - tortle
-visibility: public
-audience: players
-summary: A tortle captain who has run the Midchain route for eleven years — steady, patient, and harder to rattle than his ship.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: captain_of
-    target: The Saltwright
-  - relation: ally_of
-    target: Bisou
-  - relation: associated_with
-    target: Crisdalynn Khinriss
-  - relation: associated_with
-    target: Delmar Atticus Fisk
-  - relation: operates_in
-    target: The Midchain
-  - relation: based_in
-    target: Kalowe
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Beaumont Sel

@@ -1,55 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-venomous-snake.md
 aliases:
   - Giant Venomous Snake
 title: Giant Venomous Snake
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.741-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Giant Venomous Snake, a CR 1/4 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Verdant Scatter
-  - relation: habitat
-    target: Karath
-  - relation: habitat
-    target: The Verdant Teeth
-  - relation: habitat
-    target: Aruhe
-  - relation: habitat
-    target: Veth
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/4
-environment: coastal, desert, forest, grassland, hill, swamp
-creature_type: beast
-statblock: inline
-page: 361
-cha: 3
-con: 13
-dex: 18
-int: 2
-str: 10
-wis: 10
 ---
 
 # Giant Venomous Snake

@@ -1,34 +1,17 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/South-Harbour-Impound.md
 aliases:
   - Tidefall Impound
 title: South Harbour Impound
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:55.718-07:00
 tags:
   - location
   - impound
-  - south-harbour
+  - south_harbour
   - dravosi
-  - player-resource
-visibility: public
-audience: players
-summary: A roped-off section of the South Harbour east pier — chain, hand-lettered Crown notice, a clerk's hut with a lamp in it, and several vessels sitting in their berths going nowhere.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: South Harbour
-  - relation: controlled_by
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # South Harbour Impound

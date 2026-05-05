@@ -1,44 +1,17 @@
 ---
 publish: true
+permalink: /places/sunken-crown/Meth-Var.md
 aliases:
   - Eastern Gate
 title: Meth-Var
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.641-07:00
 tags:
   - location
   - island
-  - sunken-crown
+  - sunken_crown
   - tabaxi
-  - player-resource
-visibility: public
-audience: players
-summary: The exposed watch island at the eastern edge of the Sunken Crown, facing open Maw waters. Not a settlement — a signal post, maintained by rotating watchers from Keth-Naar.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Sunken Crown
-  - relation: associated_with
-    target: Keth-Naar
-  - relation: rumored_threat
-    target: Dragon Turtle
-  - relation: sighting_site
-    target: Dragon Turtle Wyrmling
-  - relation: threatened_by
-    target: Giant Vulture
-  - relation: threatened_by
-    target: Giant Bat
-  - relation: rumored_threat
-    target: Harpy
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Meth-Var

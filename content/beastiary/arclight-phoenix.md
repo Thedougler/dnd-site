@@ -1,50 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/arclight-phoenix.md
 aliases:
   - Arclight Phoenix
 title: Arclight Phoenix
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.154-07:00
 tags:
   - creature
   - elemental
   - ggr
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Arclight Phoenix, a CR 12 elemental in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: rumored_in
-    target: The Galewall
-  - relation: born_in
-    target: Ashwall Islands
-updated: 2026-05-03
-sources:
-  - GGR
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 12
-environment:
-creature_type: elemental
-statblock: inline
-page: 193
-cha: 7
-con: 17
-dex: 22
-int: 5
-str: 15
-wis: 12
 ---
 
 # Arclight Phoenix

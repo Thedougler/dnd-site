@@ -1,20 +1,14 @@
 ---
 publish: true
+permalink: /npcs/index.md
 title: NPCs
 created: 2026-05-02T16:25:19.159-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.711-07:00
 tags:
   - player-resource
   - index
   - characters
   - npcs
-visibility: public
-audience: players
-summary: Public index for Shattered Sea non-player character pages, limited to public player knowledge.
-type: index
-campaign: shattered-sea
-updated: 2026-05-03
 ---
 
 # Non-Player Characters

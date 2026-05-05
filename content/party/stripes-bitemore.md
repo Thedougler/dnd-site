@@ -1,43 +1,24 @@
 ---
 publish: true
+permalink: /party/stripes-bitemore.md
 aliases:
   - Stripes Bitemore
   - Stripes
 title: Stripes Bitemore
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.968-07:00
 tags:
-  - player-character
+  - player_character
   - pc
   - tabaxi
-  - player-resource
-visibility: public
-audience: players
-summary: Public character entry for Stripes, a tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-type: character
-subtype: character-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: passenger_on
-    target: Saltwright
-  - relation: hunter_of
-    target: Keth-Naar
-  - relation: sent_by
-    target: Keth-Naar Elders
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - "[[Belmore-Interview]]"
-  - "[[Belmore-Sheet]]"
-source_count: 3
-confidence_level: medium
+  - player_resource
 ---
 
 # Stripes Bitemore
 
-## ![[raw/assets/banners/Belmore-Archer.webp|Belmore, a tiger tabaxi fighter, crouched on a ship's deck with spear ready]]
+![[raw/assets/banners/Belmore-Archer.webp|Belmore, a tiger tabaxi fighter, crouched on a ship's deck with spear ready]]
+
+---
 
 |                     |                  |
 | ------------------- | ---------------- |

@@ -1,33 +1,15 @@
 ---
 publish: true
+permalink: /beastiary/ancient-green-dragon.md
+title: ancient green dragon
 created: 2026-04-25
 modified: 2026-04-25
-published: 2026-05-04T01:50:09.490-07:00
 tags:
   - creature
   - dragon
   - mm
 cssclasses:
   - wiki-monster
-type: entity
-subtype: monster
-cr: 22
-creature_type: dragon
-environment: forest
-str: 27
-dex: 12
-con: 25
-int: 20
-wis: 17
-cha: 22
-status: bestiary
-confidence_level: high
-sources: XMM
-page: 154
-updated: 2026-04-25
-statblock: inline
-source_count: 1
-campaign: shattered-sea
 ---
 
 # Ancient Green Dragon

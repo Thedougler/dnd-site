@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /factions/Chain-Council.md
 aliases:
   - Chain Council
   - The Chain Council
@@ -7,31 +8,12 @@ aliases:
 title: The Chain Council
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T02:18:48.530-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - midchain
   - council
   - kalowe
-visibility: public
-audience: players
-summary: Public lore on the Chain Council, the rarely assembled Midchain council where independent island representatives meet in Kalowe to handle matters too large for any one island.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: operates_in
-    target: The Midchain
-  - relation: convenes_at
-    target: Kalowe
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - User request 2026-05-03
-source_count: 2
-confidence_level: medium
 ---
 
 # The Chain Council

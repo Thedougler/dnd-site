@@ -1,34 +1,17 @@
 ---
 publish: true
+permalink: /items/Eldritch-Claw-Tattoo.md
 title: Eldritch Claw Tattoo
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-03T23:28:11.813-07:00
 tags:
   - item
-  - wondrous-item
+  - wondrous_item
   - tattoo
   - uncommon
-  - crisdalynn-khinriss
+  - crisdalynn_khinriss
   - sentinels
-  - player-resource
-type: item
-subtype: item
-item_type: wondrous-item
-rarity: uncommon
-requires_attunement: true
-status: active
-visibility: public
-audience: players
-campaign: shattered-sea
-current_holder: "[[crissdalynn-khinriss|Crisdalynn Khinriss]]"
-summary: Inky black tattoo across talons and forearms — makes unarmed strikes magical and once per dawn extends them into 15-ft force-damage tendrils. An ancient Sentinel tradition, given at the completion of training.
-sources:
-  - "[[Crisdalynn-Khinriss-Interview]]"
-  - "[[Sentinels-Of-The-Eyrie]]"
-source_count: 2
-confidence_level: high
-updated: 2026-05-03
+  - player_resource
 ---
 
 # Eldritch Claw Tattoo

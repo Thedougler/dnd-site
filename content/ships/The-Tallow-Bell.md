@@ -1,39 +1,21 @@
 ---
 publish: true
+permalink: /ships/The-Tallow-Bell.md
 aliases:
   - Tallow Bell
   - The Tallow Bell
 title: The Tallow Bell
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.119-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
-  - tier-1
+  - tier_1
   - waveservants
   - umberlee
   - clergy
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: A Tier 1 Waveservant shrine sloop used to move clergy, tribute records, ritual supplies, and small sealed offerings between Shattered Sea ports.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - content/shattered-sea/public/factions/Waveservants.md
-  - content/shattered-sea/public/lore/Umberlee.md
-  - content/shattered-sea/public/rules/Ship-Stats.md
-  - content/shattered-sea/public/rules/Ship-Bastion.md
-campaign: shattered-sea
-tier: 1
-variant: crew-optimized
-ship_class: Shrine sloop
-captain: "[[Waveservants]]"
 ---
 
 # The _Tallow Bell_

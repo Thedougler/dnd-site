@@ -1,57 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/pirate-captain.md
 aliases:
   - Pirate Captain
 title: Pirate Captain
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:58:36.862-07:00
 tags:
   - creature
   - humanoid
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Pirate Captain, a CR 6 humanoid in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: active_in
-    target: The Central Strait
-  - relation: active_in
-    target: The Shelfworks
-  - relation: active_in
-    target: The Drowned Maw
-  - relation: active_in
-    target: The Outer Reach
-  - relation: active_in
-    target: The Tail
-  - relation: active_in
-    target: Kalowe
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 6
-environment: any
-creature_type: humanoid
-statblock: inline
-page: 242
-cha: 17
-con: 14
-dex: 18
-int: 10
-str: 10
-wis: 14
 ---
 
 # Pirate Captain

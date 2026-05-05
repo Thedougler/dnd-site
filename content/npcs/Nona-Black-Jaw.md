@@ -1,36 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Nona-Black-Jaw.md
 aliases:
   - Nona
   - Black-Jaw matriarch
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.897-07:00
 tags:
   - rattkin
   - matriarch
-visibility: public
-audience: players
-summary: Rattkin matriarch, senior elder of the Tangle, and Perrin's grandmother — the most senior voice in the Warren, the person he is not ready to call, and the woman whose late husband built the Vestra.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: member_of
-    target: The Passage
-  - relation: located_in
-    target: The Warren
-  - relation: located_in
-    target: Calveno
-  - relation: family_of
-    target: Perrin Black-Jaw
-  - relation: associated_with
-    target: Vestra
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Nona Black-Jaw

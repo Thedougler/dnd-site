@@ -1,33 +1,20 @@
 ---
 publish: true
+permalink: /ships/Knifes-Wake.md
 aliases:
   - Knife's Wake
   - The Knife's Wake
 title: The Knife's Wake
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.037-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - pirate
-  - tier-1
+  - tier_1
   - raiding
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: A Tier 1 armed pirate cutter built for ambush, boarding, and reef-channel escapes; dangerous against soft prizes but too small to trade broadsides with real naval power.
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-campaign: shattered-sea
-tier: 1
-variant: armed
-ship_class: Pirate cutter
 ---
 
 # The _Knife's Wake_

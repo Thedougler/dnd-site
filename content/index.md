@@ -1,45 +1,16 @@
 ---
 publish: true
+permalink: /index.md
 aliases:
   - The Scatter
   - Shattered Sea Campaign
   - Campaign Hub
 title: The Shattered Sea
-created: 2026-05-03T03:03:53.226-07:00
+created: 2026-05-05T01:35:22.344-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.381-07:00
 tags:
   - player-resource
   - index
-visibility: public
-audience: players
-summary: Player-facing root hub for the Shattered Sea campaign wiki, with onboarding links, rules references, character creation resources, and setting indexes.
-type: index
-campaign: shattered-sea
-relationships:
-  - relation: contains
-    target: Beatiary
-  - relation: contains
-    target: Factions
-  - relation: contains
-    target: Items
-  - relation: contains
-    target: Lore
-  - relation: contains
-    target: NPCs
-  - relation: contains
-    target: Places
-  - relation: contains
-    target: Players
-  - relation: contains
-    target: Reference
-  - relation: contains
-    target: Rules
-  - relation: contains
-    target: Ships
-  - relation: contains
-    target: Species
-updated: 2026-05-03
 ---
 
 # The Shattered Sea
@@ -80,7 +51,7 @@ You start at **Level 3** aboard the _[[Saltwright|Saltwright]]_, a hard-used mer
 - [[Bastions|Bastions]] — 2024 Bastion rules reference underlying the ship adaptation.
 - [[Mortis|Mortis]] — optional Session Zero option: a permanent drawback paired with a targeted benefit.
 
-Full rules index: [[reference/rules 1/index|Rules Index]].
+Full rules index: [[reference/rules/index|Rules Index]].
 
 ---
 
@@ -142,6 +113,6 @@ Your ship. Hard-used, understaffed, working a route that no one with better opti
 - [[lore/index|Lore]]
 - [[places/index|Places]]
 - [[reference/index|Reference]]
-- [[reference/rules 1/index|Rules]]
+- [[reference/rules/index|Rules]]
 - [[ships/index|Ships]]
 - [[species/index|Species]]

@@ -1,12 +1,12 @@
 ---
 publish: true
+permalink: /places/crown-islands/stenmark/index.md
 aliases:
   - Stenmark Island
   - Isle of Stenmark
 title: Stenmark
 created: 2026-05-04
 modified: 2026-05-04
-published: 2026-05-04T17:56:01.989-07:00
 tags:
   - location
   - island
@@ -14,35 +14,6 @@ tags:
   - dravosi
   - drowned-maw
   - player-resource
-visibility: public
-audience: players
-summary: The easternmost Crown Island — stone cliffs, cold deep water, and a clear view of where the Drowned Maw begins. The Dravosi flag flies here, but the island's real orientation is east, toward the thing you can see from the cliffs.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Crown Islands
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: faces
-    target: The Drowned Maw
-  - relation: near
-    target: The Tail
-  - relation: threatened_by
-    target: Harpy
-  - relation: threatened_by
-    target: Giant Shark
-  - relation: threatened_by
-    target: Giant Vulture
-  - relation: rumored_threat
-    target: Ancient Sea Serpent
-updated: 2026-05-04
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # Stenmark

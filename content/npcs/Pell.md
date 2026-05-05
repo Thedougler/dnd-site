@@ -1,30 +1,13 @@
 ---
 publish: true
+permalink: /npcs/Pell.md
 aliases:
   - Pell
 title: Pell
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:58.077-07:00
 tags:
   - gnome
-visibility: public
-audience: players
-summary: Gnome labour slave at Sorn — the person who talked to Jean-Claude as if he were an equal, told him there were other ways of living, and whose death he could not prevent.
-type: npc
-subtype: npc-summary
-status: deceased
-campaign: shattered-sea
-relationships:
-  - relation: central_to
-    target: Jean-Claude Tabarnack
-  - relation: killed_by
-    target: The Grung
-  - relation: located_at
-    target: Sorn
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Pell

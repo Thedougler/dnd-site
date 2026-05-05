@@ -1,33 +1,14 @@
 ---
 publish: true
+permalink: /npcs/Algernon-Reginald-Clyde.md
 aliases:
   - A.R. Clyde
   - Clyde
 title: Algernon Reginald Clyde
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.022-07:00
 tags:
   - gnome
-visibility: public
-audience: players
-summary: Gnome naturalist, author of Clyde's Bestiary of Oceanic Creatures, currently on book tour — four feet of impeccable dress and professionally documented contempt for every creature he has spent his life studying.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: author_of
-    target: Clyde's Bestiary of Oceanic Creatures
-  - relation: operates_in
-    target: Port Tidefall
-  - relation: operates_in
-    target: Kalowe
-  - relation: operates_in
-    target: Calveno
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Algernon Reginald Clyde

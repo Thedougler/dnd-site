@@ -1,27 +1,14 @@
 ---
 publish: true
+permalink: /reference/tables/index.md
 title: Tables
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.880-07:00
 tags:
   - player-resource
   - index
   - table
   - reference
-visibility: public
-audience: players
-summary: D&D 5e reference tables for the Shattered Sea campaign.
-type: index
-subtype: tables-index
-status: active
-campaign: shattered-sea
-updated: 2026-05-03
-sources:
-  - PHB 2024
-  - DMG 2024
-source_count: 2
-confidence_level: high
 ---
 
 # Tables

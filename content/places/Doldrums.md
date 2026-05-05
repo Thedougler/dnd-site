@@ -1,41 +1,16 @@
 ---
 publish: true
+permalink: /places/Doldrums.md
 aliases:
   - Doldrums
   - The Doldrums
 title: The Doldrums
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:00.815-07:00
 tags:
   - location
-  - sea-hazard
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for mirror-flat dead water where sound carries too well and wind forgets its work.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: near
-    target: The Drowned Maw
-  - relation: threatened_by
-    target: Adult Black Dragon
-  - relation: threatened_by
-    target: Giant Wasp
-  - relation: threatened_by
-    target: Pirate
-  - relation: threatened_by
-    target: The Knife's Wake
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - sea_hazard
+  - player_resource
 ---
 
 # The Doldrums

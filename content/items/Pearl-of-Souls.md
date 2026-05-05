@@ -1,29 +1,16 @@
 ---
 publish: true
+permalink: /items/Pearl-of-Souls.md
 title: Pearl of Souls
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.983-07:00
 tags:
   - item
   - artifact
   - umberlee
   - divine
   - souls
-  - shattered-sea
-type: item
-subtype: item
-item_type: artifact
-rarity: artifact
-status: active
-visibility: public
-audience: players
-campaign: shattered-sea
-sources:
-  - shattered-sea/items/Pearl-of-Souls
-source_count: 1
-updated: 2026-05-03
-summary: Umberlee's stolen artifact — a fist-sized black pearl that collects the souls of the drowned; lost at the Red Lady wreck site in the Maw.
+  - shattered_sea
 ---
 
 # Pearl of Souls

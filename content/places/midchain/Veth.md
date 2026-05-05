@@ -1,48 +1,19 @@
 ---
 publish: true
+permalink: /places/midchain/Veth.md
 aliases:
   - Veth Island
 title: Veth
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.511-07:00
 tags:
   - location
   - island
   - grung
-  - verdant-teeth
+  - verdant_teeth
   - midchain
   - trade
-  - player-resource
-visibility: public
-audience: players
-summary: Player-facing gazetteer entry for Veth, the largest Verdant Teeth island and the only sanctioned trade contact point with the Grung clans.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Verdant Teeth
-  - relation: controlled_by
-    target: The Grung Clans
-  - relation: trade_route_to
-    target: Kalowe
-  - relation: threatened_by
-    target: Giant Scorpion
-  - relation: threatened_by
-    target: Giant Venomous Snake
-  - relation: threatened_by
-    target: Giant Spider
-  - relation: threatened_by
-    target: Giant Frog
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - raw/ingested/2026-04-13-simone-tabarnack-npc-2.md
-  - User request 2026-04-24
-source_count: 3
-confidence_level: medium
+  - player_resource
 ---
 
 # Veth

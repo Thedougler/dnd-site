@@ -1,48 +1,15 @@
 ---
 publish: true
+permalink: /places/Outer-Reach.md
 aliases:
   - Outer Reach
 title: The Outer Reach
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.572-07:00
 tags:
   - location
   - ocean
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the open ocean beyond the Drowned Maw.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: near
-    target: The Drowned Maw
-  - relation: threatened_by
-    target: Killer Whale
-  - relation: laired_in_by
-    target: Ancient Blue Dragon
-  - relation: threatened_by
-    target: Whip Shark
-  - relation: rumored_threat
-    target: Ancient Sea Serpent
-  - relation: rumored_threat
-    target: Dragon Turtle
-  - relation: rumored_threat
-    target: Kraken
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: rumored_threat
-    target: The Velvet Noose
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Outer Reach

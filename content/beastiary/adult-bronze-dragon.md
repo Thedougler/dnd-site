@@ -1,50 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/adult-bronze-dragon.md
 aliases:
   - Adult Bronze Dragon
 title: Adult Bronze Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.898-07:00
 tags:
   - creature
   - dragon
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Adult Bronze Dragon, a CR 15 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: patrols
-    target: The Galewall
-  - relation: associated_with
-    target: Ashwall Islands
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 15
-environment: coastal
-creature_type: dragon
-statblock: inline
-page: 59
-cha: 20
-con: 23
-dex: 10
-int: 16
-str: 25
-wis: 15
 ---
 
 # Adult Bronze Dragon

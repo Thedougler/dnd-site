@@ -1,51 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/ancient-dragon-turtle.md
 aliases:
   - Ancient Dragon Turtle
 title: Ancient Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.142-07:00
 tags:
   - creature
   - dragon
   - ftd
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Ancient Dragon Turtle, a CR 24 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Outer Reach
-  - relation: hunts_in
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - FTD
-  - Homebrew
-  - "[[perren-black-jaw|Perrin Black-Jaw]]"
-source_count: 3
-confidence_level: medium
-cr: 24
-environment:
-creature_type: dragon
-statblock: inline
-page: 191
-cha: 15
-con: 29
-dex: 12
-int: 14
-str: 28
-wis: 19
 ---
 
 # Ancient Dragon Turtle

@@ -1,50 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/ancient-bronze-dragon.md
 aliases:
   - Ancient Bronze Dragon
 title: Ancient Bronze Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.913-07:00
 tags:
   - creature
   - dragon
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Ancient Bronze Dragon, a CR 22 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: guards
-    target: The Shelfworks
-  - relation: watches
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 22
-environment: coastal
-creature_type: dragon
-statblock: inline
-page: 60
-cha: 25
-con: 27
-dex: 10
-int: 18
-str: 29
-wis: 17
 ---
 
 # Ancient Bronze Dragon

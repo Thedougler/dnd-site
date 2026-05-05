@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /beastiary/Sawek.md
 aliases:
   - Sawek
   - Blue Devil
@@ -7,43 +8,17 @@ aliases:
 title: Sawek
 created: 2026-04-12
 modified: 2026-05-03
-published: 2026-05-04T01:59:32.330-07:00
 tags:
   - creature
   - monstrosity
   - aquatic
   - lair
   - midchain
-  - blue-hole
+  - blue_hole
   - grapple
   - ink
-  - player-resource
+  - player_resource
   - bestiary
-visibility: public
-audience: players
-summary: The Sawek, A large aquatic predator that lurks in the blue holes of the Midchain, striking with tentacles and dragging prey into its lair.
-type: monster
-subtype: monster
-status: unmet
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Midchain
-  - relation: hunts_in
-    target: The Central Strait
-  - relation: hunts_in
-    target: The Sunken Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
-cr: 5
-environment: blue holes, coastal
-creature_type: monstrosity
-statblock: inline
 ---
 
 # Sawek (Blue Devil)
@@ -79,4 +54,4 @@ It is an ambush predator, the tentacles emerge from the entrance and grab whatev
 - [[The-Grandfather-Hole]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
 - [[Whip-Shark]] — co-listed in [[Midchain|Midchain]] maritime creature lore
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[perren-black-jaw|Perrin Black-Jaw]] carries this text
-- [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]
+- [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]

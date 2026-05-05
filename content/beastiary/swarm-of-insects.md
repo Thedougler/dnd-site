@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/swarm-of-insects.md
 aliases:
   - Swarm of Insects
 title: Swarm of Insects
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.747-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Swarm of Insects, a CR 1/2 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Verdant Teeth
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/2
-environment: desert, forest, grassland, hill, swamp, underdark, urban
-creature_type: beast
-statblock: inline
-page: 370
-cha: 1
-con: 14
-dex: 13
-int: 1
-str: 3
-wis: 7
 ---
 
 # Swarm of Insects

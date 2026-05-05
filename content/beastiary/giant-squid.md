@@ -1,49 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-squid.md
 aliases:
   - Giant Squid
 title: Giant Squid
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:54:35.066-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Giant Squid, a CR 6 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-  - relation: hunts_in
-    target: The Shelfworks
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 6
-environment: underwater
-creature_type: beast
-statblock: inline
-page: 360
-cha: 4
-con: 12
-dex: 14
-int: 5
-str: 23
-wis: 11
 ---
 
 # Giant Squid

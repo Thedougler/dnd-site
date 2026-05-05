@@ -1,49 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-shark.md
 aliases:
   - Giant Shark
 title: Giant Shark
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.135-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Giant Shark, a CR 5 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Galewall
-  - relation: hunts_in
-    target: The Tail
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 5
-environment: underwater
-creature_type: beast
-statblock: inline
-page: 359
-cha: 5
-con: 21
-dex: 11
-int: 1
-str: 23
-wis: 10
 ---
 
 # Giant Shark

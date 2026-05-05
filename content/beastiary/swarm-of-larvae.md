@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/swarm-of-larvae.md
 aliases:
   - Swarm of Larvae
 title: Swarm of Larvae
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.747-07:00
 tags:
   - creature
   - fiend
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Swarm of Larvae, a CR 1 fiend in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: rumored_in
-    target: Antheri Ruins
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1
-environment: planar, lower
-creature_type: fiend
-statblock: inline
-page: 193
-cha: 2
-con: 14
-dex: 11
-int: 6
-str: 14
-wis: 12
 ---
 
 # Swarm of Larvae

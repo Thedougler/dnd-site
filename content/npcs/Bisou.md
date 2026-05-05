@@ -1,28 +1,13 @@
 ---
 publish: true
+permalink: /npcs/Bisou.md
 title: Bisou
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.751-07:00
 tags:
   - beast
   - companion
   - monkey
-visibility: public
-audience: players
-summary: Beaumont Sel's capuchin companion — eleven years on his left shoulder, amber-eyed, quick-fingered, and constitutionally opposed to his pipe staying in his mouth.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: companion_of
-    target: Beaumont Sel
-  - relation: associated_with
-    target: The Saltwright
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Bisou

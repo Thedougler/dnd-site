@@ -1,50 +1,17 @@
 ---
 publish: true
+permalink: /places/tail/Drowned-Maw.md
 aliases:
   - Drowned Maw
   - Maw
 title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.940-07:00
 tags:
   - location
   - trench
   - maw
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the vast eastern trench where charts, compasses, and sailors grow less confident.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: observed_by
-    target: Sentinels of the Eyrie
-  - relation: threatened_by
-    target: Whip Shark
-  - relation: threatened_by
-    target: Giant Squid
-  - relation: rumored_threat
-    target: The Leviathan
-  - relation: rumored_threat
-    target: Ancient Dragon Turtle
-  - relation: rumored_threat
-    target: Kraken
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: threatened_by
-    target: The Glass Debt
-  - relation: rumored_threat
-    target: The Velvet Noose
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Drowned Maw

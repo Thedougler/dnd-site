@@ -1,53 +1,18 @@
 ---
 publish: true
+permalink: /places/Verdant-Scatter.md
 aliases:
   - Verdant Scatter
   - The Scatter
 title: The Verdant Scatter
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:00.909-07:00
 tags:
   - location
   - region
   - archipelago
-  - world-region
-  - player-resource
-visibility: public
-audience: players
-summary: "The main island chain of the Shattered Sea: two east-west arcs between the Galewall and the Drowned Maw, with the Crown Islands to the north and the Midchain to the south."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: contains
-    target: Crown Islands
-  - relation: contains
-    target: The Midchain
-  - relation: contains
-    target: Central Strait
-  - relation: converges_at
-    target: The Tail
-  - relation: threatened_by
-    target: Giant Boar
-  - relation: threatened_by
-    target: Giant Spider
-  - relation: threatened_by
-    target: Giant Venomous Snake
-  - relation: threatened_by
-    target: The Knife's Wake
-  - relation: threatened_by
-    target: The Bad Receipt
-  - relation: rumored_threat
-    target: The Glass Debt
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - world_region
+  - player_resource
 ---
 
 # The Verdant Scatter

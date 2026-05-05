@@ -1,6 +1,7 @@
 ---
 publish: true
 permalink: /party/Crisdalynn-Khinriss-Sheet.md
+title: Crisdalynn Khinriss Sheet
 created: 2026-05-04
 modified: 2026-05-04
 tags:

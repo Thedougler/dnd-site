@@ -1,36 +1,19 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Shelf-Instrument-Dealer.md
 aliases:
   - Shelf Instrument Dealer
 title: The Shelf Instrument Dealer
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:25.285-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - dravosi
-  - crown-islands
+  - crown_islands
   - navigation
-  - player-resource
-visibility: public
-audience: players
-summary: A narrow Port Tidefall shop on the Shelf selling navigational instruments, charts, almanacs, sextants, compasses, chronometers, and quality spyglasses.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: located_in
-    target: The Shelf
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Shelf Instrument Dealer

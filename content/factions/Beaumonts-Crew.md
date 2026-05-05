@@ -1,31 +1,16 @@
 ---
 publish: true
+permalink: /factions/Beaumonts-Crew.md
 aliases:
   - Saltwright Crew
 title: Beaumont's Crew
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.914-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - ship
   - crew
-visibility: public
-audience: players
-summary: The working crew of the Saltwright — four hirelings filling the ship's required operational roles under Captain Beaumont Sel.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: serves
-    target: Beaumont Sel
-  - relation: crew_of
-    target: The Saltwright
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Beaumont's Crew

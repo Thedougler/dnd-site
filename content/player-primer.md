@@ -1,18 +1,11 @@
 ---
 publish: true
+permalink: /player-primer.md
 title: Player Primer
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.362-07:00
 tags:
-  - player-resource
-visibility: public
-audience: players
-summary: Public player primer for the Shattered Sea campaign, a high-magic nautical sandbox of island chains, colonial pressure, sea gods, hidden ruins, dangerous voyages, and player-driven trouble.
-type: reference
-subtype: player-facing
-campaign: shattered-sea
-updated: 2026-05-03
+  - player_resource
 ---
 
 # Shattered Sea Player Primer

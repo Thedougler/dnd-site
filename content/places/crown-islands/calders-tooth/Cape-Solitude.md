@@ -1,28 +1,15 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/Cape-Solitude.md
 aliases:
   - Cape Solitude
 title: Cape Solitude
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:13:17.334-07:00
 tags:
   - cape
-  - calders-tooth
-  - player-resource
-visibility: public
-audience: players
-summary: The northernmost point of Calder's Tooth — open ocean, constant wind, a ruined pre-colonial tower, and a Crown lighthouse project abandoned after three successive crews vanished.
-type: place
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calder's Tooth
-  - relation: associated_with
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
+  - calders_tooth
+  - player_resource
 ---
 
 # Cape Solitude

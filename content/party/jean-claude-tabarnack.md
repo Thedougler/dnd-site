@@ -1,39 +1,17 @@
 ---
 publish: true
+permalink: /party/jean-claude-tabarnack.md
 aliases:
   - Jean-Claude Tabarnack
   - Pierre Le Merde
 title: Jean-Claude Tabarnack
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.959-07:00
 tags:
-  - player-character
+  - player_character
   - pc
   - grung
-  - player-resource
-visibility: public
-audience: players
-summary: Public character entry for Jean-Claude Tabarnack, a blue Grung ranger, deserter, and critic of Grung caste society.
-type: character
-subtype: character-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: passenger_on
-    target: Saltwright
-  - relation: deserter_from
-    target: Botukuri Clan
-  - relation: grieving
-    target: Pell
-  - relation: estranged_from
-    target: Simone Tabarnack
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - "[[Jean-Claude-Tabarnack-Interview]]"
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # Jean-Claude Tabarnack

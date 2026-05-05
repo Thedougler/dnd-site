@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/swarm-of-venomous-snakes.md
 aliases:
   - Swarm of Venomous Snakes
 title: Swarm of Venomous Snakes
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:54:00.640-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Swarm of Venomous Snakes, a CR 2 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: Orak
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: coastal, desert, forest, grassland, hill, swamp
-creature_type: beast
-statblock: inline
-page: 371
-cha: 3
-con: 11
-dex: 18
-int: 1
-str: 8
-wis: 10
 ---
 
 # Swarm of Venomous Snakes

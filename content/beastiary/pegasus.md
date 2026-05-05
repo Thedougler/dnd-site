@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/pegasus.md
 aliases:
   - Pegasus
 title: Pegasus
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T01:55:04.015-07:00
 tags:
   - creature
   - celestial
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Pegasus, a CR 2 celestial in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: rumored_in
-    target: The High Eyrie
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 2
-environment: forest, grassland, hill, planar, upper
-creature_type: celestial
-statblock: inline
-page: 235
-cha: 13
-con: 16
-dex: 15
-int: 10
-str: 18
-wis: 15
 ---
 
 # Pegasus

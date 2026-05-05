@@ -1,9 +1,9 @@
 ---
 publish: true
+permalink: /species/Grung.md
 title: Grung
 created: 2026-04-12
 modified: 2026-04-12
-published: 2026-05-04T17:55:54.262-07:00
 tags:
   - species
   - playable
@@ -12,18 +12,6 @@ tags:
   - poison
 cssclasses:
   - wiki-species
-type: species
-subtype: species
-status: active
-updated: 2026-04-12
-sources:
-  - raw/ingested/Grung.md
-source_count: 1
-confidence_level: medium
-campaign: shattered-sea
-visibility: public
-audience: players
-summary: Playable amphibious humanoids with vivid poisonous skin, caste-marked coloration, climbing ability, aquatic needs, standing leaps, and a presence in the Verdant Teeth of the Shattered Sea.
 ---
 
 # Grung

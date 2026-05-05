@@ -1,53 +1,17 @@
 ---
 publish: true
+permalink: /places/Central-Strait.md
 aliases:
   - Central Strait
   - The Strait
 title: The Central Strait
 created: 2026-05-01
 modified: 2026-05-04
-published: 2026-05-04T17:55:54.546-07:00
 tags:
   - location
   - waterway
   - navigation
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the main east-west shipping corridor between the Crown Islands and the Midchain.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Shattered Sea
-  - relation: controlled_by
-    target: The Dravosi Crown
-  - relation: threatened_by
-    target: Sawek
-  - relation: threatened_by
-    target: Hunter Shark
-  - relation: threatened_by
-    target: Giant Octopus
-  - relation: threatened_by
-    target: Pirate
-  - relation: threatened_by
-    target: Pirate Captain
-  - relation: rumored_threat
-    target: Pirate Admiral
-  - relation: threatened_by
-    target: The Bad Receipt
-  - relation: rumored_threat
-    target: The Glass Debt
-  - relation: rumored_threat
-    target: The Velvet Noose
-updated: 2026-05-04
-sources:
-  - Homebrew
-  - raw/caldurs-tooth.md
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # The Central Strait

@@ -1,34 +1,17 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/Oshas-Slip.md
 aliases:
   - Osha's Slip
 title: Osha's Slip
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T03:58:19.652-07:00
 tags:
   - location
   - village
-  - calders-tooth
+  - calders_tooth
   - mudflats
-  - player-resource
-visibility: public
-audience: players
-summary: A stilt-platform fishing village over the southeastern mudflats of Calder's Tooth — mud-crab trappers, rope-and-plank bridges that shift with the tide, and no solid road in or out.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calder's Tooth
-  - relation: threatened_by
-    target: Giant Constrictor Snake
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Osha's Slip

@@ -1,48 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/ancient-blue-dragon.md
 aliases:
   - Ancient Blue Dragon
 title: Ancient Blue Dragon
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.905-07:00
 tags:
   - creature
   - dragon
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Ancient Blue Dragon, a CR 23 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: lairs_in
-    target: The Outer Reach
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 23
-environment: coastal, desert
-creature_type: dragon
-statblock: inline
-page: 50
-cha: 25
-con: 27
-dex: 10
-int: 18
-str: 29
-wis: 17
 ---
 
 # Ancient Blue Dragon

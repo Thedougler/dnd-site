@@ -1,40 +1,17 @@
 ---
 publish: true
+permalink: /places/midchain/Karath.md
 aliases:
   - Karath Island
 title: Karath
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.312-07:00
 tags:
   - location
   - island
   - grung
-  - verdant-teeth
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for Karath, a Verdant Teeth island with a hostile reputation and no visible invitation to land.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Midchain
-  - relation: controlled_by
-    target: The Grung Clans
-  - relation: threatened_by
-    target: Giant Spider
-  - relation: threatened_by
-    target: Giant Venomous Snake
-  - relation: threatened_by
-    target: Giant Toad
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - verdant_teeth
+  - player_resource
 ---
 
 # Karath

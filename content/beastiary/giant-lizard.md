@@ -1,53 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-lizard.md
 aliases:
   - Giant Lizard
 title: Giant Lizard
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.739-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Giant Lizard, a CR 1/4 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Sunken Crown
-  - relation: habitat
-    target: Keth-Naar
-  - relation: habitat
-    target: Ral-Arn
-  - relation: habitat
-    target: Dath-Mar
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/4
-environment: coastal, desert, forest, swamp, underdark
-creature_type: beast
-statblock: inline
-page: 358
-cha: 5
-con: 13
-dex: 12
-int: 2
-str: 15
-wis: 10
 ---
 
 # Giant Lizard

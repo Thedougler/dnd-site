@@ -1,34 +1,19 @@
 ---
 publish: true
+permalink: /ships/Red-Lady.md
 aliases:
   - Red Lady
 title: The Red Lady
 created: 2026-05-02
 modified: 2026-05-02
-published: 2026-05-04T17:56:00.926-07:00
 tags:
-  - player-resource
+  - player_resource
   - ship
   - destroyed
   - wreck
   - fleet
 cssclasses:
   - wiki-ship
-type: lore
-subtype: ship
-visibility: public
-audience: players
-summary: Delmar Fisk's flagship — a privateer-rigged brigantine that led five ships into the Drowned Maw and did not come back.
-status: destroyed
-updated: 2026-05-02
-sources:
-  - Homebrew
-campaign: shattered-sea
-tier: 2
-variant: armed
-ship_class: Brigantine (privateer-rigged)
-captain: "[[Rael-Corven|Rael Corven]]"
-banner: raw/assets/banners/Red-Lady.webp
 ---
 
 # The _Red Lady_

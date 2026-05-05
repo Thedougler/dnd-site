@@ -1,30 +1,16 @@
 ---
 publish: true
+permalink: /species/Tabaxi.md
 title: Tabaxi
 created: 2026-04-19
 modified: 2026-04-22
-published: 2026-05-02T18:00:31.102-07:00
 tags:
   - species
   - playable
   - tabaxi
-  - homebrew-2024
+  - homebrew_2024
 cssclasses:
   - wiki-species
-type: species
-subtype: species
-status: active
-updated: 2026-04-22
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
-reveal_status: revealed
-appearance: Catlike humanoids ranging from tiger-striped to spotted to solid-furred; retractile claws, vertically-slit pupils, acute senses. Medium build varies by type — Tigers are broader-chested and powerful; Jaguars are lean and built for stealth.
-campaign: shattered-sea
-visibility: public
-audience: players
-summary: Playable feline humanoids created by the Cat Lord, combining predatory instincts, keen senses, claws, speed, and regional ties to the Sunken Crown islands.
 ---
 
 # Tabaxi

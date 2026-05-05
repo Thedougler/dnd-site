@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /places/Shattered-Sea.md
 aliases:
   - Shattered Sea
   - The Scatter
@@ -7,35 +8,11 @@ aliases:
 title: The Shattered Sea
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:00.817-07:00
 tags:
   - location
   - region
   - setting
-  - player-resource
-visibility: public
-audience: players
-summary: "The campaign's main region: sixty thousand square miles of reef, deep water, island chains, colonial claims, old ruins, sea tribute, dangerous routes, and ports where every chart has an agenda."
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: contains
-    target: Crown Islands
-  - relation: contains
-    target: The Midchain
-  - relation: contains
-    target: Central Strait
-  - relation: bounded_by
-    target: The Galewall
-  - relation: bounded_by
-    target: The Drowned Maw
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The Shattered Sea

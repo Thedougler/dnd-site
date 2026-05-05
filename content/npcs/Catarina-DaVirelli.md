@@ -1,33 +1,14 @@
 ---
 publish: true
+permalink: /npcs/Catarina-DaVirelli.md
 aliases:
   - Da'Virelli
   - Catarina
 title: Catarina Da'Virelli
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.846-07:00
 tags:
   - artificer
-visibility: public
-audience: players
-summary: An artificer operating out of Calveno by referral only — the foremost living expert on Antheri materials, and the person to find if you need something built that shouldn't exist yet.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: located_in
-    target: Calveno
-  - relation: associated_with
-    target: The Shelfworks
-  - relation: contracted_by
-    target: The Dravosi Crown
-  - relation: owns
-    target: Brass-Cat
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Catarina Da'Virelli

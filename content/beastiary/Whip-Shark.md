@@ -1,48 +1,24 @@
 ---
 publish: true
+permalink: /beastiary/Whip-Shark.md
 aliases:
   - Whip Shark
+  - Whip Sharks
   - Welak
   - Whip Shark Welak
 title: Whip Shark
 created: 2026-04-12
 modified: 2026-05-03
-published: 2026-05-04T01:59:48.109-07:00
 tags:
   - creature
   - monstrosity
   - aquatic
   - ship
-  - open-ocean
+  - open_ocean
   - siege
-  - shattered-sea
-  - player-resource
+  - shattered_sea
+  - player_resource
   - bestiary
-visibility: public
-audience: players
-summary: The Whip Shark, A massive aquatic predator known for its barbed tail and ability to sink vessels, lurking in the open oceans.
-type: monster
-subtype: monster
-status: unmet
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-  - relation: hunts_in
-    target: The Outer Reach
-  - relation: hunts_in
-    target: Antheri Ruins
-updated: 2026-05-03
-sources:
-  - raw/antheri-ruins-expanded.md
-source_count: 1
-confidence_level: high
-cr: 6
-environment: open ocean
-creature_type: monstrosity
-statblock: inline
 ---
 
 # Whip Shark (Welak)
@@ -71,4 +47,4 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 - [[Sawek]] — co-listed in [[Midchain|Midchain]] maritime creature lore
 - [[Ship-Stats]] — Hooking Drive interacts with vessel HP rules
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[perren-black-jaw|Perrin Black-Jaw]] carries this text
-- [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]
+- [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]

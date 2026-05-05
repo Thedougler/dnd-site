@@ -1,32 +1,17 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/High-Line.md
 aliases:
   - High Line
 title: High-Line
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:55.721-07:00
 tags:
   - location
   - hamlet
-  - calders-tooth
+  - calders_tooth
   - fishing
-  - player-resource
-visibility: public
-audience: players
-summary: A cliff-face fishing hamlet on the northeastern edge of Calder's Tooth — no beach, no docks, just counterweighted winches dropping nets into the cold upwellings below and hauling yellowtail up the rock face.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Calder's Tooth
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # High-Line

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /party/index.md
 aliases:
   - Players
   - Player Characters
@@ -7,29 +8,11 @@ aliases:
 title: Party
 created: 2026-05-01T16:39:30.707-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.948-07:00
 tags:
   - player-resource
   - index
   - characters
   - pcs
-visibility: public
-audience: players
-summary: Public index for Shattered Sea player character pages.
-type: index
-campaign: shattered-sea
-relationships:
-  - relation: member
-    target: Stripes Bitemore
-  - relation: member
-    target: Delmar Fisk
-  - relation: member
-    target: Crisdalynn Khinriss
-  - relation: member
-    target: Jean-Claude Tabarnack
-  - relation: member
-    target: Perrin Black-Jaw
-updated: 2026-05-03
 ---
 
 # The Party

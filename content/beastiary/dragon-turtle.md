@@ -1,50 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/dragon-turtle.md
 aliases:
   - Dragon Turtle
 title: Dragon Turtle
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.222-07:00
 tags:
   - creature
   - dragon
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Dragon Turtle, a CR 17 dragon in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Drowned Maw
-  - relation: hunts_in
-    target: The Outer Reach
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 17
-environment: coastal, underwater
-creature_type: dragon
-statblock: inline
-page: 103
-cha: 12
-con: 20
-dex: 10
-int: 10
-str: 25
-wis: 12
 ---
 
 # Dragon Turtle

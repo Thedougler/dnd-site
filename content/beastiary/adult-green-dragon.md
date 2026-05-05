@@ -1,36 +1,17 @@
 ---
 publish: true
+permalink: /beastiary/adult-green-dragon.md
 aliases:
   - Adult Green Dragon
 title: Adult Green Dragon
 created: 2026-04-25
 modified: 2026-04-25
-published: 2026-05-04T01:52:45.559-07:00
 tags:
   - creature
   - dragon
   - mm
 cssclasses:
   - wiki-monster
-type: entity
-subtype: monster
-cr: 15
-creature_type: dragon
-environment: forest
-str: 23
-dex: 12
-con: 21
-int: 18
-wis: 15
-cha: 18
-status: bestiary
-confidence_level: high
-sources: XMM
-page: 153
-updated: 2026-04-25
-statblock: inline
-source_count: 1
-campaign: shattered-sea
 ---
 
 # Adult Green Dragon

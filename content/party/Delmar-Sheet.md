@@ -1,6 +1,7 @@
 ---
 publish: true
 permalink: /party/Delmar-Sheet.md
+title: Delmar Sheet
 created: 2026-05-04
 modified: 2026-05-04
 tags:

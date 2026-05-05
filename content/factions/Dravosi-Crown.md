@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /factions/Dravosi-Crown.md
 aliases:
   - Dravosi Crown
   - The Crown
@@ -7,36 +8,12 @@ aliases:
 title: The Dravosi Crown
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.595-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - dravosi
-  - crown-islands
-  - colonial-power
-visibility: public
-audience: players
-summary: Public lore on the Dravosi Crown, the Shattered Sea's oldest colonial power, known for fortress ports, naval inspections, lawful order, and relentless paperwork.
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: rivals
-    target: The Tessarine Concordat
-  - relation: operates_in
-    target: Crown Islands
-  - relation: operates_in
-    target: Port Tidefall
-  - relation: operates_in
-    target: Central Strait
-updated: 2026-05-03
-revised: 2026-05-02
-sources:
-  - Homebrew
-  - raw/caldurs-tooth.md
-source_count: 2
-confidence_level: medium
+  - crown_islands
+  - colonial_power
 ---
 
 # The Dravosi Crown

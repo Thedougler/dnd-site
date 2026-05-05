@@ -1,38 +1,17 @@
 ---
 publish: true
+permalink: /places/sunken-crown/Dath-Mar.md
 aliases:
   - South Sentinel
 title: Dath-Mar
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.584-07:00
 tags:
   - location
   - island
-  - sunken-crown
+  - sunken_crown
   - tabaxi
-  - player-resource
-visibility: public
-audience: players
-summary: The smallest of the five Sunken Crown islands — a hard, exposed rock kept as a refuge for emergencies, solitary decisions, and bad weather. Not comfortable. Not meant to be.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Sunken Crown
-  - relation: associated_with
-    target: Keth-Naar
-  - relation: threatened_by
-    target: Giant Lizard
-  - relation: threatened_by
-    target: Giant Bat
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Dath-Mar

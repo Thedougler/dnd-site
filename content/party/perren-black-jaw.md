@@ -1,39 +1,17 @@
 ---
 publish: true
+permalink: /party/perren-black-jaw.md
 aliases:
   - Perrin Black-Jaw
   - PBJ
 title: Perrin Black-Jaw
 created: 2026-04-29
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.967-07:00
 tags:
-  - player-character
+  - player_character
   - pc
   - rattkin
-  - player-resource
-visibility: public
-audience: players
-summary: Public character entry for Perrin Black-Jaw, a Rattkin sailor, negotiator, and survivor of the Vestra disaster.
-type: character
-subtype: character-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: stowaway_on
-    target: Saltwright
-  - relation: grandson_of
-    target: Nona Black-Jaw
-  - relation: lost
-    target: Vestra
-  - relation: from
-    target: Warren
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - "[[Perrin-Black-Jaw-Interview]]"
-source_count: 2
-confidence_level: medium
+  - player_resource
 ---
 
 # Perrin Black-Jaw

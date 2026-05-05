@@ -1,37 +1,19 @@
 ---
 publish: true
+permalink: /items/Clydes-Bestiary-of-Oceanic-Creatures.md
 aliases:
   - Clyde's Bestiary
   - Clyde's Bestiary of Oceanic Creatures
 title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.001-07:00
 tags:
   - item
-  - reference-text
+  - reference_text
   - scholarly
-  - sea-monsters
+  - sea_monsters
 cssclasses:
   - wiki-item
-type: item
-status: active
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
-appearance: A thick octavo volume, cloth-bound in salt-faded green, spine cracked and repaired with twine — the margins dense with a second hand's annotations in a smaller, neater script than Clyde's own.
-banner: raw/assets/portraits/Clydes-Beastiary-of-Oceanic-Creatures.webp
-player_gravity: 3
-gravity_sources:
-  Kaden: 3
-rarity: common
-requires_attunement: false
-current_holder: "[[perren-black-jaw|Perrin Black-Jaw]]"
-summary: Clyde's Volume II naturalist survey of oceanic fauna — Perrin's copy, margins annotated.
-tag_line: Clyde's Volume II naturalist survey of oceanic fauna — Perrin's copy, margins annotated.
-subtype: item
 ---
 
 # Clyde's Bestiary of Oceanic Creatures
@@ -44,7 +26,7 @@ _Common Item_
 
 ## Description
 
-Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]. Covers appearance, behaviour, habitat, and practical identification for maritime creatures. The author's contempt for his subject matter is evident throughout and is, by reader consensus, an improvement over other texts in the genre.
+Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]. Covers appearance, behaviour, habitat, and practical identification for maritime creatures. The author's contempt for his subject matter is evident throughout and is, by reader consensus, an improvement over other texts in the genre.
 
 [[perren-black-jaw|Perrin Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
 
@@ -96,6 +78,6 @@ A scholarly reference text. Consulting a relevant chapter requires 10 minutes of
 
 ## Connections
 
-- [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]] — author
+- [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]] — author
 - [[perren-black-jaw|Perrin Black-Jaw]] — current holder
 - [[beastiary/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy

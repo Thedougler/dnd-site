@@ -1,32 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Sienne-Orre.md
 aliases:
   - Sienne
 title: Sienne Orre
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:57.704-07:00
 tags:
   - captain
-  - fisk-fleet
+  - fisk_fleet
   - druid
-visibility: public
-audience: players
-summary: Druid and captain of the Fernen, Fisk's fourth vessel — ran the second aquatic scout team with Maren during the shrine operation. Drowned at the Drowned Maw. Her soul is inside Delmar Fisk.
-type: npc
-subtype: npc-summary
-status: deceased
-campaign: shattered-sea
-relationships:
-  - relation: captain_of
-    target: Fernen
-  - relation: member_of
-    target: Fisk's Fleet
-  - relation: soul_in
-    target: Delmar Fisk
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Sienne Orre
@@ -36,7 +19,7 @@ sources:
 |              |                                                          |
 | ------------ | -------------------------------------------------------- |
 | **Role**     | Captain, _[[Fernen\|The Fernen]]_; [[Fisks-Fleet\|Fisk's Fleet]]     |
-| **Status**   | Deceased — soul inside [[delmar-summary\|Delmar Fisk]]                   |
+| **Status**   | Deceased — soul inside [[delmar-fisk\|Delmar Fisk]]                   |
 
 ---
 

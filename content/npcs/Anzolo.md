@@ -1,28 +1,13 @@
 ---
 publish: true
+permalink: /npcs/Anzolo.md
 aliases:
   - Anzolo
 title: Anzolo
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:56.934-07:00
 tags:
   - tortle
-visibility: public
-audience: players
-summary: A contact in Calveno vouched for by Nona Black-Jaw — "a nice young man who always helps an old lady out with chores."
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: associated_with
-    target: Nona Black-Jaw
-  - relation: located_in
-    target: Calveno
-updated: 2026-05-03
-sources:
-  - Homebrew
 ---
 
 # Anzolo

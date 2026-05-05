@@ -1,19 +1,13 @@
 ---
 publish: true
+permalink: /species/index.md
 title: Species
 created: 2026-05-01T16:53:43.377-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.468-07:00
 tags:
   - player-resource
   - index
   - species
-visibility: public
-audience: players
-summary: Public index for Shattered Sea playable species references and setting-specific social context.
-type: index
-campaign: shattered-sea
-updated: 2026-05-03
 ---
 
 # Playable Species

@@ -1,35 +1,18 @@
 ---
 publish: true
+permalink: /places/crown-islands/calders-tooth/port-tidefall/Harbourmasters-Office.md
 aliases:
   - Harbourmaster's Office
   - Tidefall Harbourmaster
 title: Harbourmaster's Office
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-03T02:14:55.719-07:00
 tags:
   - location
   - building
-  - port-tidefall
+  - port_tidefall
   - dravosi
-  - player-resource
-visibility: public
-audience: players
-summary: Crown administrative office at the Tidefall Dockfront — vessel ratings, impound fees, commission board, and the only place in port that sells official charts over the counter.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Port Tidefall
-  - relation: controlled_by
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Harbourmaster's Office

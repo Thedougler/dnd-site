@@ -1,47 +1,20 @@
 ---
 publish: true
+permalink: /beastiary/Leviathan.md
 aliases:
   - The Leviathan
   - Leviathan
 title: The Leviathan
 created: 2026-05-03
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.121-07:00
 tags:
   - creature
   - rumor
-  - sea-monster
+  - sea_monster
   - maritime
-  - perrin-connection
-  - player-resource
+  - perrin_connection
+  - player_resource
   - bestiary
-visibility: public
-audience: players
-summary: A rumored deep-sea titan tied to Perrin Black-Jaw's survival of the Vestra disaster, Clyde's bestiary notes, and sightings of boiling water, dead-calm seas, and a dark shape rising from below.
-type: monster
-subtype: monster-rumor
-status: rumored
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: rumored_in
-    target: The Drowned Maw
-  - relation: connected_to
-    target: Perrin Black-Jaw
-  - relation: referenced_in
-    target: Clyde's Bestiary of Oceanic Creatures
-updated: 2026-05-03
-sources:
-  - Homebrew
-  - "[[Clydes-Bestiary-of-Oceanic-Creatures]]"
-  - "[[perren-black-jaw|Perrin Black-Jaw]]"
-source_count: 3
-confidence_level: low
-environment: deep water
-creature_type: unknown
-statblock: none
-public_reason: Perrin Black-Jaw survived the Vestra disaster and carries an annotated bestiary entry about the creature.
 ---
 
 # The Leviathan

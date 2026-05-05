@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /factions/Grung-Clans.md
 aliases:
   - Grung clans
   - The Grung
@@ -7,34 +8,14 @@ aliases:
 title: The Grung Clans
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:55:55.618-07:00
 tags:
   - faction
-  - player-resource
+  - player_resource
   - grung
-  - verdant-teeth
+  - verdant_teeth
   - midchain
   - caste
   - poison
-visibility: public
-audience: players
-summary: "Player-facing lore on the Grung clans of the Verdant Teeth: poisonous amphibious people shaped by colour-caste protocol, waterline trade, bondage, and worsening raids."
-type: faction
-subtype: faction-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: operates_in
-    target: Verdant Teeth
-  - relation: rivals
-    target: The Passage
-  - relation: rivals
-    target: The Dravosi Crown
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
 ---
 
 # The Grung Clans

@@ -1,43 +1,18 @@
 ---
 publish: true
+permalink: /places/sunken-crown/Keth-Naar.md
 aliases:
   - Keth Naar
   - Keth-Naar Island
 title: Keth-Naar
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.623-07:00
 tags:
   - location
   - settlement
-  - sunken-crown
+  - sunken_crown
   - tabaxi
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the tabaxi settlement island of Keth-Naar in the Sunken Crown.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Midchain
-  - relation: part_of
-    target: The Sunken Crown
-  - relation: threatened_by
-    target: Giant Lizard
-  - relation: threatened_by
-    target: Giant Bat
-  - relation: threatened_by
-    target: Giant Wolf Spider
-  - relation: rumored_threat
-    target: Ancient Dragon Turtle
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Keth-Naar

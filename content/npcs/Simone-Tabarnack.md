@@ -1,32 +1,15 @@
 ---
 publish: true
+permalink: /npcs/Simone-Tabarnack.md
 aliases:
   - Simone
 title: Simone Tabarnack
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:55:56.842-07:00
 tags:
   - grung
   - botukuri
-  - jean-claude
-visibility: public
-audience: players
-summary: Jean-Claude's younger sister — purple-caste Grung garrison soldier from Sorn, disciplined and clan-loyal, the one who told their parents about Pell.
-type: npc
-subtype: npc-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: family_of
-    target: Jean-Claude Tabarnack
-  - relation: member_of
-    target: The Grung
-  - relation: located_in
-    target: Sorn
-updated: 2026-05-03
-sources:
-  - Homebrew
+  - jean_claude
 ---
 
 # Simone Tabarnack

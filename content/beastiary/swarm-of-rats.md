@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/swarm-of-rats.md
 aliases:
   - Swarm of Rats
 title: Swarm of Rats
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-03T02:42:28.748-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Swarm of Rats, a CR 1/4 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: Kalowe
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1/4
-environment: forest, swamp, underdark, urban
-creature_type: beast
-statblock: inline
-page: 370
-cha: 3
-con: 9
-dex: 11
-int: 2
-str: 9
-wis: 10
 ---
 
 # Swarm of Rats

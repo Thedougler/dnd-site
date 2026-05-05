@@ -1,33 +1,15 @@
 ---
 publish: true
+permalink: /beastiary/mimic.md
+title: mimic
 created: 2026-04-25
 modified: 2026-04-25
-published: 2026-05-04T01:45:20.792-07:00
 tags:
   - creature
   - monstrosity
   - mm
 cssclasses:
   - wiki-monster
-type: entity
-subtype: monster
-cr: 2
-creature_type: monstrosity
-environment: underdark, urban
-str: 17
-dex: 12
-con: 15
-int: 5
-wis: 13
-cha: 8
-status: bestiary
-confidence_level: high
-sources: XMM
-page: 212
-updated: 2026-04-25
-statblock: inline
-source_count: 1
-campaign: shattered-sea
 ---
 
 # Mimic

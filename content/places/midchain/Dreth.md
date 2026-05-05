@@ -1,43 +1,18 @@
 ---
 publish: true
+permalink: /places/midchain/Dreth.md
 aliases:
   - Dreth Island
 title: Dreth
 created: 2026-05-02
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.262-07:00
 tags:
   - location
   - island
-  - verdant-teeth
+  - verdant_teeth
   - grung
   - midchain
-  - player-resource
-visibility: public
-audience: players
-summary: One of the eastern Verdant Teeth, paired close to Orak — low coastal profile, dense rainforest, and less visible military presence than Karath. Still Grung territory.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: Verdant Teeth
-  - relation: adjacent_to
-    target: Orak
-  - relation: threatened_by
-    target: Giant Crocodile
-  - relation: threatened_by
-    target: Giant Frog
-  - relation: threatened_by
-    target: Giant Constrictor Snake
-  - relation: threatened_by
-    target: Giant Wasp
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # Dreth

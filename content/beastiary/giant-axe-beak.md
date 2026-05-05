@@ -1,54 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/giant-axe-beak.md
 aliases:
   - Giant Axe Beak
 title: Giant Axe Beak
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.226-07:00
 tags:
   - creature
   - monstrosity
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: The Giant Axe Beak, a CR 5 monstrosity in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: habitat
-    target: The Crown Islands
-  - relation: habitat
-    target: Calder's Tooth
-  - relation: habitat
-    target: The Tail
-  - relation: habitat
-    target: The Midchain
-updated: 2026-05-03
-sources:
-  - XMM
-  - Homebrew
-source_count: 2
-confidence_level: medium
-cr: 5
-environment: arctic, grassland, hill
-creature_type: monstrosity
-statblock: inline
-page: 24
-cha: 5
-con: 19
-dex: 14
-int: 3
-str: 21
-wis: 12
 ---
 
 # Giant Axe Beak

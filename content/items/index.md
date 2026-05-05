@@ -1,19 +1,13 @@
 ---
 publish: true
+permalink: /items/index.md
 title: Items
 created: 2026-05-02T02:14:36.302-07:00
 modified: 2026-05-03
-published: 2026-05-04T17:55:54.704-07:00
 tags:
   - player-resource
   - index
   - items
-visibility: public
-audience: players
-summary: Public index for Shattered Sea item references, including party gear, notable treasures, and in-world books.
-type: index
-campaign: shattered-sea
-updated: 2026-05-03
 ---
 
 # Notable Items

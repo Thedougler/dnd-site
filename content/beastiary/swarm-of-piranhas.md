@@ -1,47 +1,19 @@
 ---
 publish: true
+permalink: /beastiary/swarm-of-piranhas.md
 aliases:
   - Swarm of Piranhas
 title: Swarm of Piranhas
 created: 2026-04-25
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.248-07:00
 tags:
   - creature
   - beast
   - mm
-  - player-resource
+  - player_resource
   - bestiary
 cssclasses:
   - wiki-monster
-visibility: public
-audience: players
-summary: Public statblock reference for Swarm of Piranhas, a CR 1 beast in the Shattered Sea bestiary.
-type: monster
-subtype: monster
-status: bestiary
-campaign: shattered-sea
-relationships:
-  - relation: listed_in
-    target: Bestiary
-  - relation: hunts_in
-    target: The Midchain
-updated: 2026-05-03
-sources:
-  - XMM
-source_count: 1
-confidence_level: high
-cr: 1
-environment: underwater
-creature_type: beast
-statblock: inline
-page: 370
-cha: 2
-con: 9
-dex: 16
-int: 1
-str: 13
-wis: 7
 ---
 
 # Swarm of Piranhas

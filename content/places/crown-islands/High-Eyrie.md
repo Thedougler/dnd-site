@@ -1,43 +1,18 @@
 ---
 publish: true
+permalink: /places/crown-islands/High-Eyrie.md
 aliases:
   - High Eyrie
 title: The High Eyrie
 created: 2026-05-01
 modified: 2026-05-03
-published: 2026-05-04T17:56:01.981-07:00
 tags:
   - location
   - landmark
   - monastery
   - sentinels
   - aarakocra
-  - player-resource
-visibility: public
-audience: players
-summary: Public gazetteer entry for the basalt sea-stack monastery of the Sentinels of the Eyrie, a remote aarakocra order that has watched the Drowned Maw for two centuries.
-type: location
-subtype: location-summary
-status: active
-campaign: shattered-sea
-relationships:
-  - relation: part_of
-    target: The Crown Islands
-  - relation: near
-    target: The Tail
-  - relation: near
-    target: The Drowned Maw
-  - relation: controlled_by
-    target: Sentinels of the Eyrie
-  - relation: threatened_by
-    target: Giant Vulture
-  - relation: rumored_threat
-    target: Roc
-updated: 2026-05-03
-sources:
-  - Homebrew
-source_count: 1
-confidence_level: medium
+  - player_resource
 ---
 
 # The High Eyrie

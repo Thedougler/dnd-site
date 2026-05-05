@@ -1,0 +1,82 @@
+---
+publish: true
+aliases:
+  - Sawek
+  - Blue Devil
+  - Sawek Blue Devil
+title: Sawek
+created: 2026-04-12
+modified: 2026-05-03
+published: 2026-05-04T01:59:32.330-07:00
+tags:
+  - creature
+  - monstrosity
+  - aquatic
+  - lair
+  - midchain
+  - blue-hole
+  - grapple
+  - ink
+  - player-resource
+  - bestiary
+visibility: public
+audience: players
+summary: The Sawek, A large aquatic predator that lurks in the blue holes of the Midchain, striking with tentacles and dragging prey into its lair.
+type: monster
+subtype: monster
+status: unmet
+campaign: shattered-sea
+relationships:
+  - relation: listed_in
+    target: Bestiary
+  - relation: hunts_in
+    target: The Midchain
+  - relation: hunts_in
+    target: The Central Strait
+  - relation: hunts_in
+    target: The Sunken Crown
+updated: 2026-05-03
+sources:
+  - Homebrew
+source_count: 1
+confidence_level: medium
+cr: 5
+environment: blue holes, coastal
+creature_type: monstrosity
+statblock: inline
+---
+
+# Sawek (Blue Devil)
+
+![[raw/assets/banners/Sawek.webp|Sawek lurking underwater, with a shark-like head and octopus tentacles emerging from a rocky blue hole]]
+
+<div class="statblock-plugin-parent"><div class="block-language-statblock statblock-plugin-container"><div class="container svelte-1unaafm"><div class="sawek basic-5e-layout svelte-1unaafm obsidian-statblock-plugin statblock"><div class="bar svelte-zyyfbl"></div> <div class="statblock-content-container" style="--statblock-column-width: 400px;"><div class="statblock-content svelte-420xq"><div class="column"><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item group-container"><div class="statblock-item-container group-container "><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item heading-container"><div class="statblock-item-container heading-container "><div class="flex-container svelte-14k5qsm"><h1 class="heading statblock-heading name svelte-14k5qsm"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Sawek</div> </h1></div></div></div><div class="statblock-inline-item inline-container"><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"></div></div></div></div></div><div class="statblock-item-container subheading-container "><div class="subheading svelte-1fyuyh"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Huge, monstrosity, unaligned</div></div></div></div></div><div class="statblock-inline-item image-container"></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container property-container "><div class="line ac svelte-1rketb6"><span class="property-name svelte-1rketb6">Armor Class</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">14 (natural armour)</p></div></div></div><div class="statblock-item-container property-container "><div class="line hp svelte-1rketb6"><span class="property-name svelte-1rketb6">Hit Points</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">95 (9d12 + 36)</p></div></div></div><div class="statblock-item-container property-container "><div class="line speed svelte-1rketb6"><span class="property-name svelte-1rketb6">Speed</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">5 ft., swim 40 ft.</p></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container table-container "><div class="statblock-table stats svelte-1jjvt5k"><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Str</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">20</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+5)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Dex</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">16</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+3)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Con</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">18</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+4)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Int</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">6</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-2)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Wis</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">14</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+2)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Cha</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">4</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-3)</span></span> </div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container saves-container "><div class="info"><div class="line saves saves svelte-1vwmbsx"><span class="property-name svelte-1vwmbsx">Saves</span> <div class="property-text svelte-1vwmbsx"><div class="save-entry save-strength-entry svelte-1vwmbsx"><div class="save-name svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Strength</p></div></div> <div class="save-value svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+8</p></div></div> </div><div class="save-entry save-constitution-entry svelte-1vwmbsx"><div class="save-name svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Constitution</p></div></div> <div class="save-value svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+7</p></div></div> </div></div></div></div></div><div class="statblock-item-container saves-container "><div class="info"><div class="line skills skillsaves svelte-1vwmbsx"><span class="property-name svelte-1vwmbsx">Skills</span> <div class="property-text svelte-1vwmbsx"><div class="save-entry save-perception-entry svelte-1vwmbsx"><div class="save-name svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Perception</p></div></div> <div class="save-value svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+5</p></div></div> </div><div class="save-entry save-stealth-entry svelte-1vwmbsx"><div class="save-name svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Stealth</p></div></div> <div class="save-value svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+6</p></div></div> </div></div></div></div></div><div class="statblock-item-container property-container "><div class="line senses svelte-1rketb6"><span class="property-name svelte-1rketb6">Senses</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">blindsight 60 ft. (underwater only), darkvision 120 ft., passive Perception 15</p></div></div></div><div class="statblock-item-container property-container "><div class="line languages svelte-1rketb6"><span class="property-name svelte-1rketb6">Languages</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">—</p></div></div></div><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Challenge</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">5 (1,800 XP)</p></div></div></div></div><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Proficiency Bonus</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+3</p></div></div></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container traits-container "><div class="statblock-item-container statblock-trait-prop"><div class="property keen-smell traits trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Keen Smell</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">The Sawek has advantage on Wisdom (Perception) checks that rely on smell.</p></div> </div></div></div><div class="statblock-item-container statblock-trait-prop"><div class="property patient-hunter traits trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Patient Hunter</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">While stationary in its lair, the Sawek makes no sound and requires no Stealth check. A creature looking directly into the lair entrance must succeed on a DC 18 Wisdom (Perception) check to detect movement in the dark below.</p></div> </div></div><div class="statblock-item-container statblock-trait-prop"><div class="property water-breathing traits trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Water Breathing</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">The Sawek can breathe only underwater.</p></div> </div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property multiattack actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Multiattack</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">The Sawek makes one Bite attack and two Tentacle attacks.</p></div> </div></div></div><div class="statblock-item-container statblock-trait-prop"><div class="property bite actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Bite</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) piercing damage. The Sawek has advantage on this attack roll if the target is Grappled.</p></div> </div></div><div class="statblock-item-container statblock-trait-prop"><div class="property tentacle actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Tentacle</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. The target is Grappled (escape DC 16) and Restrained until the grapple ends. The Sawek can maintain up to two grapples simultaneously.</p></div> </div></div><div class="statblock-item-container statblock-trait-prop"><div class="property crush-recharge-5-6 actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Crush (Recharge 5-6)</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">One Grappled creature takes 28 (4d12) bludgeoning damage and must succeed on a DC 16 Constitution saving throw or be Incapacitated until the end of its next turn.</p></div> </div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header bonus-actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Bonus Actions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property drag-under bonus_actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Drag Under</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">The Sawek moves one Grappled creature up to 30 feet directly toward the lair entrance. If this carries the creature into the blue hole, the creature enters the lair: total darkness, fully submerged.</p></div> </div></div></div></div></div></div> <div class="bar svelte-zyyfbl"></div></div> <div class="icons svelte-1unaafm"></div></div></div></div>
+
+---
+
+## Appearance
+
+The front half is shark: broad, muscle-dense, jaws wide enough to take a man at the shoulder, skin a deep blue-grey that reads as black in the dim water above a blue hole. The rear half is octopus: eight tentacles, each up to twenty feet long at full extension, pale against the darker body, ink-stained at the tips. The body is compact relative to the reach. It fits inside surprisingly small caves.
+
+---
+
+## Lore
+
+[[Kalowe|Kalowe]]'s reef divers call it the sawek, Colonial sailors call it the blue devil, after it's preference for using the caves that line blue holes as its lair.
+
+The front half is shark: broad, muscle-dense, jaws wide enough to take a man at the shoulder. The rear half is octopus: eight tentacles, each twenty feet long at full extension. It fits inside a cave entrance that looks too small to hold anything of note.
+
+It is an ambush predator, the tentacles emerge from the entrance and grab whatever is within range. The shark half takes over once prey is in reach.
+
+[[Kalowe|Kalowe]] divers mark claimed holes with a length of cord tied to a reef stake.
+
+---
+
+## Connections
+
+- [[Coralyra-Dranra]] — was inked by a sawek prior to the campaign
+- [[Kalowe|Kalowe]] — reef divers here use the indigenous name; mark claimed holes with knotted cord
+- [[The-Grandfather-Hole]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
+- [[Whip-Shark]] — co-listed in [[Midchain|Midchain]] maritime creature lore
+- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[perren-black-jaw|Perrin Black-Jaw]] carries this text
+- [[Argibald-Reginald-Clyde|Algernon Reginald Clyde]]

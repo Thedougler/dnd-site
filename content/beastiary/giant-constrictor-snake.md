@@ -1,0 +1,75 @@
+---
+publish: true
+aliases:
+  - Giant Constrictor Snake
+title: Giant Constrictor Snake
+created: 2026-04-25
+modified: 2026-05-03
+published: 2026-05-04T17:56:01.233-07:00
+tags:
+  - creature
+  - beast
+  - mm
+  - player-resource
+  - bestiary
+cssclasses:
+  - wiki-monster
+visibility: public
+audience: players
+summary: The Giant Constrictor Snake, a CR 2 beast in the Shattered Sea bestiary.
+type: monster
+subtype: monster
+status: bestiary
+campaign: shattered-sea
+relationships:
+  - relation: listed_in
+    target: Bestiary
+  - relation: habitat
+    target: The Midchain
+  - relation: habitat
+    target: The Verdant Teeth
+  - relation: habitat
+    target: Dreth
+  - relation: habitat
+    target: Orak
+  - relation: habitat
+    target: Osha's Slip
+updated: 2026-05-03
+sources:
+  - XMM
+  - Homebrew
+source_count: 2
+confidence_level: medium
+cr: 2
+environment: desert, forest, swamp, underwater
+creature_type: beast
+statblock: inline
+page: 355
+cha: 3
+con: 12
+dex: 14
+int: 1
+str: 19
+wis: 10
+---
+
+# Giant Constrictor Snake
+
+<div class="statblock-plugin-parent"><div class="block-language-statblock statblock-plugin-container"><div class="container svelte-1unaafm"><div class="giant-constrictor-snake basic-5e-layout svelte-1unaafm obsidian-statblock-plugin statblock"><div class="bar svelte-zyyfbl"></div> <div class="statblock-content-container" style="--statblock-column-width: 400px;"><div class="statblock-content svelte-420xq"><div class="column"><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item group-container"><div class="statblock-item-container group-container "><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item heading-container"><div class="statblock-item-container heading-container "><div class="flex-container svelte-14k5qsm"><h1 class="heading statblock-heading name svelte-14k5qsm"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Giant Constrictor Snake</div> </h1></div></div></div><div class="statblock-inline-item inline-container"><div class="statblock-item-container inline-container "><div class="statblock-item-container inline-container statblock-item-inline"></div></div></div></div></div><div class="statblock-item-container subheading-container "><div class="subheading svelte-1fyuyh"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Huge, beast, Unaligned</div></div></div></div></div><div class="statblock-inline-item image-container"></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container property-container "><div class="line ac svelte-1rketb6"><span class="property-name svelte-1rketb6">Armor Class</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">12</p></div></div></div><div class="statblock-item-container property-container "><div class="line hp svelte-1rketb6"><span class="property-name svelte-1rketb6">Hit Points</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">60 (8d12 + 8)</p></div></div></div><div class="statblock-item-container property-container "><div class="line speed svelte-1rketb6"><span class="property-name svelte-1rketb6">Speed</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">30 ft., Swim 30 ft.</p></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container table-container "><div class="statblock-table stats svelte-1jjvt5k"><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Str</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">19</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+4)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Dex</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">14</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+2)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Con</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">12</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+1)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Int</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">1</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-5)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Wis</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">10</p></div> <span class="calculated-modifier svelte-1jjvt5k">(+0)</span></span> </div><div class="table-item svelte-1jjvt5k"><span class="statblock-table-header svelte-1jjvt5k">Cha</span> <span><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">3</p></div> <span class="calculated-modifier svelte-1jjvt5k">(-4)</span></span> </div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container saves-container "><div class="info"><div class="line skills skillsaves svelte-1vwmbsx"><span class="property-name svelte-1vwmbsx">Skills</span> <div class="property-text svelte-1vwmbsx"><div class="save-entry save-perception-entry svelte-1vwmbsx"><div class="save-name svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Perception</p></div></div> <div class="save-value svelte-1vwmbsx"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+2</p></div></div> </div></div></div></div></div><div class="statblock-item-container property-container "><div class="line senses svelte-1rketb6"><span class="property-name svelte-1rketb6">Senses</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Blindsight 10 ft., Passive Perception 12</p></div></div></div><div class="statblock-item-container property-container "><div class="line languages svelte-1rketb6"><span class="property-name svelte-1rketb6">Languages</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">—</p></div></div></div><div class="statblock-item-container inline-container statblock-item-inline"><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Challenge</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">2 (450 XP)</p></div></div></div></div><div class="statblock-inline-item property-container"><div class="statblock-item-container property-container "><div class="line cr svelte-1rketb6"><span class="property-name svelte-1rketb6">Proficiency Bonus</span> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">+2</p></div></div></div></div></div><div class="statblock-item-container rule-container"><div class="tapered-rule svelte-k72li0"></div></div><div class="statblock-item-container traits-container "><div class="statblock-section-heading"><h3 class="section-header actions svelte-1ascaxr"><div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div></h3></div><div class="statblock-item-container statblock-trait-prop"><div class="property multiattack actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Multiattack</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">The snake makes one Bite attack and uses Constrict.</p></div> </div></div></div><div class="statblock-item-container statblock-trait-prop"><div class="property bite actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Bite</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Melee Weapon Attack: +6 to hit, reach 10 ft. Hit: 11 (2d6 + 4) Piercing damage.</p></div> </div></div><div class="statblock-item-container statblock-trait-prop"><div class="property constrict actions trait svelte-1d2gp4n"><div class="property-name trait-name svelte-1d2gp4n"><div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">Constrict</p></div></div> <div class="statblock-markdown svelte-1c3hzq4"><p dir="auto">str 14, one Large or smaller creature the snake can see within 10 feet. {@actSaveFail} 13 (2d8 + 4) Bludgeoning damage, and the target has the Grappled|XPHB condition (escape 14).</p></div> </div></div></div></div></div> <div class="bar svelte-zyyfbl"></div></div> <div class="icons svelte-1unaafm"></div></div></div></div>
+
+---
+
+## In The Shattered Sea
+
+Giant constrictor snakes belong wherever land and water refuse to separate cleanly: mangrove cuts, flooded channels, rain pools, abandoned terraces, river mouths, and low jungle paths that become water after a storm. In the Shattered Sea, their broadest useful range is the southern [[places/midchain/index|Midchain]], where close islands, shifting channels, and rainforest margins give a Huge swimmer too many places to wait. Pilots talk about them as a route problem because the same sheltering back channel that hides a boat can also hide a coil under the roots. ^\[inferred]
+
+The clearest local concentration is the eastern [[Verdant-Teeth|Verdant Teeth]], especially the flooded channel between [[Dreth|Dreth]] and [[Orak|Orak]]. There the water reads more like drowned jungle than open sea: roots overhead, flat dark water below, and enough grung movement inland that outsiders cannot tell which paths are kept clear by design and which are left to the snakes. ^\[inferred]
+
+They are not limited to Grung territory. [[Veth|Veth]] can have them along the wet margins above the trade path, and the eastern side of [[Calders-Tooth|Calder's Tooth]] has the right mudflat ecology around [[South-Harbour|South Harbour]] and [[Oshas-Slip|Osha's Slip]]. In settled places, the animal is less a wilderness encounter than a tide-timing hazard: something that takes river-eels, dogs, crab traps, and eventually a person who steps where the mud breathes wrong. ^\[inferred]
+
+## Habitat Pattern
+
+- **Core range:** southern [[places/midchain/index|Midchain]] flooded channels, mangroves, and rainforest water margins.
+- **Dense local range:** the [[Dreth|Dreth]]-[[Orak|Orak]] channel and other wet eastern Verdant Teeth paths.
+- **Settled-edge range:** [[Oshas-Slip|Osha's Slip]], [[South-Harbour|South Harbour]] mudflats, and other tidal estuaries where people work close to dark water.
+- **Likely signs:** dragged crab traps, flattened reed tunnels, missing dogs or goats, mud furrows wider than a canoe, and birds lifting all at once from a channel before anything surfaces. ^\[inferred]

@@ -26,7 +26,7 @@ Calder's Tooth rises at the western mouth of the [[Central-Strait|Central Strait
 
 [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] is the island's official face — cannon on the seaward cliff, inspection pier at the harbour entrance, every ship through the Strait expected to pause and answer questions. But the island is larger than Tidefall's reach. Away from the fort guns there are villages, cliff-net hamlets, and coastline the Crown has not fully gotten around to pricing. The Strait begins here. So does the taxation.
 
-The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelter [[beastiary/giant-bat|giant bats]], root-torn ridge tracks carry [[beastiary/giant-boar|giant boar]] sign, and the open switchbacks are wide enough for [[beastiary/giant-axe-beak|giant axe beaks]] to pace wagons before striking. Villages along the wet side know to check old cisterns for [[beastiary/giant-wolf-spider|giant wolf spiders]] before sending children for water. Tidefall's walls keep out people better than they keep out the island.
+The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelter [[beastiary/beasts/giant-bat|giant bats]], root-torn ridge tracks carry [[beastiary/beasts/giant-boar|giant boar]] sign, and the open switchbacks are wide enough for [[beastiary/beasts/giant-axe-beak|giant axe beaks]] to pace wagons before striking. Villages along the wet side know to check old cisterns for [[beastiary/beasts/giant-wolf-spider|giant wolf spiders]] before sending children for water. Tidefall's walls keep out people better than they keep out the island.
 
 ---
 
@@ -66,10 +66,10 @@ Crossing the island means mud, fog, ridge country, tolls, and roads that behave 
 
 ## Hazards
 
-- [[beastiary/giant-bat|Giant bats]] — fog gullies and sinkholes.
-- [[beastiary/giant-boar|Giant boar]] — root-torn ridge tracks.
-- [[beastiary/giant-axe-beak|Giant axe beaks]] — open switchbacks and ridge roads. ^\[inferred]
-- [[beastiary/giant-wolf-spider|Giant wolf spiders]] — old cisterns and neglected wet-side structures.
+- [[beastiary/beasts/giant-bat|Giant bats]] — fog gullies and sinkholes.
+- [[beastiary/beasts/giant-boar|Giant boar]] — root-torn ridge tracks.
+- [[beastiary/beasts/giant-axe-beak|Giant axe beaks]] — open switchbacks and ridge roads. ^\[inferred]
+- [[beastiary/beasts/giant-wolf-spider|Giant wolf spiders]] — old cisterns and neglected wet-side structures.
 
 ---
 

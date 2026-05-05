@@ -32,7 +32,7 @@ There is no dock, no welcome fire, and no beach worth naming. A skiff has to fin
 
 Keth-Naar guides do not speak loudly on the crossing. They keep their hands visible, leave hooks covered, and do not bring fresh blood onto the rock.
 
-Vel-Orn has few animals because there is little to eat, which makes any sign of life stand out. [[beastiary/giant-bat|Giant bats]] sometimes cling under the black overhangs, and [[beastiary/swarm-of-ravens|ravens]] gather after offerings or wreckage wash ashore. Local guides treat both as practical hazards and bad company around a place already heavy with debt.
+Vel-Orn has few animals because there is little to eat, which makes any sign of life stand out. [[beastiary/beasts/giant-bat|Giant bats]] sometimes cling under the black overhangs, and [[beastiary/beasts/swarm-of-ravens|ravens]] gather after offerings or wreckage wash ashore. Local guides treat both as practical hazards and bad company around a place already heavy with debt.
 
 ---
 

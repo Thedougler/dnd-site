@@ -24,7 +24,7 @@ Watchers leave marks in paired sets: one for what was seen, one for who must be 
 
 Lately, the warning patterns have been arriving wrong.
 
-Meth-Var has little cover for ground predators, which makes the threats that do land there more obvious and less comforting. [[beastiary/giant-vulture|Giant vultures]] wait out bad weather on the lee rocks, [[beastiary/giant-bat|giant bats]] crowd the signal caves when storms push them off their usual routes, and watchers still mark possible [[beastiary/harpy|harpy]] calls separately from wind noise. A warning post that stops listening is just a rock.
+Meth-Var has little cover for ground predators, which makes the threats that do land there more obvious and less comforting. [[beastiary/beasts/giant-vulture|Giant vultures]] wait out bad weather on the lee rocks, [[beastiary/beasts/giant-bat|giant bats]] crowd the signal caves when storms push them off their usual routes, and watchers still mark possible [[beastiary/monstrosity/harpy|harpy]] calls separately from wind noise. A warning post that stops listening is just a rock.
 
 ---
 

@@ -35,7 +35,7 @@ From the water, the High Eyrie looks like a dark tooth driven up through the sea
 
 Non-flying visitors arrive by invitation, carried harness, magic, or a very deliberate climbing operation watched from above. There is an emergency stair cut into the southern face, but it stops well above the waterline. Nobody sensible mistakes it for an entrance.
 
-The stack's height keeps out most land predators, but the air has its own scavengers. [[beastiary/giant-vulture|Giant vultures]] ride the thermals below the monastery after storms, and Sentinel ledgers occasionally note larger shadows crossing the eastern light. Sailors call those shadows [[beastiary/roc|rocs]] when they are feeling dramatic; the Sentinels only record wingspan, heading, and time.
+The stack's height keeps out most land predators, but the air has its own scavengers. [[beastiary/beasts/giant-vulture|Giant vultures]] ride the thermals below the monastery after storms, and Sentinel ledgers occasionally note larger shadows crossing the eastern light. Sailors call those shadows [[beastiary/monstrosity/roc|rocs]] when they are feeling dramatic; the Sentinels only record wingspan, heading, and time.
 
 ---
 

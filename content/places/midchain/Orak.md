@@ -21,7 +21,7 @@ The second of the two eastern [[Verdant-Teeth|Verdant Teeth]], sitting close eno
 
 Less militarized than Karath. Still Grung territory.
 
-Orak's danger is low, wet, and patient. [[beastiary/giant-frog|Giant frogs]] sit half-buried along the channel edge, [[beastiary/giant-constrictor-snake|giant constrictor snakes]] hold the darker root water between Orak and [[Dreth|Dreth]], [[beastiary/giant-spider|giant spiders]] bridge the root gaps above animal paths, and [[beastiary/swarm-of-venomous-snakes|venomous snake swarms]] gather in warm hollows after rain. Grung scouts move through it like a known street. Outsiders do not.
+Orak's danger is low, wet, and patient. [[beastiary/beasts/giant-frog|Giant frogs]] sit half-buried along the channel edge, [[beastiary/beasts/giant-constrictor-snake|giant constrictor snakes]] hold the darker root water between Orak and [[Dreth|Dreth]], [[beastiary/beasts/giant-spider|giant spiders]] bridge the root gaps above animal paths, and [[beastiary/beasts/swarm-of-venomous-snakes|venomous snake swarms]] gather in warm hollows after rain. Grung scouts move through it like a known street. Outsiders do not.
 
 ---
 

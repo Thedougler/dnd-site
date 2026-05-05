@@ -62,7 +62,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon
 >
 > \*When it hunts, it executes a calculated atrocity. It rakes its immense scythe across the hulls of our fragile vessels with the mechanical precision of an industrial press, dragging crippled ships and screaming men down into the abyss. This beast possesses a profound, predatory intellect; it knows the ship is merely a floating tin of meat. They have been known to launch their massive bulk alongside panicked crews, using that hooked appendage to tear down rigging or pluck sailors directly into the dark. In its black eye, there is no wondrous majesty—only the inescapable truth that we are not the masters of the water, but simply the harvest.
 
-### Ch.13 - [[beastiary/Leviathan|Leviathan]]
+### Ch.13 - [[beastiary/sea-life/Leviathan|Leviathan]]
 
 > _The true terror of this titan is not merely its staggering immensity, but the agonizing omen of its arrival. The Leviathan is a furnace of primordial malice. Long before it breaks the surface, the sea itself begins to scream in protest._
 >
@@ -74,10 +74,10 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon
 
 _Common item. No attunement required. Non-magical._
 
-A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[party/Perrin-Black-Jaw|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[beastiary/Leviathan]]).
+A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[party/Perrin-Black-Jaw|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[beastiary/sea-life/Leviathan]]).
 
 ## Connections
 
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]] — author
 - [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — current holder
-- [[beastiary/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy
+- [[beastiary/sea-life/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy

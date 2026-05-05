@@ -25,7 +25,7 @@ The Sunken Crown is a small island region in the [[Outer-Reach|Outer Reach]], no
 
 Colonial charts thin out before these waters. Most pilots treat the region as a rumour or a navigation note to avoid. The people who live here have been here longer than any outside record acknowledges.
 
-On land, the Sunken Crown is lean rather than lush. [[beastiary/giant-lizard|Giant lizards]] bask on the black stone, [[beastiary/giant-bat|giant bats]] crowd wind-cut caves, and scavenger birds gather wherever storm or tide leaves food behind. The Tabaxi of Keth-Naar know these threats by season and rock face. Outsiders mostly know them by surprise.
+On land, the Sunken Crown is lean rather than lush. [[beastiary/beasts/giant-lizard|Giant lizards]] bask on the black stone, [[beastiary/beasts/giant-bat|giant bats]] crowd wind-cut caves, and scavenger birds gather wherever storm or tide leaves food behind. The Tabaxi of Keth-Naar know these threats by season and rock face. Outsiders mostly know them by surprise.
 
 ---
 
@@ -35,7 +35,7 @@ The Blue Hole occupies the majority of the Sunken Crown. From any high point on 
 
 The waters around the Blue Hole have been unsettled lately. Currents reversing without warning, fish avoiding channels they have always run, weather turning faster than the sky gives notice.
 
-The Crown's ordinary dangers gather around the edge of the drop: [[beastiary/reef-shark|reef sharks]] in the shallows, [[beastiary/giant-octopus|giant octopuses]] in the cracks, and larger shadows below the indigo line. Outsiders use the word [[Sawek|Sawek]] too freely for anything that waits in a blue hole, but local watchers are more careful. Some shapes are predators. Some are old enough that naming them feels like an invitation. A [[dragon-turtle-wyrmling|dragon turtle wyrmling]] report is treated differently from the old island-sized stories: heat on the water, steam without weather, and a shell-ridge small enough to vanish between reef channels.
+The Crown's ordinary dangers gather around the edge of the drop: [[beastiary/sea-life/reef-shark|reef sharks]] in the shallows, [[beastiary/beasts/giant-octopus|giant octopuses]] in the cracks, and larger shadows below the indigo line. Outsiders use the word [[Sawek|Sawek]] too freely for anything that waits in a blue hole, but local watchers are more careful. Some shapes are predators. Some are old enough that naming them feels like an invitation. A [[dragon-turtle-wyrmling|dragon turtle wyrmling]] report is treated differently from the old island-sized stories: heat on the water, steam without weather, and a shell-ridge small enough to vanish between reef channels.
 
 ---
 
@@ -93,17 +93,17 @@ Getting here requires crossing east of the Drowned Maw into the Outer Reach — 
 
 ## Hazards
 
-- [[beastiary/giant-lizard|Giant lizards]] — common on black stone after storms and rain.
-- [[beastiary/giant-bat|Giant bats]] — roost in wind-cut caves and exposed cracks.
-- [[beastiary/giant-wolf-spider|Giant wolf spiders]] — nest where old paths and shelters fall out of use.
-- [[beastiary/giant-vulture|Giant vultures]] — wait out weather on exposed lee rocks around Meth-Var.
-- [[beastiary/swarm-of-ravens|Raven swarms]] — gather where offerings, storm-killed fish, or wreckage are left too long.
-- [[beastiary/reef-shark|Reef sharks]] — patrol the shallows around the Blue Hole's edge.
-- [[beastiary/giant-octopus|Giant octopuses]] — use cracks and drop-off shelter near the Blue Hole.
+- [[beastiary/beasts/giant-lizard|Giant lizards]] — common on black stone after storms and rain.
+- [[beastiary/beasts/giant-bat|Giant bats]] — roost in wind-cut caves and exposed cracks.
+- [[beastiary/beasts/giant-wolf-spider|Giant wolf spiders]] — nest where old paths and shelters fall out of use.
+- [[beastiary/beasts/giant-vulture|Giant vultures]] — wait out weather on exposed lee rocks around Meth-Var.
+- [[beastiary/beasts/swarm-of-ravens|Raven swarms]] — gather where offerings, storm-killed fish, or wreckage are left too long.
+- [[beastiary/sea-life/reef-shark|Reef sharks]] — patrol the shallows around the Blue Hole's edge.
+- [[beastiary/beasts/giant-octopus|Giant octopuses]] — use cracks and drop-off shelter near the Blue Hole.
 - [[Sawek|Sawek]] — a name outsiders use too freely for large blue-hole shadows; local watchers are more careful.
 - [[dragon-turtle-wyrmling|Dragon turtle wyrmlings]] — recent scalded-rope report at Meth-Var, likely near the Blue Hole edge. ^\[inferred]
-- [[beastiary/dragon-turtle|Dragon turtles]] — older and larger rumours in the farther Outer Reach.
-- [[beastiary/harpy|Harpies]] — possible calls are marked separately from wind noise by Meth-Var watchers.
+- [[beastiary/dragons/dragon-turtle|Dragon turtles]] — older and larger rumours in the farther Outer Reach.
+- [[beastiary/monstrosity/harpy|Harpies]] — possible calls are marked separately from wind noise by Meth-Var watchers.
 
 ---
 

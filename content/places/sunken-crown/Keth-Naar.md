@@ -33,7 +33,7 @@ The catches have been thin lately, and the weather around the Blue Hole has been
 
 Keth-Naar is where [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] came ashore after the _Vestra_ was destroyed near the Maw. By the time the story reached the settlement, the useful details were not the name of the monster but the signs that came before it: still water, heat through the hull, steam where there should have been spray, and a strike from below.
 
-Local watchers treat that account as a warning about the deep line between Keth-Naar and the [[Drowned-Maw|Drowned Maw]]. Outsiders argue whether Perrin survived a [[beastiary/Leviathan|Leviathan]] attack or an [[ancient-dragon-turtle|ancient dragon turtle]] strike. Keth-Naar's hunters are less interested in the name than in the pattern: when the Blue Hole goes quiet and the birds leave early, nobody sensible takes a boat over the indigo edge. ^\[ambiguous]
+Local watchers treat that account as a warning about the deep line between Keth-Naar and the [[Drowned-Maw|Drowned Maw]]. Outsiders argue whether Perrin survived a [[beastiary/sea-life/Leviathan|Leviathan]] attack or an [[ancient-dragon-turtle|ancient dragon turtle]] strike. Keth-Naar's hunters are less interested in the name than in the pattern: when the Blue Hole goes quiet and the birds leave early, nobody sensible takes a boat over the indigo edge. ^\[ambiguous]
 
 ---
 
@@ -45,7 +45,7 @@ The lower stone is threaded with tidal pools and stone channels that guide fish 
 
 The Lookout Stone rises forty feet above everything else at the island's eastern edge, steps worn into its face, a flat platform at the top with sightlines in all directions. From there, the Blue Hole is visible below — the boundary between the turquoise shallows and the deep indigo, clean as a cut, with the small shrine island at its centre.
 
-Most land threats on Keth-Naar are known by route and season. [[beastiary/giant-lizard|Giant lizards]] warm themselves on black stone after rain, [[beastiary/giant-bat|giant bats]] roost in the higher caves, and [[beastiary/giant-wolf-spider|giant wolf spiders]] nest where old paths fall out of use. Local hunters do not make the island safe by denying those things. They make it safe by remembering where they were last seen.
+Most land threats on Keth-Naar are known by route and season. [[beastiary/beasts/giant-lizard|Giant lizards]] warm themselves on black stone after rain, [[beastiary/beasts/giant-bat|giant bats]] roost in the higher caves, and [[beastiary/beasts/giant-wolf-spider|giant wolf spiders]] nest where old paths fall out of use. Local hunters do not make the island safe by denying those things. They make it safe by remembering where they were last seen.
 
 ---
 

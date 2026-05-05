@@ -86,7 +86,7 @@ A sailor running the Strait east has a sequence of landmarks to fix position aga
 
 ## Hazards
 
-Most Strait danger is routine enough to become background noise. [[beastiary/reef-shark|Reef sharks]] work the shallows and the reef approaches on both shores. [[beastiary/hunter-shark|Hunter sharks]] range through the deeper lanes, particularly along the Harwick Reach where Yard waste enters the water. The occasional [[beastiary/giant-octopus|giant octopus]] occupies wreckage around Sandtable Shoal or the Spillback limestone, which is annoying primarily for divers running salvage but occasionally relevant to moored vessels.
+Most Strait danger is routine enough to become background noise. [[beastiary/sea-life/reef-shark|Reef sharks]] work the shallows and the reef approaches on both shores. [[beastiary/sea-life/hunter-shark|Hunter sharks]] range through the deeper lanes, particularly along the Harwick Reach where Yard waste enters the water. The occasional [[beastiary/beasts/giant-octopus|giant octopus]] occupies wreckage around Sandtable Shoal or the Spillback limestone, which is annoying primarily for divers running salvage but occasionally relevant to moored vessels.
 
 The exception sailors talk around rather than directly is the [[Sawek|Sawek]], a blue-hole predator associated with the darker channels in the southern Midchain approaches. Its range in the open Strait is unclear. Pilots do not treat deep, still water in the Strait as empty water, particularly in the sections of the Blue Lane where the bottom drops sharply and the current carries warm surface water over cold dark water below.
 
@@ -94,9 +94,9 @@ The exception sailors talk around rather than directly is the [[Sawek|Sawek]], a
 
 ## Piracy
 
-Piracy in the Strait usually arrives wearing paperwork before it raises a flag. Small crews and sharper [[beastiary/pirate-captain|captains]] work the Tidefall Gate approaches, where ships have slowed for inspection or are still settling their trim after paying for it. The Kalowe Run's southern approaches are less watched. Ships that come off the Blue Lane early or run close to the Midchain reef faces are further from Crown patrols than they sometimes realise.
+Piracy in the Strait usually arrives wearing paperwork before it raises a flag. Small crews and sharper [[beastiary/humanoid/pirate-captain|captains]] work the Tidefall Gate approaches, where ships have slowed for inspection or are still settling their trim after paying for it. The Kalowe Run's southern approaches are less watched. Ships that come off the Blue Lane early or run close to the Midchain reef faces are further from Crown patrols than they sometimes realise.
 
-The [[The-Bad-Receipt|Bad Receipt]] is the name merchants lower their voices for along the southern approach: a Kalowe-refit schooner with enough false registry to make a lawful captain hesitate before deciding it is not a legitimate vessel. By the time the decision is made, the closing speed has already narrowed the options. Larger fears belong farther east. If the [[The-Glass-Debt|Glass Debt]] or [[The-Velvet-Noose|Velvet Noose]] is reported anywhere near the Strait, convoys consolidate, Crown patrols stop pretending the schedule is normal, and people start using the word [[beastiary/pirate-admiral|admiral]] where they would usually say captain.
+The [[The-Bad-Receipt|Bad Receipt]] is the name merchants lower their voices for along the southern approach: a Kalowe-refit schooner with enough false registry to make a lawful captain hesitate before deciding it is not a legitimate vessel. By the time the decision is made, the closing speed has already narrowed the options. Larger fears belong farther east. If the [[The-Glass-Debt|Glass Debt]] or [[The-Velvet-Noose|Velvet Noose]] is reported anywhere near the Strait, convoys consolidate, Crown patrols stop pretending the schedule is normal, and people start using the word [[beastiary/humanoid/pirate-admiral|admiral]] where they would usually say captain.
 
 ---
 

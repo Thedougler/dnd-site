@@ -44,9 +44,9 @@ Charts for the Midchain contradict each other because the Midchain keeps changin
 
 Prevailing winds turn more westerly near the [[Doldrums|Doldrums]], creating back channels useful for westbound ships trying to avoid Strait inspection. Dravosi patrol cutters run intercept routes through the more predictable lanes, which is one reason experienced captains prefer the less predictable ones.
 
-The same back channels that hide a ship also hide teeth. Deep blue holes are avoided unless a pilot knows them by name, because [[Sawek|Sawek]] lairs look like useful shelter until something moves below the keel. Mangrove cuts and river mouths add their own hazards: [[beastiary/giant-crocodile|giant crocodiles]], [[beastiary/giant-constrictor-snake|giant constrictor snakes]] waiting under root mats and flooded banks, and enough lesser reef predators that local pilots talk about water color the way farmers talk about weather.
+The same back channels that hide a ship also hide teeth. Deep blue holes are avoided unless a pilot knows them by name, because [[Sawek|Sawek]] lairs look like useful shelter until something moves below the keel. Mangrove cuts and river mouths add their own hazards: [[beastiary/beasts/giant-crocodile|giant crocodiles]], [[beastiary/beasts/giant-constrictor-snake|giant constrictor snakes]] waiting under root mats and flooded banks, and enough lesser reef predators that local pilots talk about water color the way farmers talk about weather.
 
-The Midchain is also where small piracy becomes geography. A cutter like [[Knifes-Wake|the Knife's Wake]] can disappear through channels a frigate captain refuses to enter, and ordinary [[beastiary/pirate|pirate]] crews survive by knowing which reef turn is real and which one exists only on a Crown chart. The [[The-Bad-Receipt|Bad Receipt]] is a more organized version of the same problem, working Kalowe repairs, false papers, and southern Strait traffic into one business. When sailors talk about the [[The-Glass-Debt|Glass Debt]] in the Midchain, they are usually talking about convoy routes getting expensive.
+The Midchain is also where small piracy becomes geography. A cutter like [[Knifes-Wake|the Knife's Wake]] can disappear through channels a frigate captain refuses to enter, and ordinary [[beastiary/humanoid/pirate|pirate]] crews survive by knowing which reef turn is real and which one exists only on a Crown chart. The [[The-Bad-Receipt|Bad Receipt]] is a more organized version of the same problem, working Kalowe repairs, false papers, and southern Strait traffic into one business. When sailors talk about the [[The-Glass-Debt|Glass Debt]] in the Midchain, they are usually talking about convoy routes getting expensive.
 
 ---
 
@@ -131,18 +131,18 @@ Not every Midchain hazard lives in the water or waits at the beach. The larger s
 
 ## Hazards
 
-- [[beastiary/ancient-black-dragon|Ancient black dragon]] — Aruhe; the real reason the island is abandoned and the Grung won't land on it.
+- [[beastiary/dragons/ancient-black-dragon|Ancient black dragon]] — Aruhe; the real reason the island is abandoned and the Grung won't land on it.
 - [[Sawek|Sawek]] — apex sinkhole predators whose lairs can look like useful shelter from above.
-- [[beastiary/giant-crocodile|Giant crocodiles]] — mangrove cuts and river mouths.
-- [[beastiary/swarm-of-piranhas|Swarms of piranhas]] — interior freshwater lakes and spring pools, especially Vatumei; lower casks on a line, don't wade.
-- [[beastiary/giant-constrictor-snake|Giant constrictor snakes]] — flooded channels, mangrove cuts, river mouths, and rainforest margins.
-- [[beastiary/giant-frog|Giant frogs]] — flooded cuts, rain pools, and abandoned terraces.
-- [[beastiary/giant-ape|Giant apes]] — southern rainforest interiors, especially larger islands near the Verdant Teeth. ^\[inferred]
-- [[beastiary/giant-spider|Giant spiders]] — high canopy, abandoned brush, and Verdant Teeth interiors.
+- [[beastiary/beasts/giant-crocodile|Giant crocodiles]] — mangrove cuts and river mouths.
+- [[beastiary/beasts/swarm-of-piranhas|Swarms of piranhas]] — interior freshwater lakes and spring pools, especially Vatumei; lower casks on a line, don't wade.
+- [[beastiary/beasts/giant-constrictor-snake|Giant constrictor snakes]] — flooded channels, mangrove cuts, river mouths, and rainforest margins.
+- [[beastiary/beasts/giant-frog|Giant frogs]] — flooded cuts, rain pools, and abandoned terraces.
+- [[beastiary/beasts/giant-ape|Giant apes]] — southern rainforest interiors, especially larger islands near the Verdant Teeth. ^\[inferred]
+- [[beastiary/beasts/giant-spider|Giant spiders]] — high canopy, abandoned brush, and Verdant Teeth interiors.
 - [[giant-scorpion|Giant scorpions]] — dry-stacked terrace walls, limestone ridge faces, and sun-warmed rock above the treeline.
-- [[beastiary/giant-venomous-snake|Giant venomous snakes]] — warm limestone, terrace walls, and reef-island brush.
-- [[beastiary/giant-wasp|Giant wasps]] — crane works, roof beams, and rainforest canopies.
-- [[beastiary/pirate|Pirates]] — crews using local channels, false papers, and becalmed ships as opportunity.
+- [[beastiary/beasts/giant-venomous-snake|Giant venomous snakes]] — warm limestone, terrace walls, and reef-island brush.
+- [[beastiary/beasts/giant-wasp|Giant wasps]] — crane works, roof beams, and rainforest canopies.
+- [[beastiary/humanoid/pirate|Pirates]] — crews using local channels, false papers, and becalmed ships as opportunity.
 
 ---
 

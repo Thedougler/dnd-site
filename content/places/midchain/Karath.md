@@ -22,7 +22,7 @@ Karath looks like the other [[Verdant-Teeth|Verdant Teeth]] from the water — l
 
 [[Midchain|The Midchain]] coastal settlements have noticed the raids out of this direction have been getting worse. [[Chain-Council|The Chain Council]] has received the complaints. Whether either of those facts will produce consequences is an open question the people living near the water are watching closely.
 
-Karath's reputation belongs to the grung first, but the island helps maintain it. The forest behind the dart line is known for [[beastiary/giant-spider|giant spiders]], [[beastiary/giant-venomous-snake|giant venomous snakes]], and [[beastiary/giant-toad|giant toads]] in the wet cuts between ridges. Outsiders who imagine the beach is the dangerous part have misunderstood the warning.
+Karath's reputation belongs to the grung first, but the island helps maintain it. The forest behind the dart line is known for [[beastiary/beasts/giant-spider|giant spiders]], [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]], and [[beastiary/beasts/giant-toad|giant toads]] in the wet cuts between ridges. Outsiders who imagine the beach is the dangerous part have misunderstood the warning.
 
 ---
 

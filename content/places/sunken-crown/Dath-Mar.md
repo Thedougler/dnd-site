@@ -30,7 +30,7 @@ Cairns maintained by whoever last used them mark the leeward approaches and the 
 
 Lately the current reversals around the Blue Hole have been making the approach less predictable, and skiffs strand on the wrong side of the rock more often than they used to.
 
-The island is too exposed for a deep jungle, but not too exposed for sheltering animals. [[beastiary/giant-lizard|Giant lizards]] sun against black stone after storms, and [[beastiary/giant-bat|giant bats]] use the higher cracks when weather pins them away from better roosts. Keth-Naar hunters do not treat either as supernatural. They treat them as one more reason to check a cairn before trusting it.
+The island is too exposed for a deep jungle, but not too exposed for sheltering animals. [[beastiary/beasts/giant-lizard|Giant lizards]] sun against black stone after storms, and [[beastiary/beasts/giant-bat|giant bats]] use the higher cracks when weather pins them away from better roosts. Keth-Naar hunters do not treat either as supernatural. They treat them as one more reason to check a cairn before trusting it.
 
 ---
 

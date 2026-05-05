@@ -69,7 +69,7 @@ Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe
 - [[Beaumonts-Crew|Beaumont's Crew]] — working crew roster
 - [[Bisou|Bisou]] — ship's capuchin
 - [[perren-black-jaw|Perrin Black-Jaw]] — stowed away at [[Keth-Naar|Keth Naar]] after the _Vestra_ went down
-- [[stripes-bitemore|Belmore]] — bargained passage west from Keth Naar
+- [[party/stripes-bitemore|Belmore]] — bargained passage west from Keth Naar
 - [[party/delmar-fisk|Delmar Fisk]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[crissdalynn-khinriss|Crisdalynn Khinriss]] — pulled from driftwood after the fleet sank; riding as passenger
 - [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — boarded at campaign start, pursued across a Midchain island

@@ -56,5 +56,5 @@ The capuchin on his shoulder is [[Bisou]], and she is not decorative. She has be
 - **[[Bisou]]** — capuchin companion; rides his left shoulder
 - **[[crissdalynn-khinriss|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
 - **[[party/delmar-fisk|Delmar Fisk]]** — same
-- **[[stripes-bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
+- **[[party/stripes-bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
 - **[[party/jean-claude-tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island

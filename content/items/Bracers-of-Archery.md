@@ -26,4 +26,4 @@ While wearing these bracers, you have proficiency with the longbow and shortbow,
 
 ## Connections
 
-- [[stripes-bitemore|Stripes Bitemore]] — current holder; attuned
+- [[party/stripes-bitemore|Stripes Bitemore]] — current holder; attuned

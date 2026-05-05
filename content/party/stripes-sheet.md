@@ -199,7 +199,7 @@ _Full inventory pending player confirmation._
 
 ## Backstory
 
-Stripes comes from Keth-Naar, one of five small islands around the Blue Hole at the heart of the Sunken Crown. His tribe has guarded a primal shrine of [[Umberlee]] for generations. When the sea around the Blue Hole began to go wrong, the elders sent their strongest hunter west to find the cause.
+Stripes comes from Keth-Naar, one of five small islands around the Blue Hole at the heart of the Sunken Crown. His tribe has guarded a primal shrine of [[raw/ingested/Umberlee]] for generations. When the sea around the Blue Hole began to go wrong, the elders sent their strongest hunter west to find the cause.
 
 He bartered passage aboard the _[[Saltwright]]_ out of Keth-Naar. Since boarding he has spent the voyage demonstrating his capabilities to the crew — climbing rigging, showing off the bracers, performing. He hasn't noticed there's a passenger in the hold who hasn't introduced himself.
 

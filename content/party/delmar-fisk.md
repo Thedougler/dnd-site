@@ -72,7 +72,7 @@ At his height he commanded a five-ship fleet led by the _Red Lady_: fast, capabl
 
 ## The Red Lady Disaster
 
-The fleet's final commission was the theft of the [[private/lore/questions/Pearl-of-Souls|Pearl of Souls]] from one of [[lore/Umberlee|Umberlee]]'s shrines. The operation ran across all five ships: scouts on the perimeter, an entry team inside the cave, a distraction team holding the main entrance under bombardment. The Pearl was secured. The fleet departed.
+The fleet's final commission was the theft of the [[private/questions/Pearl-of-Souls-Secrets|Pearl of Souls]] from one of [[lore/Umberlee|Umberlee]]'s shrines. The operation ran across all five ships: scouts on the perimeter, an entry team inside the cave, a distraction team holding the main entrance under bombardment. The Pearl was secured. The fleet departed.
 
 [[lore/Umberlee|Umberlee]]'s response was not long in coming. Fog first — so thick the water disappeared from sight around all five ships at once. Then a rogue trench opened beneath the fleet, plunging all five ships eighty feet into a valley of water. The walls closed in and swallowed them whole.
 

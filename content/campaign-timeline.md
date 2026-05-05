@@ -58,7 +58,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **Day −35 (approx.)** — An unknown contractor engages [[Chain-Council|the Chain Council]] to assemble a five-ship fleet under Admiral [[party/delmar-fisk|Delmar Fisk]]. Target: a divine object held in the Blue Shrine on Vel Orn in the [[Sunken-Crown|Sunken Crown]]. The fleet: _Red Lady_ (flagship), _The Narrow_, _Heft_, _Fernen_, _Loud Argument_. Crisdalynn is already two years into her service aboard the Red Lady.
 
-**Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[stripes-bitemore|Belmore]]'s tribe has been watching the seas turn wrong for days.
+**Day −7** — Fisk's fleet passes [[Keth-Naar|Keth Naar]] en route to Vel Orn. [[party/stripes-bitemore|Belmore]]'s tribe has been watching the seas turn wrong for days.
 
 **Day −6** — Fisk's fleet successfully takes the [[items/Pearl-of-Souls|Pearl of Souls]] from Umberlee's shrine at Vel Orn. The Pearl departs aboard the _Red Lady_.
 

@@ -51,7 +51,7 @@ It is an ambush predator, the tentacles emerge from the entrance and grab whatev
 
 - [[Coralyra-Dranra]] — was inked by a sawek prior to the campaign
 - [[Kalowe|Kalowe]] — reef divers here use the indigenous name; mark claimed holes with knotted cord
-- [[The-Grandfather-Hole]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
+- [[The-Grandfather-Hole-Secrets]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
 - [[Whip-Shark]] — co-listed in [[Midchain|Midchain]] maritime creature lore
 - [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[perren-black-jaw|Perrin Black-Jaw]] carries this text
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]

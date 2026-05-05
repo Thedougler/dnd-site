@@ -36,7 +36,7 @@ This wiki is your table reference: the world as your characters know it, the rul
 
 You start at **Level 3** aboard the _[[Saltwright|Saltwright]]_, a hard-used merchant brig working a dangerous [[Midchain|Midchain]] route. Bring a character with a reason to be on the water, a problem that can follow them into port, and a reason to stay with the crew when leaving would be easier.
 
-- [[stripes-bitemore|Belmore]] — tiger tabaxi fighter and primal shrine guardian trying to set the seas right.
+- [[party/stripes-bitemore|Belmore]] — tiger tabaxi fighter and primal shrine guardian trying to set the seas right.
 - [[party/delmar-fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
 - [[crissdalynn-khinriss|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
 - [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.

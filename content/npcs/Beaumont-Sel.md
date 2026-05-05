@@ -31,7 +31,7 @@ tags:
 
 Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe|Kalowe]] working the [[Midchain|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[Midchain|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
 
-He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[crissdalynn-khinriss|Crisdalynn Khinriss]] and [[party/delmar-fisk|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
+He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] and [[party/Delmar-Fisk|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
 
 ## Appearance
 
@@ -54,7 +54,7 @@ The capuchin on his shoulder is [[Bisou]], and she is not decorative. She has be
 - **[[Saltwright]]** — his vessel; eleven years on the [[Midchain|Midchain]]
 - **[[Beaumonts-Crew|Beaumont's Crew]]** — his working crew
 - **[[Bisou]]** — capuchin companion; rides his left shoulder
-- **[[crissdalynn-khinriss|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
-- **[[party/delmar-fisk|Delmar Fisk]]** — same
-- **[[party/stripes-bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
-- **[[party/jean-claude-tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island
+- **[[Crissdalynn-Khinriss|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
+- **[[party/Delmar-Fisk|Delmar Fisk]]** — same
+- **[[party/Stripes-Bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
+- **[[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[Midchain|Midchain]] island

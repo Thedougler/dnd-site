@@ -123,7 +123,7 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 
 **Legal posture:** Never admits to piracy. The Ship's Logbook Room maintains three competing paper identities: distressed courier, Chain Council survey vessel, and privateer under a commission whose issuing island currently denies knowing it.
 
-**PC gravity:** This ship pressures [[private/players/Delmar-Fisk]] through privateer legitimacy and crew loyalty, [[Perrin-Black-Jaw]] through Passage-adjacent smuggling and ship-loss envy, and [[private/players/Jean-Claude-Tabarnack]] if the prize hold ever carries captives from the [[Verdant-Teeth|Verdant Teeth]] trade.
+**PC gravity:** This ship pressures [[private/players/Delmar-Fisk]] through privateer legitimacy and crew loyalty, [[private/players/Perrin-Black-Jaw]] through Passage-adjacent smuggling and ship-loss envy, and [[private/players/Jean-Claude-Tabarnack]] if the prize hold ever carries captives from the [[Verdant-Teeth|Verdant Teeth]] trade.
 
 ## At The Table
 

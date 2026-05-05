@@ -99,8 +99,8 @@ The Mark goes on the character sheet as a standard mechanical note. Disadvantage
 
 ## Connections
 
-- [[perren-black-jaw|Perrin Black-Jaw]] — Mortis: Strength disadv. / +2 Charisma
-- [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — Mortis: Persuasion + Deception disadv. / Perception + Survival adv.
+- [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Mortis: Strength disadv. / +2 Charisma
+- [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — Mortis: Persuasion + Deception disadv. / Perception + Survival adv.
 
 ## Rule Text
 

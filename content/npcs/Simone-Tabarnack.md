@@ -42,7 +42,7 @@ She was younger than him and always more certain. Where he questioned the system
 
 ## Connections
 
-- [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — her older brother; the one who ran
+- [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — her older brother; the one who ran
 - [[Sorn]] — her garrison post and home island
 - [[Grung-Clans|The Grung Clans]] — the clan and caste structure she serves
 - [[Verdant-Teeth|Verdant Teeth]] — the island cluster she operates from

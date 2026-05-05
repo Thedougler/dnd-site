@@ -16,12 +16,12 @@ tags:
 
 **Musket** · _Delmar Fisk's signature ranged weapon_
 
-One of two named weapons carried by [[party/delmar-fisk|Delmar Fisk]], alongside his rapier [[The-Baroness]]. A musket.
+One of two named weapons carried by [[party/Delmar-Fisk|Delmar Fisk]], alongside his rapier [[The-Baroness]]. A musket.
 
 ---
 
 ## Connections
 
-- [[party/delmar-fisk|Delmar Fisk]] — owner
+- [[party/Delmar-Fisk|Delmar Fisk]] — owner
 - [[The-Baroness]] — paired weapon
 - [[Musket]] — base weapon type

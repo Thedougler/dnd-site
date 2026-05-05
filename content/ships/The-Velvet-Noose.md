@@ -156,7 +156,7 @@ The _Velvet Noose_ can be sailed by sixty but requires a full complement to comm
 
 **Strategic weakness:** She is too large to hide and too expensive to ignore. Every victory creates witnesses, claims, widows, admirals, and clerks. The ship survives by making each enemy ask whether someone else should pay the first cost.
 
-**PC gravity:** The ship pressures [[private/players/Delmar-Fisk]] with the end-stage version of privateer ambition: a fleet, a flag, and no clean law left beneath it. It pressures [[Perrin-Black-Jaw]] with the possibility of a floating power base too public for the Passage's normal methods. It pressures [[private/players/Stripes-Bitemore]] and [[Crisdalynn-Khinriss]] as a magical command platform whose systems reward expertise but corrupt every chain of authority around them.
+**PC gravity:** The ship pressures [[private/players/Delmar-Fisk]] with the end-stage version of privateer ambition: a fleet, a flag, and no clean law left beneath it. It pressures [[private/players/Perrin-Black-Jaw]] with the possibility of a floating power base too public for the Passage's normal methods. It pressures [[private/players/Stripes-Bitemore]] and [[Crisdalynn-Khinriss]] as a magical command platform whose systems reward expertise but corrupt every chain of authority around them.
 
 ## At The Table
 

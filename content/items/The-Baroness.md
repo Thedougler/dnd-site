@@ -16,12 +16,12 @@ tags:
 
 **Rapier** · _Delmar Fisk's signature melee weapon_
 
-One of two named weapons carried by [[party/delmar-fisk|Delmar Fisk]], alongside his musket [[The-Duchess]]. A rapier.
+One of two named weapons carried by [[party/Delmar-Fisk|Delmar Fisk]], alongside his musket [[The-Duchess]]. A rapier.
 
 ---
 
 ## Connections
 
-- [[party/delmar-fisk|Delmar Fisk]] — owner
+- [[party/Delmar-Fisk|Delmar Fisk]] — owner
 - [[The-Duchess]] — paired weapon
 - [[Rapier]] — base weapon type

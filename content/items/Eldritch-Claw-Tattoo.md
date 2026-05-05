@@ -36,7 +36,7 @@ Most Sentinels carry the mark for life.
 
 ## Appearance
 
-Fine lines following the tendons and joints — talons to forearms, tracing the skeleton beneath. On lighter-feathered aarakocra they're visible in any light. On crow-type plumage like [[crissdalynn-khinriss|Crisdalynn's]], they nearly disappear in shadow. In direct light they catch differently than the feathers around them, a slightly different sheen, like ink that hasn't quite dried.
+Fine lines following the tendons and joints — talons to forearms, tracing the skeleton beneath. On lighter-feathered aarakocra they're visible in any light. On crow-type plumage like [[Crissdalynn-Khinriss|Crisdalynn's]], they nearly disappear in shadow. In direct light they catch differently than the feathers around them, a slightly different sheen, like ink that hasn't quite dried.
 
 When the Long Reach activates, the lines darken and move. They don't follow the skin. They reach ahead of the strike, extending further than the arm should, then snap back.
 
@@ -65,14 +65,14 @@ Activate for 1 minute. While active:
 
 ## Crisdalynn's Mark
 
-[[crissdalynn-khinriss|Crisdalynn Khinriss]] received the needle from [[Master-Kyzil|Master Kyzil]] on the same day she received her pilgrimage task. The mark runs across her talons and up her forearms, nearly invisible against her crow plumage. She hasn't remarked on that.
+[[Crissdalynn-Khinriss|Crisdalynn Khinriss]] received the needle from [[Master-Kyzil|Master Kyzil]] on the same day she received her pilgrimage task. The mark runs across her talons and up her forearms, nearly invisible against her crow plumage. She hasn't remarked on that.
 
 ---
 
 ## Connections
 
-- [[crissdalynn-khinriss|Crisdalynn Khinriss]] — current holder; attuned; received from Kyzil alongside her pilgrimage assignment
+- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — current holder; attuned; received from Kyzil alongside her pilgrimage assignment
 - [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — the order that practices and passes on this tattoo art
 - [[Master-Kyzil|Master Kyzil]] — the master who presented Crisdalynn with the needle
 - [[High-Eyrie|High Eyrie]] — where the tradition originates and is sustained
-- [[Crisdalynn-Khinriss-Sheet]] — character sheet
+- [[Crissdalynn-Khinriss-Sheet]] — character sheet

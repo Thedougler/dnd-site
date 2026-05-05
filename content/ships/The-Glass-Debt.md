@@ -143,7 +143,7 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 
 **Reputation:** Wanted by the Dravosi Crown, feared by underinsured merchants, quietly useful to people who need a convoy humiliated, and unwelcome in any port whose harbourmaster cannot be bribed in private.
 
-**PC gravity:** The ship pressures [[private/players/Delmar-Fisk]] through fleet command, lost-captain grief, and the question of what a privateer becomes when law stops pretending. It pressures [[Perrin-Black-Jaw]] as a replacement dream too large to hide from his family obligations. It pressures [[Crisdalynn-Khinriss]] through crow's-nest command, dangerous navigation, and the temptation to fly above problems that still need solving below.
+**PC gravity:** The ship pressures [[private/players/Delmar-Fisk]] through fleet command, lost-captain grief, and the question of what a privateer becomes when law stops pretending. It pressures [[private/players/Perrin-Black-Jaw]] as a replacement dream too large to hide from his family obligations. It pressures [[Crisdalynn-Khinriss]] through crow's-nest command, dangerous navigation, and the temptation to fly above problems that still need solving below.
 
 ## At The Table
 

@@ -44,4 +44,4 @@ She is currently expanding the operation and scouting locations on other islands
 
 ## Connections
 
-- **[[party/delmar-fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record
+- **[[party/Delmar-Fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record

@@ -74,7 +74,7 @@ Patrol boats from the clans don't negotiate. Not twice.
 
 ## [[Fisks-Fleet|Fisk's Fleet]]
 
-Five ships, privateer charter, under [[party/delmar-fisk|Delmar Fisk]]. All hands lost at the [[Drowned-Maw|Drowned Maw]]. That's the official version. Whether you believe it depends on who you ask and how much they've had to drink. Wreck claims are unresolved. Old privateer loyalties don't dissolve cleanly. And conversations have a way of going quiet when Fisk's name comes up.
+Five ships, privateer charter, under [[party/Delmar-Fisk|Delmar Fisk]]. All hands lost at the [[Drowned-Maw|Drowned Maw]]. That's the official version. Whether you believe it depends on who you ask and how much they've had to drink. Wreck claims are unresolved. Old privateer loyalties don't dissolve cleanly. And conversations have a way of going quiet when Fisk's name comes up.
 
 ---
 

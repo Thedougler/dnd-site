@@ -21,11 +21,11 @@ tags:
 
 ## Player character summaries
 
-- [[party/stripes-bitemore|Stripes]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
-- [[party/delmar-fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
-- [[crissdalynn-khinriss|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
-- [[party/jean-claude-tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
-- [[perren-black-jaw|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
+- [[party/Stripes-Bitemore|Stripes]] — tiger tabaxi fighter and primal shrine guardian seeking to set the seas right.
+- [[party/Delmar-Fisk|Delmar Atticus Fisk]] — human privateer, self-styled admiral, and survivor of the _Red Lady_ disaster.
+- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — crow aarakocra monk, cartographer, and survivor of the _Red Lady_ disaster.
+- [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — blue Grung ranger, wanderer, and critic of Grung caste society.
+- [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Rattkin sailor, negotiator, and survivor of the _Vestra_ disaster.
 
 ---
 

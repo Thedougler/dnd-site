@@ -31,7 +31,7 @@ The catches have been thin lately, and the weather around the Blue Hole has been
 
 ## The Wreck Survivor
 
-Keth-Naar is where [[perren-black-jaw|Perrin Black-Jaw]] came ashore after the _Vestra_ was destroyed near the Maw. By the time the story reached the settlement, the useful details were not the name of the monster but the signs that came before it: still water, heat through the hull, steam where there should have been spray, and a strike from below.
+Keth-Naar is where [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] came ashore after the _Vestra_ was destroyed near the Maw. By the time the story reached the settlement, the useful details were not the name of the monster but the signs that came before it: still water, heat through the hull, steam where there should have been spray, and a strike from below.
 
 Local watchers treat that account as a warning about the deep line between Keth-Naar and the [[Drowned-Maw|Drowned Maw]]. Outsiders argue whether Perrin survived a [[beastiary/Leviathan|Leviathan]] attack or an [[ancient-dragon-turtle|ancient dragon turtle]] strike. Keth-Naar's hunters are less interested in the name than in the pattern: when the Blue Hole goes quiet and the birds leave early, nobody sensible takes a boat over the indigo edge. ^\[ambiguous]
 

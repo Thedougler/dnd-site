@@ -18,7 +18,7 @@ tags:
 ![[raw/assets/banners/Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
 A pearl the size of a closed fist. Black as deep water, with an iridescent sheen that shifts under the light in a way that never quite resolves. It is never entirely still. Anyone with a sensitivity to the dead will feel it before they see it.
 
-The Pearl is a divine instrument of [[lore/Umberlee|Umberlee]]. For years it sat in one of her shrines, tended by the [[Waveservants|Waveservants]], doing what it does. [[party/delmar-fisk|Delmar Fisk]] took it. He did not know what it was.
+The Pearl is a divine instrument of [[lore/Umberlee|Umberlee]]. For years it sat in one of her shrines, tended by the [[Waveservants|Waveservants]], doing what it does. [[party/Delmar-Fisk|Delmar Fisk]] took it. He did not know what it was.
 
 What it does: it collects the souls of those who drown in its presence. Passively. Continuously. No activation, no intent required. It does not stop doing this.
 
@@ -40,7 +40,7 @@ No attunement. No activation. The Pearl draws what drowns near it and holds it. 
 
 ## Connections
 
-- [[party/delmar-fisk|Delmar Fisk]] — stole it; fleet was sunk; five captains' souls now pressed into him
+- [[party/Delmar-Fisk|Delmar Fisk]] — stole it; fleet was sunk; five captains' souls now pressed into him
 - [[lore/Umberlee|Umberlee]] — original owner; wants it returned; cannot retrieve it herself
 - [[Waveservants|Waveservants]] — tended the shrine; know what was taken
 - [[Red-Lady|The Red Lady]] — the ship it went down with

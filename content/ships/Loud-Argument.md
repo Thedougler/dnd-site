@@ -36,7 +36,7 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 
 ## Connections
 
-- [[party/delmar-fisk|Delmar Fisk]] — admiral of the fleet
+- [[party/Delmar-Fisk|Delmar Fisk]] — admiral of the fleet
 - [[Red-Lady|The Red Lady]] — flagship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]

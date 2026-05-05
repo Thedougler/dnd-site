@@ -44,5 +44,5 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- **[[party/delmar-fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
+- **[[party/Delmar-Fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
 - **[[The-Duchess|The Duchess]]** — Fisk's musket, named for her

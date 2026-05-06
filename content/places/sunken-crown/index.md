@@ -53,7 +53,7 @@ tags:
 - [[beastiary/beasts/giant-wolf-spider|Giant wolf spiders]] — nest where old paths and shelters fall out of use.
 - [[beastiary/beasts/giant-vulture|Giant vultures]] — wait out weather on exposed lee rocks around Meth-Var.
 - [[beastiary/beasts/swarm-of-ravens|Raven swarms]] — gather where offerings, storm-killed fish, or wreckage are left too long.
-- [[beastiary/sea-life/reef-shark|Reef sharks]] — patrol the shallows around the Blue Hole's edge.
+- [[reef-shark|Reef sharks]] — patrol the shallows around the Blue Hole's edge.
 - [[beastiary/beasts/giant-octopus|Giant octopuses]] — use cracks and drop-off shelter near the Blue Hole.
 - [[Sawek|Sawek]] — a name outsiders use too freely for large blue-hole shadows; local watchers are more careful.
 - [[dragon-turtle-wyrmling|Dragon turtle wyrmlings]] — recent scalded-rope report at Meth-Var, likely near the Blue Hole edge. ^\[inferred]

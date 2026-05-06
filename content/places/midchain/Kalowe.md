@@ -24,7 +24,7 @@ Kalowe is also the normal meeting place of [[Chain-Council|the Chain Council]], 
 
 A Dravosi vessel has been occupying the primary dry-dock berth for eleven days. Its stated stay was three. It has not left, it is not being repaired, and its crew has been asking questions on the causeways that have made the regulars quieter than usual.
 
-The reef gap is not as calm as the lagoon it opens into. [[beastiary/sea-life/hunter-shark|Hunter sharks]] work the current through the gap, following baitfish and the chum trail that dry-dock operations generate without trying. A caulker who fell from a staging barge at the reef mouth came back aboard with a bite across the thigh and a strong opinion about night shifts. The gap now has a rope with a bell on it; the bosses pay for it quietly and don't put it on any official accounting. ^\[inferred]
+The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter sharks]] work the current through the gap, following baitfish and the chum trail that dry-dock operations generate without trying. A caulker who fell from a staging barge at the reef mouth came back aboard with a bite across the thigh and a strong opinion about night shifts. The gap now has a rope with a bell on it; the bosses pay for it quietly and don't put it on any official accounting. ^\[inferred]
 
 Kalowe's monsters are usually the kind ports pretend are not monsters until they interrupt business. [[beastiary/beasts/giant-rat|Giant rats]] and [[beastiary/beasts/swarm-of-rats|rat swarms]] live well under warehouses that never close, and [[beastiary/beasts/giant-wasp|giant wasps]] build in the hot upper works of cranes and roof beams. Harbour bosses pay quietly for those problems to be solved before a customer starts calling them omens.
 

@@ -36,7 +36,7 @@ The Blue Hole occupies the majority of the Sunken Crown. From any high point on 
 
 The waters around the Blue Hole have been unsettled lately. Currents reversing without warning, fish avoiding channels they have always run, weather turning faster than the sky gives notice.
 
-The Crown's ordinary dangers gather around the edge of the drop: [[beastiary/sea-life/reef-shark|reef sharks]] in the shallows, [[beastiary/beasts/giant-octopus|giant octopuses]] in the cracks, and larger shadows below the indigo line. Outsiders use the word [[Sawek|Sawek]] too freely for anything that waits in a blue hole, but local watchers are more careful. Some shapes are predators. Some are old enough that naming them feels like an invitation. A [[dragon-turtle-wyrmling|dragon turtle wyrmling]] report is treated differently from the old island-sized stories: heat on the water, steam without weather, and a shell-ridge small enough to vanish between reef channels.
+The Crown's ordinary dangers gather around the edge of the drop: [[reef-shark|reef sharks]] in the shallows, [[beastiary/beasts/giant-octopus|giant octopuses]] in the cracks, and larger shadows below the indigo line. Outsiders use the word [[Sawek|Sawek]] too freely for anything that waits in a blue hole, but local watchers are more careful. Some shapes are predators. Some are old enough that naming them feels like an invitation. A [[dragon-turtle-wyrmling|dragon turtle wyrmling]] report is treated differently from the old island-sized stories: heat on the water, steam without weather, and a shell-ridge small enough to vanish between reef channels.
 
 ---
 

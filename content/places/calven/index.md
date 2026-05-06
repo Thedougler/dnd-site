@@ -63,7 +63,7 @@ The island's interior farmland runs to grain and root crops, with old orchard ro
 
 ## Fauna
 
-The tidal flats host [[beastiary/beasts/giant-crab|giant crabs]] in numbers — larger individuals in the deeper mud channels, smaller ones swarming the shallows at low water. Crab harvest is one of Calven's oldest industries and one of its least prestigious. The harbour mouth and the southern approaches hold [[beastiary/sea-life/hunter-shark|hunter sharks]], reliable and unsentimental. The city posts warnings; the fishermen already know.
+The tidal flats host [[beastiary/beasts/giant-crab|giant crabs]] in numbers — larger individuals in the deeper mud channels, smaller ones swarming the shallows at low water. Crab harvest is one of Calven's oldest industries and one of its least prestigious. The harbour mouth and the southern approaches hold [[hunter-shark|hunter sharks]], reliable and unsentimental. The city posts warnings; the fishermen already know.
 
 Inland, [[beastiary/beasts/giant-wolf-spider|giant wolf spiders]] occupy the neglected sections of the drainage network, old cisterns, and any structure that has gone unwatched long enough. In Calveno, that means certain buildings in Le Paludi that even the landlords approach cautiously. The island's scrub interior has [[beastiary/beasts/giant-owl|giant owls]], rarely seen during the day, occasionally heard at night across the farmland. They cause problems for livestock and almost nobody else.
 

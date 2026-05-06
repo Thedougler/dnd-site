@@ -17,6 +17,12 @@ tags:
 
 See [[Crown-Islands|The Crown Islands]] for region overview.
 
+- [[Calders-Tooth]]
+- [[Aldenmere]]
+- [[calven|Calven]]
+- [[Harwick]]
+- [[Stenmark]]
+
 ---
 
 ## Islands & Settlements
@@ -47,15 +53,9 @@ The quietest island in the northern arc — farms, fishing fleets, and a small h
 
 The easternmost Crown island. From the eastern cliffs, the Drowned Maw's water discolouration is visible on clear days — the blue-green of the Scatter going flat and dark at the horizon. A Crown signal station watches the Maw edge and files monthly reports nobody cross-references as often as they should.
 
-### The High Eyrie
+### [[High-Eyrie|The High Eyrie]]
 
-- [[High-Eyrie|The High Eyrie]] — basalt sea-stack monastery of the Sentinels of the Eyrie; the Tail's main inhabited anchorage.
-
----
-
-## NPCs
-
-- [[Master-Kyzil|Master Kyzil]] — senior master of the Sentinels of the Eyrie; barn owl aarakocra, quiet authority.
+A basalt sea-stack monastery of the Sentinels of the Eyrie; the Tail's main watch post.
 
 ---
 

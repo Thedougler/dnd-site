@@ -8,7 +8,6 @@ title: Clyde's Bestiary of Oceanic Creatures
 created: 2026-04-15
 modified: 2026-05-03
 tags:
-  - arcane
   - maritime
 cssclasses:
   - wiki-item
@@ -54,7 +53,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon
 >
 > \*The divers leave only a pathetic piece of string staked near its lair to warn others—a fragile, heartbreaking gesture staked against the murderous, unfeeling indifference of the ocean.
 
-### Ch.7 - Welak
+### Ch.7 - [[Whip-Shark]]
 
 > _Look at the churning currents of the [[Shattered-Sea|Shattered Sea]]. Here, evolution is not a benevolent designer, but a blind, raving lunatic that has forged the Welak—or the **[[Whip-Shark]]**, as naive sailors call it. It is a terrifying monument to destruction, reaching fifty-five feet in length. Thirty-five feet of this is a torpedo of cartilaginous muscle built for the punishing void, while the remaining twenty feet tapers into a dense whip terminating in a recurved, bone-shattering sickle._
 >

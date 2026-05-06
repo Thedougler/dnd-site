@@ -181,4 +181,4 @@ The _Velvet Noose_ can be sailed by sixty but requires a full complement to comm
 - [[The-Below]] — The Below
 - [[Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Delmar-Fisk]] — Delmar Fisk
-- [[stripes-bitemore]] — Stripes Bitemore
+- [[party/Stripes-Bitemore]] — Stripes Bitemore

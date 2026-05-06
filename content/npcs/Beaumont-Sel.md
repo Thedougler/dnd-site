@@ -63,4 +63,4 @@ The capuchin on his shoulder is [[Bisou]], and she is not decorative. She has be
 
 - [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
 - [[Delmar-Fisk]] — Delmar Fisk
-- [[stripes-bitemore]] — Stripes Bitemore
+- [[party/Stripes-Bitemore]] — Stripes Bitemore

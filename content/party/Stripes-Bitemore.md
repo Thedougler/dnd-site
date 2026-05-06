@@ -2,14 +2,13 @@
 publish: true
 permalink: /party/Stripes-Bitemore.md
 aliases:
-  - Stripes Bitemore
   - Stripes
 title: Stripes Bitemore
 created: 2026-04-29
 modified: 2026-05-03
 tags:
-  - - - Tabaxi
-  - - - Fighter
+  - Tabaxi
+  - Fighter
 ---
 
 # Stripes Bitemore

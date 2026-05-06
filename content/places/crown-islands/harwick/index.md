@@ -18,6 +18,7 @@ tags:
 
 # Harwick — Index
 
+![[raw/assets/1778027612063~2 1.png]]
 See [[Harwick]] for island overview.
 
 ---

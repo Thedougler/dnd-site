@@ -18,6 +18,8 @@ tags:
 
 # Stenmark
 
+![[raw/assets/1778027722232~2 1.png]]
+
 ## Overview
 
 Stenmark is the easternmost island in the [[places/crown-islands/index|Crown Islands]] — the last Dravosi flag before the [[Drowned-Maw|Drowned Maw]]. The name is old: _sten-mark_, stone border. Whoever named it was not being poetic. From the eastern cliffs on a clear day, the water changes colour where the Maw begins — the blue-green of the Scatter going flat and dark, a shade that has no bottom in it. The threshold is visible from shore. People who live on Stenmark have looked at that line their entire lives.

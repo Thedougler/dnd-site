@@ -14,6 +14,7 @@ tags:
 
 # [[High-Eyrie-Secrets|The High Eyrie]]
 
+![[raw/assets/1778025863567~2.png]]
 ![[raw/assets/banners/The-High-Eyrie.webp|Stone fortress monastery perched on a sheer sea stack above dark water]]
 
 ## Overview

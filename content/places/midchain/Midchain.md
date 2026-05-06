@@ -17,6 +17,7 @@ tags:
 
 # The Midchain
 
+![[raw/assets/1778025598810~2.png]]
 ![[raw/assets/banners/The-Midchain.webp|Cluster of lush Midchain islands surrounded by bright reef water and deep channels]]
 
 ## Overview

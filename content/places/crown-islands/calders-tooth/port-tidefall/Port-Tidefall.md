@@ -18,6 +18,7 @@ tags:
 
 # Port Tidefall
 
+![[raw/assets/1778025103752~2 1.png]]
 ![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
 ## Overview

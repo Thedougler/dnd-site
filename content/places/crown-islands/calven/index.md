@@ -17,6 +17,8 @@ tags:
 
 # Calven
 
+![[raw/assets/1778025387596~2.png]]
+
 ## Overview
 
 Calven is the second island east of [[places/crown-islands/calders-tooth/index|Calder's Tooth]] — three days from [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] on a fair wind, longer on anything else. It is the oldest continuously settled island in the northern arc, and has been a commercial centre for long enough that the city built on it is named as its diminutive: [[places/crown-islands/calven/calveno/index|Calveno]], little Calven. The name is Tessarine in origin, which tells you something about who got there first and who wrote it down.

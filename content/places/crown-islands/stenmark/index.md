@@ -17,6 +17,7 @@ tags:
 
 # Stenmark — Index
 
+![[raw/assets/1778027722232~2.png]]
 See [[Stenmark]] for island overview.
 
 ---

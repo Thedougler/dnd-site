@@ -18,6 +18,8 @@ tags:
 
 # The Sunken Crown
 
+![[raw/assets/1778025771030~3.png|355x243]]
+
 > _Five small islands around a blue wound in the sea._
 
 The Sunken Crown is a small island region in the [[Outer-Reach|Outer Reach]], northeast of the Drowned Maw crossing. Five low islands ring a vast Blue Hole that occupies most of the region's usable geography. The islands are not a broad archipelago — they are the exposed rim of something drowned: black stone, salt grass, wind-bent scrub, and cliffs that show old waterlines like scars. The Blue Hole fills most of the view. Everything else clings to the edge.

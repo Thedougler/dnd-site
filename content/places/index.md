@@ -12,6 +12,7 @@ tags:
 
 # Places in the Shattered Sea
 
+![[raw/assets/1778028302576~2.png]]
 Ports, islands, storm belts, routes, shrines, ruins, and dangerous water the characters can know about without crossing into GM-only material.
 
 ## Region Scale

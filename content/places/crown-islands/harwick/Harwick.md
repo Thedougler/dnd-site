@@ -18,6 +18,8 @@ tags:
 
 # Harwick
 
+![[raw/assets/1778027612063~2.png]]
+
 ## Overview
 
 Harwick is the second-largest island in the [[places/crown-islands/index|Crown Islands]] and the military centre of Dravosi power in the Shattered Sea. Where [[places/crown-islands/calders-tooth/index|Calder's Tooth]] controls the western entrance to the [[Central-Strait|Central Strait]] and [[places/crown-islands/calven/calveno/index|Calveno]] handles commercial business, Harwick builds ships and stages fleets. The name is old Dravosi: _hær-wīc_, army place. It has not changed its purpose since.

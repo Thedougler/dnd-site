@@ -20,6 +20,7 @@ tags:
 
 # Calder's Tooth — Index
 
+![[raw/assets/1778025287065~2 2.png]]
 See [[Calders-Tooth|Calder's Tooth]] for island overview.
 
 ---

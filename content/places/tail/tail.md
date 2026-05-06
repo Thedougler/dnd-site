@@ -17,6 +17,7 @@ tags:
 
 # The Tail
 
+![[raw/assets/1778025673931~2.png]]
 ![[raw/assets/banners/The-Tail.webp|Storm-dark island chain with steep green ridges and white surf breaking through channels]]
 
 ## Overview

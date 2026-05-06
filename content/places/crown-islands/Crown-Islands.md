@@ -15,6 +15,7 @@ tags:
 
 # The Crown Islands
 
+![[raw/assets/1778025470700~2.png]]
 ![[raw/assets/banners/Crown-Islands.webp|Mountainous green Crown Islands ringed by bright reefs under clearing storm clouds]]
 
 ## Overview

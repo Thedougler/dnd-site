@@ -25,7 +25,7 @@ _Common Item_
 
 Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]. Covers appearance, behaviour, habitat, and practical identification for maritime creatures. The author's contempt for his subject matter is evident throughout and is, by reader consensus, an improvement over other texts in the genre.
 
-[[party/Perrin-Black-Jaw|Perrin Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
+[[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] carries Volume II. The spine is cracked and the margins are annotated in his hand.
 
 ---
 
@@ -71,16 +71,16 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon
 
 _Common item. No attunement required. Non-magical._
 
-A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[party/Perrin-Black-Jaw|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[beastiary/sea-life/Leviathan]]).
+A scholarly reference text. Consulting a relevant chapter requires 10 minutes of reading. [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]]'s copy has heavy annotations in the margins of Ch. 13 ([[beastiary/sea-life/Leviathan]]).
 
 ## Connections
 
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]] — author
-- [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — current holder
+- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — current holder
 - [[beastiary/sea-life/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy
 
 ## Related
 
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Leviathan]] — The Leviathan
 - [[Terror]] — Terror

@@ -134,6 +134,6 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 
 ## Related
 
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Delmar-Fisk]] — Delmar Fisk
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
 - [[Umberlee]] — Umberlee and the Waveservants

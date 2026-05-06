@@ -57,13 +57,13 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 
 ## Connections
 
-- [[party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — the person who loved her; the person whose plan killed her; the person living her thesis
+- [[characters/jean-claude/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — the person who loved her; the person whose plan killed her; the person living her thesis
 - [[Simone-Tabarnack]] — the one who reported the escape attempt; Pell never knew her name
 - [[Grung-Clans|The Grung Clans]] — the system that killed her
 - [[Sorn]] — where she lived and died
 
 ## Related
 
-- [[Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
+- [[characters/jean-claude/Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
 - [[Shattered-Sea-Secrets]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea

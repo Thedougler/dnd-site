@@ -44,11 +44,11 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- **[[party/Delmar-Fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
+- **[[characters/delmar/Delmar-Fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
 - **[[The-Duchess|The Duchess]]** — Fisk's musket, named for her
 
 ## Related
 
 - [[Red-Lady]] — The Red Lady
-- [[Delmar-Fisk]] — Delmar Fisk
+- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

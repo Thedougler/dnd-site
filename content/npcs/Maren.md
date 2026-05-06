@@ -31,7 +31,7 @@ She was outside the cave when the fleet sank. She drowned in the Maw when Umberl
 
 ## Connections
 
-- [[party/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Maren's soul
+- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Maren's soul
 - [[Narrow|The Narrow]] — her ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet she served
 - [[Drowned-Maw|Drowned Maw]] — where she died

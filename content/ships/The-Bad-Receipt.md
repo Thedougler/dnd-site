@@ -143,4 +143,4 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 
 - [[Knifes-Wake]] — The Knife's Wake
 - [[The-Glass-Debt]] — The Glass Debt
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw

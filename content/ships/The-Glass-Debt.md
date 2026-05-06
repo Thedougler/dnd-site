@@ -165,5 +165,5 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 ## Related
 
 - [[Knifes-Wake]] — The Knife's Wake
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Delmar-Fisk]] — Delmar Fisk
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk

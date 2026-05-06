@@ -32,16 +32,16 @@ Read these:
 2. [[Mortis|Mortis]]
 3. [[Ship-Stats|Ship Stats]] (Optional)
 4. [[Ship-Bastion|Ship Bastion]] (Optional)
-5. Any homebrew species page you are considering from [[species/index|Playable Species]]
+5. Any homebrew species page you are considering from [[lore/species/index|Playable Species]]
 
 You do not need to memorize the setting. You need a character with a reason to be aboard the _[[Saltwright|Saltwright]]_, a reason to cross dangerous water, and a problem that could follow them into port.
 
 ## What species can I play?
 
-Standard 2024 species are available, plus the [[Shattered-Sea|Shattered Sea]] options in [[species/index|Playable Species]]:
+Standard 2024 species are available, plus the [[Shattered-Sea|Shattered Sea]] options in [[lore/species/index|Playable Species]]:
 
 - [[Aarakocra|Aarakocra]]
-- [[species/Grung|Grung]]
+- [[Grung|Grung]]
 - [[Rattkin|Rattkin]]
 - [[Tabaxi|Tabaxi]]
 

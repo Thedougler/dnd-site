@@ -30,7 +30,7 @@ She drowned in the Maw when Umberlee closed the water over all five ships. Her s
 
 ## Connections
 
-- [[party/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Sienne's soul
+- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Sienne's soul
 - [[Fernen|The Fernen]] — her ship; lost at the Maw
 - [[Maren]] — ran the parallel scout team
 - [[Fisks-Fleet]] — the fleet she served

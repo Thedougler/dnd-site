@@ -51,11 +51,11 @@ It is an ambush predator, the tentacles emerge from the entrance and grab whatev
 - [[Kalowe|Kalowe]] — reef divers here use the indigenous name; mark claimed holes with knotted cord
 - [[The-Grandfather-Hole-Secrets]] — legendary lair of an ancient Sawek large enough to pull a Tier 3 galleon to the bottom; the outer limit of the species at apex scale
 - [[Whip-Shark]] — co-listed in [[places/midchain/index|Midchain]] maritime creature lore
-- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
+- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 6; [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]
 
 ## Related
 
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Midchain-Secrets]] — The Midchain
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

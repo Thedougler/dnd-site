@@ -31,7 +31,7 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 
 ## Connections
 
-- [[party/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Detto's soul
+- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Detto's soul
 - [[Heft|The Heft]] — his ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet he served
 - [[Drowned-Maw|Drowned Maw]] — where he died

@@ -23,7 +23,7 @@ cssclasses:
 
 ## Overview
 
-A small two-masted brig, older than most Midchain traffic, sized for a Rattkin captain and a light crew. A [[Nona-Black-Jaw|Black-Jaw]] family heirloom. [[party/Perrin-Black-Jaw|Perrin]] had re-rigged her and added two gun mounts before she was lost.
+A small two-masted brig, older than most Midchain traffic, sized for a Rattkin captain and a light crew. A [[Nona-Black-Jaw|Black-Jaw]] family heirloom. [[characters/perrin/Perrin-Black-Jaw|Perrin]] had re-rigged her and added two gun mounts before she was lost.
 
 She wasn't just transportation. She was his contacts, his capital, his crew, and his working life.
 
@@ -47,12 +47,12 @@ Fitted for a small independent crew — not cargo hauling or line fighting, just
 
 ## Connections
 
-- [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] — captain and owner
+- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — captain and owner
 - [[Nona-Black-Jaw|Nona Black-Jaw]] — family connection to the vessel
 - [[ships/index|Ships]]
 
 ## Related
 
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Midchain-Secrets]] — The Midchain
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

@@ -23,10 +23,10 @@ While wearing these bracers, you have proficiency with the longbow and shortbow,
 
 ## Connections
 
-- [[party/Stripes-Bitemore|Stripes Bitemore]] — current holder; attuned
+- [[characters/stripes/Stripes-Bitemore|Stripes Bitemore]] — current holder; attuned
 
 ## Related
 
-- [[party/Stripes-Bitemore]] — Stripes Bitemore
+- [[characters/stripes/Stripes-Bitemore]] — Stripes Bitemore
 - [[Shattered-Sea-Secrets]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea

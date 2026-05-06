@@ -155,7 +155,7 @@ The best-known region beyond is the [[places/sunken-crown/index|Sunken Crown]]: 
 
 Most species from the 2024 sourcebooks have a place in the Scatter. The following homebrew options are native to the setting:
 
-- **[[species/Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
+- **[[Grung|Grung]]**: amphibious, poisonous, caste-shaped survivors of a harsh society. A Grung PC should be ready to define what they believe about the order they came from.
 - **[[Rattkin|Rattkin]]**: small, flexible, hard to catch, and native to the hidden infrastructure of port life. Rattkin make excellent smugglers, scouts, couriers, spies, sailors, and people who were definitely not in that locked room.
 - **[[Tabaxi|Tabaxi]]**: feline humanoids with ancient roots in the [[Shattered-Sea|Shattered Sea]], especially among the isolated island tribes of the Sunken Crown.
 - **[[Aarakocra|Aarakocra]]**: winged people whose relationship to height, distance, and danger is fundamentally different from ground-bound folk.

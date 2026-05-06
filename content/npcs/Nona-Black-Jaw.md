@@ -50,7 +50,7 @@ Her late husband built the ship, captained her for decades, and left her to the 
 
 ## Connections
 
-- **[[party/Perrin-Black-Jaw|Perrin Black-Jaw]]** — her grandson; Black-Jaw Run heir; she is looking for him
+- **[[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]]** — her grandson; Black-Jaw Run heir; she is looking for him
 - **[[Warren]]** — the fixed Rattkin settlement she anchors; most senior voice
 - **[[Passage|The Passage]]** — the Tangle is the network's center; she is at the Tangle's center
 - **[[Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed
@@ -58,6 +58,6 @@ Her late husband built the ship, captained her for decades, and left her to the 
 
 ## Related
 
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Calveno-Secrets]] — Calveno
 - [[Tail-Secrets]] — The Tail

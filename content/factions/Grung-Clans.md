@@ -102,7 +102,7 @@ Grung raiding vessels are built by orange-caste artisans from Verdant Teeth iron
 
 ## See Also
 
-- [[species/Grung|Grung Species Notes]]
+- [[Grung|Grung Species Notes]]
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Kalowe|Kalowe]]
 

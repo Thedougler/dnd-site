@@ -30,7 +30,7 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 
 ## Connections
 
-- [[party/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
+- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Rael's soul; Rael is the loudest of the five
 - [[Red-Lady|The Red Lady]] — his ship; lost at the Maw
 - [[Fisks-Fleet]] — the fleet he served
 - [[Drowned-Maw|Drowned Maw]] — where he died

@@ -43,10 +43,10 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 - [[Antheri-Ruins]] — patrols the Abyssal Bore perimeter (40–200 ft); attracted by surface dive operations
 - [[Sawek]] — co-listed in [[places/midchain/index|Midchain]] maritime creature lore
 - [[Ship-Stats]] — Hooking Drive interacts with vessel HP rules
-- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[party/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
+- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
 - [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]
 
 ## Related
 
-- [[Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Tail-Secrets]] — The Tail

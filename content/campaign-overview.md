@@ -81,7 +81,7 @@ _Sailors who do not pay do not sail confidently._
 
 ## Peoples of the Scatter
 
-Most sourcebook species have a place in the Scatter. The setting adds four homebrew-native options — [[Aarakocra|Aarakocra]], [[species/Grung|Grung]], [[Rattkin|Rattkin]], and [[Tabaxi|Tabaxi]] — each with deep roots in its economy, politics, or geography. See [[species/index|Playable Species]] for lore and mechanics.
+Most sourcebook species have a place in the Scatter. The setting adds four homebrew-native options — [[Aarakocra|Aarakocra]], [[Grung|Grung]], [[Rattkin|Rattkin]], and [[Tabaxi|Tabaxi]] — each with deep roots in its economy, politics, or geography. See [[lore/species/index|Playable Species]] for lore and mechanics.
 
 ---
 

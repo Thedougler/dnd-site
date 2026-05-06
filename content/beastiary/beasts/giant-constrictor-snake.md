@@ -26,7 +26,7 @@ Giant constrictor snakes belong wherever land and water refuse to separate clean
 
 The clearest local concentration is the eastern [[Verdant-Teeth|Verdant Teeth]], especially the flooded channel between [[Dreth|Dreth]] and [[Orak|Orak]]. There the water reads more like drowned jungle than open sea: roots overhead, flat dark water below, and enough grung movement inland that outsiders cannot tell which paths are kept clear by design and which are left to the snakes. ^\[inferred]
 
-They are not limited to Grung territory. [[Veth|Veth]] can have them along the wet margins above the trade path, and the eastern side of [[places/crown-islands/calders-tooth/index|Calder's Tooth]] has the right mudflat ecology around [[South-Harbour|South Harbour]] and [[Oshas-Slip|Osha's Slip]]. In settled places, the animal is less a wilderness encounter than a tide-timing hazard: something that takes river-eels, dogs, crab traps, and eventually a person who steps where the mud breathes wrong. ^\[inferred]
+They are not limited to Grung territory. [[Veth|Veth]] can have them along the wet margins above the trade path, and the eastern side of [[places/calders-tooth/index|Calder's Tooth]] has the right mudflat ecology around [[South-Harbour|South Harbour]] and [[Oshas-Slip|Osha's Slip]]. In settled places, the animal is less a wilderness encounter than a tide-timing hazard: something that takes river-eels, dogs, crab traps, and eventually a person who steps where the mud breathes wrong. ^\[inferred]
 
 ## Habitat Pattern
 

@@ -52,7 +52,7 @@ The Concordat rarely says no. It says yes with terms.
 
 ## Calveno Foothold
 
-[[places/crown-islands/calven/calveno/index]] is the Concordat's strongest position in the northern arc. The city already believes in witnessed transactions, public association, and the power of being seen with the right people. Tessarine commerce fits that culture perfectly: every meeting visible, every term recorded, every handshake later translated into enforceable paper.
+[[places/calveno/index]] is the Concordat's strongest position in the northern arc. The city already believes in witnessed transactions, public association, and the power of being seen with the right people. Tessarine commerce fits that culture perfectly: every meeting visible, every term recorded, every handshake later translated into enforceable paper.
 
 The Seven Houses Council currently sits at a four-to-three Tessarine-aligned deadlock. That does not mean four Houses are loyal to the Concordat. Loyalty is too sentimental a word. It means four Houses owe enough, benefit enough, or fear enough disruption that Tessarine proposals pass unless the three holdouts can make refusal profitable.
 
@@ -78,7 +78,7 @@ Tessarine purchase orders already exist for intact Antheri pieces. Factors maint
 |---|---|
 | [[Dravosi-Crown\|The Dravosi Crown]] | Rival colonial power. Both recognize enough of each other's commercial law to weaponize it. |
 | [[Passage\|The Passage]] | No official recognition. Concordat factors are rumored to use Rattkin couriers for documents that should not appear in ordinary channels. |
-| [[places/crown-islands/calven/calveno/index]]'s Seven Houses | Entangled through debt, trade access, and council arithmetic. |
+| [[places/calveno/index]]'s Seven Houses | Entangled through debt, trade access, and council arithmetic. |
 | [[Antherian]] salvage market | Purchase orders, authentication interest, and recovery financing. |
 | [[places/midchain/index\|Midchain]] | Commercial target; harder to own because local governance runs on relationships rather than paper. |
 
@@ -88,15 +88,15 @@ Tessarine power sounds softer than Dravosi power. No morning gun. No boots on pl
 
 People leave Tessarine meetings relieved more often than frightened. Relief is dangerous. Relief makes the first signature easy. The second signature feels responsible. By the third, the Concordat is not a lender anymore. It is a condition of the room.
 
-Tessarine slang in [[places/crown-islands/calven/calveno/index]] treats debt like weather. A bad note is "low pressure." A House under too much leverage is "taking water." A factor who has gone quiet is "waiting for the tide." Nobody says owned in public. They say aligned.
+Tessarine slang in [[places/calveno/index]] treats debt like weather. A bad note is "low pressure." A House under too much leverage is "taking water." A factor who has gone quiet is "waiting for the tide." Nobody says owned in public. They say aligned.
 
 ## What Everyone Knows
 
 - The Concordat prefers debt to conquest.
 - Tessarine paper travels well and is honored in more ports than most local currencies.
 - Factors always know more about cargo values, route risk, and local debt than they admit.
-- [[places/crown-islands/calven/calveno/index]] is the Concordat's strongest foothold in the [[places/crown-islands/index|Crown Islands]].
-- Four of [[places/crown-islands/calven/calveno/index]]'s Seven Houses currently vote Tessarine-aligned often enough to shape the Council.
+- [[places/calveno/index]] is the Concordat's strongest foothold in the [[places/crown-islands/index|Crown Islands]].
+- Four of [[places/calveno/index]]'s Seven Houses currently vote Tessarine-aligned often enough to shape the Council.
 - Concordat contracts can be fair in the short term and disastrous once inherited, bundled, or cross-collateralized.
 - The Concordat and the [[Dravosi-Crown|Dravosi Crown]] are rivals, but a debtor can be trapped by both systems at once.
 
@@ -106,9 +106,9 @@ Read the full contract before signing, including inheritance and collateral clau
 
 ## Connections
 
-- [[places/crown-islands/calven/calveno/index]] — primary Concordat foothold; factor building anchors the Mercatura
+- [[places/calveno/index]] — primary Concordat foothold; factor building anchors the Mercatura
 - [[Dravosi-Crown|The Dravosi Crown]] — rival colonial power
-- [[Tessarine-Trade-House]] — [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] office
+- [[Tessarine-Trade-House]] — [[places/port-tidefall/index|Port Tidefall]] office
 - [[Passage|The Passage]] — off-record courier rumors
 - [[Shelfworks|Shelfworks]] — Antheri salvage interest
 - [[Antherian]] — salvage market

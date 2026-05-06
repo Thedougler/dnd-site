@@ -30,8 +30,8 @@ The [[Galewall|Galewall]] is a three-week crossing under the right pilot. Most s
 
 The northern arc. Five large, mountainous, heavily administered islands under the [[Dravosi-Crown|Dravosi Crown]]. Rich, fortified, and governed from behind a ledger.
 
-- [[places/crown-islands/calders-tooth/index|Calder's Tooth]] guards the western mouth of the [[Central-Strait|Central Strait]]. Its cliff face holds [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — the Crown's main fortress-port, carved into tiers from the waterline up to [[Fort-Crestwall|Fort Crestwall]] at the summit. Inspection here is mandatory, enforceable, and profitable.
-- [[places/crown-islands/calven/calveno/index|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
+- [[places/calders-tooth/index|Calder's Tooth]] guards the western mouth of the [[Central-Strait|Central Strait]]. Its cliff face holds [[places/port-tidefall/index|Port Tidefall]] — the Crown's main fortress-port, carved into tiers from the waterline up to [[Fort-Crestwall|Fort Crestwall]] at the summit. Inspection here is mandatory, enforceable, and profitable.
+- [[places/calveno/index|Calveno]] is the oldest commercial city in the Scatter: canal-threaded pale stone, public negotiations, and debts that travel faster than ships. Home of the [[Tessarine-Concordat|Tessarine Concordat]]'s deepest roots and [[Warren|Rattkin infrastructure]] below the waterline.
 
 ### The Central Strait
 

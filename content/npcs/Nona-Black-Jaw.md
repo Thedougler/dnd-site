@@ -28,7 +28,7 @@ tags:
 
 ## Overview
 
-Nona Black-Jaw is a Rattkin elder and the head of the Black-Jaw Run — the most senior voice in [[Warren]], the fixed Rattkin settlement beneath [[places/crown-islands/calven/calveno/index]], and a central figure in [[Passage|The Passage]] network that runs through every port in the Scatter. She is [[private/players/Perrin-Black-Jaw|Perrin's]] grandmother. She is the person he is not ready to call.
+Nona Black-Jaw is a Rattkin elder and the head of the Black-Jaw Run — the most senior voice in [[Warren]], the fixed Rattkin settlement beneath [[places/calveno/index]], and a central figure in [[Passage|The Passage]] network that runs through every port in the Scatter. She is [[private/players/Perrin-Black-Jaw|Perrin's]] grandmother. She is the person he is not ready to call.
 
 Her late husband built the _[[Vestra|Vestra]]_, captained her across the [[places/midchain/index|Midchain]] for decades, and left her to the family when he died. The ship passed to Perrin. She has not heard from him since. She has sent messages through the Passage asking him to make contact. He has not responded.
 
@@ -54,7 +54,7 @@ Her late husband built the ship, captained her for decades, and left her to the 
 - **[[Warren]]** — the fixed Rattkin settlement she anchors; most senior voice
 - **[[Passage|The Passage]]** — the Tangle is the network's center; she is at the Tangle's center
 - **[[Vestra|The *Vestra*]]** — her late husband's ship; passed to Perrin; destroyed
-- **[[places/crown-islands/calven/calveno/index]]** — the city above the Warren
+- **[[places/calveno/index]]** — the city above the Warren
 
 ## Related
 

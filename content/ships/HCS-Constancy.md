@@ -113,7 +113,7 @@ Three decks above the hold.
 
 - [[Dravosi-Crown|The Dravosi Crown]] — owner and operator; the class from which most Crown patrol authority flows
 - [[places/crown-islands/index|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
-- [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] — primary anchorage in the Scatter
+- [[places/port-tidefall/index|Port Tidefall]] — primary anchorage in the Scatter
 - [[HCS-Ordinance|HCS Ordinance]] — the fleet's Tier 4 flagship
 - [[ships/index|Ships]]
 

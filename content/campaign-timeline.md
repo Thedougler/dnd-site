@@ -31,7 +31,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **1195 DR** — The [[Dravosi-Crown|Dravosi Crown]] establishes the first colonial presence in the Shattered Sea, claiming the Crown Islands and placing inspection forces at the western entrance to the Central Strait. Port Tidefall follows.
 
-**1210 DR** — The [[Tessarine-Concordat|Tessarine Concordat]] arrives. The Seven Houses of [[places/crown-islands/calven/calveno/index|Calveno]] take shape, and the slow arithmetic of obligation begins.
+**1210 DR** — The [[Tessarine-Concordat|Tessarine Concordat]] arrives. The Seven Houses of [[places/calveno/index|Calveno]] take shape, and the slow arithmetic of obligation begins.
 
 **1240 DR** — [[Passage|The Passage]] forms — a Rattkin courier and intelligence network built out of the Warren to evade both the Concordat and the Crown. It has been running beneath the surface of every port in the Scatter ever since.
 
@@ -41,7 +41,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 ## The Years Before (1488–1495 DR)
 
-**1488 DR** — [[Catarina-DaVirelli|Catarina Da'Virelli]] salvages a cache of functional Antheri components from the Shelfworks — the shallow reef shelf above the Maw ruins — and successfully reverse-engineers several into working devices. The resulting wave of prospectors, scholars, and criminal contractors is known retroactively as the _Shelfworks Goldrush_. Catarina doesn't participate in the rush she started. She returns to [[places/crown-islands/calven/calveno/index|Calveno]], puts her workshop into production, and her most visible output from this period — the Clockwork Owl Familiar — becomes common enough that most people in the Sea have seen one.
+**1488 DR** — [[Catarina-DaVirelli|Catarina Da'Virelli]] salvages a cache of functional Antheri components from the Shelfworks — the shallow reef shelf above the Maw ruins — and successfully reverse-engineers several into working devices. The resulting wave of prospectors, scholars, and criminal contractors is known retroactively as the _Shelfworks Goldrush_. Catarina doesn't participate in the rush she started. She returns to [[places/calveno/index|Calveno]], puts her workshop into production, and her most visible output from this period — the Clockwork Owl Familiar — becomes common enough that most people in the Sea have seen one.
 
 **1490 DR** — [[Beaumont-Sel|Beaumont Sel]] commissions a fitted section of salvaged Antheri plate from Catarina's workshop in Calveno — sized to cover the cannonball breach in his shell. He still wears it.
 

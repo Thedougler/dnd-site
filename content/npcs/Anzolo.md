@@ -18,7 +18,7 @@ tags:
 |              |                              |
 | ------------ | ---------------------------- |
 | **Species**  | Tortle                       |
-| **Location** | [[places/crown-islands/calven/calveno/index]]                  |
+| **Location** | [[places/calveno/index]]                  |
 
 ---
 
@@ -31,7 +31,7 @@ The Tangle vouches for him. That is enough.
 ## Connections
 
 - [[Nona-Black-Jaw]] — vouches for him; he carries her groceries and handles her chores
-- [[places/crown-islands/calven/calveno/index]] — where he operates
+- [[places/calveno/index]] — where he operates
 - [[Warren]] — Tangle contact
 
 ## Related

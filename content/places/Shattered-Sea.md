@@ -30,7 +30,7 @@ To the west, the [[Galewall|Galewall]] cuts the Scatter off from the colonial ho
 
 The [[Central-Strait|Central Strait]] is the main shipping road through the region: forty to eighty miles of navigable water between [[Crown-Islands-Secrets|the Crown Islands]] and [[Midchain-Secrets|the Midchain]]. The Scatter Current runs east through it and curls through the wider region, giving ships a little free speed if they know where to ride it.
 
-The [[places/crown-islands/index|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
+The [[places/crown-islands/index|Crown Islands]] are the official face of the Sea: inspections, ratings, port fees, naval patrols, trade houses, and harbours where authority has a uniform. [[places/port-tidefall/index|Port Tidefall]] sits at the western mouth of the Strait and makes sure everyone remembers that passage has a price.
 
 The [[places/midchain/index|Midchain]] is the southern counterargument: dozens of close islands, inconsistent charts, free ports, reefs, smugglers, council politics, and pilots who know which reef moved last season. [[Kalowe|Kalowe]] is the main free port there, and the place ships go when they need repair without too many questions.
 

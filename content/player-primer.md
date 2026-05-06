@@ -61,19 +61,19 @@ The northern arc is made of five broad, mountainous islands with forested highla
 
 Publicly, the [[places/crown-islands/index|Crown Islands]] mean administration: ratings, inspections, port fees, naval patrols, trade houses, and harbours where authority has a uniform. They are safer than the [[places/midchain/index|Midchain]] in the way a locked room is safer than an open road.
 
-### [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
+### [[places/port-tidefall/index|Port Tidefall]]
 
 ![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
-[[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[Central-Strait|Central Strait]], carved directly into the cliff face of [[places/crown-islands/calders-tooth/index|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
+[[places/port-tidefall/index|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[Central-Strait|Central Strait]], carved directly into the cliff face of [[places/calders-tooth/index|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
 
 This is where the Crown's authority is loudest and most negotiable. Every ship entering the Strait is expected to submit to inspection. The [[Harbourmasters-Office|Harbourmaster's Office]] sells charts and ratings; the [[Waveservants|Waveservants]] keep a shrine near the waterline; and the gallows at the harbour gate make sure nobody mistakes bureaucracy for softness.
 
-### [[places/crown-islands/calven/calveno/index]]
+### [[places/calveno/index]]
 
 ![[raw/assets/banners/Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
 
-[[places/crown-islands/calven/calveno/index|Calveno]] is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
+[[places/calveno/index|Calveno]] is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
 
 Everything here is visible. That is the point. Deals are witnessed, alliances are performed, and the right association seen by the right people can matter as much as the cargo itself. [[Tessarine-Concordat|The Tessarine Concordat]] has deep roots here, as does the [[Rattkin]] [[Passage|Passage]].
 
@@ -99,7 +99,7 @@ The southern arc is dozens of small and medium islands packed close together: li
 
 [[Kalowe|Kalowe]] is the primary [[places/midchain/index|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
 
-If [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]] is where papers become chains, [[Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
+If [[places/port-tidefall/index|Port Tidefall]] is where papers become chains, [[Kalowe|Kalowe]] is where papers become optional. It is the standard port for unregistered vessels, black-market cargo, crew-for-hire, ship repairs, and people who need to become harder to find. It has no colonial authority, which is not the same thing as having no politics.
 
 ### [[Verdant-Teeth|The Verdant Teeth]]
 
@@ -184,7 +184,7 @@ You begin at **Level 3** aboard the _[[Saltwright|Saltwright]]_.
 
 ![[raw/assets/banners/Saltwright.webp|The Saltwright, a dark-sailed wooden ship crossing rough seas at dusk|730|892x502]]
 
-A hard-used two-masted merchant brig captained by **[[Beaumont-Sel|Beaumont Sel]]**, who offered you passage to [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
+A hard-used two-masted merchant brig captained by **[[Beaumont-Sel|Beaumont Sel]]**, who offered you passage to [[places/port-tidefall/index|Port Tidefall]]
 
 ![[raw/assets/portraits/Beaumont-Sel.webp|Beaumont Sel, a weathered sailor gripping a ship's wheel by lantern light]]
 

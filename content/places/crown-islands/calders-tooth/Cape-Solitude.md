@@ -7,7 +7,7 @@ title: Cape Solitude
 created: 2026-05-02
 modified: 2026-05-03
 tags:
-  - cape
+  - landmark
 ---
 
 # [[Cape-Solitude-Secrets|Cape Solitude]]

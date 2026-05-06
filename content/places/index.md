@@ -2,7 +2,7 @@
 publish: true
 permalink: /places/index.md
 title: Regions
-created: 2026-05-04T02:26:40.821-07:00
+created: 2026-05-06T02:31:45.339-07:00
 modified: 2026-05-04
 tags:
   - player-resource

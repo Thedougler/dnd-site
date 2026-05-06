@@ -9,8 +9,7 @@ created: 2026-05-02
 modified: 2026-05-03
 tags:
   - road
-  - passage
-  - travel
+  - maritime
 ---
 
 # [[Overland-Track-Secrets|The Overland Track]]

@@ -8,7 +8,7 @@ title: The Central Strait
 created: 2026-05-01
 modified: 2026-05-04
 tags:
-  - waterway
+  - region
   - navigation
 ---
 
@@ -114,6 +114,3 @@ The [[The-Bad-Receipt|Bad Receipt]] is the name merchants lower their voices for
 - [[Verdant-Scatter-Secrets]] — The Verdant Scatter
 - [[Verdant-Scatter]] — The Verdant Scatter
 - [[Shattered-Sea]] — The Shattered Sea
-- [[The-Shallows]] — The Shallows
-- [[The-Deep]] — The Deep
-- [[The-Below]] — The Below

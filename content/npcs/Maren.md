@@ -19,7 +19,7 @@ tags:
 | ------------ | ---------------------------------------------------------- |
 | **Species**  | Water Genasi                                               |
 | **Role**     | Captain, _[[Narrow\|The Narrow]]_; [[Fisks-Fleet\|Fisk's Fleet]]       |
-| **Status**   | Deceased — soul inside [[delmar-fisk\|Delmar Fisk]]                     |
+| **Status**   | Deceased — soul inside [[Delmar-Fisk\|Delmar Fisk]]                     |
 
 ---
 

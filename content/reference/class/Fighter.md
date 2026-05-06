@@ -66,7 +66,7 @@ Battle Master, Champion, Eldritch Knight, Psi Warrior _(2024 PHB)_
 
 ## Connections
 
-- [[Battle-Master]] — Fighter subclass
+- Battle Master — Fighter subclass
 - [[private/players/Stripes-Bitemore]] — Battle Master Fighter PC ([[Shattered-Sea]])
 
 ## Related

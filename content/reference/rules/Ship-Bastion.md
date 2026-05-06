@@ -8,7 +8,7 @@ tags:
   - mechanics
   - reference
   - bastion
-  - rules
+  - rule
 cssclasses:
   - wiki-concept
 ---
@@ -217,6 +217,5 @@ Cost: 250gp per 5-foot exterior section, same rate as RAW Defensive Walls. Mason
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Serafina-Windfall-Fisk]] — Serafina Windfall Fisk
 - [[Umberlee]] — Umberlee and the Waveservants

@@ -22,7 +22,7 @@ tags:
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Species**  | Rattkin                                                                                                                        |
 | **Role**     | Matriarch, Black-Jaw Run; senior elder, the Tangle                                                                             |
-| **Location** | [[Warren\|The Warren]], under [[public/places/Calveno\|Calveno]] |
+| **Location** | [[Warren\|The Warren]], under [[Calveno\|Calveno]] |
 
 ---
 

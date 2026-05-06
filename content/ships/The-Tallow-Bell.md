@@ -8,7 +8,7 @@ title: The Tallow Bell
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - tier_1
+  - tier-1
   - umberlee
   - clergy
 cssclasses:

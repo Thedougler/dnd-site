@@ -8,7 +8,7 @@ title: Ashwall Islands
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - islands
+  - island
   - volcanic
 ---
 

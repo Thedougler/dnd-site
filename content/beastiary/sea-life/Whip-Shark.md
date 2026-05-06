@@ -13,7 +13,7 @@ tags:
   - creature
   - monstrosity
   - aquatic
-  - ocean
+  - region
   - siege
   - bestiary
 ---
@@ -48,6 +48,5 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Tail-Secrets]] — The Tail

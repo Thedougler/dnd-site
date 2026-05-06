@@ -7,7 +7,7 @@ title: Stripes Bitemore
 created: 2026-04-29
 modified: 2026-05-03
 tags:
-  - Tabaxi
+  - tabaxi
   - Fighter
 ---
 
@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-**Stripes Bitemore** is a tiger [[Tabaxi]] [[Fighter]], hunter, and current passenger aboard the [[Saltwright|Saltwright]]. His purpose is simple enough: he's been sent by [[Elder-Anton]] to find out why the sea is angry and do something about it.
+**Stripes Bitemore** is a tiger [[Tabaxi]] [[Fighter]], hunter, and current passenger aboard the [[Saltwright|Saltwright]]. His purpose is simple enough: he's been sent by [[Elder-Anton-Secrets]] to find out why the sea is angry and do something about it.
 
 He's not subtle. He's not a diplomat. Where most sailors deal with problems by talking their way around them, Stripes looks built to stand in the middle and not move.
 

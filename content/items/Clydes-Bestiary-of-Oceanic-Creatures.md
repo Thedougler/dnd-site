@@ -31,7 +31,7 @@ Volume two, of a multi-volume naturalist's survey of oceanic fauna by [[Algernon
 
 ## Excerpts
 
-### Ch. 4 — [[Glutehorn]]
+### Ch. 4 — Glutehorn
 
 > _Here, amidst the overwhelming indifference of the forest, we observe a profound aberration: the Glutehorn. Utterly devoid of a torso, arms, or a head to contemplate its wretched existence, it wanders simply as frenetic legs culminating in a brass trumpet wedged firmly between its cheeks._
 >

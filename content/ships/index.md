@@ -2,7 +2,7 @@
 publish: true
 permalink: /ships/index.md
 title: Ships
-created: 2026-05-02T22:11:02.751-07:00
+created: 2026-05-06T02:31:45.152-07:00
 modified: 2026-05-02
 tags:
   - player-resource
@@ -43,8 +43,6 @@ Vessels the party sails, has sailed, or should recognize on sight.
 **[[The-Velvet-Noose|The Velvet Noose]]** — Tier 4 pirate man-of-war built for fleet-command piracy: overwhelming cannon weight, hostage leverage, outlaw commerce, and campaign-scale consequences.
 
 **[[The-Quorum|The Quorum]]** — The Chain Council's dispatch sloop.
-
-**[[The-Below|The Below]]** — _(DM only)_ A Tier 4 carrack under secret construction at Kalowe. Chain Council commission, Passage recipient. Disguised as a grain transport. Built entirely to Rattkin scale — a floating Warren, should the Kin ever need to leave.
 
 **[[HCS-Constancy|HCS Constancy]]** — Dravosi Crown heavy frigate. The standard patrol vessel of the Crown fleet — the ship that was already there before the crisis. Inspects, boards, impounds.
 

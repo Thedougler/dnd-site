@@ -8,7 +8,7 @@ title: The Doldrums
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - sea_hazard
+  - maritime
 ---
 
 # [[Doldrums-Secrets|The Doldrums]]
@@ -37,6 +37,5 @@ That silence helps people too. Becalmed ships cannot choose distance, and rowed 
 ## Related
 
 - [[Central-Strait-Secrets]] — The Central Strait
-- [[The-Below]] — The Below
 - [[Monsters]] — Monsters
 - [[adult-black-dragon]] — Adult Black Dragon

@@ -9,7 +9,7 @@ title: The Passage
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - passage
+  - maritime
   - rattkin
   - smuggling
 ---

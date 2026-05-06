@@ -32,7 +32,7 @@ Built for extended independent operations: fast enough to disengage, armed enoug
 
 ## Crew and Command
 
-[[Rael-Corven|Rael Corven]] served as flag captain. [[party/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
+[[Rael-Corven|Rael Corven]] served as flag captain. [[party/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[crissdalynn-khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
 
 ---
 
@@ -90,7 +90,7 @@ Three decks, organized for long independent operations.
 
 - [[party/Delmar-Fisk|Delmar Fisk]] — admiral; her five captains' souls now reside in him
 - [[Rael-Corven|Rael Corven]] — flag captain
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — navigator and crow, nearly two years
+- [[crissdalynn-khinriss|Crisdalynn Khinriss]] — navigator and crow, nearly two years
 - [[items/Pearl-of-Souls|Pearl of Souls]] — lost with the ship
 - [[Drowned-Maw|Drowned Maw]] — where she sank
 - [[ships/index|Ships]]

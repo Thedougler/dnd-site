@@ -133,6 +133,5 @@ Introduced in the 2024 DMG as the official stronghold/home base system. Availabl
 ## Related
 
 - [[Feats]] — Feats
-- [[The-Below]] — The Below
 - [[Human]] — Human
 - [[poisons]] — poisons

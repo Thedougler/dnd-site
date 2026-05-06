@@ -5,7 +5,7 @@ title: The Mortis
 created: 2026-04-13
 modified: 2026-04-13
 tags:
-  - rules
+  - rule
   - homebrew
 cssclasses:
   - wiki-concept

@@ -82,6 +82,4 @@ No chart of the Shattered Sea is innocent. Some are wrong by age, some by politi
 - [[Verdant-Scatter]] — The Verdant Scatter
 - [[Central-Strait-Secrets]] — The Central Strait
 - [[Galewall-Secrets]] — The Galewall
-- [[The-Shallows]] — The Shallows
 - [[Narrow]] — The Narrow
-- [[The-Below]] — The Below

@@ -9,7 +9,7 @@ created: 2026-05-03
 modified: 2026-05-03
 tags:
   - pirate
-  - tier_1
+  - tier-1
   - raiding
 cssclasses:
   - wiki-ship
@@ -134,7 +134,6 @@ _(No sessions yet.)_
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[The-Bad-Receipt]] — The Bad Receipt
 - [[The-Glass-Debt]] — The Glass Debt
 - [[Midchain-Secrets]] — The Midchain

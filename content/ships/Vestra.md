@@ -53,7 +53,6 @@ Fitted for a small independent crew — not cargo hauling or line fighting, just
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Midchain-Secrets]] — The Midchain
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

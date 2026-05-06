@@ -6,7 +6,7 @@ aliases:
   - Player Characters
   - PCs
 title: Party
-created: 2026-05-01T16:39:30.707-07:00
+created: 2026-05-06T02:31:45.175-07:00
 modified: 2026-05-03
 tags:
   - player-resource

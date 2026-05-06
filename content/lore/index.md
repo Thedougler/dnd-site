@@ -2,7 +2,7 @@
 publish: true
 permalink: /lore/index.md
 title: Lore
-created: 2026-05-01T16:53:31.948-07:00
+created: 2026-05-06T02:31:45.215-07:00
 modified: 2026-05-03
 tags:
   - player-resource

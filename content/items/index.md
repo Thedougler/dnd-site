@@ -2,7 +2,7 @@
 publish: true
 permalink: /items/index.md
 title: Items
-created: 2026-05-05T10:38:48.604-07:00
+created: 2026-05-06T02:31:45.592-07:00
 modified: 2026-05-05
 tags:
   - player-resource

@@ -1,6 +1,8 @@
 ---
 publish: true
 permalink: /npcs/Bisou.md
+aliases:
+  - Bisou-Secrets
 title: Bisou
 created: 2026-05-02
 modified: 2026-05-03
@@ -10,7 +12,7 @@ tags:
   - monkey
 ---
 
-# [[Bisou-Secrets|Bisou]]
+# Bisou
 
 ![[raw/assets/banners/Bisou.webp|Bisou, a small monkey-like sailor, perched on a ship at sunset]]
 

@@ -2,12 +2,12 @@
 publish: true
 permalink: /reference/rules/index.md
 title: Rules
-created: 2026-05-05T01:35:22.348-07:00
+created: 2026-05-06T02:31:45.701-07:00
 modified: 2026-05-03
 tags:
   - player-resource
   - index
-  - rules
+  - rule
 ---
 
 # Public Rules

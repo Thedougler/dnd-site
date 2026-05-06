@@ -85,7 +85,6 @@ Single open deck with minimal below-deck space.
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Midchain-Secrets]] — The Midchain
 - [[Shattered-Sea-Secrets]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea

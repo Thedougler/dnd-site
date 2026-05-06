@@ -7,7 +7,7 @@ title: The Galewall
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - storm
+  - maritime
   - navigation
 ---
 
@@ -51,5 +51,4 @@ The survivor's version is consistent in the useful places: stormlight gathered a
 - [[Verdant-Scatter]] — The Verdant Scatter
 - [[Crown-Islands-Secrets]] — The Crown Islands
 - [[Narrow]] — The Narrow
-- [[The-Below]] — The Below
 - [[Dravosi-Crown]] — The Dravosi Crown

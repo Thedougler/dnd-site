@@ -8,7 +8,7 @@ title: The Drowned Maw
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - trench
+  - landmark
 ---
 
 # The Drowned Maw
@@ -61,5 +61,4 @@ The [[High-Eyrie|Sentinels of the High Eyrie]] have kept aerial observation of t
 ## Related
 
 - [[Vestra]] — The Vestra
-- [[The-Below]] — The Below
 - [[Perrin-Black-Jaw]] — Perrin Black Jaw

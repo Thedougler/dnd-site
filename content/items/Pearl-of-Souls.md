@@ -45,6 +45,5 @@ No attunement. No activation. The Pearl draws what drowns near it and holds it. 
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Delmar-Fisk]] — Delmar Fisk
 - [[Umberlee]] — Umberlee and the Waveservants

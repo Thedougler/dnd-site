@@ -7,7 +7,7 @@ title: The Outer Reach
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - ocean
+  - region
 ---
 
 # [[Outer-Reach-Secrets|The Outer Reach]]

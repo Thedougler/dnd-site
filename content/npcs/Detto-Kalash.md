@@ -19,7 +19,7 @@ tags:
 | ------------ | --------------------------------------- |
 | **Species**  | Earth Genasi                            |
 | **Role**     | Captain, _[[Heft\|The Heft]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
-| **Status**   | Deceased — soul inside [[delmar-fisk\|Delmar Fisk]]  |
+| **Status**   | Deceased — soul inside [[Delmar-Fisk\|Delmar Fisk]]  |
 
 ---
 

@@ -54,7 +54,7 @@ He hates frogs most of all.
 
 - **[[Sawek]]** — documented personally at [[Kalowe|Kalowe]]; measured a dead specimen pulled from a blue hole by seven divers; found the experience professionally satisfying and personally grim
 - **[[Whip-Shark]]** — documented from hull damage and survivor accounts; has never seen a live specimen; considers this an acceptable outcome
-- **[[private/monsters/Leviathan|Leviathan]]** — Ch. 13, Volume II; the one entry that gave him genuine difficulty, not from contempt but from uncertainty; he finds this more unsettling than the creature itself
+- **[[Leviathan|Leviathan]]** — Ch. 13, Volume II; the one entry that gave him genuine difficulty, not from contempt but from uncertainty; he finds this more unsettling than the creature itself
 
 ## On Tour
 

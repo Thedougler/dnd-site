@@ -9,7 +9,7 @@ created: 2026-05-03
 modified: 2026-05-03
 tags:
   - pirate
-  - tier_2
+  - tier-2
   - raiding
 cssclasses:
   - wiki-ship

@@ -9,7 +9,7 @@ created: 2026-05-03
 modified: 2026-05-03
 tags:
   - pirate
-  - tier_3
+  - tier-3
   - frigate
   - raiding
 cssclasses:
@@ -164,7 +164,6 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Knifes-Wake]] — The Knife's Wake
 - [[Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Delmar-Fisk]] — Delmar Fisk

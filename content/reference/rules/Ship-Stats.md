@@ -8,7 +8,7 @@ tags:
   - mechanics
   - reference
   - crew
-  - rules
+  - rule
 cssclasses:
   - wiki-concept
 ---
@@ -84,7 +84,6 @@ The minimum crew fills all required roles and provides enough ordinary sailors t
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Ship-Upgrades]] — Ship Upgrades
 - [[Sailor]] — Sailor - D\&D 5e (2024)
 - [[Ship-Operations]] — Ship Operations

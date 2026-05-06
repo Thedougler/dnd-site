@@ -9,7 +9,7 @@ created: 2026-05-01
 modified: 2026-05-03
 tags:
   - rattkin
-  - passage
+  - maritime
   - underground
 ---
 
@@ -49,6 +49,5 @@ That does not make it public infrastructure. The Warren is not a tourist curiosi
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Calveno]] — Calveno
 - [[Shattered-Sea]] — The Shattered Sea

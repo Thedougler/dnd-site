@@ -44,7 +44,7 @@ See [[Midchain|The Midchain]] for region overview.
 - [[Halythion|Halythion]] — rumoured underwater city somewhere in the eastern reefs south of the Midchain.
 - [[Antheri-Ruins|Antheri Ruins]] — ancient deep-water structures associated with the Maw and the Shelfworks.
 - [[Shelfworks|The Shelfworks]] — salvage field on the Maw's western shelf.
-- [[Huahei-Secrets|Huahei]] — small overgrown marshy island in the Midchain; peculiar in ways pilots don't discuss with outsiders.
+- [[Huahei]] — small overgrown marshy island in the Midchain; peculiar in ways pilots don't discuss with outsiders.
 
 ## NPCs
 

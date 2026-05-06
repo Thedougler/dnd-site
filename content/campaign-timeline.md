@@ -45,7 +45,7 @@ _Established history for the [[Shattered-Sea|Shattered Sea]] campaign._
 
 **1490 DR** — [[Beaumont-Sel|Beaumont Sel]] commissions a fitted section of salvaged Antheri plate from Catarina's workshop in Calveno — sized to cover the cannonball breach in his shell. He still wears it.
 
-**1493 DR** — [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] is banished from the High Eyrie at age 14. Her assigned pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — was treated as a joke. [[Master-Kyzil|Master Kyzil]], who staked his reputation on her readiness, approves the decision. The banishment is permanent until the task is complete. She is the youngest crow in a tradition that rarely sees fifty.
+**1493 DR** — [[crissdalynn-khinriss|Crisdalynn Khinriss]] is banished from the High Eyrie at age 14. Her assigned pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — was treated as a joke. [[Master-Kyzil|Master Kyzil]], who staked his reputation on her readiness, approves the decision. The banishment is permanent until the task is complete. She is the youngest crow in a tradition that rarely sees fifty.
 
 **1493 DR** — Crisdalynn meets [[party/Delmar-Fisk|Delmar Atticus Fisk]] and ships aboard the _[[Red-Lady|Red Lady]]_ as navigator and crow, beginning one year and ten months of service — the closest she's had to a home since the Eyrie.
 
@@ -90,6 +90,5 @@ _(Append after session runs)_
 
 ## Related
 
-- [[The-Deep]] — The Deep
 - [[Fernen]] — The Fernen
 - [[Narrow]] — The Narrow

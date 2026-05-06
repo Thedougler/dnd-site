@@ -8,7 +8,7 @@ created: 2026-05-01
 modified: 2026-05-05
 tags:
   - location
-  - port
+  - harbour
   - dravosi
   - crown-islands
   - player-resource

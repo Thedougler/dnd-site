@@ -74,7 +74,7 @@ The fleet's final commission was the theft of the [[private/questions/Pearl-of-S
 
 [[lore/Umberlee|Umberlee]]'s response was not long in coming. Fog first — so thick the water disappeared from sight around all five ships at once. Then a rogue trench opened beneath the fleet, plunging all five ships eighty feet into a valley of water. The walls closed in and swallowed them whole.
 
-[[Crissdalynn-Khinriss|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. Two days adrift before [[Saltwright|the *Saltwright*]] found them among the wreckage.
+[[crissdalynn-khinriss|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. Two days adrift before [[Saltwright|the *Saltwright*]] found them among the wreckage.
 
 Two survivors from five ships and all their crews.
 
@@ -100,7 +100,7 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It's the ce
 
 ## Key Relationships
 
-**[[Crissdalynn-Khinriss|Crisdalynn Khinriss]]** is the person whose opinion matters most to him, and the reason is specific: she dove through a closing trench to pull him out. He calls her Ms. Khinriss in public and trusts her above anyone else alive.
+**[[crissdalynn-khinriss|Crisdalynn Khinriss]]** is the person whose opinion matters most to him, and the reason is specific: she dove through a closing trench to pull him out. He calls her Ms. Khinriss in public and trusts her above anyone else alive.
 
 **[[Serafina-Windfall-Fisk|Serafina Windfall Fisk]]** is his wife. A fortune-teller who moves through the Scatter on compulsion, drawn to specific places and people by a precognitive pull she's stopped trying to fight. They married knowing their work would keep them apart more often than not. She was not aboard the _Red Lady_. He named his musket after her.
 

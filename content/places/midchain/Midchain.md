@@ -80,7 +80,7 @@ The coastal settlements of the Midchain know the raids have worsened in recent y
 | Rumanai | The largest sea turtle nesting beach in the Scatter. |
 | Matavei | A deep natural harbour that old-timers still prefer, even after Kalowe displaced it. |
 | Rakoru | A black pepper variety that trades at several times the usual price. |
-| [[public/places/midchain/Aruhe\|Aruhe]] | A deserted island east of Karath, too close to the Verdant Teeth to hold settlement for long. |
+| [[Aruhe]] | A deserted island east of Karath, too close to the Verdant Teeth to hold settlement for long. |
 
 ---
 

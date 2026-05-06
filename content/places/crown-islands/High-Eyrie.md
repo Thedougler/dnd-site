@@ -8,7 +8,7 @@ created: 2026-05-01
 modified: 2026-05-03
 tags:
   - landmark
-  - monastery
+  - building
   - aarakocra
 ---
 
@@ -95,7 +95,6 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[places/tail/index|The Tail]]
 - [[Drowned-Maw|The Drowned Maw]]
 - [[High-Eyrie-Secrets|DM Notes ⚿]]

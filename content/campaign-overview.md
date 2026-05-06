@@ -7,7 +7,6 @@ modified: 2026-05-03
 tags:
   - reference
   - setting
-  - campaign_guidance
 ---
 
 sources: \[]
@@ -59,12 +58,12 @@ Every dock has a price. Every flag means something. You don't need allegiances o
 
 | Power | Method | Stronghold | Disposition |
 |---|---|---|---|
-| [[public/factions/Dravosi-Crown\|Dravosi Crown]] | Naval force, inspection law, paperwork | [[public/places/Port-Tidefall\|Port Tidefall]], [[public/places/Crown-Islands\|Crown Islands]] | Law as weapon |
-| [[public/factions/Tessarine-Concordat\|Tessarine Concordat]] | Credit, debt, contracts, insurance | [[public/places/Calveno\|Calveno]] | Debt as politics |
-| [[public/factions/Waveservants\|Waveservants]] | Tribute, blessing, religious infrastructure | Every working harbour | Transactional neutrality |
-| [[public/factions/Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] | Observation, record-keeping, aerial mobility | [[public/places/High-Eyrie\|The High Eyrie]] | Non-aligned record-keepers |
-| [[public/factions/Passage\|The Passage]] | Hidden routes, Rattkin couriers, port infrastructure | [[public/places/Warren\|The Warren]], [[public/places/Calveno\|Calveno]] | Below the surface |
-| [[public/factions/Grung-Clans\|Grung Clans]] | Territory, poison, waterline trade, coastal raids | [[public/places/Verdant-Teeth\|Verdant Teeth]] | Deteriorating |
+| [[Dravosi-Crown\|Dravosi Crown]] | Naval force, inspection law, paperwork | [[Port-Tidefall\|Port Tidefall]], [[Crown-Islands\|Crown Islands]] | Law as weapon |
+| [[Tessarine-Concordat\|Tessarine Concordat]] | Credit, debt, contracts, insurance | [[Calveno\|Calveno]] | Debt as politics |
+| [[Waveservants\|Waveservants]] | Tribute, blessing, religious infrastructure | Every working harbour | Transactional neutrality |
+| [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] | Observation, record-keeping, aerial mobility | [[High-Eyrie\|The High Eyrie]] | Non-aligned record-keepers |
+| [[Passage\|The Passage]] | Hidden routes, Rattkin couriers, port infrastructure | [[Warren\|The Warren]], [[Calveno\|Calveno]] | Below the surface |
+| [[Grung-Clans\|Grung Clans]] | Territory, poison, waterline trade, coastal raids | [[Verdant-Teeth\|Verdant Teeth]] | Deteriorating |
 
 The Crown and the Concordat are rivals whose legal systems recognize each other — a problem in one jurisdiction can surface as an inspection issue in the other. [[Passage|The Passage]] operates entirely outside colonial records, which is its value. [[Waveservants|The Waveservants]] collect from all of them.
 
@@ -109,6 +108,4 @@ There are things in the Scatter that do not fit the economy yet: impossible ston
 
 ## Related
 
-- [[The-Deep]] — The Deep
 - [[Narrow]] — The Narrow
-- [[The-Below]] — The Below

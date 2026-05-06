@@ -8,7 +8,7 @@ tags:
   - playable
   - rattkin
   - smuggling
-  - passage
+  - maritime
 cssclasses:
   - wiki-species
 ---
@@ -132,7 +132,6 @@ Small humanoids calibrated for getting into places they are not supposed to be. 
 
 ## Related
 
-- [[The-Below]] — The Below
 - [[Perrin-Black-Jaw]] — Perrin Black Jaw
 - [[Calveno-Secrets]] — Calveno
 - [[Tail-Secrets]] — The Tail

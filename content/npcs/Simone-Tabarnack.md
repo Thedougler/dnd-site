@@ -3,6 +3,7 @@ publish: true
 permalink: /npcs/Simone-Tabarnack.md
 aliases:
   - Simone
+  - Simone-Tabarnack-Secrets
 title: Simone Tabarnack
 created: 2026-05-02
 modified: 2026-05-03
@@ -11,7 +12,7 @@ tags:
   - military
 ---
 
-# [[Simone-Tabarnack-Secrets|Simone Tabarnack]]
+# Simone Tabarnack
 
 ---
 

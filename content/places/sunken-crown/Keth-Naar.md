@@ -8,7 +8,7 @@ title: Keth-Naar
 created: 2026-05-01
 modified: 2026-05-03
 tags:
-  - settlement
+  - city
   - tabaxi
 ---
 
@@ -62,5 +62,4 @@ Keth-Naar is the most populated of five small islands arranged around the Blue H
 
 ## Related
 
-- [[The-Deep]] — The Deep
 - [[Vestra]] — The Vestra

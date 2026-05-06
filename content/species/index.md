@@ -2,7 +2,7 @@
 publish: true
 permalink: /species/index.md
 title: Species
-created: 2026-05-01T16:53:43.377-07:00
+created: 2026-05-06T02:31:45.367-07:00
 modified: 2026-05-03
 tags:
   - player-resource

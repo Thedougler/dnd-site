@@ -7,7 +7,7 @@ title: Fare I'a
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - market
+  - building
   - grung
 ---
 

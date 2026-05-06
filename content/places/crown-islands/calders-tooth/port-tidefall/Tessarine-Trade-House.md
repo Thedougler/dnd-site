@@ -24,10 +24,3 @@ The office handles trade licensing, contract brokerage, and courier dispatch und
 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Tessarine-Concordat|Tessarine Concordat]]
-
-## Related
-
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
-- [[Dravosi-Crown]] — The Dravosi Crown

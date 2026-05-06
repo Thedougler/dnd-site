@@ -25,9 +25,3 @@ The same mudflats that feed Osha's Slip give large constrictors room to hunt. Vi
 
 - [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]
-
-## Related
-
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea

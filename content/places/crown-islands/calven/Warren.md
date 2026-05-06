@@ -13,7 +13,9 @@ tags:
   - underground
 ---
 
-# [[Warren-Secrets|The Warren]]
+# The Warren
+
+> _See also: [[Warren-Secrets]] (GM only)_
 
 The Warren is the fixed Rattkin settlement beneath [[places/crown-islands/calven/calveno/index|Calveno]], built into the old drainage channels below the Saltmarsh district. Calveno grew above it. The Rattkin were already there.
 
@@ -48,6 +50,5 @@ That does not make it public infrastructure. The Warren is not a tourist curiosi
 ## Related
 
 - [[The-Below]] — The Below
-- [[Calveno-Secrets]] — Calveno
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Calveno]] — Calveno
 - [[Shattered-Sea]] — The Shattered Sea

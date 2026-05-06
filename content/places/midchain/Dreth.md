@@ -11,7 +11,7 @@ tags:
   - grung
 ---
 
-# [[Dreth-Secrets|Dreth]]
+# Dreth
 
 One of the two eastern islands of the [[Verdant-Teeth|Verdant Teeth]], sitting close enough to Orak that the channel between them reads more like flooded jungle than open sea. The coastline is low, the interior is dense rainforest, and the air smells of rainwater and wet limestone. There is work happening somewhere inland. You can hear it when the trees go quiet.
 
@@ -31,7 +31,7 @@ The Dreth-Orak channel is the best public sign of the larger constrictor problem
 
 ## Related
 
-- [[Karath-Secrets]] — Karath
-- [[Kalowe-Secrets]] — Kalowe
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Karath]] — Karath
+- [[Kalowe]] — Kalowe
 - [[Shattered-Sea]] — The Shattered Sea
+- [[Dreth-Secrets|DM Notes ⚿]]

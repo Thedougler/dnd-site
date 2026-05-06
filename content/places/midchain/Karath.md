@@ -11,7 +11,7 @@ tags:
   - grung
 ---
 
-# [[Karath-Secrets|Karath]]
+# Karath
 
 ## Overview
 
@@ -31,6 +31,6 @@ Karath's reputation belongs to the grung first, but the island helps maintain it
 
 ## Related
 
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[places/midchain/index|The Midchain]]
 - [[Shattered-Sea]] — The Shattered Sea
+- [[Karath-Secrets|DM Notes ⚿]]

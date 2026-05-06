@@ -24,10 +24,3 @@ Debt accumulates. Ships don't move. Release requires full payment of outstanding
 
 - [[South-Harbour|South Harbour]]
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
-
-## Related
-
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
-- [[Dravosi-Crown]] — The Dravosi Crown

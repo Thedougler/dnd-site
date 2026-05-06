@@ -40,6 +40,5 @@ Their account is treated as a warning, not a tale. The water warmed before the a
 
 ## Related
 
-- [[Tail-Secrets]] — The Tail
-- [[Drowned-Maw-Secrets]] — The Drowned Maw
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Drowned-Maw]] — The Drowned Maw
+- [[Shattered-Sea]] — The Shattered Sea

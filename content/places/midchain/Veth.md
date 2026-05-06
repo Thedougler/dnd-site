@@ -35,6 +35,6 @@ The trade path is cleared because the Grung keep it cleared. Beyond that narrow 
 
 ## Related
 
-- [[Narrow]] — The Narrow
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[places/midchain/index|The Midchain]]
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Veth-Secrets|DM Notes ⚿]]

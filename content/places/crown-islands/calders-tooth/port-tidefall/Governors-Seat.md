@@ -17,7 +17,7 @@ tags:
 
 Colonial stonework set back from the Shelf trade houses — pale stone, iron shutters on the ground floor, the largest Dravosi flag in the city above the door. Two guards in parade dress flank the entrance, hands behind backs, eyes forward. A small brass placard beside the door reads: _Formal Petitions — First Tide, Tuesday._
 
-This is where [[Port-Tidefall-Secrets|Port Tidefall]]'s administrative weight lives. Civic disputes, commercial appeals, Crown appointments, and anything else that needs the Governor's seal go through here. The guards know every face on the Shelf trade district. They are not decorative.
+This is where [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]'s administrative weight lives. Civic disputes, commercial appeals, Crown appointments — anything that needs the Governor's seal goes through here. The guards know every face on the Shelf. They are not decorative.
 
 ---
 
@@ -25,12 +25,3 @@ This is where [[Port-Tidefall-Secrets|Port Tidefall]]'s administrative weight li
 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Fort-Crestwall|Fort Crestwall]]
-
-## Related
-
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
-- [[Dravosi-Crown]] — The Dravosi Crown
-- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
-- [[South-Harbour-Impound-Secrets]] — South Harbour Impound
-- [[Inspection-Pier-Secrets]] — The Inspection Pier

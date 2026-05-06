@@ -32,4 +32,10 @@ Most pirate ships avoid the Crown Islands unless they have a very good exit. Sma
 
 ---
 
-- [[places/crown-islands/index|Crown Islands Index]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+## Fishing
+
+The cold upwelling off the northern Crown coast is the most productive fishing water in the Scatter: bluefin, yellowtail, and large reef fish in volume. Fishing fleets out of Tidefall's South Harbour work these grounds year-round. The Greyteeth reef systems produce shellfish in quantity — spiny lobster, sea urchin, oyster beds in the shallower channels.
+
+---
+
+- [[places/crown-islands/index|Crown Islands Index]] · [[places/index|Places]] · [[index|The Shattered Sea]] · [[Crown-Islands-Secrets|DM Notes ⚿]]

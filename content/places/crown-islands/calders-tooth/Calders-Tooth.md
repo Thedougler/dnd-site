@@ -17,7 +17,7 @@ tags:
   - calders-tooth
 ---
 
-# Calder's Tooth
+# [[Calders-Tooth-Secrets|Calder's Tooth]]
 
 ![[raw/assets/1778025287065~2 1.png]]
 

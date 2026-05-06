@@ -23,11 +23,6 @@ The records survive because people tend them, not because the island is gentle. 
 
 ## See Also
 
-- [[Keth-Naar|Keth-Naar]]
-- [[Dath-Mar|Dath-Mar]]
-
-## Related
-
-- [[Sunken-Crown-Secrets]] — The Sunken Crown
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Keth-Naar]]
+- [[Dath-Mar]]
+- [[Sunken-Crown|The Sunken Crown]]

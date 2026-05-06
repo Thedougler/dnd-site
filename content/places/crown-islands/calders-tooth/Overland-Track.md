@@ -30,9 +30,3 @@ The road also concentrates the kind of prey a giant axe beak can use. Pack anima
 - [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
-
-## Related
-
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea

@@ -36,9 +36,3 @@ At the back, a locked glass case holds the magic items. The clerk knows the list
 
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Shelf-Instrument-Dealer|Shelf Instrument Dealer]]
-
-## Related
-
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea

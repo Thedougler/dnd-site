@@ -51,9 +51,3 @@ The useful thing is not the stock. It is that every ordinary item comes with som
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]
 - [[South-Harbour-Impound|South Harbour Impound]]
-
-## Related
-
-- [[Narrow]] — The Narrow
-- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
-- [[Port-Tidefall-Secrets]] — Port Tidefall

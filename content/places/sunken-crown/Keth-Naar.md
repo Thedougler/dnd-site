@@ -54,13 +54,13 @@ Keth-Naar is the most populated of five small islands arranged around the Blue H
 
 ## See Also
 
-- The Sunken Crown
-- [[Dath-Mar|Dath-Mar]]
-- Ral-Arn
-- Meth-Var
+- [[Sunken-Crown|The Sunken Crown]]
+- [[Dath-Mar]] — refuge island
+- [[Ral-Arn]] — record island
+- [[Meth-Var]] — watch island
+- [[Vel-Orn]] — shrine island
 
 ## Related
 
 - [[The-Deep]] — The Deep
 - [[Vestra]] — The Vestra
-- [[The-Below]] — The Below

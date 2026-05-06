@@ -19,7 +19,7 @@ tags:
 
 > _Eastern end of the Scatter, where the islands narrow and the trench begins._
 
-[[Tail/tail|The Tail]] — region overview, character, fishing grounds, the cracked stern story, and Shelfworks access.
+[[Tail|The Tail]] — region overview, character, fishing grounds, the cracked stern story, and Shelfworks access.
 
 ---
 

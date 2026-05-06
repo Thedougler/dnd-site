@@ -98,4 +98,4 @@ Not every Midchain hazard lives in the water or waits at the beach. The larger s
 
 ---
 
-- [[places/midchain/index|Midchain Index]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+- [[places/midchain/index|Midchain Index]] · [[places/index|Places]] · [[index|The Shattered Sea]] · [[Midchain-Secrets|DM Notes ⚿]]

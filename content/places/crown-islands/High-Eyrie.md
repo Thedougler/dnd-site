@@ -12,7 +12,7 @@ tags:
   - aarakocra
 ---
 
-# [[High-Eyrie-Secrets|The High Eyrie]]
+# The High Eyrie
 
 ![[raw/assets/1778025863567~2.png]]
 ![[raw/assets/banners/The-High-Eyrie.webp|Stone fortress monastery perched on a sheer sea stack above dark water]]
@@ -96,5 +96,6 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 ## Related
 
 - [[The-Below]] — The Below
-- [[Tail-Secrets]] — The Tail
-- [[Drowned-Maw-Secrets]] — The Drowned Maw
+- [[places/tail/index|The Tail]]
+- [[Drowned-Maw|The Drowned Maw]]
+- [[High-Eyrie-Secrets|DM Notes ⚿]]

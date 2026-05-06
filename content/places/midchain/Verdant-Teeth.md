@@ -44,6 +44,6 @@ The largest animal stories stay mostly inland. Some traders have heard the canop
 
 ## Related
 
-- [[Narrow]] — The Narrow
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[places/midchain/index|The Midchain]]
+- [[Shattered-Sea]] — The Shattered Sea
+- [[Verdant-Teeth-Secrets|DM Notes ⚿]]

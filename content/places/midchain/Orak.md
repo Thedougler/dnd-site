@@ -11,7 +11,7 @@ tags:
   - grung
 ---
 
-# [[Orak-Secrets|Orak]]
+# Orak
 
 The second of the two eastern [[Verdant-Teeth|Verdant Teeth]], sitting close enough to [[Dreth|Dreth]] that the channel between them is shadowed and flat. Orak's shore is low and wet, the roots crowding down to the waterline, the canopy running thick from the beach inward. Nothing on the beach looks guarded until the canopy moves once and then holds perfectly still.
 
@@ -28,7 +28,7 @@ Orak's danger is low, wet, and patient. [[beastiary/beasts/giant-frog|Giant frog
 
 ## Related
 
-- [[Karath-Secrets]] — Karath
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Karath]] — Karath
 - [[Shattered-Sea]] — The Shattered Sea
 - [[Grung]] — Grung
+- [[Orak-Secrets|DM Notes ⚿]]

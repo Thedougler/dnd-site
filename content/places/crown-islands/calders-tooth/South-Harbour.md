@@ -8,7 +8,7 @@ tags:
   - harbour
 ---
 
-# South Harbour
+# [[South-Harbour-Secrets|South Harbour]]
 
 ## Overview
 
@@ -26,9 +26,3 @@ The estuary side also has animal risks that Tidefall officers prefer to file und
 - [[South-Harbour-Impound|South Harbour Impound]]
 - [[Oshas-Slip|Osha's Slip]]
 - [[places/crown-islands/calders-tooth/port-tidefall/index|Port Tidefall]]
-
-## Related
-
-- [[Oshas-Slip-Secrets]] — Osha's Slip
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
-- [[Port-Tidefall-Secrets]] — Port Tidefall

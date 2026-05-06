@@ -33,6 +33,6 @@ That is the public reason crews give. The practical reason is that abandoned gar
 
 ## Related
 
-- [[Narrow]] — The Narrow
-- [[Sorn-Secrets]] — Sorn
-- [[Midchain-Secrets]] — The Midchain
+- [[Sorn]] — Sorn
+- [[places/midchain/index|The Midchain]]
+- [[Aruhe-Secrets|DM Notes ⚿]]

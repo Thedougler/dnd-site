@@ -10,7 +10,7 @@ tags:
   - cape
 ---
 
-# Cape Solitude
+# [[Cape-Solitude-Secrets|Cape Solitude]]
 
 The northernmost point of [[places/crown-islands/calders-tooth/index|Calder's Tooth]], where the island runs out of island and faces open ocean directly. Heavy surf, constant wind off the [[Galewall|Galewall]], and no shelter. Local fisherfolk won't anchor within two miles of the cape. They don't explain why if you ask them directly, but the short version is the Dead Light.
 
@@ -28,9 +28,3 @@ The tower still stands. Nothing has moved into it that anyone has reported, and 
 
 - [[places/crown-islands/calders-tooth/index|Calder's Tooth]]
 - [[Galewall|The Galewall]]
-
-## Related
-
-- [[Cape-Solitude-Secrets]] — Cape Solitude
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
-- [[Shattered-Sea-Secrets]] — The Shattered Sea

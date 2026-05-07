@@ -2,7 +2,7 @@
 publish: true
 permalink: /places/index.md
 title: Regions
-created: 2026-05-06T02:31:45.339-07:00
+created: 2026-05-04T02:26:40.821-07:00
 modified: 2026-05-04
 tags:
   - player-resource
@@ -12,7 +12,7 @@ tags:
 
 # Places in the Shattered Sea
 
-![[raw/assets/1778028302576~2.png]]
+![[raw/assets/1778028302576~2.png|355x194]]
 Ports, islands, storm belts, routes, shrines, ruins, and dangerous water the characters can know about without crossing into GM-only material.
 
 ## Region Scale

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Loud-Argument.md
 aliases:
   - Loud Argument
   - The Loud Argument
@@ -21,7 +20,7 @@ A gun brig — the combat vessel of Fisk's Fleet. Shorter than the _Red Lady_ bu
 
 Below decks: a locked magazine, crew quarters for a full complement, and minimal hold space — cargo capacity sacrificed for gun deck clearance. She was not built to carry things.
 
-Fifth ship of the fleet.
+Fifth ship of the fleet. Captained by [[Bastian-Crev|Bastian Crev]].
 
 ---
 
@@ -33,6 +32,7 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 
 ## Connections
 
+- [[Bastian-Crev|Bastian Crev]] — captain; his soul is now inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]]
 - [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — admiral of the fleet
 - [[Red-Lady|The Red Lady]] — flagship
 - [[Drowned-Maw|Drowned Maw]] — where she sank

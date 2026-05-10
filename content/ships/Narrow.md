@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Narrow.md
 aliases:
   - Narrow
   - The Narrow
@@ -14,6 +13,8 @@ cssclasses:
 ---
 
 # The _Narrow_
+
+![[raw/assets/banners/Maren.webp]]
 
 ## Overview
 

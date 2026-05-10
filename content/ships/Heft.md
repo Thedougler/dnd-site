@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Heft.md
 aliases:
   - Heft
   - The Heft
@@ -14,6 +13,8 @@ cssclasses:
 ---
 
 # The _Heft_
+
+![[raw/assets/banners/Detto-Kalash.webp]]
 
 ## Overview
 

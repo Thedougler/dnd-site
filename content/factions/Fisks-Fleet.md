@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Fisks-Fleet.md
 aliases:
   - Fisk's Fleet
   - The Fleet
@@ -30,7 +29,23 @@ A five-ship independent privateer fleet operating under Rear Admiral [[character
 | [[Narrow\|The Narrow]]              | [[Maren\|Maren]]        |
 | [[Heft\|The Heft]]                | [[Detto-Kalash\|Detto Kalash]] |
 | [[Fernen\|The Fernen]]             | [[Sienne-Orre\|Sienne Orre]]  |
-| [[Loud-Argument\|Loud Argument]]  | Bastian Crev     |
+| [[Loud-Argument\|Loud Argument]]  | [[Bastian-Crev\|Bastian Crev]]     |
+
+## The Captains
+
+Five people from Delmar's earliest crew — the ones who stayed through every failure and every rank until he had ships to give them.
+
+**[[Rael-Corven|Rael Corven]]** captained the _Red Lady_ and served as flag captain. Steady, authoritative, the kind of weight that made the Admiral look agile by comparison. Closest to Fisk operationally.
+
+**[[Maren|Maren]]** captained _The Narrow_. Water Genasi. Fast, hypervigilant, built for survey work in places other ships couldn't go. She could read a coastline like other people read a face.
+
+**[[Detto-Kalash|Detto Kalash]]** captained _The Heft_. Earth Genasi. Blunt, enduring, practical. Not built for charm. Built for holding position when everything else was moving.
+
+**[[Sienne-Orre|Sienne Orre]]** captained _The Fernen_. Druid. Methodical, careful, the kind of person who read a contract twice. Long routes, deep knowledge, no wasted motion.
+
+**[[Bastian-Crev|Bastian Crev]]** captained _The Loud Argument_. Combat specialist. Theatrical in the way that only works when you back it up. Made scenes; the scenes worked.
+
+---
 
 ## What Happened
 

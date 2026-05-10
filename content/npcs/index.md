@@ -1,9 +1,8 @@
 ---
 publish: true
-permalink: /npcs/index.md
 title: NPCs
-created: 2026-05-06T02:31:45.200-07:00
-modified: 2026-05-03
+created: 2026-05-09T21:25:34.240-07:00
+modified: 2026-05-09
 tags:
   - player-resource
   - index
@@ -44,6 +43,8 @@ People the party has met, heard about, or probably should remember. Private moti
 **[[Rael-Corven|Rael Corven]]** — Sorcerer and flag captain of the _[[Red-Lady|Red Lady]]_. The only captain who entered the shrine with Fisk. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and by all accounts the loudest of the five.
 
 **[[Serafina-Windfall-Fisk|Serafina Windfall Fisk]]** — Aasimar fortune-teller, Delmar Fisk's wife. Drawn to specific places by a precognitive pull she stopped trying to fight years ago.
+
+**[[Shepherd-Grigori|Shepherd Grigori]]** — A wandering holy man known for curing incurable noble afflictions. Moves in royal circles. Impossible to kill, by all accounts.
 
 **[[Sienne-Orre|Sienne Orre]]** — Druid and captain of the _[[Fernen|Fernen]]_. Led the second aquatic scout team with [[Maren|Maren]]. Drowned at the Maw. Her soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
 

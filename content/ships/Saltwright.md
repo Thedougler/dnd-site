@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Saltwright.md
 aliases:
   - Saltwright
 title: The Saltwright
@@ -33,15 +32,19 @@ She is the party's current ship and home.
 
 ### Weather Deck
 
-Plain and unadorned. No figurehead, no decorative railwork — a working surface for sail handling, loading, and routine passage. Not a fighting deck. Not a prestige vessel.
+Plain and unadorned. No figurehead, no decorative railwork — a working surface for sail handling, loading, and routine passage. Not a fighting deck. Not a prestige vessel. The stern is covered: a low deckhouse aft of the mainmast shelters the captain's quarters beneath it.
 
 ### Captain's Quarters
 
-Small and practical. Beaumont keeps a lockbox under the bed. One of the only spaces aboard with any real privacy.
+Set into the covered stern at weather deck level, accessed from the main deck. Small and practical. Beaumont keeps a lockbox under the bed. One of the only spaces aboard with any real privacy.
 
-### Hold
+### Gun Deck
 
-Roughly six feet of headroom beneath the deck beams. Cargo stacked tight among barrels, crates, and sacks. Two lanterns hang amidships; the hull creaks under sail. A small gap above the waterline in the aft corner lets in fresh air and a [[Narrow]] sliver of outside light. [[Bisou|Bisou]]'s hoard is hidden somewhere in this clutter.
+The middle deck, sitting below the weather deck. Originally fitted for cannon — the gun ports are still there, now plugged against the sea. The forward section has been converted to crew's mess and additional storage. Two 12-pound guns remain aboard, dismounted from their carriages and lashed down at the aft end of the deck. They are not actively crewed.
+
+### Cargo Hold
+
+The lowest deck. Roughly six feet of headroom beneath the deck beams. Cargo stacked tight among barrels, crates, and sacks. Two lanterns hang amidships; the hull creaks under sail. A small gap above the waterline in the aft corner lets in fresh air and a [[Narrow]] sliver of outside light. [[Bisou|Bisou]]'s hoard is hidden somewhere in this clutter.
 
 ---
 

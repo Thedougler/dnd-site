@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Detto-Kalash.md
 aliases:
   - Detto
 title: Detto Kalash
@@ -12,6 +11,8 @@ tags:
 ---
 
 # [[Detto-Kalash-Secrets|Detto Kalash]]
+
+![[raw/assets/banners/Detto-Kalash.webp]]
 
 ---
 

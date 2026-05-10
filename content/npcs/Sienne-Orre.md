@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Sienne-Orre.md
 aliases:
   - Sienne
 title: Sienne Orre
@@ -12,6 +11,8 @@ tags:
 ---
 
 # [[Sienne-Orre-Secrets|Sienne Orre]]
+
+![[raw/assets/banners/Sienne-Orre.webp]]
 
 ---
 

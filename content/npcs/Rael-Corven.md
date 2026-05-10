@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Rael-Corven.md
 aliases:
   - Rael
 title: Rael Corven
@@ -12,6 +11,8 @@ tags:
 ---
 
 # [[Rael-Corven-Secrets|Rael Corven]]
+
+![[raw/assets/banners/Rael-Corven.webp]]
 
 ---
 

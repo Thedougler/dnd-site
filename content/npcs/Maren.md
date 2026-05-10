@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Maren.md
 aliases:
   - Maren
 title: Maren
@@ -12,6 +11,8 @@ tags:
 ---
 
 # [[Maren-Secrets|Maren]]
+
+![[raw/assets/banners/Maren.webp]]
 
 ---
 

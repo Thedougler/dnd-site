@@ -12,7 +12,7 @@ tags:
 
 # [[Bastian-Crev-Secrets|Bastian Crev]]
 
-> _Image pending — [[Bastian-Crev-Secrets|portrait not yet generated]]_
+![[raw/assets/portraits/Bastian-Crev.webp|Bastian Crev braced on the storm-lashed deck of the Loud Argument as the Drowned Maw opens ahead]]
 
 ---
 

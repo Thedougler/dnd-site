@@ -17,7 +17,7 @@ tags:
 
 See [[Crown-Islands|The Crown Islands]] for region overview.
 
-- [[Calders-Tooth]]
+- [[Calders-Tooth-Overview|Calder's Tooth]]
 - [[Aldenmere]]
 - [[calven|Calven]]
 - [[Harwick]]

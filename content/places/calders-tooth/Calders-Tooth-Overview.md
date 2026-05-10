@@ -1,6 +1,6 @@
 ---
 publish: true
-permalink: /places/calders-tooth/Calders-Tooth.md
+permalink: /places/calders-tooth/Calders-Tooth-Overview.md
 aliases:
   - Calder's Tooth
   - Calders Tooth

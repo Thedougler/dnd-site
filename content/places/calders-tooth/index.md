@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/calders-tooth/index.md
 aliases:
   - Calder's Tooth Index
   - Calders Tooth Index
@@ -21,7 +20,7 @@ tags:
 # Calder's Tooth — Index
 
 ![[raw/assets/1778025287065~2 2.png]]
-See [[Calders-Tooth|Calder's Tooth]] for island overview.
+See [[Calders-Tooth-Overview|Calder's Tooth]] for island overview.
 
 ---
 

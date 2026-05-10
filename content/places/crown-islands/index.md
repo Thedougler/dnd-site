@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/crown-islands/index.md
 aliases:
   - Crown Islands Index
 title: The Crown Islands — Index
@@ -17,7 +16,7 @@ tags:
 
 See [[Crown-Islands|The Crown Islands]] for region overview.
 
-- [[Calders-Tooth]]
+- [[Calders-Tooth-Overview]]
 - [[Aldenmere]]
 - [[calven|Calven]]
 - [[Harwick]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/tail/Drowned-Maw.md
 aliases:
   - Drowned Maw
   - Maw
@@ -46,6 +45,14 @@ On the Maw's western rim, forty feet down, there are ruins: old stone buildings,
 ## Who's Been Watching
 
 The [[High-Eyrie|Sentinels of the High Eyrie]] have kept aerial observation of the Maw's surface for two centuries. Their records are the most complete in the Scatter. The Waveservants dislike questions about what they think is down there, which tells you something, though not what.
+
+---
+
+## Fauna
+
+The Maw's inhabitants are arranged by depth. The rim is [[beastiary/sea-life/Whip-Shark|whip shark]] water — fast, surface-oriented predators that follow ships slowing at the crossing and work the shelf edge where the floor drops away. They are the practical fear, the one with hull scars attached to it and a body count most captains find worth discussing. The deeper shelf approach carries [[beastiary/beasts/giant-squid|giant squids]] at night: the drop-off creates a thermal boundary that certain prey species follow upward in darkness, and the squids follow the prey. The sounding reach of a giant squid at the rim of the drop makes a ship anchored close to the edge a different category of exposed than the same ship anchored in open water.
+
+Below the shelf, the scale stops being useful for practical planning. The Maw has room for large things: [[beastiary/sea-life/kraken|kraken]], [[beastiary/dragons/dragon-turtle|dragon turtles]], [[beastiary/sea-life/Leviathan|Leviathan]]. What exists at what depth is not established in any record the pilot community considers reliable. What the records show is that some ships cross without incident, some come back with crews that don't discuss what they saw, and some don't come back. The sensible working assumption is that the Maw has room for large things and that those things are deeper than the rim — until they aren't.
 
 ---
 

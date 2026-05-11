@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/calders-tooth/Overland-Track.md
 aliases:
   - Overland Track
   - The Overland Track
@@ -21,6 +20,16 @@ Wagons break axles daily on corduroy logs laid over the worst mud. The road clim
 Locals call it the toll road because every legitimate crossing gives the Crown another chance to count bodies, cargo, and coin.
 
 The road also concentrates the kind of prey a giant axe beak can use. Pack animals slow in the mud, wagons stop where the switchback pinches, and the ridge above the road gives a running bird room to pace a caravan before dropping onto it. Drivers watch for three-toed tracks in fresh mud and loose stones skittering downhill before the bird itself appears. ^\[inferred]
+
+---
+
+## Fauna
+
+The ridge country the Track crosses is [[beastiary/beasts/giant-axe-beak|giant axe beak]] territory — the open switchbacks give them room to pace a slowed caravan before committing, and pack animals stuck in the mud are exactly the kind of prey the birds prefer. Drivers watch for three-toed tracks in fresh mud and stones skittering downhill from above. The warning usually arrives before the bird does, but not by much.
+
+[[beastiary/beasts/giant-boar|Giant boars]] work the wetter ridge sections where the road runs close to interior scrub. They are not road predators specifically, but a sounder pushed by one disturbance will push through whatever is between them and open ground, which is sometimes a wagon and sometimes a toll-collector. The Crown's track crews flag fresh wallow sign near the road when they find it.
+
+The drainage culverts and old stone catchment boxes along the lower switchbacks are [[beastiary/beasts/giant-wolf-spider|giant wolf spider]] habitat — warm, dark, and rarely disturbed by anything that checks before reaching in. Track maintenance crews carry poles for this reason.
 
 ---
 

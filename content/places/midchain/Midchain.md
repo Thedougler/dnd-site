@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/midchain/Midchain.md
 aliases:
   - Midchain
   - The Midchain
@@ -95,6 +94,16 @@ The Midchain can feed a careful crew and swallow a careless one. Most routes are
 ## Interior Signs
 
 Not every Midchain hazard lives in the water or waits at the beach. The larger southern islands have enough rainforest, freshwater, and limestone high ground to support animals that most pilots never see. Giant ape stories belong in that category: broken canopy trails above the reef line, boulders found in paths where no storm put them, and fruit trees stripped from the crown down. The clearest reports cluster near the [[Verdant-Teeth|Verdant Teeth]], but the range is better understood as a southern Midchain interior problem than a single-island sighting. ^\[inferred]
+
+---
+
+## Fauna
+
+[[beastiary/sea-life/Sawek|Sawek]] lairs in the deep blue holes — the sudden shelf drops that appear between reef systems where the bottom vanishes and the water goes dark. Blue holes look like shelter and anchorage to captains who do not know them by name. Pilots who do know them by name do not anchor in them. Whether it is a single animal with a range across several holes or a population occupying distinct territories is something the pilot community has declined to investigate systematically.
+
+The mangrove cuts and river mouths concentrate [[beastiary/beasts/giant-crocodile|giant crocodiles]] in numbers that make wading crew any flooded interior channel a decision worth making deliberately. Midchain crocodiles are larger than the Crown Island population — the interior waterways run wide and warm, and the food supply is reliable enough to support animals of the size that local guides describe. Most small-boat groundings in mangrove water include crocodile awareness as a factor in the rescue timeline.
+
+The larger southern island interiors produce [[beastiary/beasts/giant-ape|giant ape]] sign: stripped canopy trails, boulders relocated to positions no storm explains, and fruit trees worked from the crown down. The range clusters near the Verdant Teeth but is wide enough to make the southern Midchain interior a category rather than an isolated sighting. Pilots treat it as a coastal problem — the apes rarely reach the beach — but landing parties that push past the first treeline on unknown southern islands do so with that in mind.
 
 ---
 

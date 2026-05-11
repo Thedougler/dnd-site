@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/rules/Ship-Bastion.md
 title: Ship Bastion - The Shattered Sea
 created: 2026-04-17
 modified: 2026-04-17
@@ -30,53 +29,20 @@ The party ship is one shared bastion. Use 2024 combining-bastions rules.
 
 ---
 
-## Facility Slots
+## Facility Slots & Level Gates
 
-When the party first acquires a ship, it starts with 2 Special Facilities at default size.
+When the party first acquires a ship, it starts with 2 Special Facilities. Both character level and ship tier must be met to install a facility. Ship tier determines which facility tiers are available — physical space is handled narratively.
 
-| Character Level | Total Facility Slots (per character) |
-|---|---|
-| 5 | 2 |
-| 9 | 3 |
-| 13 | 4 |
-| 17 | 5 |
-
-Shared total = sum of all PCs. Physical ship space still limits installed facilities.
+| Character Level | Slots/PC | Party Pool (5 PCs) | Unlocks | Min Ship Tier |
+|---|---|---|---|---|
+| Any | — | — | Basic facilities | Any |
+| 5 | 2 | 10 | Level 5 facilities | 1 |
+| 9 | 3 | 15 | Level 9 facilities | 2 |
+| 13 | 4 | 20 | Level 13 facilities | 3 |
+| 17 | 5 | 25 | Level 17 facilities | 3 |
 
 - Facility replacement on level-up requires a shipyard port and 3 days.
-- Additional facilities can be installed by standard 2024 gold/time costs, if space and port access allow.
-
----
-
-## Facility Space
-
-| Ship Tier | Available Space Units |
-|---|---|
-| 1 | 4 |
-| 2 | 8 |
-| 3 | 16 |
-
-- Cramped: 1 unit
-- Roomy: 2 units
-- Vast: 4 units
-
-Expansion requires a shipyard port and uses 2024 expansion costs/timing differences.
-
-When upgrading to a larger ship, facilities transfer during refit at normal installation cost and half time, if a shipyard is available.
-
----
-
-## Level Gates
-
-Both character level and ship tier must be met.
-
-| Facility Tier | Minimum Character Level | Minimum Ship Tier |
-|---|---|---|
-| Basic | Any | Any |
-| Level 5 | 5 | 1 |
-| Level 9 | 9 | 2 |
-| Level 13 | 13 | 3 |
-| Level 17 | 17 | 3 |
+- Additional facilities can be added at any time at standard 2024 gold/time costs, if port access allows.
 
 ---
 

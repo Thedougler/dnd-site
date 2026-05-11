@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/midchain/Sorn.md
 aliases:
   - Sorn Island
 title: Sorn
@@ -26,6 +25,14 @@ Sorn is the agricultural interior of the [[Verdant-Teeth|Verdant Teeth]] — the
 Sorn's known threats are the kind that thrive around farms and wet interior work. Traders hear [[beastiary/beasts/giant-wasp|giant wasps]] above the cut-back beach, see dead [[beastiary/beasts/giant-centipede|giant centipedes]] carried out on hooked poles, and know better than to ask why the Grung keep certain flooded paths clear of [[beastiary/beasts/giant-frog|giant frogs]]. The beach is controlled. The island behind it is managed, which is not the same as tame.
 
 The crop terraces make Sorn one of the few places where giant ape sign can reach the edge of public knowledge. A huge forager does not need to attack the beach to become a problem; it only needs to break fruit trees, tear down watch platforms, or throw stones from the ridge when patrols push too close. Traders have no direct right to see the interior, so the rumor travels as aftermath: repaired palisade sections, sudden delays in resin shipments, and grung guards returning from inland with crushed shields. ^\[inferred]
+
+---
+
+## Fauna
+
+The trade beach gives traders a narrow window of observation. [[beastiary/beasts/giant-wasp|Giant wasps]] are audible above the cut-back treeline — the colony noise is loud enough to carry to the waterline, and the Grung treat it as background to the business at hand. [[beastiary/beasts/giant-centipede|Giant centipedes]] are carried out on hooked poles periodically, which answers the question of where they come from without inviting further questions. The flooded interior paths that Grung patrols keep clear of [[beastiary/beasts/giant-frog|giant frogs]] suggest a standing pest-management operation that traders on the beach observe only as occasional organized activity in the treeline.
+
+The interior is where the more significant sign accumulates. The crop terraces attract [[beastiary/beasts/giant-ape|giant apes]] from the ridgelines — animals large enough to break fruit trees, pull down watch platforms, and throw stone from elevation. Traders don't see the interior, so the evidence travels as consequence: repaired palisade sections visible from the beach, delays in resin shipments that Grung intermediaries do not explain, and guards returning from inland with crushed equipment. The island is managed. That work is ongoing.
 
 ---
 

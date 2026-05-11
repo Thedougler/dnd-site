@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/midchain/Veth.md
 aliases:
   - Veth Island
 title: Veth
@@ -23,6 +22,16 @@ The beach trade is steady enough that certain [[places/midchain/index|Midchain]]
 From the water, the important thing about Veth is how little of it can be seen. The island permits commerce at the edge and keeps everything else above the sightline.
 
 The trade path is cleared because the Grung keep it cleared. Beyond that narrow permission, the island is dense with ordinary rainforest danger: [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]] on warm stone, [[beastiary/beasts/giant-spider|giant spiders]] in the upper green, and [[beastiary/beasts/giant-frog|giant frogs]] wherever water sits long enough to forget the tide. The limestone ridges above the beach hold [[giant-scorpion|giant scorpions]] — they work the rock face at night and occasionally reach the beach by dawn, when the stone is still holding the previous day's heat. A Midchain trader waiting at anchor reported one on the beach at first light, moving along the tideline. His shore party, already in the dinghy, turned back and waited two hours before attempting the exchange. The Grung intermediaries arrived on schedule and appeared unbothered by it. Merchants who describe Veth as safe mean the beach, during trade, while watched. ^\[inferred]
+
+---
+
+## Fauna
+
+The trade path is kept clear because the Grung keep it clear. Past that narrow corridor, the island is standard rainforest density. [[beastiary/beasts/giant-venomous-snake|Giant venomous snakes]] occupy the warm limestone ledges above the beach and the root-shadow between ridges — the upper beach margin where traders wait is adjacent to their range. [[beastiary/beasts/giant-spider|Giant spiders]] hold the canopy above the approach path, which the Grung clear of webs periodically without drawing attention to the practice.
+
+[[beastiary/beasts/giant-frog|Giant frogs]] concentrate wherever standing water collects above the tideline — the beach end of the cleared path sits near a freshwater seep, which the frogs use heavily and which traders approaching the exchange point pass without necessarily recognizing as occupied ground.
+
+The limestone ridges above the beach are [[beastiary/beasts/giant-scorpion|giant scorpion]] territory. The scorpions work the rock face at night and retain heat long enough to be active at dawn, occasionally reaching the beach before the first trade parties arrive. Merchants who describe Veth as safe mean the beach, during trade, while watched. The qualifier matters.
 
 ---
 

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/Central-Strait.md
 aliases:
   - Central Strait
   - The Strait
@@ -95,6 +94,16 @@ The exception sailors talk around rather than directly is the [[Sawek|Sawek]], a
 Piracy in the Strait usually arrives wearing paperwork before it raises a flag. Small crews and sharper [[beastiary/humanoid/pirate-captain|captains]] work the Tidefall Gate approaches, where ships have slowed for inspection or are still settling their trim after paying for it. The Kalowe Run's southern approaches are less watched. Ships that come off the Blue Lane early or run close to the Midchain reef faces are further from Crown patrols than they sometimes realise.
 
 The [[The-Bad-Receipt|Bad Receipt]] is the name merchants lower their voices for along the southern approach: a Kalowe-refit schooner with enough false registry to make a lawful captain hesitate before deciding it is not a legitimate vessel. By the time the decision is made, the closing speed has already narrowed the options. Larger fears belong farther east. If the [[The-Glass-Debt|Glass Debt]] or [[The-Velvet-Noose|Velvet Noose]] is reported anywhere near the Strait, convoys consolidate, Crown patrols stop pretending the schedule is normal, and people start using the word [[beastiary/humanoid/pirate-admiral|admiral]] where they would usually say captain.
+
+---
+
+## Fauna
+
+The Strait's surface is genuinely alive in ways that make it easy to forget what lives below it. Spinner dolphins run the shipping lanes year-round, riding bow waves and working the current edges for fish. Flying fish breach silver off every bow from the western mouth to the Narrows. The visible biology of the Strait is pleasant and unremarkable.
+
+[[beastiary/sea-life/hunter-shark|Hunter sharks]] range through the deeper lanes with less regard for the pleasant surface picture. The Harwick Reach is the worst concentration — Yard waste in the water, fish offal from the provisioning wharves, a food chain that starts at the surface and pulls predators up. Wrecks and reef approaches along both shores attract [[beastiary/beasts/giant-octopus|giant octopuses]] in numbers that matter primarily to salvage divers but occasionally to moored vessels that have anchored closer to limestone structure than they should have.
+
+The [[beastiary/sea-life/Sawek|Sawek]] is the Strait's rumoured apex — a blue-hole predator associated with the darkest sections of the southern Midchain approaches, where the bottom drops fast and the current carries warm water over cold. Whether it ranges through the open Blue Lane or holds to the deep still sections is a question most pilots prefer not to resolve by experiment. The Strait's transparency deceives: two hundred feet of clear water and a sandy bottom still has things in it that the bottom does not display.
 
 ---
 

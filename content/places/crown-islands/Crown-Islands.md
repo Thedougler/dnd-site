@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/crown-islands/Crown-Islands.md
 aliases:
   - Crown Islands
 title: The Crown Islands
@@ -35,6 +34,14 @@ Most pirate ships avoid the Crown Islands unless they have a very good exit. Sma
 ## Fishing
 
 The cold upwelling off the northern Crown coast is the most productive fishing water in the Scatter: bluefin, yellowtail, and large reef fish in volume. Fishing fleets out of Tidefall's South Harbour work these grounds year-round. The Greyteeth reef systems produce shellfish in quantity — spiny lobster, sea urchin, oyster beds in the shallower channels.
+
+## Fauna
+
+[[beastiary/sea-life/hunter-shark|Hunter sharks]] are the consistent offshore threat across all five islands — the Fishing grounds off the northern Crown coast and the Strait approaches to the south are both productive enough to concentrate predators year-round. The Greyteeth reef systems add structure that small reef sharks and larger hunters use as ambush geometry, which makes capsized-dinghy recoveries more complicated than they should be.
+
+The highland interiors carry [[beastiary/beasts/giant-boar|giant boars]] in the older forest sections away from logging roads and fort tracks. They are a documented bounty animal on Harwick and a livestock hazard on Aldenmere, and they are treated with the mild seriousness that a chronic problem earns — reported, managed, not solved. The Crown's interior roads run through boar country as a matter of geography.
+
+The northern Greyteeth is a different category of concern. An [[beastiary/dragons/adult-blue-dragon|adult blue dragon]] lairs in the limestone reef structures and uses the Greyteeth's existing reputation for unreliable charts as operational cover. The Dravosi Crown does not officially acknowledge this. The captains who fly the right colours and keep an unsealed chest on the aft deck understand it practically.
 
 ---
 

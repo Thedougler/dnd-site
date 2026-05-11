@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/tail/Tail.md
 aliases:
   - Tail
   - The Tail
@@ -61,6 +60,16 @@ Nobody in the Tail treats that as a clean identification. The attack happened ea
 Salvage operations bound for the [[Shelfworks|Shelfworks]] stage from the closest inhabited Tail islands before heading out to the open-water dive site. The Tail is where crews take on pilots, supplies, rope, weights, replacement fittings, and the kind of advice nobody writes down because writing it down makes it look optional.
 
 Weather, current, and depth change quickly here. A pleasant morning can become instrument work by noon.
+
+---
+
+## Fauna
+
+The cold upwelling that makes the Tail's longline grounds worth working pulls [[beastiary/beasts/giant-shark|giant sharks]] up along the shelf edge. Tail crews distinguish them from ordinary hunter sharks by what happens to the gear — or doesn't come back with the gear. The attacks are less frequent than on the shallower grounds further west, but the animals are larger and the current makes unusual wakes harder to read before they commit.
+
+The high cliffs carry [[beastiary/beasts/giant-vulture|giant vultures]] in numbers proportional to how much the fishing grounds put into the water. They follow wreckage and fishing waste, use the cliff updrafts as patrol routes, and have learned that the Tail's weather windows produce regular opportunities. They are not aggressive toward people on the cliff tops but have a wingspan and dive weight that makes an encounter on a narrow path above the water a problem regardless of intent.
+
+[[beastiary/monstrosity/harpy|Harpies]] occupy the same cliff faces as the vultures, in the narrow stretches where the rock splits into sea caves and exposure makes sound behave wrongly. Voices carry in bad weather along the Tail's eastern cliffs in ways that are not always wind, and sailors who have spent time here learn to treat unfamiliar sounds from above as a navigational input rather than curiosity. The harpy population is not large, but it is consistent.
 
 ---
 

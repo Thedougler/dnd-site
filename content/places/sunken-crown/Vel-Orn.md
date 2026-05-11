@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/sunken-crown/Vel-Orn.md
 aliases:
   - Vel-Orn
   - Shrine Island
@@ -30,6 +29,16 @@ There is no dock, no welcome fire, and no beach worth naming. A skiff has to fin
 Keth-Naar guides do not speak loudly on the crossing. They keep their hands visible, leave hooks covered, and do not bring fresh blood onto the rock.
 
 Vel-Orn has few animals because there is little to eat, which makes any sign of life stand out. [[beastiary/beasts/giant-bat|Giant bats]] sometimes cling under the black overhangs, and [[beastiary/beasts/swarm-of-ravens|ravens]] gather after offerings or wreckage wash ashore. Local guides treat both as practical hazards and bad company around a place already heavy with debt.
+
+---
+
+## Fauna
+
+Vel-Orn has little to sustain permanent animals — no freshwater, no hunting ground, barely any soil. What it has is carrion predictability. [[beastiary/beasts/giant-bat|Giant bats]] cling under the black overhangs during storm weather, displaced from their usual roosts and using the rock as shelter rather than habitat. They are bad company in a place already managed carefully, and Keth-Naar guides treat their presence as an inconvenience to work around.
+
+[[beastiary/beasts/swarm-of-ravens|Swarms of ravens]] arrive after offerings or wreckage, attracted by the predictability of both. Ravens on a shrine island are not considered good fortune by the people maintaining the place, but they are considered inevitable. Guides discourage loud reaction to them, which the ravens take as encouragement.
+
+[[beastiary/beasts/giant-vulture|Giant vultures]] circle the island after storms and sometimes land on the highest exposed rock. They stay longer than is comfortable. The guides' opinion is that an island associated with debt and the drowned is always going to attract something that feeds on endings, and that managing the expectation is more useful than managing the birds.
 
 ---
 

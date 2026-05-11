@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/midchain/Verdant-Teeth.md
 aliases:
   - Verdant Teeth
 title: The Verdant Teeth
@@ -28,6 +27,16 @@ Coastal settlements across the [[places/midchain/index|Midchain]] have noticed m
 Even without grung patrols, the Teeth would not be easy country. Beach traders swap stories of [[beastiary/beasts/giant-frog|giant frogs]] in flooded cuts, [[beastiary/beasts/giant-spider|giant spiders]] in the high canopy, [[beastiary/beasts/giant-constrictor-snake|giant constrictor snakes]] in drowned channels, and [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]] sunning on limestone where they look like roots until they move. The grung know which paths belong to people and which belong to the island.
 
 The largest animal stories stay mostly inland. Some traders have heard the canopy break in a line too heavy for monkeys or stormfall, and Sorn-bound intermediaries sometimes arrive with fresh splinter wounds on shields that look more like thrown stone than claw. If [[beastiary/beasts/giant-ape|giant apes]] live in the Teeth, they are not beach curiosities. They are high-ridge animals moving between fruiting canopy, freshwater, and limestone overlooks across more than one island — the narrow channels between Dreth and Orak, and between Karath and Sorn, are shallow enough that crossing them is not the barrier it would appear on a chart. The grung do not seem to manage them so much as account for them: interior paths that circumvent certain ridges, agriculture positioned away from certain drainages, patrol timing that avoids the hours around dawn on the high ground. None of this is explained to beach traders. It is simply the shape of how the Teeth are used. ^\[inferred]
+
+---
+
+## Fauna
+
+The Teeth's interior hazard layer starts at the waterline and runs without gap to the ridge tops. [[beastiary/beasts/giant-constrictor-snake|Giant constrictor snakes]] hold the drowned channels and root water between islands — the crossings between Dreth and Orak and between Karath and Sorn are shallow enough to be navigable by a large body that does not need a boat. [[beastiary/beasts/giant-venomous-snake|Giant venomous snakes]] occupy the dry limestone where they read as roots or bleached branches until they stop being stationary. Beach traders who report close calls with snakes almost always describe seeing them move before understanding what they were looking at.
+
+[[beastiary/beasts/giant-spider|Giant spiders]] web the upper canopy — the structures are large enough to catch prey well above ground level and extend across trail gaps in ways that make the high-ridge approaches slower than the terrain requires. The grung paths account for this without annotating it.
+
+[[beastiary/beasts/giant-ape|Giant apes]] occupy the interior ridgelines and move between islands across the shallow channels. The Teeth's agricultural pattern — what grows where, which drainage areas are cleared, which ridge hours are left unwatched — maps indirectly to where the apes range. The grung do not manage them in any way beach traders can observe. They appear to account for them.
 
 ---
 

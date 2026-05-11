@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/midchain/Aruhe.md
 aliases:
   - Aruhe Island
 title: Aruhe
@@ -23,6 +22,16 @@ That is the detail most outside accounts omit, because most outside accounts are
 The water around Aruhe's eastern tip runs a faint brown-gold at low tide. Old Midchain pilots who have passed close know the smell. It is not silt or algae. It is the same sharp-mineral bite as a hull plank dissolved by prolonged acid contact, draining from the flooded interior into the sea. Something in there is old enough that the island's drainage has shaped itself around it. The terraces didn't fall from neglect. They dissolved from the base up, slowly, over a span of time that is easier to measure by how much limestone is missing than by any record anyone kept.
 
 That is the public reason crews give. The practical reason is that abandoned garden terraces are perfect cover for things that followed the old settlement after people left. Traders who pass too close report [[beastiary/beasts/giant-frog|giant frogs]] in the flooded ditches, [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]] and [[giant-scorpion|giant scorpions]] in the terrace walls, and webbed cuts through the brush that suggest [[beastiary/beasts/giant-spider|giant spiders]] have had years to make the place their own. The terrace walls in particular are good scorpion ground: limestone blocks stacked dry, sun-warmed through the afternoon, and hollow behind the facing stones where the old mortar failed. One trader who anchored briefly to fill water came back to the beach to find a scorpion the size of a goat under his dinghy. He left the dinghy and used a barrel lid to paddle to his ship. The story travels as a joke among Midchain pilots. He does not find it funny.
+
+---
+
+## Fauna
+
+The abandoned garden terraces have had years of uncontested occupation. [[beastiary/beasts/giant-scorpion|Giant scorpions]] hold the terrace walls specifically — the dry-stacked limestone blocks run warm through the afternoon and stay hollow behind the facing stones where the old mortar failed. They do not announce themselves. The trader who found one under his dinghy is considered a cautionary case rather than a dramatic one.
+
+[[beastiary/beasts/giant-spider|Giant spiders]] have taken the interior brush: webbed trail cuts through the old garden paths indicate a population that has spread from the terrace structures into the surrounding growth in the years since the settlement cleared. The web density makes the interior visually distinctive from offshore if you know what you are looking at.
+
+[[beastiary/beasts/giant-venomous-snake|Giant venomous snakes]] work the flooded ditches alongside [[beastiary/beasts/giant-frog|giant frogs]], which have colonised every standing-water feature on the island. The frogs are large enough to take small animals and are territorial enough at the water's edge that they contest the beach at night. Captains who anchor briefly to fill water and send a cask party to the spring tend not to repeat the decision.
 
 ---
 

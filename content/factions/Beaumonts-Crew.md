@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Beaumonts-Crew.md
 aliases:
   - Saltwright Crew
 title: Beaumont's Crew
@@ -31,25 +30,37 @@ The working hands of the _[[Saltwright]]_. Four hirelings filling the ship's req
 
 ### Lenne Vor — Navigator
 
-Lean and middle-aged, silver hair cropped close, fingertips ink-darkened from twenty years of chart work. Has navigated the Midchain under three captains. Consults her charts once and rarely again.
+_Appearance:_ Lean and middle-aged, silver hair cropped close, fingertips ink-darkened from twenty years of chart work.
+_Gimmick:_ Dana Scully who chose the sea over the FBI — methodical, skeptical, has documented everything, quietly right about everything.
+
+Has navigated the Midchain under three captains. Consults her charts once and rarely again.
 
 ---
 
 ### Drav Holke — Bosun
 
-Short and broad, with sun-darkened skin and a glass jar of stank leaf that lives in his coat pocket. Keeps a rolled cigarette behind one ear unless he is smoking it. Manages the rigging with clipped efficiency and no interest in small talk.
+_Appearance:_ Short and broad, sun-darkened, a glass jar of stank leaf in his coat pocket and a rolled cigarette behind one ear unless he's smoking it.
+_Gimmick:_ Hank Hill if he worked ships instead of propane — practical, strong opinions about doing it correctly, doesn't want to discuss it.
+
+Manages the rigging with clipped efficiency and no interest in small talk.
 
 ---
 
 ### Wessa — Cook
 
-Stocky and grey-haired. Communicates mostly in short declarative sentences. Runs the galley with methodical competence; the crew eats better than the provisions should allow.
+_Appearance:_ Stocky and grey-haired, communicates mostly in short declarative sentences.
+_Gimmick:_ Gordon Ramsay who stopped performing — same impossible standards, zero theatrics, the food just appears and it's better than it should be.
+
+Runs the galley with methodical competence; the crew eats better than the provisions should allow.
 
 ---
 
 ### Fen — Ordinary Sailor
 
-Seventeen or eighteen, working on a beard that hasn't committed. Eight months at sea, which he considers formative. Does what he's told and gets it right.
+_Appearance:_ Seventeen or eighteen, working on a beard that hasn't committed.
+_Gimmick:_ Timothée Chalamet taking his first job very seriously — young, earnest, considers eight months at sea deeply formative.
+
+Does what he's told and gets it right.
 
 ---
 

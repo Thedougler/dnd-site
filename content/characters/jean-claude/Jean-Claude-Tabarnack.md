@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /characters/jean-claude/Jean-Claude-Tabarnack.md
 aliases:
   - Jean-Claude Tabarnack
   - Pierre Le Merde
@@ -110,6 +109,20 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 **[[Saltwright|The *Saltwright*]]** — the merchant brig he arrived on, under circumstances that were not exactly boarding-as-a-paying-passenger.
 
 ---
+
+## Session 01 — The Canister Reveal
+
+During the Phase 3 boarding fight on the Saltwright, the Dravosi Alchemist threw a poison gas canister into the party. Jean-Claude and Perrin were caught in the cloud. Both resisted.
+
+Jean-Claude's body registered the compound before his mind did — Grung don't smell through a nose. They read the air through their skin. The chemical signature placed it immediately: standard Grung hunting toxin, cheap bulk stock, the kind made for night patrols and grab operations. Not red-caste work. Not anything serious.
+
+What stopped him was the preparation method. He knew that hand. He and Simone had brewed versions of this together before he left.
+
+His sister is supplying the Dravosi Crown.
+
+She didn't sell them something precious. She sold them something disposable — cheap enough that it wouldn't show up missing from any supply ledger, generic enough to pass Crown intake as "amphibian alkaloid derivative." Disposable things get sold on a schedule. She is supplying the people who are tightening the Midchain on a recurring basis, and she is doing it under gold-caste sanction or on her own authority, and neither answer is better than the other.
+
+Jean-Claude said nothing. Phase 3 continued. Barnaby Rook is still alive.
 
 ## Public Standing
 

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/tail/Antheri-Ruins.md
 aliases:
   - The Ruins
   - Antheri
@@ -64,6 +63,16 @@ The site is in open-ended factional deadlock that has recently become less open-
 What is changing is the depth profile of the danger. Crews that worked the eighty-foot tier last season without incident are not taking return contracts this season. The stories coming back from those runs do not agree on the specifics, but they agree on the general shape: something below the thermocline is moving upward. Not fast. But consistently. Salvage schedules that operated without casualty for three consecutive seasons are now producing reports of severed air lines, unexplained cold bands in the upper dive water, and light changing colour at depth without a cloud crossing overhead. The established crew wisdom about where it is safe to work is failing quietly, without announcement, which is the worst way for it to fail.
 
 Surface danger has compounded the change. Antheri prizes leave the site in visible crates, and everyone on the water knows which boats came up heavy. [[beastiary/humanoid/pirate-captain|Pirate captains]] shadow pump barges back toward the Tail with varying levels of subtlety. The [[The-Glass-Debt|Glass Debt]] is the name crews use when they mean a threat that does not negotiate: a frigate-scale problem that can make a salvage flotilla surrender its best finds before anyone has enough wind to run. When the Glass Debt is reported near the eastern water, crews pull lines and the question of whether the pumps are worth abandoning resolves itself, once or twice, in the Glass Debt's favour.
+
+---
+
+## Fauna
+
+The accessible upper tier (0–60 ft) has been colonized by the ordinary marine life of the Maw's rim. [[beastiary/beasts/giant-octopus|Giant octopuses]] hold the archways and sealed-room openings throughout the civic halls — the Antheri architecture creates exactly the kind of crevice system they prefer, and the biological growth that the composite stone itself resists still accumulates around the fittings and in the channel grooves in ways that concentrate smaller prey. Salvage crews working the workshop tier move with poles rather than hands in the fitting housings.
+
+[[beastiary/beasts/giant-crab|Giant crabs]] dominate the deeper accessible passages, growing larger as the thermocline is approached. Below sixty feet, the carapace size exceeds anything on the surface shelf by a significant margin — the cold water, the architectural shelter, and the lack of upper-tier predation pressure have produced a population that has had centuries to reach its upper limit. The fitting housings in the lower workshop tier that salvagers have not yet stripped are held partly because the crabs have staked the adjacent passages.
+
+[[beastiary/sea-life/Whip-Shark|Whip sharks]] patrol the deeper perimeter and are drawn toward the accessible tier by the rhythmic vibration of surface air pumps. They can hear the pumps from well above the sixty-foot line. Dive crews that run pumps without a surface watch for shark sign are dive crews that occasionally lose a pump line to a strike that was following the sound for the better part of an hour.
 
 ---
 

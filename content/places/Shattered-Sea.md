@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/Shattered-Sea.md
 aliases:
   - Shattered Sea
   - The Scatter
@@ -57,6 +56,16 @@ Three centuries of colonial ambition have not made the Shattered Sea simple. The
 [[lore/Umberlee|Umberlee]] is not fringe here. Her shrines sit near harbour mouths, her [[Waveservants|Waveservants]] collect tribute from everyone who sails, and a blessing is treated less like comfort than like port infrastructure. Pay, sail, and hope the sea considers the respect sufficient.
 
 No chart of the Shattered Sea is innocent. Some are wrong by age, some by politics, some because the reef moved, and some because the person who sold it had debts.
+
+---
+
+## Fauna
+
+[[beastiary/sea-life/hunter-shark|Hunter sharks]] are the baseline hazard of the Scatter — present in every major shipping lane, reliable at harbour mouths, and understood by every sailor to the degree that the first warning a crew gets is the first time they are wrong about where the sharks are. The deep channels and cold upwellings of the eastern Tail bring larger, heavier feeders to the surface; the longline crews who work those grounds understand the arrangement.
+
+The island cliff-faces throughout both arcs are [[beastiary/monstrosity/harpy|harpy]] territory — not every cliff, but enough that captains learn which headlands to give wide berth and which to approach with noise and numbers. Harpies work in small groups, favour ships running close to shore in light winds, and have a reputation among the pilot families for being territorial and predictable. The unpredictable encounters are worse.
+
+The mid-channel waters between the Midchain and the Crown Islands have a longer history of [[beastiary/fiend/sahuagin-warrior|sahuagin]] activity than the colonial ledgers acknowledge. They hit ships in light winds, at anchor, and at night, and the raids are organized. Free-port captains file fewer incident reports than Crown-registry vessels. The numbers are still not good.
 
 ---
 

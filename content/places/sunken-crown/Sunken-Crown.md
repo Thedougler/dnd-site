@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/sunken-crown/Sunken-Crown.md
 aliases:
   - Sunken Crown
   - The Sunken Crown
@@ -67,6 +66,14 @@ The Keth-Naar watchers have noted, without elaborating to outsiders, that the he
 ## Access
 
 Getting here requires crossing east of the Drowned Maw into the Outer Reach — six hours over the Maw, then open water. The five islands are surrounded by reefs and channels that do not behave consistently. A ship without local knowledge risks reef damage or being drawn toward the Blue Hole's drop-off.
+
+---
+
+## Fauna
+
+The land surface of the Sunken Crown is lean: salt grass, wind-bent scrub, and black stone that absorbs heat and releases it through the night. [[beastiary/beasts/giant-lizard|Giant lizards]] occupy every basalt shelf with sun exposure, large enough that they drive the Tabaxi watch schedules around nesting territories rather than through them. [[beastiary/beasts/giant-bat|Giant bats]] colony in the wind-cut sea caves — the cave systems through the island foundations are extensive enough that the colonies are substantial, and the flight departures at dusk are audible from the water.
+
+The Blue Hole's rim concentrates a different problem. [[beastiary/beasts/giant-octopus|Giant octopuses]] hold the reef cracks around the drop — the boundary between turquoise shallows and the indigo descent is clean, and the crevice systems along that edge suit them. The Blue Hole's deeper shadows are harder to classify. Keth-Naar watchers describe heat events, shadow scale, and surface disturbances that most outside accounts attribute to a [[beastiary/dragons/dragon-turtle-wyrmling|dragon turtle wyrmling]] below the drop. The Tabaxi elders do not use that word for the current season's behaviour but have not offered a correction either.
 
 ---
 

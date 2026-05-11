@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/tail/Shelfworks.md
 aliases:
   - Shelfworks
   - The Shelfworks
@@ -80,6 +79,16 @@ Veteran crews hold one further rule without advertising it: do not touch the sea
 Older salvagers phrase it plainly: the upper shelf is a job site. The drop-off is not part of the job site.
 
 What they do not phrase plainly, but demonstrate by habit: experienced divers do not spend time near the shelf edge. They do not look east while they are working. When the light in the water changes colour without a cloud crossing overhead — and sometimes it does, for no reason anyone has established — they surface immediately, without discussion. They have reasons for all of this. They do not explain the reasons to new crews until the new crews ask why, and the new crews only ask after they have seen it happen once.
+
+---
+
+## Fauna
+
+The upper shelf has been reef for long enough that it runs on reef ecology. Small reef sharks treat the old civic halls as territory — the archways and room entries create the kind of broken, shaded structure that reef sharks prefer, and the salvage traffic adds enough chum and vibration to keep them interested in the site year-round. Dive crews treat them as background and manage the encounters through habit rather than alarm. [[beastiary/sea-life/hunter-shark|Hunter sharks]] are a separate category: they follow the air pump vibrations and the fish waste that accumulates around barge hulls. The working heuristic is that a hunter shark near a pump line is following the pump. Removing the cause is faster than managing the animal.
+
+[[beastiary/beasts/giant-octopus|Giant octopuses]] hold the deeper archways and sealed-room openings throughout the accessible tier. The ruins' architecture — wide passages, high-wall entries, spherical rooms — creates ideal octopus habitat, and the animals are large enough to fill a passage that a diver would otherwise have passed through without concern. Salvagers who work the same floor sections repeatedly learn which openings are occupied and plan approaches accordingly. Those who do not know are usually informed by the octopus.
+
+[[beastiary/beasts/giant-squid|Giant squid]] appear in Shelfworks accounts at the thermocline boundary, reaching up toward the accessible tier from the drop-off. The canonical account is Orvalle's: an arm the length of a boarding pike, a partner's line surfacing alone forty minutes later. Most crews set their turnaround point above the thermocline specifically because the squid range does not extend reliably above it. Most of the time.
 
 ---
 

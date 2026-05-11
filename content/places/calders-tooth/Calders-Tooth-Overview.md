@@ -28,6 +28,14 @@ Calder's Tooth rises at the western mouth of the [[Central-Strait|Central Strait
 
 The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelter [[beastiary/beasts/giant-bat|giant bats]], root-torn ridge tracks carry [[beastiary/beasts/giant-boar|giant boar]] sign, and the open switchbacks are wide enough for [[beastiary/beasts/giant-axe-beak|giant axe beaks]] to pace wagons before striking. Villages along the wet side know to check old cisterns for [[beastiary/beasts/giant-wolf-spider|giant wolf spiders]] before sending children for water. Tidefall's walls keep out people better than they keep out the island.
 
+## Fauna
+
+The interior ridge runs wet and broken — sinkholes, fog gullies, root-torn track — and the interior's conditions suit things that do not need to be found. [[beastiary/beasts/giant-bat|Giant bats]] roost in the deeper sinkhole chambers and in the old sea caves cut into the limestone at cliff height. The colonies are large enough to disturb a trail party attempting a night crossing of the ridge road, and large enough to draw predators that eat bats.
+
+[[beastiary/beasts/giant-boar|Giant boar]] sign is consistent along the wetter ridge sections — torn root beds, wallows, and the kind of trail damage that makes it obvious how the road got rougher since the last inspection. They are not the island's most exotic hazard, but they are reliable, and a sounder that has been pushed by hunters tends to push back at the nearest thing it encounters.
+
+[[beastiary/beasts/giant-wolf-spider|Giant wolf spiders]] occupy the old cistern network and any structure that has not been actively used long enough for web architecture to develop. Villages along the eastern mudflat side check cisterns before sending children for water. The practice is not precautionary — it is based on outcomes. The [[beastiary/beasts/giant-axe-beak|giant axe beaks]] on the open switchbacks are more visible and less patient: they pace alongside wagons on the broad track sections before deciding whether to commit.
+
 ---
 
 - [[places/calders-tooth/index|Calder's Tooth Index]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]

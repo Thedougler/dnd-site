@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/species/Grung.md
 title: Grung
 created: 2026-04-12
 modified: 2026-04-12
@@ -39,7 +38,7 @@ In the [[Shattered-Sea|Shattered Sea]], grung are found primarily in the interio
 
 **Arboreal.**
 
-You have a Climb Speed equal to your Speed and gain Proficiency in the Perception skill. Grung eyes are adapted to bright canopy light rather than darkness — you don't have Darkvision.
+You have a Climb Speed equal to your Speed and gain Proficiency in the Perception skill.
 
 **Aquatic Nature.**
 

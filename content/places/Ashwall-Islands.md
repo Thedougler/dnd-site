@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/Ashwall-Islands.md
 aliases:
   - The Ashwalls
   - Ashwalls
@@ -43,6 +42,16 @@ How long this has been happening is not recorded. The oldest Ashwall pilot famil
 The Ashwalls are where Galewall stories become evidence. A ship that survives the storm belt reaches these spires damaged, wet, and short on certainty; pilots and repair crews can still read the hull better than the crew can read its own fear. Lightning-burned rope is common. Fused cleats, glassy pitch, and a mast split by something that moved sideways along it are less common.
 
 One survivor from a failed crossing described a white bird made of stormlight moving through the rigging before the mainmast came down. The account is treated cautiously, but the Ashwall repairs gave it weight: burns ran along contact points rather than down from a single strike, and several iron fittings were magnetized hard enough to pull nails from a workbench. Since then, some Ashwall pilots mark bright, lateral stormlight as a possible [[arclight-phoenix|arclight phoenix]] sign rather than ordinary weather. ^\[inferred]
+
+---
+
+## Fauna
+
+[[beastiary/beasts/giant-bat|Giant bats]] roost in the vent caves throughout the spire chain — the volcanic heat keeps the interior fissures warm enough year-round, and the bat colonies are large enough that a repair crew working below a roost at dusk learns not to do that again. The same fissure systems hold [[beastiary/beasts/giant-scorpion|giant scorpions]] in the upper rock faces. The volcanic warmth maintains occupied dark in crevices that look like handholds from a distance. Ashwall repair crews have developed the practice of sending a second hand to watch the stone while the first works it.
+
+[[beastiary/beasts/giant-vulture|Giant vultures]] work the clifftops and high updrafts in numbers that spike after a wreck. The wrecks happen often enough that a resident vulture population has established a viable food chain around Galewall survivor debris. Pilots treat a vulture count above the normal baseline as rough early intelligence about whether anything has come through the storm in pieces recently.
+
+High-wind stories from crews who have sheltered in the Ashwall channels include [[beastiary/monstrosity/harpy|harpies]] in the storm gaps — voices in the wrong place, sounds that do not match the wind's direction. Most pilots file these under weather-induced confusion until someone follows the sound inland and does not come back.
 
 ---
 

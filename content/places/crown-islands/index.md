@@ -18,7 +18,7 @@ See [[Crown-Islands|The Crown Islands]] for region overview.
 
 - [[Calders-Tooth-Overview]]
 - [[Aldenmere]]
-- [[calven|Calven]]
+- [[calven-summary|Calven]]
 - [[Harwick]]
 - [[Stenmark]]
 

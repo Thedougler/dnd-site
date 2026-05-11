@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/Outer-Reach.md
 aliases:
   - Outer Reach
 title: The Outer Reach
@@ -31,6 +30,16 @@ Pirates are rarer beyond the Maw because distance eats profit, but the ones who 
 Outer Reach serpent stories are usually brought back by ships that were not trying to be heroic. Longliners from [[places/tail/index|the Tail]] work the cold lanes east of the Maw because the fish run rich there at night, and because a full hold can pay for a month of bad weather. The risk is that the same upwelling that brings fish also gives larger predators a road back toward the shelf.
 
 The account most pilots repeat is a damaged Tail longliner that came home under jury-rig after losing most of its stern and most of its crew. The survivor described no sail, no dorsal fin, no boarding hooks: only cold water, slack lines, a long wake crossing the current, and something tightening around the hull until the timbers screamed. That report is why some pilots now mark ancient sea serpent risk separately from ordinary sea-serpent sightings in the Reach. ^\[inferred]
+
+---
+
+## Fauna
+
+The surface threat that concerns most captains crossing into the Reach is [[beastiary/sea-life/Whip-Shark|whip sharks]] — fast, deep-ranging predators that follow warm current boundaries and hit hull scars and chum trails with less hesitation than anything else in this water. They are the reason damaged ships crossing the Maw try to make their repairs before entering open ocean rather than after.
+
+[[beastiary/sea-life/killer-whale|Killer whale]] pods are a secondary concern, less immediately violent but more patient. A pod that decides a slow or damaged vessel is worth following will track it for days. They do not attack the hull; they drive the ship, separating it from routes, pushing it toward shallows or reef. Whether that is intelligence or instinct is not a useful distinction when it is happening.
+
+The Reach's deep water belongs to things most ships hope not to confirm. [[beastiary/sea-life/kraken|Kraken]] are called legend by the colonial offices and called by proper names by the longliner families who work the cold lanes at night. [[beastiary/dragons/dragon-turtle|Dragon turtles]] are mistaken for islands until the island moves. The distinction between "unlikely" and "unconfirmed" narrows the further east you sail.
 
 ---
 

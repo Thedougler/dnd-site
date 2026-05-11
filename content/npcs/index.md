@@ -1,8 +1,8 @@
 ---
 publish: true
 title: NPCs
-created: 2026-05-09T21:25:34.240-07:00
-modified: 2026-05-09
+created: 2026-05-11T00:34:50.616-07:00
+modified: 2026-05-11
 tags:
   - player-resource
   - index
@@ -15,6 +15,8 @@ tags:
 People the party has met, heard about, or probably should remember. Private motives and GM mechanics live elsewhere.
 
 ---
+
+**[[Capn-Gorgeous|Cap'n Gorgeous]]** _(deceased)_ — Dravosi enforcer aboard the [[HCS-Surety]]. Poison arrow, musket blast, and a shattered kneecap, all at once. He never got to act. His crewmates named him for a reason.
 
 **[[Anzolo|Anzolo]]** — A [[places/calveno/index|Calveno]] contact vouched for by [[Nona-Black-Jaw|Nona]], who describes him as "a nice young man who always helps an old lady out with chores." Take that as you will.
 

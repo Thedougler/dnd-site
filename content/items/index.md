@@ -1,9 +1,8 @@
 ---
 publish: true
-permalink: /items/index.md
 title: Items
-created: 2026-05-06T02:31:45.592-07:00
-modified: 2026-05-05
+created: 2026-05-11T00:27:39.154-07:00
+modified: 2026-05-11
 tags:
   - player-resource
   - index
@@ -25,6 +24,14 @@ Things the party owns, has encountered, or should probably be able to identify i
 **[[The-Baroness|The Baroness]]** — Delmar Fisk's rapier. Well-traveled.
 
 **[[The-Duchess|The Duchess]]** — Delmar Fisk's musket. Same.
+
+---
+
+## Weapon Reference
+
+**[[Flintlock-Pistol|Flintlock Pistol]]** — _Martial ranged weapon._ 2d6 piercing, range 30/90, Loading, Light. One-handed firearm. Loud; misfires on a 1; powder must stay dry.
+
+**[[Musket]]** — _Martial ranged weapon._ 2d8 piercing, range 40/120, Loading, Two-Handed. Heaviest common ranged option. Loud; misfires on a 1; higher wet-weather risk than the pistol.
 
 ---
 

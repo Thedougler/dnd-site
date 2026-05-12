@@ -49,12 +49,9 @@ He looked like the kind of man who wins fights just by showing up. He did not ge
 
 - **[[Barnaby-Rook-Secrets|Barnaby Rook]]** — commanding officer; sent him down the ladder
 - **[[HCS-Surety]]** — his posting
-- **[[Scene-08-Encounter]]** — the boarding; Phase 1; where he died
 
 ---
 
 ## Notes
 
-No known name. No known history. He was CR-appropriate and professionally armed and died before initiative was fully resolved. The party remembered him anyway, which says something — either about how he looked, or about what it feels like when something that should have been difficult turns out not to be.
-
-His crewmates knew him well enough to have a name for him. That's probably enough.
+His crew-mates knew him well enough to have a nickname for him. That's probably enough.

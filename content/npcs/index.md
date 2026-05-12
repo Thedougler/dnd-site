@@ -2,7 +2,7 @@
 publish: true
 title: NPCs
 created: 2026-05-11T00:34:50.616-07:00
-modified: 2026-05-11
+modified: 2026-05-12
 tags:
   - player-resource
   - index
@@ -20,6 +20,8 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Anzolo|Anzolo]]** — A [[places/calveno/index|Calveno]] contact vouched for by [[Nona-Black-Jaw|Nona]], who describes him as "a nice young man who always helps an old lady out with chores." Take that as you will.
 
+**[[Bastian-Crev|Bastian Crev]]** _(deceased)_ — Combat specialist and captain of the _[[Loud-Argument|Loud Argument]]_, Fisk's gun brig. Drowned at the [[Drowned-Maw|Drowned Maw]]. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
+
 **[[Beaumont-Sel|Beaumont Sel]]** — Tortle captain of the _[[Saltwright|Saltwright]]_. Eleven years on the [[places/midchain/index|Midchain]]. Patient, practical, and rarely without his capuchin on his shoulder.
 
 **[[Bisou|Bisou]]** — Beaumont's capuchin. Amber eyes, eleven years of history, and a personal vendetta against the pipe staying in Beaumont's mouth.
@@ -29,6 +31,8 @@ People the party has met, heard about, or probably should remember. Private moti
 **[[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]** — Gnome naturalist on book tour. Meticulous, rigorous, and openly contemptuous of every creature he has spent his life documenting.
 
 **[[Detto-Kalash|Detto Kalash]]** — Earth Genasi captain of the _[[Heft|Heft]]_. Drowned at the Maw when Umberlee sank Fisk's fleet. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
+
+**[[Geoffrey-Draves|Geoffrey Draves]]** — Young Dravosi deckhand from the [[HCS-Surety]]. Surrendered during the Saltwright boarding, accepted his sword back from [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and became the party's first recruited crew member.
 
 **[[Iacopo-Fieschi|Iacopo Fieschi]]** — Tessarine Concordat envoy to [[places/calveno/index|Calveno]]. The visible face of Concordat interests in the city.
 

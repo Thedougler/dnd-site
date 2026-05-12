@@ -25,11 +25,11 @@ tags:
 
 ## Overview
 
-Geoffrey Draves was a Dravosi deckhand aboard the [[HCS-Surety]] during the Session 01 boarding of the [[Saltwright]]. When the fight turned — Phase 2 over in seconds, his allies cut down faster than he could process — Geoffrey dropped his sword.
+Geoffrey Draves was a Dravosi deckhand aboard the [[HCS-Surety]] during the boarding of the [[Saltwright]] by [[Barnaby-Rook]]. When the fight turned, his allies cut down faster than he could process, Geoffrey dropped his sword.
 
-[[Delmar-Fisk|Delmar Fisk]] picked the sword up. Then handed it back.
+[[Delmar-Fisk|Delmar Fisk]] picked the sword up and gave it back to him, asking him to fight for people who'd protect him.
 
-Geoffrey rejoined the fight on the party's side. Whether that was courage, pragmatism, or the simple logic of a young man who could see which way things were going is an open question. He didn't explain himself.
+Geoffrey rejoined the fight on the party's side. Agreeing to do anything that kept him alive today.
 
 He is now the first crew member the party has recruited, despite having no ship to assign him to.
 
@@ -37,7 +37,7 @@ He is now the first crew member the party has recruited, despite having no ship 
 
 ## Appearance and Character
 
-Young. Not experienced enough to be cynical about it yet. He dropped his sword when his allies were killed around him and that tells you something — he's not a true believer in the Dravosi inspection regime, just someone who needed work and found it on a Crown privateer. The hand that gave him back his sword probably made more impression on him than anything that happened before or after.
+Young. Not experienced enough to be cynical about it yet. He dropped his sword when his allies were killed around him and that tells you something — he's not a true believer in the Dravosi regime, just someone who needed work and found it on a Crown privateer. The hand that gave him back his sword probably made more impression on him than anything that happened before or after.
 
 ---
 

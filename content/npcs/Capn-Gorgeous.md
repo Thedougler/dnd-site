@@ -29,7 +29,7 @@ _Real name unknown. It didn't come up._
 
 He was the Dravosi enforcer Barnaby Rook sent down the ladder first. Heavy crossbow, tight hold, five strangers in the dark — standard inspection procedure. He'd probably done it a hundred times.
 
-The party put him down before he could reach the floor.
+The party put him down before he realize he was proper fucked.
 
 One poison-tipped arrow, one musket blast, one shattered kneecap. Simultaneous. He never acted. He never shouted. He hit the deck and that was Phase 1.
 

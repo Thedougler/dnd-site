@@ -29,9 +29,9 @@ _Real name unknown. It didn't come up._
 
 He was the Dravosi enforcer Barnaby Rook sent down the ladder first. Heavy crossbow, tight hold, five strangers in the dark — standard inspection procedure. He'd probably done it a hundred times.
 
-The party put him down before he realize he was proper fucked.
+The party put him down before he realized he stepped into the trap.
 
-One poison-tipped arrow, one musket blast, one shattered kneecap. Simultaneous. He never acted. He never shouted. He hit the deck and that was Phase 1.
+One poison-tipped arrow through his shoulder, one musket blast to the chest at point blank range, and his shattered kneecap. Simultaneous, then a moment later the evidence of which was swept within the illusion hiding the party. He never acted. He never shouted. He hit the deck.
 
 His crewmates had taken to calling him Cap'n Gorgeous. They shouted it when he went down. Whether that was grief, dark humor, or just the only name anyone had for him by that point is hard to say.
 

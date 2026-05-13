@@ -13,15 +13,11 @@ tags:
 
 ![[raw/assets/portraits/Geoffrey-Draves-Archer.webp|Geoffrey Draves, a young Dravosi deckhand in a dark privateer vest, holding a lowered cutlass on a ship deck]]
 
----
-
-|                |                                              |
-| -------------- | -------------------------------------------- |
-| **Species**    | Human (Dravosi)                              |
-| **Role**       | Deckhand; first crew member of the party     |
-| **Former Post**| HCS Surety, under [[Barnaby-Rook-Secrets\|Barnaby Rook]] |
-
----
+|                 |                                                          |
+| --------------- | -------------------------------------------------------- |
+| **Species**     | Human (Dravosi)                                          |
+| **Role**        | Deckhand; first crew member of the party                 |
+| **Former Post** | HCS Surety, under [[Barnaby-Rook-Secrets\|Barnaby Rook]] |
 
 ## Overview
 
@@ -67,7 +63,7 @@ That conversation changed something in him. He stopped drifting and started calc
 
 It's been just shy of a year since he made that vow.
 
-Which puts him on the deck of the [[HCS-Surety]], his allies dead around him, a red-haired man with a red beard handing him back his own sword.
+Which puts him on the deck of the [[Saltwright]], his allies dead around him, a red-haired man with a red beard handing him back his own sword.
 
 He picked it up. He hasn't said more than that.
 

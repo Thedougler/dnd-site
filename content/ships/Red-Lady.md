@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Red-Lady.md
 aliases:
   - Red Lady
 title: The Red Lady
@@ -15,7 +14,7 @@ cssclasses:
 
 # The _Red Lady_
 
-![[raw/assets/banners/Red-Lady.webp]]
+![[Red-Lady.webp]]
 
 > [!READ-ALOUD]
 > A two-masted brigantine rides low in the water, her hull stained a deep, even red from waterline to rail. Seven cannon ports line each side beneath the gun deck, and swivel mounts sit at bow and stern. At the prow, a pale wooden figurehead of a cloaked woman leans forward with one hand open at her side. The ship is long, clean-lined, and built with the hard, practical look of a vessel meant to chase, fight, and keep going.
@@ -33,6 +32,8 @@ Built for extended independent operations: fast enough to disengage, armed enoug
 ## Crew and Command
 
 [[Rael-Corven|Rael Corven]] served as flag captain. [[characters/delmar/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
+
+Every new hand on the _Red Lady_ went through Rael's training program before touching a line in action. He knew every name aboard and built each sailor's duties around their specific capabilities. The ship's reputation as the best-run vessel in the fleet was not incidental — it was a direct result of how he ran it. He worked closely with any natural spellcasters in the fleet alongside his own crew, helping them develop what they had. Several of the _Red Lady_'s more useful fixtures — a self-clearing galley table, a navigation stool that moved with the ship's pitch — were his own quiet craftsmanship.
 
 ---
 

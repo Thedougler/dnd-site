@@ -14,7 +14,7 @@ tags:
 
 # Fisk's Fleet
 
-![[factions/Fisks-Fleet-Flag.webp]]
+![[Fisks-Fleet-Flag.webp]]
 _Five ships, five captains, one commission. Umberlee took all of them in under a minute._
 
 A five-ship independent privateer fleet operating under Rear Admiral [[characters/delmar/Delmar-Fisk|Delmar Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw|Drowned Maw]]. [[characters/delmar/Delmar-Fisk|Delmar Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.
@@ -35,7 +35,7 @@ A five-ship independent privateer fleet operating under Rear Admiral [[character
 
 Five people from Delmar's earliest crew — the ones who stayed through every failure and every rank until he had ships to give them.
 
-**[[Rael-Corven|Rael Corven]]** captained the _Red Lady_ and served as flag captain. Steady, authoritative, the kind of weight that made the Admiral look agile by comparison. Closest to Fisk operationally.
+**[[Rael-Corven|Rael Corven]]** captained the _Red Lady_ and served as flag captain. The oldest professional relationship in the fleet — he and Fisk met on the Midchain before either had a ship to their name, both human in waters that ran otherwise, both quiet about it. Fisk read people; Rael read conditions. The fleet worked because those two functions occupied different people. Steady, authoritative, the kind of weight that made the Admiral look agile by comparison.
 _Appearance:_ Broad-chested, sun-weathered, silver-templed, always standing slightly apart from the room like he's already made his assessment.
 _Gimmick:_ Hemingway at a naval tribunal — speaks rarely, but everything he says lands like a ruling.
 
@@ -56,6 +56,14 @@ _Appearance:_ Compact frame that moves too large for itself, always positioned l
 _Gimmick:_ Theater kid who went to war and never came back — melodramatic, loves an entrance, infuriatingly makes every scene work.
 
 ---
+
+## Origins
+
+The five captains were not recruited. They stayed.
+
+Before any ship, before any commission, Fisk and the future captains of his fleet were crewmates on another man's vessel. The crew voted to take a job transporting enslaved people — not to free them. To sell them. Fisk refused outright. When words didn't settle it, he made his position physical: one punch, clearly placed. The mutiny that followed left him and the five who sided with him stranded — no ship, no patron, no prospects worth naming.
+
+Those five stayed. They worked through every vessel and every failure until Fisk had ships to give them. When that day came, there was never a question of who would captain them.
 
 ## What Happened
 

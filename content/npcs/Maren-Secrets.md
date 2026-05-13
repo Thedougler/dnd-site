@@ -13,6 +13,8 @@ tags:
 
 ## Mortis Voice
 
+**Roleplay Prompt:** Rosa Diaz as a pirate captain, who already counted every exit and is still not over the one she missed.
+
 **Personality in Fisk's head:** Fast, hypervigilant, always counting exits. Not nervous — calibrated. Speaks in short sentences. Feels crowded in enclosed spaces others find ordinary. When Maren surfaces, Delmar goes very still and very quiet. The performance stops. She is compensating for the thing that got past her.
 
 **Forced trigger:** A hidden creature is revealed within 30 feet of Delmar, or he is the target of an ambush.

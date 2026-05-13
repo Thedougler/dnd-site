@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /characters/delmar/Delmar-Fisk.md
 aliases:
   - Admiral Fisk
   - Delmar Fisk
@@ -15,7 +14,7 @@ tags:
 
 # Delmar Atticus Fisk
 
-![[raw/assets/banners/Delmar-Fisk-Archer.webp|Delmar Fisk in a red coat aiming a pistol from the deck of a ship]]
+![[Delmar-Fisk-Archer.webp|Delmar Fisk in a red coat aiming a pistol from the deck of a ship]]
 
 > _Youngest Admiral in living memory. Nobody official gave him the title, but by all measure he was a Self Made Admiral._
 
@@ -52,7 +51,9 @@ Delmar grew up on the islands, raised by his mother — a woman the society arou
 
 He never knew his father. What he knew of the man came second-hand from sailors, and the one relic he left behind — a pocket watch with his mother's picture inside — she had pickpocketed off him herself. Delmar has carried it since.
 
-He came to the sea as early as he could manage. Fishing boats first, then deckhand work on anything that would have him, every nautical skill absorbed from the deck up. He was not an immediate success. He failed often, and embarrassingly. But failure sorts out who stays, and five people from that first rough crew stayed with him through every ship and every rank. When he finally had five ships to command, those five captained them.
+He came to the sea as early as he could manage. Fishing boats first, then deckhand work on anything that would have him, every nautical skill absorbed from the deck up. He was not an immediate success. He failed often, and embarrassingly.
+
+The moment that sorted out who stays: the crew of the vessel he was working voted to take a commission transporting enslaved people — not to free them, to sell them. Fisk refused. When words didn't resolve it, he made his position physical. One punch, clearly placed. The mutiny that followed left him and five crewmates stranded — no ship, no patron, and no leverage. Those five stayed. When he finally had five ships to command, there was never a question of who would captain them.
 
 Before any of that, as a boy, a pirate attack sank the ship he was travelling on. He washed ashore on an unfamiliar island with a group of survivors who were frightened and dangerous in equal measure. One kind crew member helped him piece together a raft, and he got out. He came back years later with a proper boat and a crew, meaning to help whoever remained. He found only corpses.
 
@@ -105,6 +106,8 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It's the ce
 **[[Serafina-Windfall-Fisk|Serafina Windfall Fisk]]** is his wife. A fortune-teller who moves through the Scatter on compulsion, drawn to specific places and people by a precognitive pull she's stopped trying to fight. They married knowing their work would keep them apart more often than not. She was not aboard the _Red Lady_. He named his musket after her.
 
 **Margaret "Maggie" Porcelain Pots** is his first love, from the islands where he grew up. A dragonborn with peach and cream scales and vivid pink eyes. They were together a couple of years before his wanderlust ended it, badly — with an argument she punctuated by leaving him with a shiner that lasted a week. He has avoided his home island ever since. He's not certain what seeing her again would do to him, and he knows that uncertainty is its own kind of answer.
+
+**[[Rael-Corven|Rael Corven]]** was his flag captain and the oldest friendship he had. They met on the Midchain as young crewmen — both human in waters that ran otherwise — and worked alongside each other from that point forward. Fisk charmed; Rael planned. The fleet functioned because those two roles never overlapped. Of the five captains now inside Fisk, Rael's voice is the loudest, and Fisk knows exactly why: Rael was standing next to him when the water came in.
 
 **[[Fisks-Fleet|Fisk's Fleet]]** — five ships, five captains who stayed with him from the beginning. Gone. What remains of them is the weight he's still carrying.
 

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/rules/Ship-Stats.md
 title: Ship Stats - The Shattered Sea
 created: 2026-04-17
 modified: 2026-04-17
@@ -64,6 +63,7 @@ Every ship has a set of roles that must be filled for normal operation. Each rol
 | **Carpenter** | Hull repair, below-decks damage control. Required for repairs at sea. | Intelligence (Carpenter's Tools) | 6gp |
 | **Cook** | Provisions management and crew sustenance. Required for voyages over 3 days. | Wisdom | 4gp |
 | **Surgeon** | Treating wounds, managing casualties. Not required for operation; required for the Surgeon's Berth facility. | Wisdom (Medicine) | 8gp |
+| **Marine** | Boarding actions, armed deck watch, security. Not required for operation; required for boarding party actions. | Strength or Dexterity | 14gp + wages for any other role filled during non-combat watches |
 | **Ordinary Sailor** | All other duties. Required in sufficient number to crew the ship. | — | 2gp |
 
 ### Minimum Crew by Tier

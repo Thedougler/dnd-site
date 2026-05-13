@@ -18,6 +18,8 @@ tags:
 | **Species**     | Human (Dravosi)                                          |
 | **Role**        | Deckhand; first crew member of the party                 |
 | **Former Post** | HCS Surety, under [[Barnaby-Rook-Secrets\|Barnaby Rook]] |
+| **Crew Role**   | TBD                                                      |
+| **Weekly Wage** | TBD                                                      |
 
 ## Overview
 
@@ -37,19 +39,21 @@ He was the first crew member the party recruited. Notable, given there was no sh
 
 ## Before the Sea
 
-Geoffrey didn't choose the water. His father chose it for him. Real men become sailors — that was the decree — and so Geoffrey signed on, learned the ropes, and kept his mouth shut. He was good at it, in the resigned way capable people are good at things they never wanted.
+Geoffrey didn't choose the water. His [[Aldous-Draves|father]] chose it for him. _Real men become sailors_ — that was the decree — and so Geoffrey signed on, learned the ropes, and kept his mouth shut. He was good at it, in the resigned way capable people are good at things they never wanted.
 
-Below deck, in the gaps between watches, he danced.
+His father's connections, cultivated over thirty years of Crown factor work, produced a berth on the [[HCS-Surety]]. Not an officer's post. Not a rated marine slot. A carpenter's posting — skilled trade, steady work, the kind of job where a man could accumulate something if he put his head down and didn't spend it. He also took on marine duties for the boarding operations. The contract listed a supplement for it — seven and a half gold a week, which sounded like progress. His mornings were spent on drills, and his afternoons on hull repairs.
 
-Contemporary movement. Nimble and precise, expressive — the kind of dancing that has no place on a naval vessel and every place in the grand opera halls he'd only heard stories about. He practiced in secret for years. He was certain no one had ever seen him.
+At night though, below deck, in the gaps between watches, he danced.
+
+Contemporary movement. Nimble and precise, expressive and honest, the kind of dancing that has no place on a naval vessel and every place in the grand opera halls he'd only heard stories about. He practiced in secret for years. He was certain no one had ever seen him.
 
 On shore leave, someone did.
 
-A young woman caught him mid-movement and didn't laugh. She stayed. They spent that night dancing under open sky, no words exchanged, no names, just movement that said everything they couldn't say aloud. They came close to a first kiss. Then the ship's bell called him back.
+A young woman, [[Verity-Hollowell]], caught him mid-movement and didn't laugh. She stayed. They spent that night dancing under open sky, no words exchanged, no names, just movement that said everything they couldn't say aloud. They came close to a first kiss. Then the ship's bell called him back.
 
 He returned to that same spot every time his ship made port. For years, she wasn't there.
 
-Then one evening, her father was.
+Then one evening, her father, [[Cedric-Hollowell]] was.
 
 The terms were simple. Geoffrey was not a man of means. Not a man of standing. Until he could provide for a wife and family for the rest of their days, he was not to see her again. Her father made sure of that.
 
@@ -78,5 +82,6 @@ He picked it up. He hasn't said more than that.
 - **[[Delmar-Fisk|Delmar Fisk]]** — recruited him; returned his sword; the reason he switched sides. Geoffrey hasn't said so, but the gesture echoes his own vow in ways he's probably still working out.
 - **[[HCS-Surety]]** — former post; no particular loyalty to it.
 - **[[Barnaby-Rook-Secrets|Barnaby Rook]]** — former commanding officer; the relationship is now complicated.
-- **His love interest** _(unknown)_ — the woman he danced with on shore leave; her father has forbidden contact until Geoffrey can prove himself; she is the reason behind everything.
+- **[[Aldous-Draves|Aldous Draves]]** — his father; the man who arranged the Surety berth; the man who decreed what Geoffrey's life would look like and has been waiting to find out if he was right.
+- **[[Verity-Hollowell|Verity Hollowell]]** — the woman he danced with on shore leave; her father set the terms of the situation; she is the reason behind everything.
 - **[[Rupert-Knighton|Admiral Rupert Knighton]]** _(Dravosi Crown Navy, Fleet Admiral)_ — Geoffrey's uncle. Commands the Knight Squadron, multiple Crown warships each called a Knight. Geoffrey has never met him. No correspondence, no relationship.

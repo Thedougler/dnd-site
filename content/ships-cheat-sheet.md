@@ -46,6 +46,7 @@ tags:
 | **Carpenter** | Repairs at sea | Int (Carpenter's Tools) | 6 gp |
 | **Cook** | Voyages over 3 days | Wisdom | 4 gp |
 | **Surgeon** | Surgeon's Berth facility | Wis (Medicine) | 8 gp |
+| **Marine** | Boarding party actions | Str or Dex | 14 gp + wages for any other role filled during non-combat watches |
 | **Ordinary Sailor** | Always (see tier minimums) | — | 2 gp |
 
 **PC in role** — adds their modifier to relevant checks.\

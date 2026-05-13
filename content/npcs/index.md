@@ -1,7 +1,7 @@
 ---
 publish: true
 title: NPCs
-created: 2026-05-12T21:54:23.061-07:00
+created: 2026-05-12T22:40:44.870-07:00
 modified: 2026-05-12
 tags:
   - player-resource
@@ -32,7 +32,9 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Detto-Kalash|Detto Kalash]]** — Earth Genasi captain of the _[[Heft|Heft]]_. Drowned at the Maw when Umberlee sank Fisk's fleet. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
 
-**[[Geoffrey-Draves|Geoffrey Draves]]** — Young Dravosi deckhand from the [[HCS-Surety]]. Surrendered during the Saltwright boarding, accepted his sword back from [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and became the party's first recruited crew member.
+**[[Aldous-Draves|Aldous Draves]]** — Crown-licensed import factor in [[places/port-tidefall/index|Port Tidefall]] and Geoffrey Draves's father. Thirty years of Crown administrative work, a good coat in an outdated cut, and an unanswered inquiry to the Harbourmaster's Office about a missing patrol cutter.
+
+**[[Geoffrey-Draves|Geoffrey Draves]]** — Young Dravosi ship's carpenter from the [[HCS-Surety]], signed on for marine boarding duties at supplement pay. Surrendered during the Saltwright boarding, accepted his sword back from [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and became the party's first recruited crew member.
 
 **[[Iacopo-Fieschi|Iacopo Fieschi]]** — Tessarine Concordat envoy to [[places/calveno/index|Calveno]]. The visible face of Concordat interests in the city.
 
@@ -49,6 +51,8 @@ People the party has met, heard about, or probably should remember. Private moti
 **[[Rael-Corven|Rael Corven]]** — Sorcerer and flag captain of the _[[Red-Lady|Red Lady]]_. The only captain who entered the shrine with Fisk. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and by all accounts the loudest of the five.
 
 **[[Serafina-Windfall-Fisk|Serafina Windfall Fisk]]** — Aasimar fortune-teller, Delmar Fisk's wife. Drawn to specific places by a precognitive pull she stopped trying to fight years ago.
+
+**[[Verity-Hollowell|Verity Hollowell]]** — Factor's daughter in [[places/port-tidefall/index|Port Tidefall]] who manages the Hollowell Import Agency's secondary accounts and reads a cargo manifest faster than most Crown inspectors. Connected to Geoffrey Draves in ways neither of them has fully disclosed to anyone.
 
 **[[Shepherd-Grigori|Shepherd Grigori]]** — A wandering holy man known for curing incurable noble afflictions. Moves in royal circles. Impossible to kill, by all accounts.
 

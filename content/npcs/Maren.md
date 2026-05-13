@@ -26,7 +26,7 @@ tags:
 
 ## Appearance
 
-Blue-toned skin with a faint luminescence at the hairline and fingertips, visible even in daylight. Lean, built for underwater work, with a way of moving that reads as stillness until she's already gone. Her eyes are pale grey, nearly colourless, and never stay on one thing long.
+Her skin is blue-toned and faintly luminescent, the light pooling at the hairline and fingertips even in full daylight, as though something beneath the surface has never quite gone still. She is lean, built for water rather than weather, and she moves with an economy that reads as calm until you realise she has already catalogued every exit. Her eyes are pale grey, nearly colourless, and they do not rest.
 
 ## What Delmar Knows
 

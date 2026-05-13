@@ -25,7 +25,7 @@ tags:
 
 ## Appearance
 
-Older than her posting suggested she needed to be, with silver-streaked hair worn short and practical. Unhurried in everything — the kind of stillness that comes from having decided, long ago, that urgency is usually someone else's problem. She carries something to write on, and she is always writing something down.
+Her hair is silver-streaked and cut close, practical in the way that suggests she stopped thinking about it a long time ago. She is older than her role implied she needed to be, and she carries that without embarrassment. There is something unhurried about her — she moves like someone who has learned that rushing produces worse information — and wherever she goes, she is writing something down.
 
 ## What Delmar Knows
 

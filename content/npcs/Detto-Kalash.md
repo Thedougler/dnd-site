@@ -26,7 +26,7 @@ tags:
 
 ## Appearance
 
-Broad and low to the ground, built like something that moves mountains and has never questioned that as a career. Stone-grey skin with a rougher texture at the hands and forearms, darkening toward the knuckles. His face is wide and unreadable — not unfriendly, just uninterested in being anything other than what it is.
+He is broad and low to the ground, the kind of build that looks immovable because it is. Stone-grey skin, darker and rougher toward the knuckles, with forearms that speak plainly to a lifetime of heavy work. His face is wide and offers nothing in particular — not hostility, not warmth, just the blunt patience of someone who has decided that expression costs more than it is worth.
 
 ## What Delmar Knows
 

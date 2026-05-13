@@ -25,7 +25,7 @@ tags:
 
 ## Appearance
 
-Solidly built and sea-worn, with close-cropped dark hair going grey at the temples. His clothes are plain and fit well; his face has stopped trying to be approachable. The hands give away the sorcerer. The rest of him just looks like a man who solved problems by showing up.
+He is built for endurance rather than impression — broad through the shoulders, sea-worn and solid, dark hair close-cropped and going iron-grey at the temples. His clothes are plain and properly fitted, the kind of practical that speaks to decades at sea. The face offers little: a jaw set somewhere between resolve and fatigue, eyes that have stopped performing patience. His hands are the only betrayal — a sorcerer's hands, faintly luminous at the knuckles, belonging to a different man than the rest of him suggests.
 
 ## What Delmar Knows
 

@@ -25,7 +25,7 @@ tags:
 
 ## Appearance
 
-Tall and expressive, the kind of man who takes up space on purpose. Dark hair worn loose, a face that moves through its feelings loudly and without particular apology. There are scars at the jaw and one forearm — he has never explained any of them, and he has clearly enjoyed not explaining them.
+He is tall and takes up space with the deliberateness of someone who has decided that is a skill worth developing. Dark hair worn loose around a face that commits fully to every emotion it passes through, loudly and without apology. There are scars at the jaw and one forearm, old and well-set. He has never explained them. The absence of explanation is, clearly, something he enjoys.
 
 ## What Delmar Knows
 

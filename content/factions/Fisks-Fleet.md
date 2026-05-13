@@ -35,23 +35,23 @@ A five-ship independent privateer fleet operating under Rear Admiral [[character
 
 Five people from Delmar's earliest crew — the ones who stayed through every failure and every rank until he had ships to give them.
 
-**[[Rael-Corven|Rael Corven]]** captained the _Red Lady_ and served as flag captain. The oldest professional relationship in the fleet — he and Fisk met on the Midchain before either had a ship to their name, both human in waters that ran otherwise, both quiet about it. Fisk read people; Rael read conditions. The fleet worked because those two functions occupied different people. Steady, authoritative, the kind of weight that made the Admiral look agile by comparison.
+**[[Rael-Corven|Rael Corven]]** captained the _Red Lady_ and served as flag captain. The oldest professional relationship in the fleet — he and Fisk met on the Midchain before either had a ship to their name, both human in waters that ran otherwise, both quiet about it. Fisk read people; Rael read conditions. The fleet worked because those two functions occupied different people. Steady, authoritative, the kind of weight that made the Admiral look agile by comparison. His father was a merchant sailor killed when the navy sank his vessel on false grounds and classified the cargo as pirate salvage. Rael has never forgiven the institution for it.
 _Appearance:_ Broad-chested, sun-weathered, silver-templed, always standing slightly apart from the room like he's already made his assessment.
 _Gimmick:_ Hemingway at a naval tribunal — speaks rarely, but everything he says lands like a ruling.
 
-**[[Maren|Maren]]** captained _The Narrow_. Water Genasi. Fast, hypervigilant, built for survey work in places other ships couldn't go. She could read a coastline like other people read a face.
+**[[Maren|Maren]]** captained _The Narrow_. Water Genasi. Fast, hypervigilant, built for survey work in places other ships couldn't go. She could read a coastline like other people read a face. Her father was a navigator; she learned the trade from him and carried his silver spyglass for twenty years. She was looking through it when the fog came in.
 _Appearance:_ Storm-blue skin and restless eyes that track the room like a shoreline being charted; always slightly turned, always half-ready to move.
 _Gimmick:_ Border collie Sherlock Holmes — never stops scanning, routes three thoughts before answering one question.
 
-**[[Detto-Kalash|Detto Kalash]]** captained _The Heft_. Earth Genasi. Blunt, enduring, practical. Not built for charm. Built for holding position when everything else was moving.
+**[[Detto-Kalash|Detto Kalash]]** captained _The Heft_. Earth Genasi. Blunt, enduring, practical. Not built for charm. Built for holding position when everything else was moving. He came to the sea late — from the interior, not the coast — and kept what that meant to himself. He mentioned a white horse once, to Fisk, and didn't elaborate.
 _Appearance:_ Stocky and grey-brown like compressed sandstone, he moves with the unhurried weight of something that has held its ground through worse.
 _Gimmick:_ Ron Swanson made of actual rock — blunt, contemptuous of flourish, deeply allergic to anything that isn't load-bearing.
 
-**[[Sienne-Orre|Sienne Orre]]** captained _The Fernen_. Druid. Methodical, careful, the kind of person who read a contract twice. Long routes, deep knowledge, no wasted motion.
+**[[Sienne-Orre|Sienne Orre]]** captained _The Fernen_. Druid. Methodical, careful, the kind of person who read a contract twice. Long routes, deep knowledge, no wasted motion. She kept fourteen years of research notes in the back room of a harborside tavern called the Green Mermaid in Kettermoor. She had been meaning to organize them properly.
 _Appearance:_ Tall and unhurried, druid-marked fingers faintly stained, speaks like she's delivering a report she's written three drafts of.
 _Gimmick:_ Hermione at 45 who chose the forest over the Ministry — meticulous, slightly worn by how rarely others come prepared, still the most capable person in any room.
 
-**[[Bastian-Crev|Bastian Crev]]** captained _The Loud Argument_. Combat specialist. Theatrical in the way that only works when you back it up. Made scenes; the scenes worked.
+**[[Bastian-Crev|Bastian Crev]]** captained _The Loud Argument_. Combat specialist. Theatrical in the way that only works when you back it up. Made scenes; the scenes worked. He tamed a black jackdaw as a boy and taught it to perform alongside him — it was, he claimed, his first audience. The bird died aboard the _Loud Argument_ the season before the Maw. He didn't replace it.
 _Appearance:_ Compact frame that moves too large for itself, always positioned like he knows where the audience is standing.
 _Gimmick:_ Theater kid who went to war and never came back — melodramatic, loves an entrance, infuriatingly makes every scene work.
 

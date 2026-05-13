@@ -49,6 +49,8 @@ His father's philosophy survived him. Rael absorbed it young and applied it to e
 
 He was a sorcerer by nature rather than study, the kind that surfaces without warning. He worked closely with any other natural caster in the fleet, helping them understand and develop what they had. He never made much of it.
 
+There was a woman in a dark red dress at the docks the morning the news came — a merchant's wife, or a chandler's daughter, he never learned which. She sat with him for most of a day without asking why he was there or offering the kind of comfort that required him to respond. He does not remember most of what she said. He remembers the dress, and the patience of it, and that it was the last time he cried in front of another person.
+
 He woodworks. The hobby is the same philosophy expressed in a different material — take what's there, make it do what it needs to do, then make it do it better than strictly necessary. The results aboard the _Red Lady_ were modest and functional: a galley table that cleared itself when the last person left, a stool at the navigation desk built to rock with the ship's pitch so the chart work didn't stop in rough water. He has never called any of it magic in conversation.
 
 He carries a _Cloak of Useful Things_ and has, characteristically, never explained where he got it.

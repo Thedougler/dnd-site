@@ -17,6 +17,8 @@ tags:
 
 **Forced trigger:** An ally drops to 0 HP within 30 feet. Rael's instinct is crew protection — he takes the wheel when one of his people goes down.
 
+**Environmental trigger:** A woman in a dark red dress. Rael surfaces and goes still — not frightened, not hostile, somewhere else. The charm drops completely. He will scan the face with the focused attention of someone searching for a specific recognition he knows he won't find. Then he comes back, and the commanding weight that comes with him doesn't fully lift for a while.
+
 **Skills granted:** Intimidation, History
 
 **Roleplay cue:** Delmar stops smiling and starts commanding. Warmth is still there; it just stops leading.

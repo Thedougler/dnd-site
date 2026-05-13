@@ -17,6 +17,8 @@ tags:
 
 **Forced trigger:** Delmar fails a Constitution saving throw, or is knocked prone or grappled. Detto surfaces when the body becomes the problem.
 
+**Environmental trigger:** A white horse — working animal, not a warhorse, not dressed up. Detto surfaces quiet and still. He won't approach. He won't explain. If pressed, Delmar will say only that it reminded him of something, and will not say what. The stillness lasts longer than seems proportionate, and anyone watching will notice that Delmar's usual legibility goes completely absent.
+
 **Skills granted:** Athletics _(Expertise — +5)_, Survival
 
 **Roleplay cue:** Delmar gets quiet and direct. Drops the vocabulary. "No" is a complete sentence. If he is hurt, he doesn't hide it — he moves through it and expects everyone else to do the same.

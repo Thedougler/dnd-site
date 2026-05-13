@@ -33,6 +33,14 @@ Sienne captained the _[[Fernen|Fernen]]_, the fleet's fourth vessel. Druid, capa
 
 She drowned in the Maw when Umberlee closed the water over all five ships. Her soul was pressed into Delmar at the moment of sinking.
 
+## Backstory
+
+She kept a room at the Green Mermaid — a harborside tavern in Kettermoor, three floors, questionable plumbing, a proprietor who let her store crates of research materials in the back without asking what was in them. It was not her home in any legal sense, but it was the place her notes were, which amounted to the same thing.
+
+She had been keeping records since she was young: tide charts, druidic correspondences she could not find published anywhere, migration patterns for six coastal species, contracts she had read twice and summarized in the margins. The Green Mermaid's back room held fourteen years of this. She had been meaning to organize it properly. She did not get to.
+
+She went to sea because the sea had a set of systems she didn't yet understand, and she was constitutionally incapable of leaving a system unexplained. The _Fernen_ was the best instrument for that purpose she had ever found. She was never entirely comfortable on it, which is the only reason she stayed.
+
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Sienne's soul

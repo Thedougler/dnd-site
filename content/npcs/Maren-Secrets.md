@@ -19,6 +19,8 @@ tags:
 
 **Forced trigger:** A hidden creature is revealed within 30 feet of Delmar, or he is the target of an ambush.
 
+**Environmental trigger:** A silver spyglass — offered, in use nearby, or displayed for sale. Maren surfaces and goes very still. If the spyglass is handed to Delmar, he may raise it automatically before catching himself and lowering it without looking through it. He'll set it down carefully, not drop it, and change the subject. The hypervigilance that follows lasts hours — cataloguing exits, tracking sightlines, short answers until something breaks the pattern.
+
 **Skills granted:** Perception _(Expertise — +7)_, Stealth _(Expertise — +7)_
 
 **Roleplay cue:** Delmar stops talking. Starts clocking the room — exits, sightlines, who's nearest the door. Short answers if pressed. Will move before he speaks.

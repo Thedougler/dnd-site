@@ -53,7 +53,9 @@ He never knew his father. What he knew of the man came second-hand from sailors,
 
 He came to the sea as early as he could manage. Fishing boats first, then deckhand work on anything that would have him, every nautical skill absorbed from the deck up. He was not an immediate success. He failed often, and embarrassingly.
 
-The moment that sorted out who stays: the crew of the vessel he was working voted to take a commission transporting enslaved people — not to free them, to sell them. Fisk refused. When words didn't resolve it, he made his position physical. One punch, clearly placed. The mutiny that followed left him and five crewmates stranded — no ship, no patron, and no leverage. Those five stayed. When he finally had five ships to command, there was never a question of who would captain them.
+The moment that sorted out who stays: the crew of the vessel he was working voted to take a commission transporting enslaved people — not to free them, to sell them. Fisk refused. When words didn't resolve it, he made his position physical. One punch, clearly placed. The mutiny that followed left him and five crewmates stranded — no ship, no patron, and no leverage. Those five stayed. The night it ended — stranded, nothing to their names — one of them had a brass flagon with whatever was left in it. They passed it around. He has not been able to say with certainty whether that was the first moment the fleet was real, or just the last moment before it had to be. Both feel true.
+
+They worked through every vessel and every failure until Fisk had ships to give them. When he finally had five ships to command, there was never a question of who would captain them.
 
 Before any of that, as a boy, a pirate attack sank the ship he was travelling on. He washed ashore on an unfamiliar island with a group of survivors who were frightened and dangerous in equal measure. One kind crew member helped him piece together a raft, and he got out. He came back years later with a proper boat and a crew, meaning to help whoever remained. He found only corpses.
 
@@ -90,6 +92,8 @@ Fisk is a talker by nature. The charm arrives before he does — warm, readable,
 His mother's ethic runs through him like a keel: everyone has value, even if they can't see it in themselves. He has been taken advantage of because of this. He has not stopped.
 
 He's near-immune to fear in the ordinary sense. His response to crisis is quick and ordered — read the group, read himself, then fight or escape or talk his way around it, preference in that direction when it's available. He is not reckless. He's deliberate in a way that reads as effortless.
+
+There are moments — a stranger's face, a bird on a post, something glimpsed in a harbor — when the smile stops for half a second before continuing. He doesn't explain them. Most people assume grief works this way, and they are not entirely wrong.
 
 He has one exception. Ferrets. Not weasels — ferrets specifically. The terror is immediate, complete, and entirely at odds with everything else about him. He learned young that ferrets are catastrophically unlucky, and nothing the intervening years have offered has dislodged that conviction. He will leave the room.
 

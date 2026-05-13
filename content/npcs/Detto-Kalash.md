@@ -34,6 +34,12 @@ Detto captained the _[[Heft|Heft]]_, the fleet's heavy ship. He used Mold Earth 
 
 He drowned in the Maw when Umberlee closed the water over all five ships. His soul was pressed into Delmar by Umberlee at the moment of sinking, along with the other four captains.
 
+## Backstory
+
+He came to the sea late, by the measure of those who grow up with salt in the air. Earth Genasi, from the interior — the specifics of where are not something he offered, and nobody who served with him pressed the point. His manner made it clear that the question would land as an intrusion.
+
+What surfaced, once: he had a horse before the sea. White, almost completely — a working animal, not bred for show, and not named anything he admitted to publicly. He mentioned it to Fisk the year they laid the keel of the _Heft_, in the way of a man who had said a thing before he fully decided to. Fisk didn't press it. Detto didn't elaborate. Some things are structural. You don't pull at them.
+
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Detto's soul

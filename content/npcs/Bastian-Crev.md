@@ -33,6 +33,14 @@ Bastian captained the _[[Loud-Argument|Loud Argument]]_, the fleet's combat vess
 
 He drowned in the Maw when Umberlee closed the water over all five ships. His soul was pressed into Delmar at the moment of sinking.
 
+## Backstory
+
+He grew up in the port neighborhoods of a city he has described differently every time anyone asked, which suggests it was either unremarkable or that the specific truth of it is not something he offers. What is consistent: he left at the first opportunity, and he was already loud before the sea gave him a reason to be.
+
+The winter he was eleven, he tamed a black jackdaw from a harbor-market stall whose owner had given up on it. He named it Crev — he was not using the name yet himself. He spent months teaching the bird to speak: provocations, insults, declarations scaled to a much larger person than he was at the time. It was, by his own accounting, his first audience. He performed for it every day. It answered back with whatever he had taught it.
+
+The bird outlived three ships and one mutiny. It died aboard the _Loud Argument_ the season before the Maw — old age, as far as he could tell — and he did not replace it. He said he didn't want the trouble. The remaining crew understood this was not what he meant.
+
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Bastian's soul

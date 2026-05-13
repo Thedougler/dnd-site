@@ -12,7 +12,37 @@ tags:
 
 # Ship Combat
 
-> Expands the **2024 DMG vehicle rules**. Ship movement, chases, and ramming use the DMG as written. This page covers guns specifically: how to operate them, what they do, and how broadsides work.
+> Expands the **2024 DMG vehicle rules**. The sections below cover ship movement, chases, and ramming from the DMG, followed by campaign-specific gun rules.
+
+---
+
+## Ship Movement
+
+**Helm action.** A creature acting as helmsman uses their action to move the ship up to its speed. The ship can turn up to 90 degrees before, during, or after this movement; each 90-degree turn costs 5 feet of movement. A ship cannot move backward.
+
+All other creatures aboard act independently each round — operating guns, casting spells, etc.
+
+---
+
+## Chases
+
+Ships move on their turns in initiative order. A helmsman can take the **Dash action** to move the ship its speed a second time. Each round, compare the total distance covered: if the pursuer outpaces the quarry, the gap closes by the difference; if the quarry outpaces the pursuer, the gap widens.
+
+At the start of each participant's turn, roll a d20 for **Chase Complications** (2024 DMG). Common water complications: heavy waves (DC 10 Dexterity \[Vehicles] or speed halved), fog (attacks at disadvantage), shallows (DC 15 Intelligence \[Navigator's Tools] or run aground).
+
+**Escape:** The quarry escapes when the gap exceeds 500 feet in open water, or they reach terrain that makes pursuit impossible. The pursuer catches up when the gap reaches 0.
+
+---
+
+## Ramming
+
+A ship that moves at least 20 feet in a straight line and ends its movement within 5 feet of another vessel may ram. Ramming is part of the Helm action — no additional action required.
+
+- Both ships take **4d10 bludgeoning damage**.
+- The target makes a **DC 15 Strength saving throw**; on a failure, it is pushed 10 feet in the direction of the ram.
+- Unsecured crew on both ships make a **DC 13 Dexterity saving throw** or fall prone and take **1d6 bludgeoning damage**.
+
+Both ships stop after a ram. The ramming ship cannot use the Helm action until the start of its next turn.
 
 ---
 

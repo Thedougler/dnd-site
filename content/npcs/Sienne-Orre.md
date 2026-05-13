@@ -12,7 +12,7 @@ tags:
 
 # [[Sienne-Orre-Secrets|Sienne Orre]]
 
-![[raw/assets/banners/Sienne-Orre.webp]]
+![[Sienne-Orre.webp]]
 
 ---
 
@@ -22,6 +22,10 @@ tags:
 | **Status**   | Deceased — soul inside [[Delmar-Fisk\|Delmar Fisk]]                   |
 
 ---
+
+## Appearance
+
+Older than her posting suggested she needed to be, with silver-streaked hair worn short and practical. Unhurried in everything — the kind of stillness that comes from having decided, long ago, that urgency is usually someone else's problem. She carries something to write on, and she is always writing something down.
 
 ## What Delmar Knows
 

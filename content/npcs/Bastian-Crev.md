@@ -12,7 +12,7 @@ tags:
 
 # [[Bastian-Crev-Secrets|Bastian Crev]]
 
-![[raw/assets/portraits/Bastian-Crev.webp|Bastian Crev braced on the storm-lashed deck of the Loud Argument as the Drowned Maw opens ahead]]
+![[Bastian-Crev.webp|Bastian Crev braced on the storm-lashed deck of the Loud Argument as the Drowned Maw opens ahead]]
 
 ---
 
@@ -22,6 +22,10 @@ tags:
 | **Status**   | Deceased — soul inside [[characters/delmar/Delmar-Fisk\|Delmar Fisk]]     |
 
 ---
+
+## Appearance
+
+Tall and expressive, the kind of man who takes up space on purpose. Dark hair worn loose, a face that moves through its feelings loudly and without particular apology. There are scars at the jaw and one forearm — he has never explained any of them, and he has clearly enjoyed not explaining them.
 
 ## What Delmar Knows
 

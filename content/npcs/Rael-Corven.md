@@ -12,7 +12,7 @@ tags:
 
 # [[Rael-Corven-Secrets|Rael Corven]]
 
-![[raw/assets/banners/Rael-Corven.webp]]
+![[Rael-Corven.webp]]
 
 ---
 
@@ -22,6 +22,10 @@ tags:
 | **Status**   | Deceased — soul inside [[Delmar-Fisk\|Delmar Fisk]]                   |
 
 ---
+
+## Appearance
+
+Solidly built and sea-worn, with close-cropped dark hair going grey at the temples. His clothes are plain and fit well; his face has stopped trying to be approachable. The hands give away the sorcerer. The rest of him just looks like a man who solved problems by showing up.
 
 ## What Delmar Knows
 

@@ -12,7 +12,7 @@ tags:
 
 # [[Detto-Kalash-Secrets|Detto Kalash]]
 
-![[raw/assets/banners/Detto-Kalash.webp]]
+![[Detto-Kalash.webp]]
 
 ---
 
@@ -23,6 +23,10 @@ tags:
 | **Status**   | Deceased — soul inside [[Delmar-Fisk\|Delmar Fisk]]  |
 
 ---
+
+## Appearance
+
+Broad and low to the ground, built like something that moves mountains and has never questioned that as a career. Stone-grey skin with a rougher texture at the hands and forearms, darkening toward the knuckles. His face is wide and unreadable — not unfriendly, just uninterested in being anything other than what it is.
 
 ## What Delmar Knows
 

@@ -31,9 +31,19 @@ tags:
 
 ## Ship Stats
 
-- **Hull Points / AC / Speed** — use 2024 DMG vehicle stat block.
+**AC, Hull Points, and Combat Speed** — 2024 DMG vehicle stat blocks, mapped to campaign tiers:
+
+| Tier | Closest DMG Type | AC | Hull Points | Combat Speed |
+|---|---|---|---|---|
+| **1** | Keelboat | 15 | 100 | 10 ft. |
+| **2** | Sailing Ship | 15 | 300 | 20 ft. |
+| **3** | Warship / Galley | 15 | 500 | 25–40 ft. |
+| **4** | Custom (first-rate) | 15 | 700 | 20 ft. |
+
+All wooden vessels: **Damage Immunities** poison, psychic. **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, prone, stunned, unconscious.
+
 - **Condition** — Pristine / Worn / Damaged / Wrecked. Tracked narratively; mechanical penalties apply when relevant.
-- **Repairs at sea** — requires Carpenter role filled. Costs/times per 2024 DMG vehicle repair rules.
+- **Repairs at sea** — Carpenter role required. Short rest: DC 15 Dexterity (Carpenter's Tools); success restores 2d8 + proficiency bonus HP. In port: 1 gp per HP, 1 workday per 25 HP.
 
 ---
 

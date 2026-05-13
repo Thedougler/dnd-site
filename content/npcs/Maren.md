@@ -12,7 +12,7 @@ tags:
 
 # [[Maren-Secrets|Maren]]
 
-![[raw/assets/banners/Maren.webp]]
+![[Maren.webp]]
 
 ---
 
@@ -23,6 +23,10 @@ tags:
 | **Status**   | Deceased — soul inside [[Delmar-Fisk\|Delmar Fisk]]                     |
 
 ---
+
+## Appearance
+
+Blue-toned skin with a faint luminescence at the hairline and fingertips, visible even in daylight. Lean, built for underwater work, with a way of moving that reads as stillness until she's already gone. Her eyes are pale grey, nearly colourless, and never stay on one thing long.
 
 ## What Delmar Knows
 

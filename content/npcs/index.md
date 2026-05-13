@@ -1,7 +1,7 @@
 ---
 publish: true
 title: NPCs
-created: 2026-05-11T00:34:50.616-07:00
+created: 2026-05-12T21:54:23.061-07:00
 modified: 2026-05-12
 tags:
   - player-resource

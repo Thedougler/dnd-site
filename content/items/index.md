@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Items
-created: 2026-05-11T00:27:39.154-07:00
+created: 2026-05-12T21:53:59.885-07:00
 modified: 2026-05-11
 tags:
   - player-resource

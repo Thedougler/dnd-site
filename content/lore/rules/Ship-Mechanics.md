@@ -22,16 +22,16 @@ Ship combat and chases use the **2024 DMG vehicle rules** as written.
 | Page | Covers |
 |---|---|
 | [[Ship-Stats]] | Tiers, vehicle stats, crew roles, minimum crew |
+| [[Ship-Combat]] | Guns, broadsides, shot types, multi-deck volleys, targeting |
 | [[Ship-Operations]] | Upkeep, travel speeds, navigation, acquisition, quarters, reputation |
 | [[Ship-Bastion]] | Bastion system, facilities, turns, events, defense |
 | [[Ship-Upgrades]] | Magical enhancements and installed gear |
-| [[Siege-Rules]] | Combat between vessels |
 
 ---
 
 ## Quick Summary
 
-**Ship tier** (1–3) sets everything: cargo capacity, guns, crew requirements, upkeep cost, and which bastion facilities fit aboard. See [[Ship-Stats]].
+**Ship tier** (1–4) sets everything: cargo capacity, guns, crew requirements, upkeep cost, and which bastion facilities fit aboard. See [[Ship-Stats]].
 
 **Weekly upkeep** runs 20–40 gp (Tier 1), 80–145 gp (Tier 2), or 270–430 gp (Tier 3). See [[Ship-Operations]].
 

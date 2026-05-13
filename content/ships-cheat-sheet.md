@@ -21,9 +21,11 @@ tags:
 | **1** | Sloop, cutter, lugger | 20 tons | 2–6 | 800–2,000 gp | 2–4 / 8–12 | 20–40 gp |
 | **2** | Brigantine, schooner | 60 tons | 8–16 | 4,000–10,000 gp | 8–10 / 20–30 | 80–145 gp |
 | **3** | Frigate, galleon | 150 tons | 20–40 | 15,000–35,000 gp | 20–25 / 55–80 | 270–430 gp |
+| **4** | First-rate ship of the line | 100 tons | 80–112 | Crown property only | 55 / 280 | ~1,400 gp |
 
 **Below minimum crew** — all ship checks at disadvantage; speed –20%.\
-**Upkeep** — due weekly whether sailing or docked. Missing it is handled narratively.
+**Upkeep** — due weekly whether sailing or docked. Missing it is handled narratively.\
+**Tier 4** — exists only as [[HCS-Sovereign|Crown property]]. Not acquirable.
 
 ---
 
@@ -208,4 +210,27 @@ Crew Berths Recruit order adds up to 12 Defenders at once — do this once and i
 
 ---
 
-_Full rules: [[Ship-Stats]] · [[Ship-Bastion]] · [[Ship-Operations]] · [[Ship-Upgrades]]_
+---
+
+## Ship's Guns — Quick Reference
+
+Full rules: [[Ship-Combat]].
+
+**Operating a gun:** 3 crew per gun (1 fires, 2 load). 1 action to fire; 1 action to reload (light guns) or 2 actions (heavy guns). PC Gunner directs up to proficiency bonus in crews using their own attack roll.
+
+**Broadside volley (ship action):** Gunner role filled + crew at minimum. One attack roll; all guns on one deck/side fire. Hit = full damage; miss = half damage. All guns on that deck reload before firing again.
+
+| Gun | Damage | Range | Reload |
+|---|---|---|---|
+| Swivel Gun | 2d6 piercing | 100/400 ft | 1 action |
+| 12-lb Long Cannon | 4d10 bludgeoning | 600/2,400 ft | 1 action |
+| 24-lb Long Cannon | 6d10 bludgeoning | 500/2,000 ft | 2 actions |
+| 32-lb Long Cannon | 8d10 bludgeoning | 400/1,600 ft | 2 actions |
+| Heavy Carronade | 10d10 bludgeoning | 150/600 ft | 1 action |
+| 12-lb Chaser | 4d10 bludgeoning | 600/2,400 ft | 1 action |
+
+**Shot types:** Round (default, hull damage) · Chain (half damage, −10 mi/day speed) · Grapeshot (crew DC 14 Dex or 3d6 piercing, range 150 ft) · Bar (mast damage, attack at disadvantage) · Heated (hull damage + DC 12 fire risk)
+
+**Multi-deck broadside (Tier 4 only):** All three gun decks fire simultaneously. One attack roll per deck. 3-round reload after.
+
+_Full rules: [[Ship-Stats]] · [[Ship-Bastion]] · [[Ship-Operations]] · [[Ship-Upgrades]] · [[Ship-Combat]]_

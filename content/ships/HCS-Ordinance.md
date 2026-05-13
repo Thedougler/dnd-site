@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/HCS-Ordinance.md
 aliases:
   - Ordinance
   - HCS Ordinance
@@ -14,6 +13,9 @@ tags:
 cssclasses:
   - wiki-ship
 ---
+
+> [!warning] Superseded
+> This entry has been replaced by [[HCS-Sovereign]]. The _Sovereign_ is the definitive Tier 4 flagship of the Dravosi Crown fleet.
 
 # HCS _Ordinance_
 

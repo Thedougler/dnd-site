@@ -27,8 +27,9 @@ Three tiers. Tier determines capability, crew requirements, upkeep cost, and whi
 | **1** | Sloop, cutter, lugger | 20 tons | 2–6 | 800–2,000gp |
 | **2** | Brigantine, schooner | 60 tons | 8–16 | 4,000–10,000gp |
 | **3** | Frigate, galleon | 150 tons | 20–40 | 15,000–35,000gp |
+| **4** | First-rate ship of the line | 100 tons | 80–112 | Not for sale |
 
-Used/prize vessels cost 40–60% of new. A Tier 1 ship is attainable in early play. Tier 2 requires a significant job, prize, or faction backing. Tier 3 is late campaign.
+Used/prize vessels cost 40–60% of new. A Tier 1 ship is attainable in early play. Tier 2 requires a significant job, prize, or faction backing. Tier 3 is late campaign. Tier 4 exists only as Crown property — the [[HCS-Sovereign]] is the sole example in the Scatter and is not acquirable through any legitimate means.
 
 ---
 
@@ -75,16 +76,17 @@ The minimum crew fills all required roles and provides enough ordinary sailors t
 | 1 | 2–4 | 8–12 |
 | 2 | 8–10 | 20–30 |
 | 3 | 20–25 | 55–80 |
+| 4 | 55 | 280 |
 
 ---
 
 ## Connections
 
-[[Ship-Stats]] | [[Ship-Bastion]]
+[[Ship-Stats]] | [[Ship-Bastion]] | [[Ship-Combat]]
 
 ## Related
 
 - [[Ship-Upgrades]] — Ship Upgrades
+- [[Ship-Combat]] — Gun rules, broadsides, shot types
 - [[Sailor]] — Sailor - D\&D 5e (2024)
 - [[Ship-Operations]] — Ship Operations
-- [[Siege-Rules]] — Siege Rules

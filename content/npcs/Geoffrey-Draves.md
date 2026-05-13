@@ -13,13 +13,13 @@ tags:
 
 ![[raw/assets/portraits/Geoffrey-Draves-Archer.webp|Geoffrey Draves, a young Dravosi deckhand in a dark privateer vest, holding a lowered cutlass on a ship deck]]
 
-|                 |                                                          |
-| --------------- | -------------------------------------------------------- |
-| **Species**     | Human (Dravosi)                                          |
-| **Role**        | Deckhand; first crew member of the party                 |
-| **Former Post** | HCS Surety, under [[Barnaby-Rook-Secrets\|Barnaby Rook]] |
-| **Crew Role**   | TBD                                                      |
-| **Weekly Wage** | TBD                                                      |
+|               |                                                                           |
+| ------------- | ------------------------------------------------------------------------- |
+| **Species**   | Human (Dravosi)                                                           |
+| **Post**      | Formerly the [[HCS-Surety]], under [[Barnaby-Rook-Secrets\|Barnaby Rook]] |
+| Rank          | Seaman                                                                    |
+| **Crew Role** | TBD                                                                       |
+| **Wage**      | TBD                                                                       |
 
 ## Overview
 

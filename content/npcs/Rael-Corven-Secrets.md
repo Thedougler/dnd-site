@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Rael Corven
+title: Rael Corven Secrets
 created: 2026-04-15
 modified: 2026-05-02
 tags:

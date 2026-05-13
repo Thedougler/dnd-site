@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Bastian Crev
+title: Bastian Crev Secrets
 created: 2026-05-09
 modified: 2026-05-09
 tags:

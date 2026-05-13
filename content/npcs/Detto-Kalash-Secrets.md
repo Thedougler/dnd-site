@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Detto Kalash
+title: Detto Kalash Secrets
 created: 2026-04-15
 modified: 2026-05-02
 tags:

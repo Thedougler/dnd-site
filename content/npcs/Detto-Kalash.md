@@ -26,11 +26,11 @@ tags:
 
 ## Appearance
 
-He is broad and low to the ground, the kind of build that looks immovable because it is. Stone-grey skin, darker and rougher toward the knuckles, with forearms that speak plainly to a lifetime of heavy work. His face is wide and offers nothing in particular — not hostility, not warmth, just the blunt patience of someone who has decided that expression costs more than it is worth.
+He is broad and low to the ground, the kind of build that looks immovable because it is. Stone-grey skin, darker and rougher toward the knuckles, with forearms that speak plainly to a lifetime of heavy work. His face is wide and offers nothing in particular. Not hostility, not warmth. Just the blunt patience of someone who has decided that expression costs more than it is worth.
 
-## What Delmar Knows
+## Overview
 
-Detto captained the _[[Heft|Heft]]_, the fleet's heavy ship. Earth Genasi — broad and low-built, the look of a man who moved heavy things for a living and never stopped. He used Mold Earth to open the sub-surface passage into Umberlee's shrine during the operation. He was outside the cave when the fleet sank.
+Detto captained the _[[Heft|Heft]]_, the fleet's heavy ship. He used Mold Earth to open the sub-surface passage into Umberlee's shrine during the operation. He was outside the cave when the fleet sank.
 
 He drowned in the Maw when Umberlee closed the water over all five ships. His soul was pressed into Delmar by Umberlee at the moment of sinking, along with the other four captains.
 

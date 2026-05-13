@@ -27,9 +27,9 @@ tags:
 
 He is tall and takes up space with the deliberateness of someone who has decided that is a skill worth developing. Dark hair worn loose around a face that commits fully to every emotion it passes through, loudly and without apology. There are scars at the jaw and one forearm, old and well-set. He has never explained them. The absence of explanation is, clearly, something he enjoys.
 
-## What Delmar Knows
+## Overview
 
-Bastian captained the _[[Loud-Argument|Loud Argument]]_, the fleet's combat vessel. The fleet's dedicated fighter — the ship built for close engagement, the bow chasers always prominent from ahead. He commanded the distraction team at the main entrance during the operation: sustained bombardment, spell suppression, trap triggering. His job was to be impossible to ignore, and he was good at it.
+Bastian captained the _[[Loud-Argument|Loud Argument]]_, the fleet's combat vessel. The fleet's dedicated fighter, the ship built for close engagement, the bow chasers always prominent from ahead. He commanded the distraction team at the main entrance during the operation: sustained bombardment, spell suppression, trap triggering. His job was to be impossible to ignore, and he was good at it.
 
 He drowned in the Maw when Umberlee closed the water over all five ships. His soul was pressed into Delmar at the moment of sinking.
 

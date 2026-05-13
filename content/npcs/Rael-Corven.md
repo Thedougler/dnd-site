@@ -27,7 +27,7 @@ tags:
 
 He is built for endurance rather than impression, broad through the shoulders, sea-worn and solid, dark hair close-cropped and going iron-grey at the temples. His clothes are plain and properly fitted, the kind of practical that speaks to decades at sea. The face offers little: a jaw set somewhere between resolve and fatigue, eyes that have stopped performing patience. His hands are the only betrayal. A sorcerer's hands, faintly luminous at the knuckles, belonging to a different man than the rest of him suggests.
 
-## What Delmar Knows
+## Overview
 
 Rael captained the _[[Red-Lady|Red Lady]]_, the flagship. Sorcerer. He was Fisk's flag captain — the closest to the Admiral operationally of the five. He was the only captain who entered Umberlee's shrine alongside Fisk, navigating to the Pearl using Detect Magic. He was standing next to Fisk when it ended.
 

@@ -53,6 +53,8 @@ He woodworks. The hobby is the same philosophy expressed in a different material
 
 He carries a _Cloak of Useful Things_ and has, characteristically, never explained where he got it.
 
+He plays the shawm. He has never done so where anyone could hear him.
+
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — oldest friend; Admiral; carries Rael's soul; Rael is the loudest of the five

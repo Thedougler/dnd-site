@@ -29,6 +29,8 @@ tags:
 
 **Father's philosophy as Mortis texture** — "Prepare for the worst, work toward the best." When Rael surfaces in Fisk's body, he's not just commanding — he's already scanned for what can go wrong and begun accounting for it. Where Bastian makes scenes and Detto states facts, Rael issues positions that already have the contingency baked in. His calm is not passivity; it's preparation that's already been done.
 
+**Shawm** — Rael plays the shawm and has never let anyone hear him do it. Nobody on the fleet knew. If the party ever discovers evidence of it — sheet music in his quarters at the wreck, the instrument itself in his sea chest — it is the one thing about him that does not match the rest of the picture. Use it sparingly. It lands harder if it surfaces once.
+
 **Cloak of Useful Things** — Rael was known to carry one. It went down with him on the _Red Lady_. The wreck sits at the Shelfworks' eastern shelf descent alongside the Pearl of Souls. The cloak is recoverable if the party reaches the wreck site — likely intact given the magical nature of the item, though condition is at DM discretion.
 
 ## Hidden Connections

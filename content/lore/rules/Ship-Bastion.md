@@ -31,18 +31,19 @@ The party ship is one shared bastion. Use 2024 combining-bastions rules.
 
 ## Facility Slots & Level Gates
 
-When the party first acquires a ship, it starts with 2 Special Facilities. Both character level and ship tier must be met to install a facility. Ship tier determines which facility tiers are available — physical space is handled narratively.
+**Trigger:** Bastion rules come into effect the moment the party acquires their own ship — not at character level 5. The ship is the bastion. If the party never owns a ship, they never have a bastion.
+
+When the party first acquires a ship, it starts with **2 Special Facilities** chosen from the tiers they qualify for. Both character level and ship tier must be met to install a facility. Ship tier determines which facility tiers are available — physical space is handled narratively.
 
 | Character Level | Slots/PC | Party Pool (5 PCs) | Unlocks | Min Ship Tier |
 |---|---|---|---|---|
-| Any | — | — | Basic facilities | Any |
-| 5 | 2 | 10 | Level 5 facilities | 1 |
-| 9 | 3 | 15 | Level 9 facilities | 2 |
-| 13 | 4 | 20 | Level 13 facilities | 3 |
-| 17 | 5 | 25 | Level 17 facilities | 3 |
+| Any | 2 | 10 | Tier 1 facilities | 1 |
+| 9 | 3 | 15 | Tier 2 facilities | 2 |
+| 13 | 4 | 20 | Tier 3 facilities | 3 |
+| 17 | 5 | 25 | Tier 3 facilities | 3 |
 
 - Facility replacement on level-up requires a shipyard port and 3 days.
-- Additional facilities can be added at any time at standard 2024 gold/time costs, if port access allows.
+- Additional facilities can be added at any time at **500 gp / 7 days** (or rushed at 1,000 gp / 3 days), requiring port access. This reflects fitting out an existing ship compartment rather than constructing a building from scratch.
 
 ---
 
@@ -83,15 +84,15 @@ Use 2024 mechanics for benefits, costs, hireling slots, and orders unless marked
 
 | 2024 Facility | Ship Name | Space | Notes |
 |---|---|---|---|
-| Arcane Study | Navigator's Chart Room | 1 | Identify access; Arcana item crafting at higher levels. |
-| Armory | Weapons Locker | 1 | Upgrades defender dice d6 -> d8. |
-| Barracks | Crew Berths | 1 | Recruits/houses Defenders. |
-| Garden | Provisions Store | 1 | Healing poison/potion production. |
-| Library | Chart Archive | 1 | Research focus. |
-| Sanctuary | Waveservant Shrine | 1 | Sanctuary mechanics; sea-propitiation fiction. |
-| Smithy | Carpenter's Shop | 1 | Crafting and armaments access. |
-| Storehouse | Expanded Cargo Hold | 1 | Trade income scaling. |
-| Workshop | Rigger's Workshop | 1 | Implement crafting; Heroic Inspiration support. |
+| Arcane Study | [[Navigator-Chart-Room\|Navigator's Chart Room]] | 1 | Identify charm; Arcana item crafting at level 9+. |
+| Armory | [[Weapons-Locker\|Weapons Locker]] | 1 | Upgrades defender dice d6 → d8 while stocked. |
+| Barracks | [[Crew-Berths\|Crew Berths]] | 1 | Recruits/houses up to 12 Defenders; key attack-event buffer. |
+| Garden | [[Provisions-Store\|Provisions Store]] | 1 | Rations, Healer's Kits, potions, or antitoxin/poison per harvest. |
+| Library | [[Chart-Archive\|Chart Archive]] | 1 | Research: 3 pieces of lore on any topic. |
+| Sanctuary | [[Waveservant-Shrine\|Waveservant Shrine]] | 1 | Healing Word charm; crafts holy symbols and druidic focuses. |
+| Smithy | [[Carpenters-Shop\|Carpenter's Shop]] | 1 | Smith's Tools crafting; halves Weapons Locker costs; Armaments at 9+. |
+| Storehouse | [[Expanded-Cargo-Hold\|Expanded Cargo Hold]] | 1 | Buy/sell goods; profit margin scales with level. |
+| Workshop | [[Riggers-Workshop\|Rigger's Workshop]] | 1 | Heroic Inspiration; gear crafting; Implements at 9+. |
 
 ### Level 9 (Tier 2+)
 
@@ -132,7 +133,7 @@ Excluded at this tier: Demiplane.
 
 | Facility | Space | Min Level | Min Tier | Effect |
 |---|---|---|---|---|
-| Surgeon's Berth \[HB] | 1 | Any | 1 | Once/turn: stabilize all downed crew, or remove one disease/poison after 8 hours, or grant one Lesser Restoration effect without a slot. Requires Surgeon role filled. |
+| [[Surgeons-Berth\|Surgeon's Berth]] \[HB] | 1 | Any | 1 | Once/turn: stabilize all downed crew, or remove one disease/poison after 8 hours, or grant one Lesser Restoration effect without a slot. Requires Surgeon role filled. |
 
 ---
 

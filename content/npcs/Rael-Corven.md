@@ -25,7 +25,7 @@ tags:
 
 ## Appearance
 
-He is built for endurance rather than impression — broad through the shoulders, sea-worn and solid, dark hair close-cropped and going iron-grey at the temples. His clothes are plain and properly fitted, the kind of practical that speaks to decades at sea. The face offers little: a jaw set somewhere between resolve and fatigue, eyes that have stopped performing patience. His hands are the only betrayal — a sorcerer's hands, faintly luminous at the knuckles, belonging to a different man than the rest of him suggests.
+He is built for endurance rather than impression, broad through the shoulders, sea-worn and solid, dark hair close-cropped and going iron-grey at the temples. His clothes are plain and properly fitted, the kind of practical that speaks to decades at sea. The face offers little: a jaw set somewhere between resolve and fatigue, eyes that have stopped performing patience. His hands are the only betrayal. A sorcerer's hands, faintly luminous at the knuckles, belonging to a different man than the rest of him suggests.
 
 ## What Delmar Knows
 

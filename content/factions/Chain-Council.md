@@ -61,7 +61,25 @@ People who want the Midchain to behave like a colony call the Council disorder. 
 
 The dry docks at Kalowe are the only neutral shipyard in the Midchain, and the Chain Council controls access to them. Islands, merchant families, and minor factions without their own yards commission vessels through Kalowe — and by extension through the Council. The Council does not own these ships once they leave the dock. It collects a harbour tithe and occasionally attaches a condition: service availability if the Chain calls it.
 
+Most buyers accept the condition and ignore it later. The Council knows this. The real value is not the service clause — it is that the Council knows what was built, for whom, and where it is likely to be sailing. Ships with service conditions function as a loose, informal intelligence network. A buyer who defaults on a service call learns that Kalowe's next dock slot comes with a longer wait.
+
+The _Quorum_ is the Council's own vessel — built at Kalowe and kept as a dispatch sloop, the closest thing the Chain has to an official presence on the water.
+
 This arrangement means Council-built ships are spread across the Shattered Sea in the hands of buyers who may or may not feel obligated to answer when the Chain calls. The quality is consistent. The loyalty is not.
+
+---
+
+## Political Fault Lines
+
+The Chain Council's strength is its weakness: no one owns the whole decision once everyone leaves Kalowe.
+
+- **Kalowe's representatives** want the Council's authority respected but cannot afford to become the permanent capital of the Midchain.
+- **Reef and pilot islands** care most about route access and patrol pressure. They support narrow commissions if the cost is shared.
+- **Settlements near the Verdant Teeth** want action on Grung raids and resent watching Council energy go toward distant problems.
+- **Outer islands** dislike paying for crises they did not create, but want the Chain to exist when their own crisis arrives.
+- **Tessarine-friendly merchants** argue for contracts, sealed correspondence, and outside financing because those tools feel practical in the moment.
+
+Any decision that costs more than it promised will be contested along these lines when the islands next meet.
 
 ---
 
@@ -73,7 +91,4 @@ This arrangement means Council-built ships are spread across the Shattered Sea i
 - [[Dravosi-Crown]]
 - [[Tessarine-Concordat]]
 - [[Fisks-Fleet]]
-- [[Chain-Council-Secrets]]
-- [[Midchain-Secrets]]
-- [[Shattered-Sea-Secrets]]
 - [[Shattered-Sea]]

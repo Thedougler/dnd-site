@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Sentinels-Of-The-Eyrie.md
 aliases:
   - The Sentinels
   - Sentinels
@@ -16,7 +15,7 @@ tags:
 
 # Sentinels of the Eyrie
 
-![[factions/Sentinels-Of-The-Eyrie-Flag.webp]]
+![[Sentinels-Of-The-Eyrie-Flag.webp]]
 [[High-Eyrie]] is a basalt sea stack on the northeastern [[places/crown-islands/index|Crown Islands]]. From it, the Sentinels have watched the [[Drowned-Maw|Drowned Maw]] for roughly two hundred years.
 
 They are aarakocra monastics: observers, record-keepers, and aerial fighters when defense requires it. They are not a navy, church, government, scout service, or mercenary company.
@@ -107,6 +106,5 @@ Ask what was recorded, not what it means. A Sentinel who declines to interpret a
 
 ## Related
 
-- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
 - [[Verdant-Scatter]] — The Verdant Scatter
 - [[Rattkin]] — Rattkin

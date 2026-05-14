@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Passage.md
 aliases:
   - Passage
   - The Run
@@ -16,7 +15,7 @@ tags:
 
 # The Passage
 
-![[factions/Passage-Flag.webp]]
+![[Passage-Flag.webp]]
 The Passage is the Rattkin network of routes, shelters, caches, couriers, and hidden infrastructure running beneath and between the ports of the [[Shattered-Sea|Shattered Sea]]. It does not appear on colonial charts. It is not a nation or a guild. It is the system by which Rattkin — who call themselves Kin — move people, cargo, and information across the region.
 
 ---
@@ -30,6 +29,18 @@ The operational body of the Passage is the Run: travelling Rattkin families, cre
 ## Holds
 
 A Hold is a Rattkin-maintained cache or shelter inside a port's structure: drainage channels, dock supports, wall cavities, old foundations, roof voids, cisterns, or spaces a city has forgotten. When a city rebuilds or changes hands, the Passage adapts. Routes are reseeded into new construction. [[Warren]] in [[places/calveno/index]] is the only fixed Rattkin settlement in the [[Shattered-Sea|Shattered Sea]] and the most established anchor of Passage memory in the region.
+
+---
+
+## Structure
+
+The operational body of the Passage has three layers recognized by those who deal with it:
+
+- **The Run** — travelling families and crews whose circuit knowledge passes through generations, encoded in scratch-notation on bone and ceramic shards legible only to Kin.
+- **The Hold** — maintained caches inside port infrastructure: drainage conduits, wall cavities, dock substructure, cisterns. Predates most buildings it occupies.
+- **The Tangle** — seven senior elders governing the Calveno Run, the only fixed Kin settlement in the Shattered Sea. They hold the Passage's most sensitive routing intelligence.
+
+Kin distinguish internally between Rattkin (Kin) and non-Rattkin (Dry). A Dry can be a trusted partner or valued ally — still not Kin. Information that flows between Kin does not flow to Dry by default.
 
 ---
 
@@ -61,6 +72,5 @@ Knowing one route shown by one Rattkin is not knowledge of the Passage. Do not m
 
 ## Related
 
-- [[Calveno-Secrets]] — Calveno
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Passage-Secrets]] — Passage Secrets
+- [[places/calveno/index]] — Calveno
+- [[places/port-tidefall/index]] — Port Tidefall

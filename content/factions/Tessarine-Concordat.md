@@ -119,6 +119,3 @@ Read the full contract before signing, including inheritance and collateral clau
 - [[Leviathan]]
 - [[Waukeen]]
 - [[Shattered-Sea-Pantheon]]
-- [[Calveno-Secrets]]
-- [[Port-Tidefall-Secrets]]
-- [[Midchain-Secrets]]

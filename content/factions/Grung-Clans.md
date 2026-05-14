@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Grung-Clans.md
 aliases:
   - Grung clans
   - The Grung
@@ -16,7 +15,7 @@ tags:
 
 # The [[Grung]] Clans
 
-![[factions/Grung-Clans-Flag.webp]]
+![[Grung-Clans-Flag.webp]]
 Two days south of [[Kalowe|Kalowe]], the [[Verdant-Teeth|Verdant Teeth]] rise from the [[places/midchain/index|Midchain]] as reef, beach, and rainforest. The interiors belong to the Grung.
 
 The Grung are poisonous amphibious folk whose skin colour marks caste and station. They are not a single crown or council but a collection of clans operating under the same colour-caste order. Trade with outsiders takes place at the waterline. The interior is not open to visitors.
@@ -108,6 +107,5 @@ Grung raiding vessels are built by orange-caste artisans from Verdant Teeth iron
 
 ## Related
 
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[places/midchain/index]] — The Midchain
 - [[Shattered-Sea]] — The Shattered Sea

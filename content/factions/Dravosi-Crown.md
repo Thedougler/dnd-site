@@ -87,6 +87,3 @@ Dravosi speech in the islands leans formal in office and practical on deck. Offi
 - [[Passage]]
 - [[Sentinels-Of-The-Eyrie]]
 - [[Shattered-Sea]]
-- [[Calveno-Secrets]]
-- [[Harbourmasters-Office-Secrets]]
-- [[Calders-Tooth-Secrets]]

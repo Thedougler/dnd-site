@@ -4,13 +4,13 @@ aliases:
   - Pell
 title: Pell
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - gnome
   - social
 ---
 
-# [[Pell-Secrets|Pell]]
+# Pell
 
 > _A gnome who died trying to be free._
 
@@ -57,8 +57,10 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 ## Connections
 
 - [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[private/players/Jean-Claude-Tabarnack]]
 - [[Simone-Tabarnack]]
 - [[Grung-Clans]]
 - [[Sorn]]
-- [[Shattered-Sea-Secrets]]
-- [[Shattered-Sea]]
+- [[Sorn-Secrets]]
+- [[Algernon-Reginald-Clyde]]
+- [[Midchain-Secrets]]

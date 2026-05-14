@@ -5,15 +5,15 @@ aliases:
   - Black-Jaw matriarch
 title: Nona Black-Jaw
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - rattkin
   - matriarch
 ---
 
-# [[Nona-Black-Jaw-Secrets|Nona Black-Jaw]]
+# Nona Black-Jaw
 
-![[Nona-Black-Jaw.webp|Nona Black-Jaw standing in a firelit canal street, wrapped in weathered red cloth]]
+![[raw/assets/banners/Nona-Black-Jaw.webp|Nona Black-Jaw standing in a firelit canal street, wrapped in weathered red cloth]]
 
 ---
 
@@ -50,9 +50,15 @@ Her late husband built the ship, captained her for decades, and left her to the 
 ## Connections
 
 - [[characters/perrin/Perrin-Black-Jaw]]
+- [[private/players/Perrin-Black-Jaw]]
 - [[Warren]]
+- [[Warren-Secrets]]
 - [[Passage]]
+- [[Passage-Secrets]]
 - [[Vestra]]
+- [[Vestra-Secrets]]
 - [[places/calveno/index]]
 - [[Calveno-Secrets]]
-- [[Tail-Secrets]]
+- [[Drowned-Maw-Secrets]]
+- [[Vrtek]]
+- [[Elder-Anton]]

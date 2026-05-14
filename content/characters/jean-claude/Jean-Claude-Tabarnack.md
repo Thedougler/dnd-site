@@ -13,7 +13,7 @@ tags:
 
 # Jean-Claude Tabarnack
 
-![[raw/assets/banners/Jean-Claude-Archer.webp|Jean-Claude, a blue grung ranger in a red beret, standing on a docked boat with a bow]]
+![[Jean-Claude.webp|Jean-Claude, a blue grung ranger in a red beret, standing on a docked boat with a bow]]
 
 > _He moves through human ports wearing a beret and a fake moustache. His reasoning is internally consistent._
 
@@ -110,9 +110,11 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 
 ---
 
-## Session 01 — The Canister Reveal
+## Session History
 
-During the Phase 3 boarding fight on the Saltwright, the Dravosi Alchemist threw a poison gas canister into the party. Jean-Claude and Perrin were caught in the cloud. Both resisted.
+### Session 01 — The Canister Reveal
+
+During the gangplank fight of the Saltwright boarding, the Dravosi Alchemist threw a poison gas canister into the party. Jean-Claude and Perrin were caught in the cloud. Both resisted.
 
 Jean-Claude's body registered the compound before his mind did — Grung don't smell through a nose. They read the air through their skin. The chemical signature placed it immediately: standard Grung hunting toxin, cheap bulk stock, the kind made for night patrols and grab operations. Not red-caste work. Not anything serious.
 
@@ -122,7 +124,7 @@ His sister is supplying the Dravosi Crown.
 
 She didn't sell them something precious. She sold them something disposable — cheap enough that it wouldn't show up missing from any supply ledger, generic enough to pass Crown intake as "amphibian alkaloid derivative." Disposable things get sold on a schedule. She is supplying the people who are tightening the Midchain on a recurring basis, and she is doing it under gold-caste sanction or on her own authority, and neither answer is better than the other.
 
-Jean-Claude said nothing. Phase 3 continued. Barnaby Rook is still alive.
+Jean-Claude said nothing. The fight continued. [[Barnaby-Rook|Barnaby Rook]] is still alive. See [[Session-01-Recap]].
 
 ## Public Standing
 

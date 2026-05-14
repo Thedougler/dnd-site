@@ -50,7 +50,7 @@ The capuchin on his shoulder is [[Bisou]]. She has been riding that shoulder for
 
 ## Session 01
 
-When [[Barnaby-Rook-Secrets|Barnaby Rook]] hauled himself back aboard the Saltwright at the end of Phase 3 — his entire crew dead or turned — he pointed his flintlock at Beaumont and fired. The round hit the ridged plate of Beaumont's shell and bounced off. Beaumont set down whatever he was holding, picked up a boat hook, and entered the fight.
+When [[Barnaby-Rook|Barnaby Rook]] hauled himself back aboard the Saltwright at the end of Phase 3 — his entire crew dead or turned — he pointed his flintlock at Beaumont and fired. The round hit the ridged plate of Beaumont's shell and bounced off. Beaumont set down whatever he was holding, picked up a boat hook, and entered the fight.
 
 His words to Barnaby Rook: _"Boy, I shit out harder things than you every mornin'."_
 

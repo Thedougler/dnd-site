@@ -4,15 +4,15 @@ aliases:
   - Kyzil
 title: Master Kyzil
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - aarakocra
   - monk
 ---
 
-# [[Master-Kyzil-Secrets|Master Kyzil]]
+# Master Kyzil
 
-![[Master-Kyzil.webp|Master Kyzil in a pale hooded cloak, standing on a misty waterfront between moored ships]]
+![[raw/assets/banners/Master-Kyzil.webp|Master Kyzil in a pale hooded cloak, standing on a misty waterfront between moored ships]]
 
 ---
 
@@ -51,9 +51,10 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 
 - [[Sentinels-Of-The-Eyrie]]
 - [[High-Eyrie]]
+- [[High-Eyrie-Secrets]]
 - [[Crisdalynn-Khinriss]]
 - [[Drowned-Maw]]
+- [[Drowned-Maw-Secrets]]
 - [[places/port-tidefall/index]]
-- [[Red-Lady]]
 - [[Port-Tidefall-Secrets]]
-- [[Shattered-Sea-Secrets]]
+- [[Red-Lady]]

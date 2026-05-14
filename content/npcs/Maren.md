@@ -10,9 +10,9 @@ tags:
   - maritime
 ---
 
-# [[Maren-Secrets|Maren]]
+# Maren
 
-![[Maren.webp]]
+![[raw/assets/banners/Maren.webp]]
 
 ---
 
@@ -54,5 +54,6 @@ She goes where people tell her not to go. The places with the richest pickings a
 - [[Narrow]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]
-- [[Norrington-Kingsly-Secrets|Norrington Kingsley]]
+- [[Norrington-Kingsly|Norrington Kingsley]]
+- [[Halythion-Secrets]]
 - [[Umberlee]]

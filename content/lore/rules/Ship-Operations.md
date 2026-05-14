@@ -102,7 +102,7 @@ Requires a shipyard. Same cost as buying new, but custom specs are possible.
 | 2 | 6–12 months |
 | 3 | 18–36 months |
 
-[[Catarina-DaVirelli-Secrets|Catarina Da'Virelli]] can advise on unusual specifications and install modifications during construction at standard rates.
+[[Catarina-DaVirelli|Catarina Da'Virelli]] can advise on unusual specifications and install modifications during construction at standard rates.
 
 ---
 

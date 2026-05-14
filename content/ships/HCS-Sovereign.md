@@ -6,7 +6,7 @@ aliases:
   - The Sovereign
 title: HCS Sovereign
 created: 2026-05-12
-modified: 2026-05-13
+modified: 2026-05-14
 tags:
   - dravosi
   - fleet
@@ -17,7 +17,7 @@ cssclasses:
 
 # HCS _Sovereign_
 
-![[ships/HCS-Sovereign.webp]]
+![[raw/assets/banners/HCS-Sovereign.webp]]
 
 > [!READ-ALOUD]
 > Three gun decks rise above a grey hull painted the colour of deep water — fifteen cannon ports per side on the lower deck alone, all closed, brass fittings catching light at every seam. A white Admiralty stripe runs the full length of the ship at the spar deck rail, wider than any other Crown vessel in the Scatter. Three mastheads carry the Crown pennant. The figurehead is a robed figure holding a crown aloft, not offering it — claiming it. She moves slowly. She does not need to move quickly.
@@ -28,7 +28,7 @@ cssclasses:
 
 A first-rate ship of the line, 215 feet on the waterline, built at the Harwick Naval Yard over six years and commissioned as the definitive expression of Dravosi naval power. The _Sovereign_ is the only vessel of her class in the Shattered Sea — the largest hull afloat, the heaviest armed, and the clearest possible answer to the question of whether the Crown's authority in these waters is negotiable.
 
-![[ships/HCS-Sovereign-Full-Sail.webp]]
+![[raw/assets/banners/HCS-Sovereign-Full-Sail.webp]]
 
 The hull is naval grey from keel to rail, copper-sheathed below the waterline. Three gun decks stack below the spar deck: lower carries thirty 32-lb long cannon, main carries twenty-eight 24-lb long cannon, upper carries thirty 12-lb long cannon. Four heavy carronades sit on the spar deck, two at the quarterdeck rail and two at the forecastle — short-range weapons of last resort that no one in boarding distance has survived. Stern and bow chasers extend the battery further. Total mounted guns: 104, plus eight chasers.
 

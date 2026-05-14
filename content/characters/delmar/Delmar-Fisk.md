@@ -14,7 +14,7 @@ tags:
 
 # Delmar Atticus Fisk
 
-![[Delmar-Fisk-Archer.webp|Delmar Fisk in a red coat aiming a pistol from the deck of a ship]]
+![[Delmar-Fisk.webp|Delmar Fisk in a red coat aiming a pistol from the deck of a ship]]
 
 > _Youngest Admiral in living memory. Nobody official gave him the title, but by all measure he was a Self Made Admiral._
 
@@ -41,7 +41,7 @@ Sandy red hair pulled into a topknot that never quite holds. A thick beard and a
 
 The long red admiral's coat comes first in most descriptions of him: scarlet, gold epaulettes, worn like something lived in rather than kept. People who meet him tend to note the same thing afterward — he was smiling before he spoke, and the smile got there before his mouth caught up.
 
-He carries **the Baroness** at his hip, a rapier, and **the Duchess** across his back, a musket. Both are named. Both have been used.
+He carries **[[The-Baroness|the Baroness]]** at his hip, a rapier, and **[[The-Duchess|the Duchess]]** across his back, a musket. Both are named. Both have been used.
 
 ---
 
@@ -103,6 +103,14 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It's the ce
 
 ---
 
+## Known Possessions
+
+- **[[The-Baroness|The Baroness]]** — his rapier, named and primary. The weapon he reaches for first.
+- **[[The-Duchess|The Duchess]]** — his musket, named after his wife [[Serafina-Windfall-Fisk|Serafina]]. Carried across his back.
+- **Pocket watch** — the one relic his father left behind. His mother pickpocketed it off him. Delmar has carried it since. Inside is a picture of her.
+
+---
+
 ## Key Relationships
 
 **[[Crissdalynn-Khinriss|Crisdalynn Khinriss]]** is the person whose opinion matters most to him, and the reason is specific: she dove through a closing trench to pull him out. He calls her Ms. Khinriss in public and trusts her above anyone else alive.
@@ -114,6 +122,18 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It's the ce
 **[[Rael-Corven|Rael Corven]]** was his flag captain and the oldest friendship he had. They met on the Midchain as young crewmen — both human in waters that ran otherwise — and worked alongside each other from that point forward. Fisk charmed; Rael planned. The fleet functioned because those two roles never overlapped. Of the five captains now inside Fisk, Rael's voice is the loudest, and Fisk knows exactly why: Rael was standing next to him when the water came in.
 
 **[[Fisks-Fleet|Fisk's Fleet]]** — five ships, five captains who stayed with him from the beginning. Gone. What remains of them is the weight he's still carrying.
+
+---
+
+## Session History
+
+### Session 01 — The Saltwright Boarding
+
+Delmar took point on the hold ambush, coordinating the party's position while [[Beaumont-Sel|Beaumont]] kept [[Barnaby-Rook|Rook]] occupied at the wheel above. When the hold was clear, he knelt at the foot of the ladder and boosted [[Crissdalynn-Khinriss|Crisdalynn]] up through the hatch — her wings-open entrance on the weather deck knocked two Dravosi prone.
+
+When [[Geoffrey-Draves|Geoffrey Draves]] dropped his sword and Rook called across the deck to threaten him, Delmar picked the sword up. Then asked the boy: _"Would you rather fight for men who'll threaten to shoot you, or men who'll protect you?"_ Geoffrey answered and Delmar handed the sword back. Geoffrey is now the party's first crew member.
+
+On the gangplank Delmar was active through to the session break — Rook unharmed, flintlock expended, [[Beaumont-Sel|Beaumont]] in the fight. See [[Session-01-Recap]].
 
 ---
 

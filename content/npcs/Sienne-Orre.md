@@ -10,9 +10,9 @@ tags:
   - druid
 ---
 
-# [[Sienne-Orre-Secrets|Sienne Orre]]
+# Sienne Orre
 
-![[Sienne-Orre.webp]]
+![[raw/assets/banners/Sienne-Orre.webp]]
 
 ---
 
@@ -41,6 +41,8 @@ She had been keeping records since she was young: tide charts, druidic correspon
 
 She went to sea because the sea had a set of systems she didn't yet understand, and she was constitutionally incapable of leaving a system unexplained. The _Fernen_ was the best instrument for that purpose she had ever found. She was never entirely comfortable on it, which is the only reason she stayed.
 
+---
+
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk]]
@@ -49,5 +51,3 @@ She went to sea because the sea had a set of systems she didn't yet understand, 
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]
 - [[Umberlee]]
-- [[Vel-Orn-Secrets]]
-- [[Shattered-Sea-Secrets]]

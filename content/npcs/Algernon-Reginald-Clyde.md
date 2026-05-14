@@ -5,15 +5,15 @@ aliases:
   - Clyde
 title: Algernon Reginald Clyde
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - gnome
   - arcane
 ---
 
-# [[Algernon-Reginald-Clyde-Secrets|Algernon Reginald Clyde]]
+# Algernon Reginald Clyde
 
-![[Clyde.webp|Argibald Reginald Clyde, an elderly gnome scholar, standing on wet docks with a book and walking stick]]
+![[raw/assets/banners/Clyde.webp|Argibald Reginald Clyde, an elderly gnome scholar, standing on wet docks with a book and walking stick]]
 
 ---
 
@@ -65,9 +65,12 @@ He is easy to find at the docks. He is usually the one in an argument about some
 
 - [[Clydes-Bestiary-of-Oceanic-Creatures]]
 - [[places/port-tidefall/index]]
-- [[Kalowe]]
-- [[Sawek]]
-- [[places/calveno/index]]
 - [[Port-Tidefall-Secrets]]
-- [[Shattered-Sea-Secrets]]
-- [[Verdant-Scatter-Secrets]]
+- [[Kalowe]]
+- [[Kalowe-Secrets]]
+- [[places/calveno/index]]
+- [[Calveno-Secrets]]
+- [[Sawek]]
+- [[Whip-Shark]]
+- [[Leviathan]]
+- [[private/players/Perrin-Black-Jaw]]

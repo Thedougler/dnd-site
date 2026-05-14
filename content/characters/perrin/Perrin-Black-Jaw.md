@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /characters/perrin/Perrin-Black-Jaw.md
 aliases:
   - Perrin Black-Jaw
   - PBJ
@@ -14,7 +13,7 @@ tags:
 
 # Perrin Black-Jaw
 
-![[raw/assets/banners/Perrin-Archer.webp|Perrin, a rattkin sailor, standing on a ship deck with rope and barrels nearby]]
+![[Perrin.webp|Perrin, a rattkin sailor, standing on a ship deck with rope and barrels nearby]]
 
 > _Commanded a ship to fish and support his family. Lost it to something vast coming up from below. Now hunting it._
 
@@ -116,6 +115,18 @@ What he hasn't noticed yet is that the chase has become the point, and the versi
 **The _Vestra_** was his ship, his grandfather's inheritance, and his whole working life in a single hull. Gone.
 
 **[[Saltwright|The *Saltwright*]]** is where he is now, in the hold, hidden, listening to the ship work around him.
+
+---
+
+## Session History
+
+### Session 01 — The Saltwright Boarding
+
+Perrin cast Minor Illusion across the hold doorway after [[Crissdalynn-Khinriss|Crisdalynn]] dragged Cap'n Gorgeous's body back through it — the sound of the musket shot had raised the alarm, but the illusion meant the two Dravosi deckhands came down blind. Both were killed in the hold without a shout reaching the deck.
+
+On the weather deck, Perrin and [[Jean-Claude-Tabarnack|Jean-Claude]] came up through a gap in the decking at a second angle while Crisdalynn took the two nearest Dravosi prone. The deck fight was over quickly.
+
+On the gangplank he was caught in the Dravosi Alchemist's gas canister alongside Jean-Claude. Both resisted. He is unaware that Jean-Claude recognized the compound's origin. See [[Session-01-Recap]].
 
 ---
 

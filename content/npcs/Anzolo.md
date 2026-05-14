@@ -4,13 +4,13 @@ aliases:
   - Anzolo
 title: Anzolo
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - tortle
   - recurring
 ---
 
-# [[Anzolo-Secrets|Anzolo]]
+# Anzolo
 
 ---
 
@@ -32,6 +32,12 @@ The Tangle vouches for him. That is enough.
 - [[Nona-Black-Jaw]]
 - [[places/calveno/index]]
 - [[Warren]]
+- [[Warren-Secrets]]
+- [[Passage-Secrets]]
+- [[private/players/Perrin-Black-Jaw]]
+- [[Dravosi-Crown]]
+- [[Tessarine-Concordat]]
+- [[Beaumont-Sel-Secrets]]
 - [[Calveno-Secrets]]
 - [[Shattered-Sea-Secrets]]
 - [[Shattered-Sea]]

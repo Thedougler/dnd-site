@@ -37,7 +37,7 @@ Ship combat and chases use the **2024 DMG vehicle rules** as written.
 
 **The ship is a shared bastion.** Facility slots pool across all PCs. Bastion Turns resolve weekly. See [[Ship-Bastion]].
 
-**Magic enhancements** are professional tools, not wonders. Common items are available in Tidefall; rare items go through [[Catarina-DaVirelli-Secrets|Catarina Da'Virelli]]. See [[Ship-Upgrades]].
+**Magic enhancements** are professional tools, not wonders. Common items are available in Tidefall; rare items go through [[Catarina-DaVirelli|Catarina Da'Virelli]]. See [[Ship-Upgrades]].
 
 ---
 

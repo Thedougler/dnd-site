@@ -13,7 +13,7 @@ tags:
 
 # Crisdalynn Khinriss
 
-![[raw/assets/banners/Crissdalynn-Archer.webp|Crissdalynn, a blue-feathered aarakocra, bracing on a ship's deck in high wind|355x193]]
+![[Crissdalynn.webp|Crissdalynn, a blue-feathered aarakocra, bracing on a ship's deck in high wind|355x193]]
 
 > _Strangers hide their children. Crewmates know she'll pocket anything that catches the light._
 
@@ -99,14 +99,20 @@ What she says she wants is Kyzil's approval, the pilgrimage finished, kinship wi
 
 ---
 
+## Session History
+
+### Session 01 — The Saltwright Boarding
+
+After the musket shot dropped Cap'n Gorgeous in the hold, Crisdalynn moved fast — dragging the body back through [[Perrin-Black-Jaw|Perrin]]'s Minor Illusion across the doorway before the sound could be placed. The two deckhands came down not knowing what they were walking into.
+
+When the hold was clear, [[Delmar-Fisk|Delmar]] knelt at the foot of the ladder. Crisdalynn hit his hands at a run and he launched her up through the hatch. Her wings snapped open the moment she cleared the weather deck and sent the two nearest Dravosi sprawling. [[Jean-Claude-Tabarnack|Jean-Claude]] and Perrin came up through a gap in the decking at a second angle. The deck fight was short.
+
+She was active through the rest of the gangplank fight. [[Geoffrey-Draves|Geoffrey Draves]] is now the party's first crew member. See [[Session-01-Recap]].
+
+---
+
 ## Public Standing
 
 Crisdalynn's reputation is still forming, the way a fourteen-year-old's tends to be. Among people who know only the Maw story, she's a survivor and an unlikely rescuer: the scout who dove into a closing trench and came back up with an admiral. Among people who've shared a deck with her, she's harder to summarize. Young, sharp, easier to underestimate than she looks, and considerably more dangerous once she stops talking.
 
 The charts in her satchel show the southern arc and most of the eastern rim of the [[Drowned-Maw|Drowned Maw]] — two years of careful work, close to something that's never been completed. She hasn't given up on finishing them. Whether she knows it or not, that may be the thing most worth noting about her.
-
-## Related
-
-- [[Red-Lady]] — The Red Lady
-- [[The-Below]] — The Below
-- [[Delmar-Fisk]] — Delmar Fisk

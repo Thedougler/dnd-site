@@ -10,9 +10,9 @@ tags:
   - earth_genasi
 ---
 
-# [[Detto-Kalash-Secrets|Detto Kalash]]
+# Detto Kalash
 
-![[Detto-Kalash.webp]]
+![[raw/assets/banners/Detto-Kalash.webp]]
 
 ---
 
@@ -40,6 +40,8 @@ He came to the sea late, by the measure of those who grow up with salt in the ai
 
 What surfaced, once: he had a horse before the sea. White, almost completely — a working animal, not bred for show, and not named anything he admitted to publicly. He mentioned it to Fisk the year they laid the keel of the _Heft_, in the way of a man who had said a thing before he fully decided to. Fisk didn't press it. Detto didn't elaborate. Some things are structural. You don't pull at them.
 
+---
+
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk]]
@@ -47,5 +49,3 @@ What surfaced, once: he had a horse before the sea. White, almost completely —
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]
 - [[Umberlee]]
-- [[Shattered-Sea-Secrets]]
-- [[Shattered-Sea]]

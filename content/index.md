@@ -5,7 +5,7 @@ aliases:
   - Shattered Sea Campaign
   - Campaign Hub
 title: The Shattered Sea
-created: 2026-05-12T23:45:47.965-07:00
+created: 2026-05-14T14:42:46.021-07:00
 modified: 2026-05-03
 tags:
   - player-resource
@@ -28,6 +28,13 @@ _High-magic. Age of sail. 1495 DR. Sixty thousand square miles of reef, deep cha
 - [[lore/index|Lore]]
 - [[places/index|Places]]
 - [[ships/index|Ships]]
+
+---
+
+## Session Recaps
+
+- [[private/sessions/index|Sessions]] — all published recaps
+- [[private/sessions/Session-01-Recap|Session 01 — The Saltwright]]
 
 ---
 

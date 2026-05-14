@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /campaign-overview.md
 title: Campaign Overview
 created: 2026-05-01
 modified: 2026-05-03
@@ -8,9 +7,6 @@ tags:
   - reference
   - setting
 ---
-
-sources: \[]
-\--- Shattered Sea Campaign Overview
 
 _1495 DR. Sixty thousand square miles of reef, deep channel, colonial paperwork, old gods, and water that remembers._
 

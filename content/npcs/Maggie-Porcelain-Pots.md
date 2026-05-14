@@ -5,15 +5,15 @@ aliases:
   - Maggie
 title: Maggie Porcelain Pots
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - dragonborn
   - social
 ---
 
-# [[Maggie-Porcelain-Pots-Secrets|Maggie Porcelain Pots]]
+# Maggie Porcelain Pots
 
-![[Maggie-Porcelain-Pots.webp|Maggie Porcelain Pots working among stacked clay vessels as warm firelight glows behind her]]
+![[raw/assets/banners/Maggie-Porcelain-Pots.webp|Maggie Porcelain Pots working among stacked clay vessels as warm firelight glows behind her]]
 
 ---
 
@@ -45,5 +45,6 @@ She is currently expanding the operation and scouting locations on other islands
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk]]
-- [[Shattered-Sea-Secrets]]
-- [[Shattered-Sea]]
+- [[Serafina-Windfall-Fisk]]
+- [[Vrtek]]
+- [[Elder-Anton]]

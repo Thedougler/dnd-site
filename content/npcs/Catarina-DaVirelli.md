@@ -5,15 +5,15 @@ aliases:
   - Catarina
 title: Catarina Da'Virelli
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - artificer
   - arcane
 ---
 
-# [[Catarina-DaVirelli-Secrets|Catarina Da'Virelli]]
+# Catarina Da'Virelli
 
-![[Catarina-DaVirelli.webp|Catarina DaVirelli in her workshop, holding tools among benches of mechanisms and ship fittings]]
+![[raw/assets/portraits/Catarina-DaVirelli.webp|Catarina DaVirelli in her workshop, holding tools among benches of mechanisms and ship fittings]]
 
 ---
 
@@ -56,10 +56,15 @@ She does not pay cash for Antheri metalwork. She trades. If you have a piece and
 
 - [[places/calveno/index]]
 - [[Antherian]]
+- [[Antheri-Ruins]]
 - [[Shelfworks]]
 - [[Clockwork-Familiar]]
 - [[Dravosi-Crown]]
 - [[Brass-Cat]]
 - [[Calveno-Secrets]]
 - [[Cats-Curios-Secrets]]
+- [[Ship-Mechanics]]
+- [[Salvaged-Antheri-Plate]]
+- [[Beaumont-Sel-Secrets]]
+- [[Spark-Pistol]]
 - [[Shattered-Sea-Secrets]]

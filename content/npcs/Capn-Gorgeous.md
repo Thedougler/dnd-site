@@ -11,7 +11,7 @@ tags:
 
 # Cap'n Gorgeous
 
-![[raw/assets/portraits/Capn-Gorgeous-Archer.webp|Cap'n Gorgeous, a striking golden-haired Dravosi enforcer in a dark naval coat, holding a heavy crossbow in the HCS Surety's hold]]
+![[Capn-Gorgeous.webp|Cap'n Gorgeous, a striking golden-haired Dravosi enforcer in a dark naval coat, holding a heavy crossbow in the HCS Surety's hold]]
 
 _Real name unknown. It didn't come up._
 
@@ -47,7 +47,7 @@ He looked like the kind of man who wins fights just by showing up. He did not ge
 
 ## Connections
 
-- [[Barnaby-Rook-Secrets]]
+- [[Barnaby-Rook]]
 - [[HCS-Surety]]
 
 ## Notes

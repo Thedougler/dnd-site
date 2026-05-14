@@ -6,7 +6,7 @@ aliases:
   - The Ordinance
 title: HCS Ordinance
 created: 2026-05-03
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - dravosi
   - fleet
@@ -19,7 +19,7 @@ cssclasses:
 
 # HCS _Ordinance_
 
-![[ships/HCS-Ordinance.webp]]
+![[raw/assets/banners/HCS-Ordinance.webp]]
 
 > [!READ-ALOUD]
 > Three gun decks stacked above a grey hull — fourteen cannon ports per side per deck, running bow to stern in even rows, all closed. A white stripe runs the full length of the ship at the weather deck, and the Crown pennant flies from all three mastheads. The figurehead is a robed figure of Tyr, blindfolded, gilded scales held forward. Brass catches light at every fitting: the registry plate at the bow, the cannon breeches visible through open ports, the instrument housings on the quarterdeck rail. She is not fast. She does not need to be.

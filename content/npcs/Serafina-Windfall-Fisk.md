@@ -5,15 +5,15 @@ aliases:
   - Windfall
 title: Serafina Windfall Fisk
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - aasimar
   - arcane
 ---
 
-# [[Serafina-Windfall-Fisk-Secrets|Serafina Windfall Fisk]]
+# Serafina Windfall Fisk
 
-![[Serafina-Windfall-Fisk.webp|Serafina Windfall Fisk looking over a stormy harbor with red cloth whipping in the wind]]
+![[raw/assets/banners/Serafina-Windfall-Fisk.webp|Serafina Windfall Fisk looking over a stormy harbor with red cloth whipping in the wind]]
 
 ---
 
@@ -44,6 +44,10 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 ## Connections
 
 - [[characters/delmar/Delmar-Fisk]]
+- [[private/players/Delmar-Fisk]]
 - [[The-Duchess]]
 - [[Red-Lady]]
-- [[Shattered-Sea-Secrets]]
+- [[Maggie-Porcelain-Pots]]
+- [[Vrtek]]
+- [[Elder-Anton]]
+- [[Nona-Black-Jaw]]

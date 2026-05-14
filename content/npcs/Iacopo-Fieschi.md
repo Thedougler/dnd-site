@@ -10,7 +10,7 @@ tags:
   - political
 ---
 
-# [[Iacopo-Fieschi-Secrets|Iacopo Fieschi]]
+# Iacopo Fieschi
 
 ---
 
@@ -25,10 +25,10 @@ tags:
 
 Fieschi is the Tessarine Concordat's envoy in [[places/calveno/index]] — the visible face of Concordat interests in the city. Anyone who spent time in Calveno would know the name. He is the man you deal with if the Concordat is involved in something, and the man you avoid if you'd rather the Concordat wasn't.
 
+He is [[Cosimo-Verantio|Cosimo Verantio]]'s most senior proxy in the city. They have never met in person — Fieschi operates through correspondence and the weight of the Concordat name. He is the human face of an authority he has only ever read letters from.
+
 ## Connections
 
 - [[Tessarine-Concordat]]
 - [[places/calveno/index]]
-- [[Calveno-Secrets]]
-- [[Shattered-Sea-Secrets]]
-- [[Shattered-Sea]]
+- [[Cosimo-Verantio|Cosimo Verantio]]

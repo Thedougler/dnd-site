@@ -5,13 +5,16 @@ aliases:
   - Grigori
 title: Shepherd Grigori
 created: 2026-05-09
-modified: 2026-05-09
+modified: 2026-05-14
 tags:
   - healer
   - recurring
+  - undead
+  - hierarch
+  - late_game
 ---
 
-# [[Shepherd-Grigori-Secrets|Shepherd Grigori]]
+# Shepherd Grigori
 
 ---
 
@@ -31,5 +34,7 @@ He's supposed to be impossible to kill. Poison. Drowning. Worse. He survives. Th
 ## Connections
 
 - [[Royal courts]]
+- [[HCS-Surety]]
+- [[Barnaby-Rook]]
 - [[Shattered-Sea-Secrets]]
 - [[Shattered-Sea]]

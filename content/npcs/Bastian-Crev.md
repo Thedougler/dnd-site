@@ -10,9 +10,9 @@ tags:
   - maritime
 ---
 
-# [[Bastian-Crev-Secrets|Bastian Crev]]
+# Bastian Crev
 
-![[Bastian-Crev.webp|Bastian Crev braced on the storm-lashed deck of the Loud Argument as the Drowned Maw opens ahead]]
+![[raw/assets/portraits/Bastian-Crev.webp|Bastian Crev braced on the storm-lashed deck of the Loud Argument as the Drowned Maw opens ahead]]
 
 ---
 
@@ -52,3 +52,4 @@ The bird outlived three ships and one mutiny. It died aboard the _Loud Argument_
 - [[Maren]]
 - [[Detto-Kalash]]
 - [[Sienne-Orre]]
+- [[Pearl-of-Souls-Secrets|Pearl of Souls]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/species/Human.md
 title: Human
 created: 2026-04-21
 modified: 2026-04-21
@@ -39,13 +38,10 @@ Humans originate from Sigil, the torus-shaped city at the center of the multiver
 
 ## Connections
 
-- [[Species]] — species overview and character creation rules
-- [[private/rules/Feats|Feats]] — Versatile trait grants an Origin feat; Human is the only species with this bonus
-
-## Related
-
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
-- [[Rattkin]] — Rattkin
-- [[Grung]] — Grung
-- [[Antherian]] — Antherian
+- [[Species]]
+- [[private/rules/Feats]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
+- [[Rattkin]]
+- [[Grung]]
+- [[Antherian]]

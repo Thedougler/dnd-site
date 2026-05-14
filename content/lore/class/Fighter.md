@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/Fighter.md
 title: Fighter
 created: 2026-04-19
 modified: 2026-04-19
@@ -66,12 +65,9 @@ Battle Master, Champion, Eldritch Knight, Psi Warrior _(2024 PHB)_
 
 ## Connections
 
-- Battle Master — Fighter subclass
-- [[private/players/Stripes-Bitemore]] — Battle Master Fighter PC ([[Shattered-Sea]])
-
-## Related
-
-- [[characters/stripes/Stripes-Bitemore]] — Stripes Bitemore
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[characters/stripes/Stripes-Bitemore]] — Belmore
-- [[weapons]] — weapons
+- [[Battle Master]]
+- [[private/players/Stripes-Bitemore]]
+- [[Shattered-Sea]]
+- [[characters/stripes/Stripes-Bitemore]]
+- [[Shattered-Sea-Secrets]]
+- [[weapons]]

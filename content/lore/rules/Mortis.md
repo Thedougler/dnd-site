@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/rules/Mortis.md
 title: The Mortis
 created: 2026-04-13
 modified: 2026-04-13
@@ -96,8 +95,14 @@ The Mark goes on the character sheet as a standard mechanical note. Disadvantage
 
 ## Connections
 
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — Mortis: Strength disadv. / +2 Charisma
-- [[characters/jean-claude/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — Mortis: Persuasion + Deception disadv. / Perception + Survival adv.
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
+- [[SRD-Actions]]
+- [[raw/ingested/session-zero]]
+- [[Siege-Rules]]
+- [[Ship-Upgrades]]
 
 ## Rule Text
 
@@ -106,14 +111,3 @@ A Mortis pairs a permanent mechanical disadvantage (the **Mark**) with a targete
 ## Context
 
 Session zero option only — not available mid-campaign. Requires DM approval on both sides. The Mark must have real teeth; the Gift must exceed the Mark in value and target the player's core fantasy. See Design Rules and Constraints above for creation guidance.
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[characters/jean-claude/Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
-- [[SRD-Actions]] — SRD Actions
-- [[raw/ingested/session-zero]] — Session Zero
-- [[Siege-Rules]] — Siege Rules
-- [[Ship-Upgrades]] — Ship Upgrades

@@ -51,4 +51,7 @@ A below-deck provisions area: salted stores, preserved goods, and carefully tend
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Surgeons-Berth]] | [[Waveservant-Shrine]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Surgeons-Berth]]
+- [[Waveservant-Shrine]]

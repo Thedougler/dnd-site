@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /items/Eldritch-Claw-Tattoo.md
 title: Eldritch Claw Tattoo
 created: 2026-05-03
 modified: 2026-05-03
@@ -66,14 +65,11 @@ Activate for 1 minute. While active:
 
 ## Connections
 
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — current holder; attuned; received from Kyzil alongside her pilgrimage assignment
-- [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — the order that practices and passes on this tattoo art
-- [[Master-Kyzil|Master Kyzil]] — the master who presented Crisdalynn with the needle
-- [[High-Eyrie|High Eyrie]] — where the tradition originates and is sustained
-- [[Crissdalynn-Khinriss-Sheet]] — character sheet
-
-## Related
-
-- [[Aarakocra]] — Aarakocra
-- [[Crisdalynn-Khinriss]] — Crisdalynn Khinriss
-- [[weapons]] — weapons
+- [[Crissdalynn-Khinriss]]
+- [[Sentinels-Of-The-Eyrie]]
+- [[Master-Kyzil]]
+- [[High-Eyrie]]
+- [[Crissdalynn-Khinriss-Sheet]]
+- [[Aarakocra]]
+- [[Crisdalynn-Khinriss]]
+- [[weapons]]

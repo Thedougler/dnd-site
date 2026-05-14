@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/species/Rattkin.md
 title: Rattkin
 created: 2026-04-14
 modified: 2026-04-14
@@ -126,12 +125,9 @@ Small humanoids calibrated for getting into places they are not supposed to be. 
 
 ## Connections
 
-- [[Passage|The Passage]] — the traveling network of Runs and Holds spanning the Scatter
-- [[Warren]] — the only fixed Rattkin settlement, beneath [[places/calveno/index]]
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — Fancy Rat PC; from the [[places/calveno/index]] Run
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Calveno-Secrets]] — Calveno
-- [[Tail-Secrets]] — The Tail
+- [[Passage]]
+- [[Warren]]
+- [[places/calveno/index]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[Calveno-Secrets]]
+- [[Tail-Secrets]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/rules/Bastions.md
 title: Bastions
 created: 2026-04-21
 modified: 2026-04-21
@@ -126,12 +125,9 @@ Introduced in the 2024 DMG as the official stronghold/home base system. Availabl
 
 ## Connections
 
-- [[Ship-Bastion]] — [[Shattered-Sea|Shattered Sea]] maritime adaptation of these rules
-- [[private/rules/Feats]] — Origin feat interactions (Human species)
-- [[Species]] — No direct interaction, but character class abilities affect facility prerequisites
-
-## Related
-
-- [[private/rules/Feats]] — Feats
-- [[Human]] — Human
-- [[poisons]] — poisons
+- [[Ship-Bastion]]
+- [[Shattered-Sea]]
+- [[private/rules/Feats]]
+- [[Species]]
+- [[Human]]
+- [[poisons]]

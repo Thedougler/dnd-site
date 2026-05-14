@@ -153,16 +153,11 @@ For full broadside and multi-deck volley mechanics: see [[Ship-Combat]].
 
 ## Connections
 
-- [[Dravosi-Crown|The Dravosi Crown]] — owner, operator, and the authority the ship embodies
-- [[places/crown-islands/index|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
-- [[places/port-tidefall/index|Port Tidefall]] — primary operational anchorage in the Scatter
-- [[HCS-Constancy]] — the fleet's standard patrol class
-- [[Ship-Combat]] — gun rules, broadside mechanics, shot types
-- [[ships/index|Ships]]
-
-## Related
-
-- [[HCS-Constancy]] — HCS Constancy
-- [[Ship-Combat]] — Ship Combat Rules
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Dravosi-Crown]]
+- [[places/crown-islands/index]]
+- [[places/port-tidefall/index]]
+- [[HCS-Constancy]]
+- [[Ship-Combat]]
+- [[ships/index]]
+- [[Port-Tidefall-Secrets]]
+- [[Shattered-Sea-Secrets]]

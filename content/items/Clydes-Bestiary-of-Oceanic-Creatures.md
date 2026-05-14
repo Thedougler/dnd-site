@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /items/Clydes-Bestiary-of-Oceanic-Creatures.md
 aliases:
   - Clyde's Bestiary
   - Clyde's Bestiary of Oceanic Creatures
@@ -15,7 +14,7 @@ cssclasses:
 
 # Clyde's Bestiary of Oceanic Creatures
 
-![[raw/assets/portraits/Clydes-Beastiary-of-Oceanic-Creatures.webp|Cover of Clyde's Bestiary of Oceanic Creatures showing a whale beside a small boat|800]]
+![[Clydes-Beastiary-of-Oceanic-Creatures.webp|Cover of Clyde's Bestiary of Oceanic Creatures showing a whale beside a small boat|800]]
 
 ---
 
@@ -75,12 +74,8 @@ A scholarly reference text. Consulting a relevant chapter requires 10 minutes of
 
 ## Connections
 
-- [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]] — author
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — current holder
-- [[beastiary/sea-life/Leviathan|Leviathan]] — Ch. 13; heavily annotated in Perrin's copy
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Leviathan]] — The Leviathan
-- [[Terror]] — Terror
+- [[Algernon-Reginald-Clyde]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[beastiary/sea-life/Leviathan]]
+- [[Leviathan]]
+- [[Terror]]

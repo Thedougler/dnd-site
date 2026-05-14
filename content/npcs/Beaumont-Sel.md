@@ -62,16 +62,11 @@ He does not appear to find this remarkable.
 
 ## Connections
 
-- **[[Saltwright]]** — his vessel; eleven years on the [[places/midchain/index|Midchain]]
-- **[[Beaumonts-Crew|Beaumont's Crew]]** — his working crew
-- **[[Bisou]]** — capuchin companion; rides his left shoulder
-- **[[Crissdalynn-Khinriss|Crisdalynn Khinriss]]** — pulled from the water after her fleet sank; given free passage west
-- **[[characters/delmar/Delmar-Fisk|Delmar Fisk]]** — same
-- **[[characters/stripes/Stripes-Bitemore|Stripes Bitemore]]** — first crew member; aboard before the others; has spent the voyage showing off to the crew and has been an enthusiastic, if unsolicited, source of entertainment
-- **[[characters/jean-claude/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]** — boarded the [[Saltwright|Saltwright]] by leaping onto the ship while being pursued on a [[places/midchain/index|Midchain]] island
-
-## Related
-
-- [[characters/jean-claude/Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[characters/stripes/Stripes-Bitemore]] — Stripes Bitemore
+- [[Saltwright]]
+- [[places/midchain/index]]
+- [[Beaumonts-Crew]]
+- [[Bisou]]
+- [[Crissdalynn-Khinriss]]
+- [[characters/delmar/Delmar-Fisk]]
+- [[characters/stripes/Stripes-Bitemore]]
+- [[characters/jean-claude/Jean-Claude-Tabarnack]]

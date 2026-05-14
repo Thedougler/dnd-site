@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /items/Pearl-of-Souls.md
 title: Pearl of Souls
 created: 2026-05-02
 modified: 2026-05-03
@@ -12,7 +11,7 @@ tags:
 
 # [[items/Pearl-of-Souls-Secrets|Pearl of Souls]]
 
-![[raw/assets/banners/Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
+![[Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
 A pearl the size of a closed fist. Black as deep water, with an iridescent sheen that shifts under the light in a way that never quite resolves. It is never entirely still. Anyone with a sensitivity to the dead will feel it before they see it.
 
 The Pearl is a divine instrument of [[lore/Umberlee|Umberlee]]. For years it sat in one of her shrines, tended by the [[Waveservants|Waveservants]], doing what it does. [[characters/delmar/Delmar-Fisk|Delmar Fisk]] took it. He did not know what it was.
@@ -37,13 +36,9 @@ No attunement. No activation. The Pearl draws what drowns near it and holds it. 
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — stole it; fleet was sunk; five captains' souls now pressed into him
-- [[lore/Umberlee|Umberlee]] — original owner; wants it returned; cannot retrieve it herself
-- [[Waveservants|Waveservants]] — tended the shrine; know what was taken
-- [[Red-Lady|The Red Lady]] — the ship it went down with
-- [[Drowned-Maw|Drowned Maw]] — current location, below the planar boundary
-
-## Related
-
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[Umberlee]] — Umberlee and the Waveservants
+- [[characters/delmar/Delmar-Fisk]]
+- [[lore/Umberlee]]
+- [[Waveservants]]
+- [[Red-Lady]]
+- [[Drowned-Maw]]
+- [[Umberlee]]

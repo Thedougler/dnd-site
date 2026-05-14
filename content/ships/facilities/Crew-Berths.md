@@ -52,4 +52,7 @@ When a PC has Crew Berths, they can absorb all or part of Defender losses from a
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Weapons-Locker]] | [[Surgeons-Berth]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Weapons-Locker]]
+- [[Surgeons-Berth]]

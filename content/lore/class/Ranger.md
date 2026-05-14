@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/Ranger.md
 title: Ranger
 created: 2026-04-19
 modified: 2026-04-19
@@ -59,10 +58,7 @@ Beast Master, Fey Wanderer, Gloom Stalker, Hunter _(2024 PHB)_
 
 ## Connections
 
-- [[Fighter]] — comparison class (martial)
-
-## Related
-
-- [[weapons]] — weapons
-- [[Gloom-Stalker]] — Gloom Stalker
-- [[raw/ingested/Invisible]] — Invisible
+- [[Fighter]]
+- [[weapons]]
+- [[Gloom-Stalker]]
+- [[raw/ingested/Invisible]]

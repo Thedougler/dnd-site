@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/Whip-Shark.md
 aliases:
   - Whip Shark
   - Whip Sharks
@@ -20,7 +19,7 @@ tags:
 
 # Whip Shark (Welak)
 
-![[raw/assets/banners/Whip-Shark-2.webp|Giant whip shark breaching beside a sailing ship, its long barbed tail arcing over the waves]]
+![[Whip-Shark-2.webp|Giant whip shark breaching beside a sailing ship, its long barbed tail arcing over the waves]]
 
 ---
 
@@ -38,15 +37,13 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 
 ## Connections
 
-- [[Kalowe|Kalowe]] — fishermen use the indigenous name welak; iron filing superstition in use here
-- [[Drowned-Maw|Drowned Maw]] — deep-ocean territory
-- [[Antheri-Ruins]] — patrols the Abyssal Bore perimeter (40–200 ft); attracted by surface dive operations
-- [[Sawek]] — co-listed in [[places/midchain/index|Midchain]] maritime creature lore
-- [[Ship-Stats]] — Hooking Drive interacts with vessel HP rules
-- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — documented in Vol. II, Ch. 7; [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] carries this text
-- [[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Tail-Secrets]] — The Tail
+- [[Kalowe]]
+- [[Drowned-Maw]]
+- [[Antheri-Ruins]]
+- [[Sawek]]
+- [[places/midchain/index]]
+- [[Ship-Stats]]
+- [[Clydes-Bestiary-of-Oceanic-Creatures]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[Algernon-Reginald-Clyde]]
+- [[Tail-Secrets]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/Leviathan.md
 aliases:
   - The Leviathan
   - Leviathan
@@ -51,13 +50,10 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 
 ## Connections
 
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — only known survivor of the _Vestra_ disaster; his backstory makes the rumor player-facing
-- [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]] — contains the chapter Perrin has been studying
-- [[Drowned-Maw|Drowned Maw]] — deep-water region often pulled into sailor talk about things below the charted sea
-- [[Sawek|Sawek]] and [[Whip-Shark|Whip Shark]] — confirmed dangerous sea creatures, useful contrast for how little is known about the Leviathan
-
-## Related
-
-- [[Vestra]] — The Vestra
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Algernon-Reginald-Clyde]] — Algernon Reginald Clyde
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[Clydes-Bestiary-of-Oceanic-Creatures]]
+- [[Drowned-Maw]]
+- [[Sawek]]
+- [[Whip-Shark]]
+- [[Vestra]]
+- [[Algernon-Reginald-Clyde]]

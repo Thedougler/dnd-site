@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Vethka.md
 aliases:
   - Vethka
   - The Vethka
@@ -97,12 +96,9 @@ If a _vethka_ crew cannot run, they swim. Grung are amphibious. Abandoning the h
 
 ## Connections
 
-- [[Grung-Clans|The Grung Clans]] — builders and operators; orange-caste construction, blue-and-purple crew
-- [[Verdant-Teeth|The Verdant Teeth]] — home waters, construction yards, and the reef country where pursuit fails
-- [[ships/index|Ships]]
-
-## Related
-
-- [[Karath-Secrets]] — Karath
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Grung-Clans]]
+- [[Verdant-Teeth]]
+- [[ships/index]]
+- [[Karath-Secrets]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

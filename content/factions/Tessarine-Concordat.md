@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Tessarine-Concordat.md
 aliases:
   - Tessarine Concordat
   - The Concordat
@@ -15,7 +14,7 @@ tags:
 
 # The Tessarine Concordat
 
-![[factions/Tessarine-Concordat-Flag.webp]]
+![[Tessarine-Concordat-Flag.webp]]
 
 > The Concordat does not conquer. It lends. By the time a city notices, the vote is already theirs.
 
@@ -106,22 +105,20 @@ Read the full contract before signing, including inheritance and collateral clau
 
 ## Connections
 
-- [[places/calveno/index]] — primary Concordat foothold; factor building anchors the Mercatura
-- [[Dravosi-Crown|The Dravosi Crown]] — rival colonial power
-- [[Tessarine-Trade-House]] — [[places/port-tidefall/index|Port Tidefall]] office
-- [[Passage|The Passage]] — off-record courier rumors
-- [[Shelfworks|Shelfworks]] — Antheri salvage interest
-- [[Antherian]] — salvage market
-- [[places/midchain/index|Midchain]] — commercial target
-- [[Shattered-Sea|Shattered Sea]] — wider region of Concordat ambition
-- [[Galewall]] — route to the Concordat homeland beyond the known Scatter
-- [[Tessarine-Silkvane]] — Concordat-registered vessel
-- Leviathan — bounty interest
-- [[Waukeen]] — commercial religious frame
-- [[Shattered-Sea-Pantheon]] — wider religious context
-
-## Related
-
-- [[Calveno-Secrets]] — Calveno
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Midchain-Secrets]] — The Midchain
+- [[places/calveno/index]]
+- [[Dravosi-Crown]]
+- [[Tessarine-Trade-House]]
+- [[places/port-tidefall/index]]
+- [[Passage]]
+- [[Shelfworks]]
+- [[Antherian]]
+- [[places/midchain/index]]
+- [[Shattered-Sea]]
+- [[Galewall]]
+- [[Tessarine-Silkvane]]
+- [[Leviathan]]
+- [[Waukeen]]
+- [[Shattered-Sea-Pantheon]]
+- [[Calveno-Secrets]]
+- [[Port-Tidefall-Secrets]]
+- [[Midchain-Secrets]]

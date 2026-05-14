@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Bisou.md
 aliases:
   - Bisou-Secrets
 title: Bisou
@@ -14,7 +13,7 @@ tags:
 
 # Bisou
 
-![[raw/assets/banners/Bisou.webp|Bisou, a small monkey-like sailor, perched on a ship at sunset]]
+![[Bisou.webp|Bisou, a small monkey-like sailor, perched on a ship at sunset]]
 
 ---
 
@@ -44,11 +43,8 @@ She has an opinion about coin tricks. The results depend on how good the trick i
 
 ## Connections
 
-- **[[Beaumont-Sel]]** — her captain; his shoulder is her default location and has been for eleven years
-- **[[Saltwright]]** — the ship she calls home; she has free run of the hold and keeps a hoard somewhere in it
-
-## Related
-
-- [[Tail-Secrets]] — The Tail
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Beaumont-Sel]]
+- [[Saltwright]]
+- [[Tail-Secrets]]
+- [[Midchain-Secrets]]
+- [[Shattered-Sea-Secrets]]

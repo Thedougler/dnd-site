@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /items/Bracers-of-Archery.md
 title: Bracers of Archery
 created: 2026-05-03
 modified: 2026-05-03
@@ -23,10 +22,6 @@ While wearing these bracers, you have proficiency with the longbow and shortbow,
 
 ## Connections
 
-- [[characters/stripes/Stripes-Bitemore|Stripes Bitemore]] — current holder; attuned
-
-## Related
-
-- [[characters/stripes/Stripes-Bitemore]] — Stripes Bitemore
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[characters/stripes/Stripes-Bitemore]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

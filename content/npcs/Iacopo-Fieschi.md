@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Iacopo-Fieschi.md
 aliases:
   - Fieschi
 title: Iacopo Fieschi
@@ -28,11 +27,8 @@ Fieschi is the Tessarine Concordat's envoy in [[places/calveno/index]] — the v
 
 ## Connections
 
-- [[Tessarine-Concordat]] — the faction he represents
-- [[places/calveno/index]] — his posting
-
-## Related
-
-- [[Calveno-Secrets]] — Calveno
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Tessarine-Concordat]]
+- [[places/calveno/index]]
+- [[Calveno-Secrets]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

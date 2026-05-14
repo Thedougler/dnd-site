@@ -125,13 +125,10 @@ Four working decks plus hold.
 
 ## Connections
 
-- [[Dravosi-Crown|The Dravosi Crown]] — owner, operator, and the authority the ship embodies
-- [[places/crown-islands/index|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
-- [[places/port-tidefall/index|Port Tidefall]] — primary operational anchorage in the Scatter
-- [[ships/index|Ships]]
-
-## Related
-
-- [[HCS-Constancy]] — HCS Constancy
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Dravosi-Crown]]
+- [[places/crown-islands/index]]
+- [[places/port-tidefall/index]]
+- [[ships/index]]
+- [[HCS-Constancy]]
+- [[Port-Tidefall-Secrets]]
+- [[Shattered-Sea-Secrets]]

@@ -45,4 +45,5 @@ A secured and expanded cargo section of the ship's hold — climate-controlled a
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]]
+- [[Ship-Bastion]]
+- [[Bastions]]

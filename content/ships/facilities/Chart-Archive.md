@@ -36,4 +36,6 @@ A compact but dense archive of logbooks, sea charts, navigational records, and c
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Navigator-Chart-Room]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Navigator-Chart-Room]]

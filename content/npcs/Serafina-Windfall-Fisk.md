@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Serafina-Windfall-Fisk.md
 aliases:
   - Serafina
   - Windfall
@@ -14,7 +13,7 @@ tags:
 
 # [[Serafina-Windfall-Fisk-Secrets|Serafina Windfall Fisk]]
 
-![[raw/assets/banners/Serafina-Windfall-Fisk.webp|Serafina Windfall Fisk looking over a stormy harbor with red cloth whipping in the wind]]
+![[Serafina-Windfall-Fisk.webp|Serafina Windfall Fisk looking over a stormy harbor with red cloth whipping in the wind]]
 
 ---
 
@@ -44,11 +43,7 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- **[[characters/delmar/Delmar-Fisk|Delmar Fisk]]** — husband; she married him knowing the life it entailed; he named his musket after her
-- **[[The-Duchess|The Duchess]]** — Fisk's musket, named for her
-
-## Related
-
-- [[Red-Lady]] — The Red Lady
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[characters/delmar/Delmar-Fisk]]
+- [[The-Duchess]]
+- [[Red-Lady]]
+- [[Shattered-Sea-Secrets]]

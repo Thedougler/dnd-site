@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Knifes-Wake.md
 aliases:
   - Knife's Wake
   - The Knife's Wake
@@ -122,18 +121,15 @@ Replacing the Captain's Cabin with an Expanded Cargo Hold is possible, but it ch
 
 ## Connections
 
-- [[ships/index|Ships]]
-- [[Ship-Stats|Ship Stats]]
-- [[Ship-Bastion|Ship Bastion]]
-- [[places/midchain/index|Midchain]] — ideal hunting ground for reef-channel ambushes
-- [[Dravosi-Crown]] — the kind of authority the ship avoids rather than fights
+- [[ships/index]]
+- [[Ship-Stats]]
+- [[Ship-Bastion]]
+- [[places/midchain/index]]
+- [[Dravosi-Crown]]
+- [[The-Bad-Receipt]]
+- [[The-Glass-Debt]]
+- [[Midchain-Secrets]]
 
 ## Session Events
 
 _(No sessions yet.)_
-
-## Related
-
-- [[The-Bad-Receipt]] — The Bad Receipt
-- [[The-Glass-Debt]] — The Glass Debt
-- [[Midchain-Secrets]] — The Midchain

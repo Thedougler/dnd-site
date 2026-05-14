@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/Warlock.md
 title: Warlock
 created: 2026-04-19
 modified: 2026-04-19
@@ -60,8 +59,5 @@ Archfey Patron, Celestial Patron, Fiend Patron, Great Old One Patron _(2024 PHB)
 
 ## Connections
 
-- [[Hexblade]] — Warlock subclass (2014 edition)
-
-## Related
-
-- [[weapons]] — weapons
+- [[Hexblade]]
+- [[weapons]]

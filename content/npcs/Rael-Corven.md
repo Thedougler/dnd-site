@@ -59,14 +59,11 @@ He plays the shawm. He has never done so where anyone could hear him.
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — oldest friend; Admiral; carries Rael's soul; Rael is the loudest of the five
-- [[Red-Lady|The Red Lady]] — his ship; lost at the Maw
-- [[Fisks-Fleet]] — the fleet he served
-- [[Drowned-Maw|Drowned Maw]] — where he died
-- Father (unnamed) — merchant sailor; killed in a naval action falsely attributed to piracy; the source of Rael's hatred of the Navy and his father's philosophy
-
-## Related
-
-- [[Umberlee]] — Umberlee and the Waveservants
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[characters/delmar/Delmar-Fisk]]
+- [[Red-Lady]]
+- [[Fisks-Fleet]]
+- [[Drowned-Maw]]
+- [[Father]]
+- [[Umberlee]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

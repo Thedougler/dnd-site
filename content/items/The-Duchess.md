@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /items/The-Duchess.md
 title: The Duchess
 created: 2026-04-26
 modified: 2026-04-26
@@ -19,12 +18,8 @@ One of two named weapons carried by [[characters/delmar/Delmar-Fisk|Delmar Fisk]
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — owner
-- [[The-Baroness]] — paired weapon
-- [[Musket]] — base weapon type
-
-## Related
-
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[characters/delmar/Delmar-Fisk]]
+- [[The-Baroness]]
+- [[Musket]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

@@ -43,15 +43,12 @@ The bird outlived three ships and one mutiny. It died aboard the _Loud Argument_
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Bastian's soul
-- [[Loud-Argument|The Loud Argument]] — his ship; lost at the Maw
-- [[Fisks-Fleet]] — the fleet he served
-- [[Drowned-Maw|Drowned Maw]] — where he died
-
-## Related
-
-- [[Umberlee]] — Umberlee and the Waveservants
-- [[Rael-Corven]] — Rael Corven
-- [[Maren]] — Maren
-- [[Detto-Kalash]] — Detto Kalash
-- [[Sienne-Orre]] — Sienne Orre
+- [[characters/delmar/Delmar-Fisk]]
+- [[Loud-Argument]]
+- [[Fisks-Fleet]]
+- [[Drowned-Maw]]
+- [[Umberlee]]
+- [[Rael-Corven]]
+- [[Maren]]
+- [[Detto-Kalash]]
+- [[Sienne-Orre]]

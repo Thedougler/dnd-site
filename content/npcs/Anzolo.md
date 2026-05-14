@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Anzolo.md
 aliases:
   - Anzolo
 title: Anzolo
@@ -30,12 +29,9 @@ The Tangle vouches for him. That is enough.
 
 ## Connections
 
-- [[Nona-Black-Jaw]] — vouches for him; he carries her groceries and handles her chores
-- [[places/calveno/index]] — where he operates
-- [[Warren]] — Tangle contact
-
-## Related
-
-- [[Calveno-Secrets]] — Calveno
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Nona-Black-Jaw]]
+- [[places/calveno/index]]
+- [[Warren]]
+- [[Calveno-Secrets]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

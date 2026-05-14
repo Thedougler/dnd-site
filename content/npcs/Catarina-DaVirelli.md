@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Catarina-DaVirelli.md
 aliases:
   - Da'Virelli
   - Catarina
@@ -14,7 +13,7 @@ tags:
 
 # [[Catarina-DaVirelli-Secrets|Catarina Da'Virelli]]
 
-![[raw/assets/banners/Catarina-DaVirelli.webp|Catarina DaVirelli in her workshop, holding tools among benches of mechanisms and ship fittings]]
+![[Catarina-DaVirelli.webp|Catarina DaVirelli in her workshop, holding tools among benches of mechanisms and ship fittings]]
 
 ---
 
@@ -55,15 +54,12 @@ She does not pay cash for Antheri metalwork. She trades. If you have a piece and
 
 ## Connections
 
-- **Cat's Curio's** — her workshop in [[places/calveno/index]]; no sign; brass fittings on the door
-- **[[Antherian]]** — her area of expertise; she holds the largest known private Antheri instrument collection in the Scatter
-- **[[Shelfworks|Shelfworks]]** — where she salvaged the Antheri components that started the Goldrush
-- **[[Clockwork-Familiar|Clockwork Owl Familiar]]** — her most widely circulated creation
-- **[[Dravosi-Crown]]** — holds a fleet contract; will not arm parties against them
-- **[[Brass-Cat|The *Brass Cat*]]** — her personal vessel; prototype schooner; not for sale
-
-## Related
-
-- [[Calveno-Secrets]] — Calveno
-- [[Cats-Curios-Secrets]] — Cat's Curio's
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[places/calveno/index]]
+- [[Antherian]]
+- [[Shelfworks]]
+- [[Clockwork-Familiar]]
+- [[Dravosi-Crown]]
+- [[Brass-Cat]]
+- [[Calveno-Secrets]]
+- [[Cats-Curios-Secrets]]
+- [[Shattered-Sea-Secrets]]

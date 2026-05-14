@@ -43,14 +43,11 @@ She went to sea because the sea had a set of systems she didn't yet understand, 
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Sienne's soul
-- [[Fernen|The Fernen]] — her ship; lost at the Maw
-- [[Maren]] — ran the parallel scout team
-- [[Fisks-Fleet]] — the fleet she served
-- [[Drowned-Maw|Drowned Maw]] — where she died
-
-## Related
-
-- [[Umberlee]] — Umberlee and the Waveservants
-- [[Vel-Orn-Secrets]] — Vel-Orn — Sunken Crown
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[characters/delmar/Delmar-Fisk]]
+- [[Fernen]]
+- [[Maren]]
+- [[Fisks-Fleet]]
+- [[Drowned-Maw]]
+- [[Umberlee]]
+- [[Vel-Orn-Secrets]]
+- [[Shattered-Sea-Secrets]]

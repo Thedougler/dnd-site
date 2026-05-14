@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/Monk.md
 title: Monk
 created: 2026-04-19
 modified: 2026-04-19
@@ -74,19 +73,11 @@ Warrior of Mercy, Warrior of Shadow, Warrior of the Elements, Warrior of the Ope
 
 ## Connections
 
-### 2024 Subclasses
-
-- [[Way-of-Mercy]] — healer-striker hybrid
-- [[Way-of-Shadow]] — darkness-powered striker
-- [[Way-of-the-Elements]] — elemental striker with flight and control
-- [[Way-of-the-Open-Hand]] — classic martial artist with enhanced control
-
-### Legacy
-
-- [[Way-of-the-Kensei]] — Monk subclass (2014 edition)
-
-## Related
-
-- [[weapons]] — weapons
-- [[raw/ingested/Stunned]] — Stunned
-- [[SRD-Actions]] — SRD Actions
+- [[Way-of-Mercy]]
+- [[Way-of-Shadow]]
+- [[Way-of-the-Elements]]
+- [[Way-of-the-Open-Hand]]
+- [[Way-of-the-Kensei]]
+- [[weapons]]
+- [[raw/ingested/Stunned]]
+- [[SRD-Actions]]

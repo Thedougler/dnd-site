@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Chain-Council.md
 aliases:
   - Chain Council
   - The Chain Council
@@ -16,7 +15,7 @@ tags:
 
 # The Chain Council
 
-![[factions/Chain-Council-Flag.webp]]
+![[Chain-Council-Flag.webp]]
 The Chain Council is the closest thing the [[places/midchain/index|Midchain]] has to a regional government, which is to say it is not one unless the islands need it to be. Every Midchain island technically belongs to the Chain, but each island remains independent in ordinary matters. Local councils set their own harbour rules, trade customs, fees, patrol arrangements, and grudges.
 
 When a problem reaches beyond any one island, affected representatives may gather in [[Kalowe|Kalowe]] to form the Chain Council. They argue, bargain, count who is actually affected, and vote on what the Midchain will do together.
@@ -68,16 +67,13 @@ This arrangement means Council-built ships are spread across the Shattered Sea i
 
 ## Connections
 
-- [[places/midchain/index|The Midchain]] - region represented by the Chain.
-- [[Kalowe|Kalowe]] - normal meeting place and neutral free port.
-- [[Verdant-Teeth|The Verdant Teeth]] - recurring pressure point because of worsening raids.
-- [[Dravosi-Crown|The Dravosi Crown]] - external patrol and inspection pressure.
-- [[Tessarine-Concordat|The Tessarine Concordat]] - external commercial pressure.
-- [[Fisks-Fleet|Fisk's Fleet]] - known privateer fleet associated with a recent disaster.
-
-## Related
-
-- [[Chain-Council-Secrets]] — Secrets of the Chain Council
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[places/midchain/index]]
+- [[Kalowe]]
+- [[Verdant-Teeth]]
+- [[Dravosi-Crown]]
+- [[Tessarine-Concordat]]
+- [[Fisks-Fleet]]
+- [[Chain-Council-Secrets]]
+- [[Midchain-Secrets]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

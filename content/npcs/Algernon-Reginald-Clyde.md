@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Algernon-Reginald-Clyde.md
 aliases:
   - A.R. Clyde
   - Clyde
@@ -14,7 +13,7 @@ tags:
 
 # [[Algernon-Reginald-Clyde-Secrets|Algernon Reginald Clyde]]
 
-![[raw/assets/banners/Clyde.webp|Argibald Reginald Clyde, an elderly gnome scholar, standing on wet docks with a book and walking stick]]
+![[Clyde.webp|Argibald Reginald Clyde, an elderly gnome scholar, standing on wet docks with a book and walking stick]]
 
 ---
 
@@ -64,13 +63,11 @@ He is easy to find at the docks. He is usually the one in an argument about some
 
 ## Connections
 
-- **[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]** — his life's work; Volumes I and II published; available for purchase
-- **[[places/port-tidefall/index|Port Tidefall]]** — first book tour stop
-- **[[Kalowe|Kalowe]]** — second stop; prior field history here with the [[Sawek|Sawek]]
-- **[[places/calveno/index]]** — third stop
-
-## Related
-
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
+- [[Clydes-Bestiary-of-Oceanic-Creatures]]
+- [[places/port-tidefall/index]]
+- [[Kalowe]]
+- [[Sawek]]
+- [[places/calveno/index]]
+- [[Port-Tidefall-Secrets]]
+- [[Shattered-Sea-Secrets]]
+- [[Verdant-Scatter-Secrets]]

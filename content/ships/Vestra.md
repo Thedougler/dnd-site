@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/Vestra.md
 aliases:
   - Vestra
 title: The Vestra
@@ -14,7 +13,7 @@ cssclasses:
 
 # The Vestra
 
-![[raw/assets/banners/The-Vestra.webp]]
+![[The-Vestra.webp]]
 
 > [!READ-ALOUD]
 > A small two-masted brig rides low in the water, old-built and hard-worked, her topsides painted a deep green that has been reapplied so many times it no longer matches from plank to plank. At the prow stands a rat figurehead with one hand extended, palm up. She is compact, practical, and clearly modified for a small crew travelling light.
@@ -47,12 +46,8 @@ Fitted for a small independent crew — not cargo hauling or line fighting, just
 
 ## Connections
 
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — captain and owner
-- [[Nona-Black-Jaw|Nona Black-Jaw]] — family connection to the vessel
-- [[ships/index|Ships]]
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[Nona-Black-Jaw]]
+- [[ships/index]]
+- [[Midchain-Secrets]]
+- [[Shattered-Sea-Secrets]]

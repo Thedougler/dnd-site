@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Simone-Tabarnack.md
 aliases:
   - Simone
   - Simone-Tabarnack-Secrets
@@ -42,13 +41,9 @@ She was younger than him and always more certain. Where he questioned the system
 
 ## Connections
 
-- [[characters/jean-claude/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — her older brother; the one who ran
-- [[Sorn]] — her garrison post and home island
-- [[Grung-Clans|The Grung Clans]] — the clan and caste structure she serves
-- [[Verdant-Teeth|Verdant Teeth]] — the island cluster she operates from
-
-## Related
-
-- [[characters/jean-claude/Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[Sorn]]
+- [[Grung-Clans]]
+- [[Verdant-Teeth]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

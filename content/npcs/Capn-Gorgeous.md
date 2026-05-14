@@ -47,10 +47,8 @@ He looked like the kind of man who wins fights just by showing up. He did not ge
 
 ## Connections
 
-- **[[Barnaby-Rook-Secrets|Barnaby Rook]]** — commanding officer; sent him down the ladder
-- **[[HCS-Surety]]** — his posting
-
----
+- [[Barnaby-Rook-Secrets]]
+- [[HCS-Surety]]
 
 ## Notes
 

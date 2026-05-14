@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/The-Tallow-Bell.md
 aliases:
   - Tallow Bell
   - The Tallow Bell
@@ -124,16 +123,13 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 
 ## Connections
 
-- [[Waveservants|The Waveservants]] - operators and passengers
-- [[lore/Umberlee|Umberlee]] - deity served through tribute and rites
-- [[places/port-tidefall/index|Port Tidefall]] - one regular shrine harbour
-- [[Drowned-Maw|The Drowned Maw]] - dangerous water where open-sea rites become more common
-- [[ships/index|Ships]]
-- [[Ship-Stats|Ship Stats]]
-- [[Ship-Bastion|Ship Bastion]]
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[Umberlee]] — Umberlee and the Waveservants
+- [[Waveservants]]
+- [[lore/Umberlee]]
+- [[places/port-tidefall/index]]
+- [[Drowned-Maw]]
+- [[ships/index]]
+- [[Ship-Stats]]
+- [[Ship-Bastion]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/delmar/Delmar-Fisk]]
+- [[Umberlee]]

@@ -48,4 +48,6 @@ When you issue the **Craft** order to this facility, choose one option:
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Chart-Archive]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Chart-Archive]]

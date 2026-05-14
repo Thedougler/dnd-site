@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/Sorcerer.md
 title: Sorcerer
 created: 2026-04-20
 modified: 2026-04-20
@@ -76,11 +75,8 @@ Aberrant Sorcery, Clockwork Sorcery, Draconic Sorcery, [[Wild-Magic-Sorcery|Wild
 
 ## Connections
 
-- [[Aberrant-Sorcery]] — Sorcerer subclass (2024 PHB)
-- [[Draconic-Sorcery]] — Sorcerer subclass (2024 PHB)
-
-## Related
-
-- [[Apotheosis]] — Apotheosis
-- [[weapons]] — weapons
-- [[wild-magic-tce]] — wild magic tce
+- [[Aberrant-Sorcery]]
+- [[Draconic-Sorcery]]
+- [[Apotheosis]]
+- [[weapons]]
+- [[wild-magic-tce]]

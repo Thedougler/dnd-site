@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/HCS-Constancy.md
 aliases:
   - Constancy
   - HCS Constancy
@@ -111,14 +110,11 @@ Three decks above the hold.
 
 ## Connections
 
-- [[Dravosi-Crown|The Dravosi Crown]] — owner and operator; the class from which most Crown patrol authority flows
-- [[places/crown-islands/index|The Crown Islands]] — home waters and build origin (Harwick Naval Yard)
-- [[places/port-tidefall/index|Port Tidefall]] — primary anchorage in the Scatter
-- [[HCS-Ordinance|HCS Ordinance]] — the fleet's Tier 4 flagship
-- [[ships/index|Ships]]
-
-## Related
-
-- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Dravosi-Crown]]
+- [[places/crown-islands/index]]
+- [[places/port-tidefall/index]]
+- [[HCS-Ordinance]]
+- [[ships/index]]
+- [[Harbourmasters-Office-Secrets]]
+- [[Port-Tidefall-Secrets]]
+- [[Shattered-Sea-Secrets]]

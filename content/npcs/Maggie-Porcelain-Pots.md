@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Maggie-Porcelain-Pots.md
 aliases:
   - Margaret Porcelain Pots
   - Maggie
@@ -14,7 +13,7 @@ tags:
 
 # [[Maggie-Porcelain-Pots-Secrets|Maggie Porcelain Pots]]
 
-![[raw/assets/banners/Maggie-Porcelain-Pots.webp|Maggie Porcelain Pots working among stacked clay vessels as warm firelight glows behind her]]
+![[Maggie-Porcelain-Pots.webp|Maggie Porcelain Pots working among stacked clay vessels as warm firelight glows behind her]]
 
 ---
 
@@ -45,10 +44,6 @@ She is currently expanding the operation and scouting locations on other islands
 
 ## Connections
 
-- **[[characters/delmar/Delmar-Fisk|Delmar Fisk]]** — former; first love; the wanderlust ended it badly; the shiner is part of the public record
-
-## Related
-
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[characters/delmar/Delmar-Fisk]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

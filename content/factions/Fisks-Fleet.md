@@ -5,7 +5,7 @@ aliases:
   - The Fleet
 title: Fisk's Fleet
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-13
 tags:
   - fleet
   - maritime
@@ -39,9 +39,9 @@ Five people from Delmar's earliest crew — the ones who stayed through every fa
 _Appearance:_ Broad-chested, sun-weathered, silver-templed, always standing slightly apart from the room like he's already made his assessment.
 _Gimmick:_ Hemingway at a naval tribunal — speaks rarely, but everything he says lands like a ruling.
 
-**[[Maren|Maren]]** captained _The Narrow_. Water Genasi. Fast, hypervigilant, built for survey work in places other ships couldn't go. She could read a coastline like other people read a face. Her father was a navigator; she learned the trade from him and carried his silver spyglass for twenty years. She was looking through it when the fog came in.
-_Appearance:_ Storm-blue skin and restless eyes that track the room like a shoreline being charted; always slightly turned, always half-ready to move.
-_Gimmick:_ Border collie Sherlock Holmes — never stops scanning, routes three thoughts before answering one question.
+**[[Maren|Maren]]** captained _The Narrow_. Water Genasi. Fast in the water, able to breathe beneath the surface, and the kind of person who treats a "no entry" sign as a suggestion worth investigating. She met Fisk on one of his early privateering runs and became indispensable before she was ever in command of anything. She and the scouts who worked the air while she worked the water below made the fleet's scouting unparalleled. She comes from a family of twelve, none of whom are quiet about anything, and she is not the exception.
+_Appearance:_ Deep brown skin with a blue-green iridescence that shifts in sunlight; heavy salt-dampened locs threaded with shells and copper beads; deep teal eyes. Talks with her hands.
+_Gimmick:_ Regina Hall as a pirate captain — warm, loud, and she will correct you on her name. MARE-EN.
 
 **[[Detto-Kalash|Detto Kalash]]** captained _The Heft_. Earth Genasi. Blunt, enduring, practical. Not built for charm. Built for holding position when everything else was moving. He came to the sea late — from the interior, not the coast — and kept what that meant to himself. He mentioned a white horse once, to Fisk, and didn't elaborate.
 _Appearance:_ Stocky and grey-brown like compressed sandstone, he moves with the unhurried weight of something that has held its ground through worse.

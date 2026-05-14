@@ -13,7 +13,7 @@ cssclasses:
 
 # [[Saltwright-Secrets|The Saltwright]]
 
-![[raw/assets/banners/Saltwright.webp]]
+![[Saltwright.webp]]
 
 > [!READ-ALOUD]
 > A two-masted merchant brig rides broad and low in the water, her hull worked pale grey-brown by years of salt and weather. Nothing about her is ornamental: no figurehead, no bright rail, no paint left where the sea could take it. Below, the smell is brine, old cedar, and the cold deep water pressing through the seams. Every timber sounds used.
@@ -66,19 +66,15 @@ Documented runs carry salt, dried fish, shrimp, and cloth out of [[Kalowe|Kalowe
 
 ## Connections
 
-- [[Beaumont-Sel|Beaumont Sel]] — captain
-- [[Beaumonts-Crew|Beaumont's Crew]] — working crew roster
-- [[Bisou|Bisou]] — ship's capuchin
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — stowed away at [[Keth-Naar|Keth Naar]] after the _[[Vestra]]_ went down
-- [[characters/stripes/Stripes-Bitemore|Belmore]] — bargained passage west from Keth Naar
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — pulled from driftwood after the fleet sank; riding as passenger
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — pulled from driftwood after the fleet sank; riding as passenger
-- [[characters/jean-claude/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — boarded at campaign start, pursued across a Midchain island
-- [[places/midchain/index|Midchain]] — operating region
-- [[Kalowe|Kalowe]] — home port
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[characters/jean-claude/Jean-Claude-Tabarnack]] — Jean Claude Tabarnack
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
+- [[Beaumont-Sel]]
+- [[Beaumonts-Crew]]
+- [[Bisou]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[Keth-Naar]]
+- [[Vestra]]
+- [[characters/stripes/Stripes-Bitemore]]
+- [[characters/delmar/Delmar-Fisk]]
+- [[Crissdalynn-Khinriss]]
+- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[places/midchain/index]]
+- [[Kalowe]]

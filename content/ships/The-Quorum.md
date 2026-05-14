@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/The-Quorum.md
 aliases:
   - Quorum
   - The Quorum
@@ -78,13 +77,10 @@ Single open deck with minimal below-deck space.
 
 ## Connections
 
-- [[Chain-Council|The Chain Council]] — owner and operator
-- [[Kalowe|Kalowe]] — home port and dry dock
-- [[Red-Lady|The Red Lady]] — example of a Council-built commission, now lost
-- [[ships/index|Ships]]
-
-## Related
-
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Chain-Council]]
+- [[Kalowe]]
+- [[Red-Lady]]
+- [[ships/index]]
+- [[Midchain-Secrets]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

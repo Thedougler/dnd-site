@@ -82,11 +82,9 @@ The minimum crew fills all required roles and provides enough ordinary sailors t
 
 ## Connections
 
-[[Ship-Stats]] | [[Ship-Bastion]] | [[Ship-Combat]]
-
-## Related
-
-- [[Ship-Upgrades]] — Ship Upgrades
-- [[Ship-Combat]] — Gun rules, broadsides, shot types
-- [[Sailor]] — Sailor - D\&D 5e (2024)
-- [[Ship-Operations]] — Ship Operations
+- [[Ship-Stats]]
+- [[Ship-Bastion]]
+- [[Ship-Combat]]
+- [[Ship-Upgrades]]
+- [[Sailor]]
+- [[Ship-Operations]]

@@ -89,16 +89,13 @@ Three decks, organized for long independent operations.
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — admiral; her five captains' souls now reside in him
-- [[Rael-Corven|Rael Corven]] — flag captain
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — navigator and crow, nearly two years
-- [[items/Pearl-of-Souls|Pearl of Souls]] — lost with the ship
-- [[Drowned-Maw|Drowned Maw]] — where she sank
-- [[ships/index|Ships]]
+- [[characters/delmar/Delmar-Fisk]]
+- [[Rael-Corven]]
+- [[Crissdalynn-Khinriss]]
+- [[items/Pearl-of-Souls]]
+- [[Drowned-Maw]]
+- [[ships/index]]
 - [[Chain-Council]]
-
-## Related
-
-- [[Loud-Argument-Secrets]] — Loud Argument Secrets
-- [[Fernen-Secrets]] — Fernen Secrets
-- [[Heft-Secrets]] — Heft Secrets
+- [[Loud-Argument-Secrets]]
+- [[Fernen-Secrets]]
+- [[Heft-Secrets]]

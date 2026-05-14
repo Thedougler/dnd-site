@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /npcs/Master-Kyzil.md
 aliases:
   - Kyzil
 title: Master Kyzil
@@ -13,7 +12,7 @@ tags:
 
 # [[Master-Kyzil-Secrets|Master Kyzil]]
 
-![[raw/assets/banners/Master-Kyzil.webp|Master Kyzil in a pale hooded cloak, standing on a misty waterfront between moored ships]]
+![[Master-Kyzil.webp|Master Kyzil in a pale hooded cloak, standing on a misty waterfront between moored ships]]
 
 ---
 
@@ -50,14 +49,11 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 
 ## Connections
 
-- **[[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]** — senior master
-- **[[High-Eyrie]]** — home; the monastery on the basalt sea stack at the northeastern Crown coast
-- **[[Crisdalynn-Khinriss]]** — his pilgrim; gave her his dreidel; in Port-Tidefall to hear her account
-- **[[Drowned-Maw|Drowned Maw]]** — subject of Crisdalynn's pilgrimage; two centuries of Sentinel observation
-- **[[places/port-tidefall/index|Port Tidefall]]** — where he is now
-
-## Related
-
-- [[Red-Lady]] — The Red Lady
-- [[Port-Tidefall-Secrets]] — Port Tidefall
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Sentinels-Of-The-Eyrie]]
+- [[High-Eyrie]]
+- [[Crisdalynn-Khinriss]]
+- [[Drowned-Maw]]
+- [[places/port-tidefall/index]]
+- [[Red-Lady]]
+- [[Port-Tidefall-Secrets]]
+- [[Shattered-Sea-Secrets]]

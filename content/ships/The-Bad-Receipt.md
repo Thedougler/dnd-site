@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/The-Bad-Receipt.md
 aliases:
   - Bad Receipt
   - The Bad Receipt
@@ -129,18 +128,15 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 
 ## Connections
 
-- [[Kalowe|Kalowe]] — refit port and likely repair harbour
-- [[places/midchain/index|The Midchain]] — home waters and escape terrain
-- [[Central-Strait|Central Strait]] — hunting ground
-- [[Dravosi-Crown|The Dravosi Crown]] — inspection pressure and false-paper target
-- [[Chain-Council|The Chain Council]] — false commission cover and possible political embarrassment
-- [[Passage|The Passage]] — occasional runners, caches, and moral red lines around bondage
-- [[lore/Umberlee|Umberlee]] — paid, feared, and never trusted
-- [[Ship-Stats|Ship Stats]]
-- [[Ship-Bastion|Ship Bastion]]
-
-## Related
-
-- [[Knifes-Wake]] — The Knife's Wake
-- [[The-Glass-Debt]] — The Glass Debt
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[Kalowe]]
+- [[places/midchain/index]]
+- [[Central-Strait]]
+- [[Dravosi-Crown]]
+- [[Chain-Council]]
+- [[Passage]]
+- [[lore/Umberlee]]
+- [[Ship-Stats]]
+- [[Ship-Bastion]]
+- [[Knifes-Wake]]
+- [[The-Glass-Debt]]
+- [[characters/perrin/Perrin-Black-Jaw]]

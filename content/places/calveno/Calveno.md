@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/calveno/Calveno.md
 title: Calveno
 created: 2026-05-01
 modified: 2026-05-05
@@ -16,7 +15,7 @@ tags:
 
 > _See also: [[Calveno-Secrets]] (GM only)_
 
-![[raw/assets/banners/Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
+![[Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
 
 ## Overview
 
@@ -46,11 +45,13 @@ _Three days from Tidefall on good wind. A week on bad._
 
 ## Connections
 
-- [[Tessarine-Concordat]] — controls the factor building; holds significant political leverage over the Seven Houses
-- [[Warren]] — rumoured to be anchored somewhere in the city; only confirmed by [[Passage]] members
-- [[Port-Tidefall]] — 3 days' sail
-- [[Crown-Islands]] — parent region
-
----
-
-- [[places/calveno/index|Calveno Index]] · [[places/calven/index|Calven]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+- [[Tessarine-Concordat]]
+- [[Warren]]
+- [[Passage]]
+- [[Port-Tidefall]]
+- [[Crown-Islands]]
+- [[places/calveno/index]]
+- [[places/calven/index]]
+- [[places/crown-islands/index]]
+- [[places/index]]
+- [[index]]

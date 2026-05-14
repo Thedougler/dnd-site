@@ -42,4 +42,7 @@ A small devotional space below deck — icons, tide-worn offerings, and a seawat
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Waveservants]] | [[Provisions-Store]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Waveservants]]
+- [[Provisions-Store]]

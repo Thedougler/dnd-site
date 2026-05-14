@@ -79,9 +79,9 @@ He picked it up. He hasn't said more than that.
 
 ## Connections
 
-- **[[Delmar-Fisk|Delmar Fisk]]** — recruited him; returned his sword; the reason he switched sides. Geoffrey hasn't said so, but the gesture echoes his own vow in ways he's probably still working out.
-- **[[HCS-Surety]]** — former post; no particular loyalty to it.
-- **[[Barnaby-Rook-Secrets|Barnaby Rook]]** — former commanding officer; the relationship is now complicated.
-- **[[Aldous-Draves|Aldous Draves]]** — his father; the man who arranged the Surety berth; the man who decreed what Geoffrey's life would look like and has been waiting to find out if he was right.
-- **[[Verity-Hollowell|Verity Hollowell]]** — the woman he danced with on shore leave; her father set the terms of the situation; she is the reason behind everything.
-- **[[Rupert-Knighton|Admiral Rupert Knighton]]** _(Dravosi Crown Navy, Fleet Admiral)_ — Geoffrey's uncle. Commands the Knight Squadron, multiple Crown warships each called a Knight. Geoffrey has never met him. No correspondence, no relationship.
+- [[Delmar-Fisk]]
+- [[HCS-Surety]]
+- [[Barnaby-Rook-Secrets]]
+- [[Aldous-Draves]]
+- [[Verity-Hollowell]]
+- [[Rupert-Knighton]]

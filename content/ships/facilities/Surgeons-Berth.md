@@ -50,4 +50,8 @@ This facility has no effect if the Surgeon role is unfilled. The Surgeon can be 
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Crew-Berths]] | [[Provisions-Store]] | [[Ship-Operations]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Crew-Berths]]
+- [[Provisions-Store]]
+- [[Ship-Operations]]

@@ -14,7 +14,7 @@ cssclasses:
 
 # The _Narrow_
 
-![[raw/assets/banners/Maren.webp]]
+![[Maren.webp]]
 
 ## Overview
 
@@ -34,14 +34,10 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 
 ## Connections
 
-- [[Maren|Maren]] — captain; her soul is now inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]]
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — admiral of the fleet
-- [[Red-Lady|The Red Lady]] — flagship
-- [[Drowned-Maw|Drowned Maw]] — where she sank
-- [[ships/index|Ships]]
-
-## Related
-
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[Umberlee]] — Umberlee and the Waveservants
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Maren]]
+- [[characters/delmar/Delmar-Fisk]]
+- [[Red-Lady]]
+- [[Drowned-Maw]]
+- [[ships/index]]
+- [[Umberlee]]
+- [[Shattered-Sea-Secrets]]

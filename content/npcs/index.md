@@ -1,7 +1,7 @@
 ---
 publish: true
 title: NPCs
-created: 2026-05-12T22:40:44.870-07:00
+created: 2026-05-13T15:48:35.223-07:00
 modified: 2026-05-12
 tags:
   - player-resource
@@ -40,7 +40,7 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Maggie-Porcelain-Pots|Maggie 'Porcelain' Pots]]** — Dragonborn potter, three generations of kilns. Left Delmar Fisk with a shiner that lasted a week.
 
-**[[Maren|Maren]]** — Water Genasi captain of the _[[Narrow|Narrow]]_. Fisk's scout and navigator. Drowned at the Maw. Her soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
+**[[Maren|Maren]]** — Water Genasi captain of the _[[Narrow|Narrow]]_. Fisk's scout and underwater specialist. Drowned at the Maw. Her soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]]. It is pronounced MARE-EN.
 
 **[[Master-Kyzil|Master Kyzil]]** — Senior master of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]. Barn owl aarakocra, quiet authority. The man who assigned Crisdalynn her pilgrimage.
 

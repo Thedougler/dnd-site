@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /factions/Dravosi-Crown.md
 aliases:
   - Dravosi Crown
   - The Crown
@@ -15,7 +14,7 @@ tags:
 
 # The Dravosi Crown
 
-![[factions/Dravosi-Crown-Flag.webp]]
+![[Dravosi-Crown-Flag.webp]]
 The Dravosi Crown is the oldest colonial presence in the [[Shattered-Sea|Shattered Sea]]. It holds much of the [[places/crown-islands/index]], controls the western mouth of the [[Central-Strait]], taxes traffic through its waters, and calls the whole arrangement administration.
 
 In port, Crown power looks like navy-blue coats, brass buttons, dry stamps, inspection lines, sealed passes, and clerks who know exactly which form makes a problem worse. Its officers speak of safe passage, reliable charts, piracy suppression, ship standards, and the civilizing duty of law.
@@ -79,17 +78,15 @@ Dravosi speech in the islands leans formal in office and practical on deck. Offi
 
 ## Connections
 
-- [[places/port-tidefall/index|Port Tidefall]] — administrative centre; [[Fort-Crestwall|Fort Crestwall]]
-- [[places/calders-tooth/index|Calder's Tooth]] — western Crown island; claimed absolutely, controlled unevenly
-- [[South-Harbour]] — working harbour where Crown scrutiny is weaker than at Tidefall
-- [[places/crown-islands/index]] — territorial base
-- [[Tessarine-Concordat|The Tessarine Concordat]] — commercial rival
-- [[Passage|The Passage]] — Rattkin network opposed to Crown bounty infrastructure
-- [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] — independent aerial record-keepers
-- [[Shattered-Sea|Shattered Sea]] — wider region of Crown ambition
-
-## Related
-
-- [[Calveno-Secrets]] — Calveno
-- [[Harbourmasters-Office-Secrets]] — Harbourmaster's Office
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
+- [[places/port-tidefall/index]]
+- [[Fort-Crestwall]]
+- [[places/calders-tooth/index]]
+- [[South-Harbour]]
+- [[places/crown-islands/index]]
+- [[Tessarine-Concordat]]
+- [[Passage]]
+- [[Sentinels-Of-The-Eyrie]]
+- [[Shattered-Sea]]
+- [[Calveno-Secrets]]
+- [[Harbourmasters-Office-Secrets]]
+- [[Calders-Tooth-Secrets]]

@@ -42,4 +42,7 @@ When you issue the **Craft** order, choose one option:
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Weapons-Locker]] | [[Riggers-Workshop]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Weapons-Locker]]
+- [[Riggers-Workshop]]

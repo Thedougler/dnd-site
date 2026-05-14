@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/The-Velvet-Noose.md
 aliases:
   - Velvet Noose
   - The Velvet Noose
@@ -165,19 +164,16 @@ The _Velvet Noose_ can be sailed by sixty but requires a full complement to comm
 
 ## Connections
 
-- [[The-Glass-Debt|The Glass Debt]] - Tier 3 pirate contrast; the last scale before fleet-command piracy
-- [[Dravosi-Crown|The Dravosi Crown]] - main naval opposition and likely claimant if the hull's origin is exposed
-- [[Tessarine-Concordat|The Tessarine Concordat]] - insurance, ransom finance, and underwritten cargo pressure
-- [[Chain-Council|The Chain Council]] - political danger if the ship seeks shelter in Midchain waters
-- [[places/midchain/index|The Midchain]] - crew, pilots, fences, and quiet repair relationships
-- [[Central-Strait|Central Strait]] - convoy pressure and strategic theatre
-- [[Drowned-Maw|The Drowned Maw]] - salvage lanes, superstition, and bad-water escape options
-- [[lore/Umberlee|Umberlee]] - shrine terms, storm fear, and the cost of arrogance at sea
-- [[Ship-Stats|Ship Stats]]
-- [[Ship-Bastion|Ship Bastion]]
-
-## Related
-
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
-- [[characters/stripes/Stripes-Bitemore]] — Stripes Bitemore
+- [[The-Glass-Debt]]
+- [[Dravosi-Crown]]
+- [[Tessarine-Concordat]]
+- [[Chain-Council]]
+- [[places/midchain/index]]
+- [[Central-Strait]]
+- [[Drowned-Maw]]
+- [[lore/Umberlee]]
+- [[Ship-Stats]]
+- [[Ship-Bastion]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/delmar/Delmar-Fisk]]
+- [[characters/stripes/Stripes-Bitemore]]

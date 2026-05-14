@@ -38,4 +38,7 @@ While the locker is stocked, your Bastion Defenders are harder to kill: when any
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Crew-Berths]] | [[Carpenters-Shop]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Crew-Berths]]
+- [[Carpenters-Shop]]

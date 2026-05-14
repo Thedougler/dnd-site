@@ -42,13 +42,10 @@ What surfaced, once: he had a horse before the sea. White, almost completely —
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Detto's soul
-- [[Heft|The Heft]] — his ship; lost at the Maw
-- [[Fisks-Fleet]] — the fleet he served
-- [[Drowned-Maw|Drowned Maw]] — where he died
-
-## Related
-
-- [[Umberlee]] — Umberlee and the Waveservants
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[characters/delmar/Delmar-Fisk]]
+- [[Heft]]
+- [[Fisks-Fleet]]
+- [[Drowned-Maw]]
+- [[Umberlee]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

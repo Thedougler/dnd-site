@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /ships/The-Glass-Debt.md
 aliases:
   - Glass Debt
   - The Glass Debt
@@ -151,19 +150,16 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 
 ## Connections
 
-- [[places/midchain/index|The Midchain]] - routes, pilots, and unofficial repair options
-- [[Central-Strait|Central Strait]] - convoy pressure and Crown response
-- [[Drowned-Maw|The Drowned Maw]] - eastern-edge hunting ground and navigation risk
-- [[Dravosi-Crown|The Dravosi Crown]] - wanted status, former hull lineage, and primary naval opposition
-- [[Tessarine-Concordat|The Tessarine Concordat]] - underinsured cargo, debt instruments, and possible quiet contracts
-- [[Chain-Council|The Chain Council]] - political complication if the ship shelters in Kalowe
-- [[lore/Umberlee|Umberlee]] - shrine terms and storm fear
-- [[The-Bad-Receipt|The Bad Receipt]] - smaller Tier 2 pirate contrast
-- [[Ship-Stats|Ship Stats]]
-- [[Ship-Bastion|Ship Bastion]]
-
-## Related
-
-- [[Knifes-Wake]] — The Knife's Wake
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
+- [[places/midchain/index]]
+- [[Central-Strait]]
+- [[Drowned-Maw]]
+- [[Dravosi-Crown]]
+- [[Tessarine-Concordat]]
+- [[Chain-Council]]
+- [[lore/Umberlee]]
+- [[The-Bad-Receipt]]
+- [[Ship-Stats]]
+- [[Ship-Bastion]]
+- [[Knifes-Wake]]
+- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/delmar/Delmar-Fisk]]

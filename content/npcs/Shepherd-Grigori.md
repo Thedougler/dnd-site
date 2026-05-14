@@ -30,9 +30,6 @@ He's supposed to be impossible to kill. Poison. Drowning. Worse. He survives. Th
 
 ## Connections
 
-- Royal courts — where he operates
-
-## Related
-
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Royal courts]]
+- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

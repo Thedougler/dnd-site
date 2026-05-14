@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/Bard.md
 title: Bard
 created: 2026-04-19
 modified: 2026-04-19
@@ -60,10 +59,7 @@ College of Dance, College of Glamour, College of Lore, College of Valor _(2024 P
 
 ## Connections
 
-- [[College-of-Valor]] — Bard subclass (2024 PHB)
-
-## Related
-
-- [[weapons]] — weapons
-- [[raw/ingested/Frightened]] — Frightened
-- [[raw/ingested/Charmed]] — Charmed
+- [[College-of-Valor]]
+- [[weapons]]
+- [[raw/ingested/Frightened]]
+- [[raw/ingested/Charmed]]

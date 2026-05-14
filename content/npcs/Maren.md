@@ -4,7 +4,7 @@ aliases:
   - Maren
 title: Maren
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-13
 tags:
   - captain
   - maritime
@@ -26,31 +26,33 @@ tags:
 
 ## Appearance
 
-Her skin is blue-toned and faintly luminescent, the light pooling at the hairline and fingertips even in full daylight, as though something beneath the surface has never quite gone still. She is lean, built for water rather than weather, and she moves with an economy that reads as calm until you realise she has already catalogued every exit. Her eyes are pale grey, nearly colourless, and they do not rest.
+Her skin is deep brown with a subtle blue-green iridescence that shifts in open water, brightening at the surface in full sun the way a reef does when the light hits it right. Her locs are heavy and perpetually salt-dampened, threaded through with small shells and copper beads that click softly when she moves. She is built the way the sea builds things — strong through the shoulders and chest, comfortable in her size, never in a hurry on land because on land she is already waiting to be back in the water. Her eyes are a deep teal, almost black in low light.
+
+She will correct you on the pronunciation. MARE-EN. She has always corrected people. She always will.
 
 ## Overview
 
-Maren captained the _[[Narrow|Narrow]]_, the fleet's scout vessel. The fleet's navigator and underwater scout. She led the aquatic perimeter survey of Umberlee's shrine island that located the sub-surface entry point used in the operation.
+Maren captained the _[[Narrow|Narrow]]_, the fleet's scout vessel. Fast in the water, able to breathe beneath the surface, and skilled enough to read a reef by feel alone. She and the scouts who worked the air above while she worked the water below made the fleet's scouting unparalleled. No approach they surveyed surprised them twice.
 
 She was outside the cave when the fleet sank. She drowned in the Maw when Umberlee closed the water over all five ships. Her soul was pressed into Delmar at the moment of sinking.
 
 ## Backstory
 
-Her people were river-delta traders — water genasi who ran the inland channels before she ever saw open ocean. Her father was a navigator, the kind who didn't trust charts he hadn't drawn himself. When she was fourteen he gave her his spyglass: silver-cased, heavier than it looked, with a lens ground so precisely that the horizon edge went perfectly sharp on a clear day. She used it for twenty years.
+She comes from a family of twelve. Her parents got down and kept getting down, and the house was always full — noise, food, argument, someone borrowing something, someone else returning something broken. She loved every moment of it. She still does, even now that the twelve of them have scattered: siblings drawn south by trade, east by the current, wherever the sea took them. Like so many water genasi, the Call pulled them all out and apart. She made peace with it earlier than most. She misses them. But anywhere there is sea, she is home.
 
-She was looking through it when the fog came in.
+She was already an accomplished swimmer and fisherman by the time she joined her first crew — breathing underwater was ordinary to her, and the sailors who treated it as a miracle struck her as charming at best. She moved through crews that could use her and became indispensable in all of them. It was during one of Delmar's early privateering runs that they met. He had an instinct for people who could do what no one else on board could. She had an instinct for going where she wasn't supposed to. They got along immediately.
 
-The fleet's scout reports — everything she had filed that day — showed nothing unusual up to twenty minutes before the Maw. The spyglass showed her nothing she could act on. She has not stopped thinking about what it should have caught and didn't. The exit she had already counted but still missed. That instrument, and that failure, are the same object to her now.
+She was a key member of the scouting crew long before she commanded anything. When the _Narrow_ needed a captain, she was already doing the job.
+
+She has strong opinions about the Navy. The sea belongs to everyone — she grew up believing that, and two decades of watching Navy ships enforce arbitrary passage rights has made her angrier, not less. She has met a few decent Navy sailors. Mostly the ones who worked alongside privateers. Outside of that, as far as she is concerned, they are crooked to a man.
+
+She goes where people tell her not to go. The places with the richest pickings are always the ones with the most signs saying to stay out. She has never found a reason to disagree.
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]] — Admiral; carries Maren's soul
-- [[Narrow|The Narrow]] — her ship; lost at the Maw
-- [[Fisks-Fleet]] — the fleet she served
-- [[Drowned-Maw|Drowned Maw]] — where she died
-
-## Related
-
-- [[Beaumont-Sel-Secrets]] — Beaumont Sel
-- [[Umberlee]] — Umberlee and the Waveservants
-- [[Vel-Orn-Secrets]] — Vel-Orn — Sunken Crown
+- [[characters/delmar/Delmar-Fisk]]
+- [[Narrow]]
+- [[Fisks-Fleet]]
+- [[Drowned-Maw]]
+- [[Norrington-Kingsly-Secrets|Norrington Kingsley]]
+- [[Umberlee]]

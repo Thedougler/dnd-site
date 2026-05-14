@@ -56,4 +56,6 @@ When you issue the **Craft** order, choose one option:
 
 ## Connections
 
-[[Ship-Bastion]] | [[Bastions]] | [[Carpenters-Shop]]
+- [[Ship-Bastion]]
+- [[Bastions]]
+- [[Carpenters-Shop]]

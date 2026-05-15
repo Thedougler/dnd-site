@@ -41,6 +41,14 @@ Bisou is not decorative. She watches. She steals with absolute confidence — th
 
 She has an opinion about coin tricks. The results depend on how good the trick is.
 
+## Combat Role
+
+Bisou is an extension of Beaumont's tactics, not a passenger. She participates in three named maneuvers:
+
+- **The Kalowe Maneuver** — Beaumont tosses her alongside a healing potion to a downed ally; she uncorks and administers it.
+- **The Calveno Maneuver** — She carries an alchemical item to a target point, triggers it, and clears the blast radius.
+- **The Tidefall Maneuver** — Beaumont tosses her toward a target; she uses 20 ft. of movement to locate and soak any exposed black powder, using available water or her own means if none is at hand. The goal is to render powder weapons inoperable before the next shot.
+
 ## Connections
 
 - [[Beaumont-Sel]]

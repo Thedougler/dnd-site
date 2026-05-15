@@ -78,7 +78,7 @@ That's where we left it.
 
 - [[Geoffrey-Draves]]
 - [[Barnaby-Rook]]
-- [[private/players/Jean-Claude-Tabarnack]]
+- [[characters/party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]
 - [[Simone-Tabarnack]]
 - [[HCS-Surety]]
 - [[Saltwright]]

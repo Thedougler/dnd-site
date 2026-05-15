@@ -1,13 +1,13 @@
 ---
 publish: true
-title: Session 01 Recap
+title: The Boarding of the Saltwright
 created: 2026-05-10
 modified: 2026-05-15
 tags:
   - session-recap
 ---
 
-# Session 01 Recap — Boarding of the Saltwright
+# 01 — The Boarding of the Saltwright
 
 ---
 

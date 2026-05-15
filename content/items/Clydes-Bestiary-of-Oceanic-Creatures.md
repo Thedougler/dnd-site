@@ -14,7 +14,7 @@ cssclasses:
 
 # Clyde's Bestiary of Oceanic Creatures
 
-![[Clydes-Beastiary-of-Oceanic-Creatures.webp|Cover of Clyde's Bestiary of Oceanic Creatures showing a whale beside a small boat|800]]
+![[raw/assets/portraits/Clydes-Beastiary-of-Oceanic-Creatures.webp|Cover of Clyde's Bestiary of Oceanic Creatures showing a whale beside a small boat|800]]
 
 ---
 

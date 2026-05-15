@@ -14,7 +14,7 @@ cssclasses:
 
 # The _Red Lady_
 
-![[Red-Lady.webp]]
+![[raw/assets/banners/Red-Lady.webp]]
 
 > [!READ-ALOUD]
 > A two-masted brigantine rides low in the water, her hull stained a deep, even red from waterline to rail. Seven cannon ports line each side beneath the gun deck, and swivel mounts sit at bow and stern. At the prow, a pale wooden figurehead of a cloaked woman leans forward with one hand open at her side. The ship is long, clean-lined, and built with the hard, practical look of a vessel meant to chase, fight, and keep going.
@@ -96,6 +96,6 @@ Three decks, organized for long independent operations.
 - [[Drowned-Maw]]
 - [[ships/index]]
 - [[Chain-Council]]
-- [[Loud-Argument-Secrets]]
-- [[Fernen-Secrets]]
-- [[Heft-Secrets]]
+- [[ships/Loud-Argument]]
+- [[ships/Fernen]]
+- [[ships/Heft]]

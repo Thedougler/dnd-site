@@ -81,6 +81,6 @@ Single open deck with minimal below-deck space.
 - [[Kalowe]]
 - [[Red-Lady]]
 - [[ships/index]]
-- [[Midchain-Secrets]]
-- [[Shattered-Sea-Secrets]]
+- [[Midchain]]
+- [[Shattered-Sea]]
 - [[Shattered-Sea]]

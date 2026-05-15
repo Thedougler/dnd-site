@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/monstrosity/index.md
 title: Monstrosities
 created: 2026-05-05
 modified: 2026-05-05

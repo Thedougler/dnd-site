@@ -1,11 +1,10 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Port-Tidefall.md
 aliases:
   - Port Tidefall
 title: Port Tidefall
 created: 2026-05-01
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - location
   - harbour
@@ -18,7 +17,7 @@ tags:
 
 # Port Tidefall
 
-![[raw/assets/1778025103752~2 1.png]]
+![[1778025103752~2 1.png]]
 ![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
 ## Overview

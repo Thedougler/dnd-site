@@ -40,7 +40,7 @@ Humans originate from Sigil, the torus-shaped city at the center of the multiver
 
 - [[Species]]
 - [[private/rules/Feats]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
 - [[Shattered-Sea]]
 - [[Rattkin]]
 - [[Grung]]

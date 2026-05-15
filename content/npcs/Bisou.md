@@ -46,5 +46,5 @@ She has an opinion about coin tricks. The results depend on how good the trick i
 - [[Beaumont-Sel]]
 - [[Saltwright]]
 - [[Tail]]
-- [[Midchain-Secrets]]
-- [[Shattered-Sea-Secrets]]
+- [[Midchain]]
+- [[Shattered-Sea]]

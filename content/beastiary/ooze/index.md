@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/ooze/index.md
 title: Oozes
 created: 2026-05-05
 modified: 2026-05-05

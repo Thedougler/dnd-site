@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/celestial/index.md
 title: Celestials
 created: 2026-05-05
 modified: 2026-05-05

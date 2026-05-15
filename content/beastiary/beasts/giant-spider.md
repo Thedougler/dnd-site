@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-spider.md
 aliases:
   - Giant Spider
 title: Giant Spider

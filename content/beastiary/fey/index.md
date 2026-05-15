@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/fey/index.md
 title: Fey
 created: 2026-05-05
 modified: 2026-05-05

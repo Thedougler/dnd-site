@@ -23,5 +23,5 @@ While wearing these bracers, you have proficiency with the longbow and shortbow,
 ## Connections
 
 - [[characters/stripes/Stripes-Bitemore]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
 - [[Shattered-Sea]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-weasel.md
 aliases:
   - Giant Weasel
 title: Giant Weasel

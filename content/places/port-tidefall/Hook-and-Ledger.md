@@ -1,20 +1,19 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Hook-and-Ledger.md
 aliases:
   - Hook & Ledger
   - The Hook and Ledger
   - Hook and Ledger
 title: The Hook & Ledger
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - tavern
   - shelf
 ---
 
-# [[Hook-and-Ledger-Secrets|The Hook & Ledger]]
+# The Hook & Ledger
 
 The Hook & Ledger is a narrow tavern halfway up the Shelf road in [[places/port-tidefall/index|Port Tidefall]], close enough to the Harbourmaster's Office for clerks to reach it on a short break and far enough from Dockfront noise to conduct business in a normal voice.
 

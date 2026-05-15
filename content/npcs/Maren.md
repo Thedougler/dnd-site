@@ -55,5 +55,5 @@ She goes where people tell her not to go. The places with the richest pickings a
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]
 - [[Norrington-Kingsly|Norrington Kingsley]]
-- [[Halythion-Secrets]]
+- [[Halythion]]
 - [[Umberlee]]

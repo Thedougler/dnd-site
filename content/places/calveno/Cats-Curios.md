@@ -1,16 +1,13 @@
 ---
 publish: true
-permalink: /places/calveno/Cats-Curios.md
 title: Cat's Curios
 created: 2026-05-02
-modified: 2026-05-02
+modified: 2026-05-14
 tags:
   - artificer
 ---
 
 # Cat's Curios
-
-> _See also: [[Cats-Curios-Secrets]] (GM only)_
 
 A narrow door in a [[places/calveno/index|Calveno]] side-street — brass fittings, no name. Inside: long benches of half-finished mechanisms, a low forge, the smell of hot oil and soldering flux, and a locked glass cabinet along one wall holding pieces that don't belong to this century.
 

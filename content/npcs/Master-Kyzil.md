@@ -51,10 +51,10 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 
 - [[Sentinels-Of-The-Eyrie]]
 - [[High-Eyrie]]
-- [[High-Eyrie-Secrets]]
+- [[High-Eyrie]]
 - [[Crisdalynn-Khinriss]]
 - [[Drowned-Maw]]
-- [[Drowned-Maw-Secrets]]
+- [[Drowned-Maw]]
 - [[places/port-tidefall/index]]
 - [[Port-Tidefall]]
 - [[Red-Lady]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/plants/index.md
 title: Plants
 created: 2026-05-05
 modified: 2026-05-05

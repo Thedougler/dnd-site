@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/subclass/index.md
 title: Subclasses
 created: 2026-05-03
 modified: 2026-05-03

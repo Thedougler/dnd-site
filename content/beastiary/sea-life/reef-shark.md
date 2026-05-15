@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/reef-shark.md
 aliases:
   - Reef Shark
 title: Reef Shark

@@ -4,7 +4,7 @@ aliases:
   - Orak Island
 title: Orak
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - island
   - grung
@@ -40,4 +40,3 @@ The root systems at the Dreth channel hold [[beastiary/beasts/giant-constrictor-
 - [[Karath]] — Karath
 - [[Shattered-Sea]] — The Shattered Sea
 - [[Grung]] — Grung
-- [[Orak-Secrets|DM Notes ⚿]]

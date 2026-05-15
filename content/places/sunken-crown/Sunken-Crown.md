@@ -5,7 +5,7 @@ aliases:
   - The Sunken Crown
 title: The Sunken Crown
 created: 2026-05-02
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - location
   - region
@@ -17,7 +17,7 @@ tags:
 
 # The Sunken Crown
 
-![[raw/assets/1778025771030~3.png|355x243]]
+![[1778025771030~3.png|355x243]]
 
 > _Five small islands around a blue wound in the sea._
 

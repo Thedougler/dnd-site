@@ -1,8 +1,7 @@
 ---
 publish: true
-permalink: /characters/stripes/index.md
-created: 2026-05-06T04:34:31.561-07:00
-modified: 2026-05-09T19:22:33.458-07:00
+created: 2026-05-14T21:39:30.869-07:00
+modified: 2026-05-14T21:39:30.869-07:00
 ---
 
 # Stripes Bitemore Player Character Index

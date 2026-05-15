@@ -5,7 +5,7 @@ aliases:
   - Antheri
 title: Antheri Ruins
 created: 2026-05-02
-modified: 2026-05-04
+modified: 2026-05-14
 tags:
   - ruins
   - antheri
@@ -85,8 +85,5 @@ The accessible upper tier (0–60 ft) has been colonized by the ordinary marine 
 
 ## Related
 
-- [[Antheri-Ruins-Secrets|Antheri Ruins - DM Notes]]
-
-- [[Tail-Secrets]] — The Tail
-
-- [[Drowned-Maw-Secrets]] — The Drowned Maw
+- [[Tail|The Tail]]
+- [[Drowned-Maw]] — The Drowned Maw

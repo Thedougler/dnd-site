@@ -4,7 +4,7 @@ aliases:
   - Sorn Island
 title: Sorn
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - island
   - grung
@@ -47,4 +47,3 @@ The interior is where the more significant sign accumulates. The crop terraces a
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[places/midchain/index|The Midchain]]
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Sorn-Secrets|DM Notes ⚿]]

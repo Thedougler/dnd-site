@@ -1,18 +1,17 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Tessarine-Trade-House.md
 aliases:
   - Tessarine Trade House
   - Concordat Trade House — Tidefall
 title: Tessarine Trade House — Port Tidefall
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - tessarine
 ---
 
-# [[Tessarine-Trade-House-Secrets|Tessarine Trade House — Port Tidefall]]
+# Tessarine Trade House — Port Tidefall
 
 Three storeys of pale stone on the Shelf, a Tessarine Concordat pennant above the door. Inside: four chairs against the wall, a clerk behind a partition, the smell of ink and cedar oil. The appointment book slides across the counter without a word. Next slot is the day after tomorrow.
 

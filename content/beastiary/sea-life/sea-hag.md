@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/sea-hag.md
 aliases:
   - Sea Hag
 title: Sea Hag

@@ -1,12 +1,11 @@
 ---
 publish: true
-permalink: /places/calven/Warren.md
 aliases:
   - Warren
   - The Warren
 title: The Warren
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - rattkin
   - maritime
@@ -14,8 +13,6 @@ tags:
 ---
 
 # The Warren
-
-> _See also: [[Warren-Secrets]] (GM only)_
 
 The Warren is the fixed Rattkin settlement beneath [[places/calveno/index|Calveno]], built into the old drainage channels below the Saltmarsh district. Calveno grew above it. The Rattkin were already there.
 

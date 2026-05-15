@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/fiend/index.md
 title: Fiends
 created: 2026-05-05
 modified: 2026-05-05

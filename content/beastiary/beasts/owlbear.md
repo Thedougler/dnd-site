@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/owlbear.md
 aliases:
   - Owlbear
 title: Owlbear

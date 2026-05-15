@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/young-sea-serpent.md
 aliases:
   - Young Sea Serpent
 title: Young Sea Serpent

@@ -1,19 +1,18 @@
 ---
 publish: true
-permalink: /places/sunken-crown/Umberlee-Shrine.md
 aliases:
   - Umberlee Shrine — Sunken Crown
   - Umberlee's Hidden Shrine
   - Vel-Orn Shrine
 title: Umberlee's Shrine — Sunken Crown
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - shrine
   - umberlee
 ---
 
-# [[Umberlee-Shrine-Secrets|Umberlee's Shrine — Sunken Crown]]
+# Umberlee's Shrine — Sunken Crown
 
 Umberlee's shrine on [[Vel-Orn]] is cut into black stone in the [[places/sunken-crown/index|Sunken Crown]], where five small islands ring the Blue Hole and the water drops too cleanly from turquoise into dark indigo. Outsiders sometimes call Vel-Orn the shrine island. Locals use the older name, which carries the sense of water-debt.
 
@@ -40,6 +39,6 @@ Inside, a ledger chamber holds names, tokens, coins, fish bones, carved shells, 
 
 ## Related
 
-- [[Vel-Orn-Secrets]] — Vel-Orn — Sunken Crown
-- [[Sunken-Crown-Secrets]] — The Sunken Crown
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Vel-Orn]] — Vel-Orn — Sunken Crown
+- [[Sunken-Crown|The Sunken Crown]]
+- [[Shattered-Sea]] — The Shattered Sea

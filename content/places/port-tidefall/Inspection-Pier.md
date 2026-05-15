@@ -1,19 +1,18 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Inspection-Pier.md
 aliases:
   - Inspection Pier
   - The Inspection Pier
 title: The Inspection Pier
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - dravosi
   - pier
 ---
 
-# [[Inspection-Pier-Secrets|The Inspection Pier]]
+# The Inspection Pier
 
 The Inspection Pier is the first stop for any vessel entering [[places/port-tidefall/index|Port Tidefall]]. It runs out into the harbour mouth before the docks proper: wide planks, cleats along both sides, and a covered station at the far end where Crown clerks work through rating, manifests, and fees.
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: NPCs
-created: 2026-05-13T15:48:35.223-07:00
+created: 2026-05-14T21:52:21.394-07:00
 modified: 2026-05-12
 tags:
   - player-resource
@@ -63,4 +63,4 @@ People the party has met, heard about, or probably should remember. Private moti
 ---
 
 - [[index|The Shattered Sea]] — campaign hub
-- [[party/index|Characters]] · [[factions/index|Factions]]
+- [[characters/index|Characters]] · [[factions/index|Factions]]

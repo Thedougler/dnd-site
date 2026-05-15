@@ -14,7 +14,7 @@ cssclasses:
 
 # The _Heft_
 
-![[Detto-Kalash.webp]]
+![[raw/assets/banners/Detto-Kalash.webp]]
 
 ## Overview
 
@@ -40,4 +40,4 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 - [[Drowned-Maw]]
 - [[ships/index]]
 - [[Umberlee]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

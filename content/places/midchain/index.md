@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/midchain/index.md
 aliases:
   - Midchain Index
 title: The Midchain — Index

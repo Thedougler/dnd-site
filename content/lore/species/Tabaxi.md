@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/species/Tabaxi.md
 title: Tabaxi
 created: 2026-04-19
 modified: 2026-04-22

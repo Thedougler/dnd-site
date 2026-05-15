@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/panther.md
 aliases:
   - Panther
 title: Panther

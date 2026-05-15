@@ -61,9 +61,9 @@ He plays the shawm. He has never done so where anyone could hear him.
 
 - [[characters/delmar/Delmar-Fisk]]
 - [[Red-Lady]]
-- [[Red-Lady-Secrets]]
+- [[ships/Red-Lady]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]
-- [[Pearl-of-Souls-Secrets|Pearl of Souls]]
+- [[situations/Pearl-of-Souls-Item|Pearl of Souls]]
 - [[Father]]
 - [[Umberlee]]

@@ -117,4 +117,4 @@ Three decks above the hold.
 - [[ships/index]]
 - [[Harbourmasters-Office]]
 - [[Port-Tidefall]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

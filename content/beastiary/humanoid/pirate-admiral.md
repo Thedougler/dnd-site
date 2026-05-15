@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/humanoid/pirate-admiral.md
 aliases:
   - Pirate Admiral
 title: Pirate Admiral

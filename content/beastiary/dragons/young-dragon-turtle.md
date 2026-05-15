@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/young-dragon-turtle.md
 aliases:
   - Young Dragon Turtle
 title: Young Dragon Turtle

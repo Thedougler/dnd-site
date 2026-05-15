@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-bats.md
 aliases:
   - Swarm of Bats
 title: Swarm of Bats

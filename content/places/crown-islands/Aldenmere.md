@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/crown-islands/Aldenmere.md
 aliases:
   - Aldenmere Island
   - Isle of Aldenmere

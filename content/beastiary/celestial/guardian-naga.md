@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/celestial/guardian-naga.md
 aliases:
   - Guardian Naga
 title: Guardian Naga

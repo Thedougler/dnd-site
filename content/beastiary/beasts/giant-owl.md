@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-owl.md
 aliases:
   - Giant Owl
 title: Giant Owl

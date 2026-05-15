@@ -23,5 +23,5 @@ The [[Central-Strait|Central Strait]] has them year-round in the deeper lanes, t
 
 ## Related
 
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
 - [[Verdant-Scatter]] — The Verdant Scatter

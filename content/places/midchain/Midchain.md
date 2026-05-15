@@ -5,7 +5,7 @@ aliases:
   - The Midchain
 title: The Midchain
 created: 2026-05-01
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - location
   - region
@@ -16,7 +16,7 @@ tags:
 
 # The Midchain
 
-![[raw/assets/1778025598810~2.png]]
+![[1778025598810~2.png]]
 ![[raw/assets/banners/The-Midchain.webp|Cluster of lush Midchain islands surrounded by bright reef water and deep channels]]
 
 ## Overview
@@ -107,4 +107,4 @@ The larger southern island interiors produce [[beastiary/beasts/giant-ape|giant 
 
 ---
 
-- [[places/midchain/index|Midchain Index]] · [[places/index|Places]] · [[index|The Shattered Sea]] · [[Midchain-Secrets|DM Notes ⚿]]
+- [[places/midchain/index|Midchain Index]] · [[places/index|Places]] · [[index|The Shattered Sea]]

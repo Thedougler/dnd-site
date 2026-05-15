@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/tail/index.md
 aliases:
   - Tail Index
 title: The Tail — Index

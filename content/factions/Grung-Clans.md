@@ -15,7 +15,7 @@ tags:
 
 # The [[Grung]] Clans
 
-![[Grung-Clans-Flag.webp]]
+![[raw/assets/banners/Grung-Clans-Flag.webp]]
 Two days south of [[Kalowe|Kalowe]], the [[Verdant-Teeth|Verdant Teeth]] rise from the [[places/midchain/index|Midchain]] as reef, beach, and rainforest. The interiors belong to the Grung.
 
 The Grung are poisonous amphibious folk whose skin colour marks caste and station. They are not a single crown or council but a collection of clans operating under the same colour-caste order. Trade with outsiders takes place at the waterline. The interior is not open to visitors.

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-boar.md
 aliases:
   - Giant Boar
 title: Giant Boar

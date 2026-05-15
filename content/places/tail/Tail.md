@@ -5,7 +5,7 @@ aliases:
   - The Tail
 title: The Tail
 created: 2026-05-01
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - location
   - region
@@ -16,7 +16,7 @@ tags:
 
 # The Tail
 
-![[raw/assets/1778025673931~2.png]]
+![[1778025673931~2.png]]
 ![[raw/assets/banners/The-Tail.webp|Storm-dark island chain with steep green ridges and white surf breaking through channels]]
 
 ## Overview

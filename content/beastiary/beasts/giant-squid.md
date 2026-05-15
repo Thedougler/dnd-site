@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-squid.md
 aliases:
   - Giant Squid
 title: Giant Squid

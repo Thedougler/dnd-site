@@ -1,18 +1,17 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Harbourmasters-Office.md
 aliases:
   - Harbourmaster's Office
   - Tidefall Harbourmaster
 title: Harbourmaster's Office
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - dravosi
 ---
 
-# [[Harbourmasters-Office-Secrets|Harbourmaster's Office]]
+# Harbourmaster's Office
 
 A long stone building at the base of the Dockfront — counter behind a partition, two clerks with ledgers. Every vessel entering [[places/port-tidefall/index|Port Tidefall]] checks in here before clearing the inspection pier. Crown rating certificates, impound processing, and harbour fees all run through this office.
 

@@ -1,8 +1,7 @@
 ---
 publish: true
-permalink: /lore/rules/index.md
 title: Rules
-created: 2026-05-06T02:31:45.701-07:00
+created: 2026-05-14T21:39:30.803-07:00
 modified: 2026-05-03
 tags:
   - player-resource

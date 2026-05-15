@@ -11,9 +11,9 @@ cssclasses:
   - wiki-ship
 ---
 
-# [[Saltwright-Secrets|The Saltwright]]
+# [[ships/Saltwright|The Saltwright]]
 
-![[Saltwright.webp]]
+![[raw/assets/banners/Saltwright.webp]]
 
 > [!READ-ALOUD]
 > A two-masted merchant brig rides broad and low in the water, her hull worked pale grey-brown by years of salt and weather. Nothing about her is ornamental: no figurehead, no bright rail, no paint left where the sea could take it. Below, the smell is brine, old cedar, and the cold deep water pressing through the seams. Every timber sounds used.

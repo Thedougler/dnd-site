@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/kraken.md
 aliases:
   - Kraken
 title: Kraken

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/constructs/animated-broom.md
 aliases:
   - Animated Broom
 title: Animated Broom

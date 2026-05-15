@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/sunken-crown/index.md
 aliases:
   - Sunken Crown Index
 title: The Sunken Crown — Index

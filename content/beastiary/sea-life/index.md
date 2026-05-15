@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/index.md
 title: Sea Life
 created: 2026-05-05
 modified: 2026-05-05

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-insects.md
 aliases:
   - Swarm of Insects
 title: Swarm of Insects

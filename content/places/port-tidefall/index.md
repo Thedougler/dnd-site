@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/port-tidefall/index.md
 aliases:
   - Port Tidefall Index
 title: Port Tidefall — Index
@@ -19,7 +18,7 @@ tags:
 
 # Port Tidefall — Index
 
-![[raw/assets/1778025103752~2.png]]
+![[1778025103752~2.png]]
 See [[Port-Tidefall|Port Tidefall]] for overview, the three tiers, and trade.
 
 ---

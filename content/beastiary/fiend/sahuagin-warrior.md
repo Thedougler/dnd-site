@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/fiend/sahuagin-warrior.md
 aliases:
   - Sahuagin Warrior
 title: Sahuagin Warrior

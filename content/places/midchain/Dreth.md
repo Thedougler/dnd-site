@@ -4,7 +4,7 @@ aliases:
   - Dreth Island
 title: Dreth
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - island
   - grung
@@ -43,4 +43,3 @@ The Dreth-Orak channel holds the island's most documented hazard. [[beastiary/be
 - [[Karath]] — Karath
 - [[Kalowe]] — Kalowe
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Dreth-Secrets|DM Notes ⚿]]

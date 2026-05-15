@@ -69,7 +69,7 @@ He is easy to find at the docks. He is usually the one in an argument about some
 - [[Kalowe]]
 - [[Kalowe]]
 - [[places/calveno/index]]
-- [[Calveno-Secrets]]
+- [[Calveno]]
 - [[Sawek]]
 - [[Whip-Shark]]
 - [[Leviathan]]

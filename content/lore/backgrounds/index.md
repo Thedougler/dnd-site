@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/backgrounds/index.md
 title: Backgrounds
 created: 2026-05-03
 modified: 2026-05-03

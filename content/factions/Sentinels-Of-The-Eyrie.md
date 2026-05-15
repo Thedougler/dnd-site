@@ -15,7 +15,7 @@ tags:
 
 # Sentinels of the Eyrie
 
-![[Sentinels-Of-The-Eyrie-Flag.webp]]
+![[raw/assets/banners/Sentinels-Of-The-Eyrie-Flag.webp]]
 [[High-Eyrie]] is a basalt sea stack on the northeastern [[places/crown-islands/index|Crown Islands]]. From it, the Sentinels have watched the [[Drowned-Maw|Drowned Maw]] for roughly two hundred years.
 
 They are aarakocra monastics: observers, record-keepers, and aerial fighters when defense requires it. They are not a navy, church, government, scout service, or mercenary company.

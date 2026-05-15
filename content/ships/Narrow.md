@@ -14,7 +14,7 @@ cssclasses:
 
 # The _Narrow_
 
-![[Maren.webp]]
+![[raw/assets/banners/Maren.webp]]
 
 ## Overview
 
@@ -40,4 +40,4 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 - [[Drowned-Maw]]
 - [[ships/index]]
 - [[Umberlee]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

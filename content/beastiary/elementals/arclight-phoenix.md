@@ -19,7 +19,7 @@ cssclasses:
 
 ---
 
-## In [[Shattered-Sea-Secrets|The Shattered Sea]]
+## In [[Shattered-Sea|The Shattered Sea]]
 
 Arclight phoenixes are not ordinary birds and not ordinary storms. They belong to the western edge where volcanic stone meets permanent weather: the black spires of the [[Ashwall-Islands|Ashwall Islands]] and the [[Galewall|Galewall]] that begins just past them.
 

@@ -14,7 +14,7 @@ cssclasses:
 
 # The _Fernen_
 
-![[Fernen.webp]]
+![[raw/assets/banners/Fernen.webp]]
 
 ## Overview
 
@@ -40,4 +40,4 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 - [[Drowned-Maw]]
 - [[ships/index]]
 - [[Umberlee]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

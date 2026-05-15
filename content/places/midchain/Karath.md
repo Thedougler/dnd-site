@@ -4,7 +4,7 @@ aliases:
   - Karath Island
 title: Karath
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - island
   - grung
@@ -42,4 +42,3 @@ The wet cuts between ridges pool standing water year-round, which suits [[beasti
 
 - [[places/midchain/index|The Midchain]]
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Karath-Secrets|DM Notes ⚿]]

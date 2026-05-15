@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/venomous-snake.md
 aliases:
   - Venomous Snake
 title: Venomous Snake

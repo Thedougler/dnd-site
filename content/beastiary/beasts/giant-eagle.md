@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-eagle.md
 aliases:
   - Giant Eagle
 title: Giant Eagle

@@ -13,7 +13,7 @@ tags:
 
 # Perrin Black-Jaw
 
-![[Perrin.webp|Perrin, a rattkin sailor, standing on a ship deck with rope and barrels nearby]]
+![[raw/assets/banners/Perrin-Archer.webp|Perrin, a rattkin sailor, standing on a ship deck with rope and barrels nearby]]
 
 > _Commanded a ship to fish and support his family. Lost it to something vast coming up from below. Now hunting it._
 

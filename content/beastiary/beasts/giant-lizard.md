@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-lizard.md
 aliases:
   - Giant Lizard
 title: Giant Lizard

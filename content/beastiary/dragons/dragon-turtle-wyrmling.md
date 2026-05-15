@@ -32,5 +32,5 @@ The warning signs overlap with adult dragon turtle reports: water warming withou
 ## Related
 
 - [[Tail|The Tail]]
-- [[Keth-Naar-Secrets]] — Keth-Naar
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Keth-Naar]] — Keth-Naar
+- [[Shattered-Sea]] — The Shattered Sea

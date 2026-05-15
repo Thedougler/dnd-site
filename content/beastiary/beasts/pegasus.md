@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/pegasus.md
 aliases:
   - Pegasus
 title: Pegasus

@@ -12,7 +12,7 @@ cssclasses:
   - wiki-concept
 ---
 
-# Ship Stats — [[Shattered-Sea-Secrets|The Shattered Sea]]
+# Ship Stats — [[Shattered-Sea|The Shattered Sea]]
 
 > Tiers, vehicle stats, crew roles, and minimum crew for [[Shattered-Sea|Shattered Sea]] ship play.
 

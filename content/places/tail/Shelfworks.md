@@ -5,7 +5,7 @@ aliases:
   - The Shelfworks
 title: The Shelfworks
 created: 2026-05-01
-modified: 2026-05-04
+modified: 2026-05-14
 tags:
   - ruins
   - salvage
@@ -103,5 +103,4 @@ The upper shelf has been reef for long enough that it runs on reef ecology. Smal
 
 ## Related
 
-- [[Tail-Secrets]] — The Tail
-- [[Shelfworks-Secrets]] — The Shelfworks
+- [[Tail|The Tail]]

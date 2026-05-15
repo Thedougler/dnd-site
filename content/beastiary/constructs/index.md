@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/constructs/index.md
 title: Constructs
 created: 2026-05-05
 modified: 2026-05-05

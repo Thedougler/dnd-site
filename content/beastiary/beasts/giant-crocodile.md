@@ -23,8 +23,8 @@ The [[Dreth|Dreth]]-[[Orak|Orak]] channel has the most consistent reports. A [[K
 
 ## Related
 
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Midchain]] — The Midchain
+- [[Shattered-Sea]] — The Shattered Sea
 - [[Verdant-Scatter]] — The Verdant Scatter
 - [[Shattered-Sea]] — The Shattered Sea
 - [[Kalowe]] — Kalowe

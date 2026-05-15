@@ -1,11 +1,10 @@
 ---
 publish: true
-permalink: /places/crown-islands/High-Eyrie.md
 aliases:
   - High Eyrie
 title: The High Eyrie
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - landmark
   - building
@@ -14,7 +13,7 @@ tags:
 
 # The High Eyrie
 
-![[raw/assets/1778025863567~2.png]]
+![[1778025863567~2.png]]
 ![[raw/assets/banners/The-High-Eyrie.webp|Stone fortress monastery perched on a sheer sea stack above dark water]]
 
 ## Overview
@@ -97,4 +96,3 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 
 - [[places/tail/index|The Tail]]
 - [[Drowned-Maw|The Drowned Maw]]
-- [[High-Eyrie-Secrets|DM Notes ⚿]]

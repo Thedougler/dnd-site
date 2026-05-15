@@ -1,9 +1,8 @@
 ---
 publish: true
-permalink: /lore/index.md
 title: Lore
-created: 2026-05-06T02:31:45.215-07:00
-modified: 2026-05-03
+created: 2026-05-14T21:51:29.417-07:00
+modified: 2026-05-14
 tags:
   - player-resource
   - index
@@ -12,11 +11,21 @@ tags:
 
 # Lore Index
 
-- [[lore/backgrounds/index|Player Character Backgrounds]]
-- [[lore/class/index|Player Character Classes]]
-- [[lore/species/index|Playable Species]]
-- [[lore/subclass/index|Player Character Subclasses]]
-- [[Shattered-Sea-Pantheon]]
-- [[lore/Tyr|Tyr]]
-- [[lore/Umberlee|Umberlee]]
-- [[lore/Valkur|Valkur]]
+## Character Options
+
+- [[lore/backgrounds/index|Backgrounds]]
+- [[lore/class/index|Classes]]
+- [[lore/subclass/index|Subclasses]]
+- [[lore/species/index|Species]] — playable species with setting context
+
+## Rules
+
+- [[lore/rules/index|Ship & Campaign Rules]] — ship stats, bastions, Mortis
+- [[lore/conditions/index|Conditions]] — 5e condition reference
+
+## Religion
+
+- [[Shattered-Sea-Pantheon|Pantheon]]
+- [[lore/Umberlee|Umberlee]] — Queen of Depths; the sea gives and takes
+- [[lore/Tyr|Tyr]] — god of justice; distant from the Scatter
+- [[lore/Valkur|Valkur]] — patron of sailors; practical and merciful

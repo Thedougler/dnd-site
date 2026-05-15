@@ -131,4 +131,4 @@ Four working decks plus hold.
 - [[ships/index]]
 - [[HCS-Constancy]]
 - [[Port-Tidefall]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

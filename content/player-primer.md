@@ -5,7 +5,7 @@ created: 2026-04-29
 modified: 2026-05-03
 ---
 
-![[The-Shattered-Sea.webp|Aerial view of the Shattered Sea island chain with turquoise reefs and scattered green islands]]
+![[raw/assets/banners/The-Shattered-Sea.webp|Aerial view of the Shattered Sea island chain with turquoise reefs and scattered green islands]]
 
 The **[[Shattered-Sea|Shattered Sea]]**, 1495 DR: sixty thousand square miles of reef, deep channel, cliff port, free harbour, lost ruin, colonial ledger, old god, hungry storm, and ships with too many secrets in the hold. Magic here is part of the infrastructure — enchanted instruments, divine tribute systems, ruins still running on power no one has claimed, and magic treated the same way everything else is treated out here: as leverage.
 
@@ -35,7 +35,7 @@ Expect:
 
 Two hard boundaries define the Scatter. To the west, the [[Galewall|Galewall]]. To the east, the [[Drowned-Maw|Drowned Maw]]. Between them, everything else.
 
-![[Shattered-Sea-Map.webp|Illustrated map of the Shattered Sea showing its island chains, currents, and surrounding regions]]
+![[raw/assets/maps/Shattered-Sea-Map.webp|Illustrated map of the Shattered Sea showing its island chains, currents, and surrounding regions]]
 
 The air changes before land appears: warm, salt-heavy, green with rainforest carried over the water. Then the islands rise in pieces: pale limestone, black basalt, dark jungle, reef water bright enough to hurt your eyes, and deep channels where the colour drops away all at once.
 
@@ -43,7 +43,7 @@ The main island chain is the **[[Verdant-Scatter|Verdant Scatter]]**, running be
 
 ### [[Galewall|The Galewall]]
 
-![[Ashwall-Islands.webp|Dark volcanic islands rising from rough gray water beneath a stormy sky]]
+![[raw/assets/banners/Ashwall-Islands.webp|Dark volcanic islands rising from rough gray water beneath a stormy sky]]
 
 To the west stands the [[Galewall|Galewall]], a permanent tropical storm belt between the Scatter and the colonial homelands. It appears first as a dark line across the horizon, then as stacked grey weather systems with cold water underneath and wind that builds in stages.
 
@@ -51,7 +51,7 @@ Crossing it takes about three weeks with an experienced pilot. Everyone knows a 
 
 ### [[places/crown-islands/index|The Crown Islands]]
 
-![[Crown-Islands.webp|Mountainous green Crown Islands ringed by bright reefs under clearing storm clouds]]
+![[raw/assets/banners/Crown-Islands.webp|Mountainous green Crown Islands ringed by bright reefs under clearing storm clouds]]
 
 The northern arc is made of five broad, mountainous islands with forested highlands, deep natural harbours, reef systems, and Dravosi flags at every major anchorage. The islands are rich enough to feed cities and steep enough to fortify, which is why the colonial powers have never stopped caring about them.
 
@@ -59,7 +59,7 @@ Publicly, the [[places/crown-islands/index|Crown Islands]] mean administration: 
 
 ### [[places/port-tidefall/index|Port Tidefall]]
 
-![[Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
+![[raw/assets/banners/Port-Tidefall.webp|Fortified cliffside port city built in tiers above a busy harbor]]
 
 [[places/port-tidefall/index|Port Tidefall]] is the Dravosi fortress-port at the western mouth of the [[Central-Strait|Central Strait]], carved directly into the cliff face of [[places/calders-tooth/index|Calder's Tooth]]. The city rises in tiers: Dockfront at the waterline, the Shelf mid-cliff, and [[Fort-Crestwall|Fort Crestwall]] above with cannon looking seaward.
 
@@ -67,7 +67,7 @@ This is where the Crown's authority is loudest and most negotiable. Every ship e
 
 ### [[places/calveno/index]]
 
-![[Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
+![[raw/assets/banners/Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
 
 [[places/calveno/index|Calveno]] is the oldest commercial centre in the Scatter: a canal city of pale stone facades, flat-bottomed boats, public negotiations, and private debts. There are no docks in the ordinary sense. Boats thread through channels cut between buildings, and the sound of the city is a thousand conversations happening at once in the open.
 
@@ -75,7 +75,7 @@ Everything here is visible. That is the point. Deals are witnessed, alliances ar
 
 ### [[Central-Strait|The Central Strait]]
 
-![[Central-Strait.webp|Wide blue-green shipping strait cutting between low islands and reef shallows]]
+![[raw/assets/banners/Central-Strait.webp|Wide blue-green shipping strait cutting between low islands and reef shallows]]
 
 [[Central-Strait|The Central Strait]] is the broad corridor of pale blue-green water between the [[places/crown-islands/index|Crown Islands]] and the [[places/midchain/index|Midchain]]. It runs forty to eighty miles wide depending on where you cross, deep enough for the largest vessels in the region and sheltered enough that smaller ships use it constantly.
 
@@ -83,7 +83,7 @@ This is the Scatter's main east-west highway. The current pushes east whether yo
 
 ### [[places/midchain/index|The Midchain]]
 
-![[The-Midchain.webp|Cluster of lush Midchain islands surrounded by bright reef water and deep channels]]
+![[raw/assets/banners/The-Midchain.webp|Cluster of lush Midchain islands surrounded by bright reef water and deep channels]]
 
 The southern arc is dozens of small and medium islands packed close together: limestone, coral, jungle, reef, hidden channels, and local arrangements that do not survive contact with paperwork. Most islands are a half-day's sail from the next. Fresh water, shelter, and trouble are always nearby.
 
@@ -91,7 +91,7 @@ The southern arc is dozens of small and medium islands packed close together: li
 
 ### [[Kalowe|Kalowe]]
 
-![[Kalowe.webp|Harbor settlement on a low tropical island at sunset, with cranes and boats along the shore]]
+![[raw/assets/banners/Kalowe.webp|Harbor settlement on a low tropical island at sunset, with cranes and boats along the shore]]
 
 [[Kalowe|Kalowe]] is the primary [[places/midchain/index|Midchain]] free port, built across three reef islands over a natural lagoon. The reef breaks the swells, the harbour water lies mirror-flat, and the dry dock cranes are the first thing visible above the treeline on approach.
 
@@ -99,7 +99,7 @@ If [[places/port-tidefall/index|Port Tidefall]] is where papers become chains, [
 
 ### [[Verdant-Teeth|The Verdant Teeth]]
 
-![[Sorn.webp|Forested island with a pale beach and dense jungle rising inland]]
+![[raw/assets/banners/Sorn.webp|Forested island with a pale beach and dense jungle rising inland]]
 
 Two days south-west of [[Kalowe|Kalowe]] sit the [[Verdant-Teeth|Verdant Teeth]], five closely grouped islands held by [[Grung-Clans|Grung clans]]. From the water they read as dense rainforest, low reef-fringed coasts, and elevated limestone ridges hidden under canopy. Charts mark the interiors with some version of "do not approach."
 
@@ -107,7 +107,7 @@ Outsiders trade at designated beaches and stay at the waterline. The [[Grung-Cla
 
 ### [[places/tail/index|The Tail]]
 
-![[The-Tail.webp|Storm-dark island chain with steep green ridges and white surf breaking through channels]]
+![[raw/assets/banners/The-Tail.webp|Storm-dark island chain with steep green ridges and white surf breaking through channels]]
 
 [[places/tail/index|The Tail]] is where both arcs of the Scatter narrow toward the [[Drowned-Maw|Drowned Maw]]. The islands grow fewer, taller, colder, and more wind-exposed. High cliffs drop straight to deep water, morning fog burns off by midday, and the sea takes on a harder colour near the shelf edge.
 
@@ -115,7 +115,7 @@ This is Maw-adjacent country: longline grounds, serious pilots, salvage staging,
 
 ### [[Drowned-Maw|The Drowned Maw]]
 
-![[The-Drowned-Maw.webp|Vast dark blue ocean sinkhole spiraling into deep water]]
+![[raw/assets/banners/The-Drowned-Maw.webp|Vast dark blue ocean sinkhole spiraling into deep water]]
 
 To the east lies the [[Drowned-Maw|Drowned Maw]], a vast deep-sea trench where compasses drift, sound carries strangely, and the water turns dark long before the horizon changes. Sailors cross it regularly. Most have no trouble. The ones who do have trouble tend to become warnings rather than sources.
 
@@ -123,7 +123,7 @@ The Maw is not forbidden. Nothing so simple. Ships go there for salvage, pilgrim
 
 ### [[Outer-Reach|The Outer Reach]] and [[places/sunken-crown/index|Sunken Crown]]
 
-![[Sunken-Crown.webp|Circular reef atoll surrounding a dark central lagoon in open water]]
+![[raw/assets/banners/Sunken-Crown.webp|Circular reef atoll surrounding a dark central lagoon in open water]]
 
 East of the Maw, the charts thin out into open ocean. The [[Outer-Reach|Outer Reach]] has no colonial presence, no reliable resupply, and few landmarks a western pilot would trust. Getting there means crossing the Maw and then committing to days of open water.
 
@@ -178,7 +178,7 @@ Early on, expect to think like sailors even before you own the deck under your f
 
 You begin at **Level 3** aboard the _[[Saltwright|Saltwright]]_.
 
-![[Saltwright.webp|The Saltwright, a dark-sailed wooden ship crossing rough seas at dusk|730|892x502]]
+![[raw/assets/banners/Saltwright.webp|The Saltwright, a dark-sailed wooden ship crossing rough seas at dusk|730|892x502]]
 
 A hard-used two-masted merchant brig captained by **[[Beaumont-Sel|Beaumont Sel]]**, who offered you passage to [[places/port-tidefall/index|Port Tidefall]]
 
@@ -228,4 +228,4 @@ Once you have a concept, schedule a short character interview with the DM. The g
 - [[campaign-timeline]] — Campaign Timeline
 - [[Narrow]] — The Narrow
 - [[Umberlee]] — Umberlee and the Waveservants
-- [[Calveno-Secrets]] — Calveno
+- [[Calveno]] — Calveno

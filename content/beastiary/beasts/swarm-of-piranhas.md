@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-piranhas.md
 aliases:
   - Swarm of Piranhas
 title: Swarm of Piranhas
@@ -22,8 +21,8 @@ Piranha swarms favour still or slow-moving freshwater with something bleeding in
 
 ## Related
 
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Midchain]] — The Midchain
+- [[Shattered-Sea]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea
 - [[giant-constrictor-snake]] — Giant Constrictor Snake
 - [[giant-axe-beak]] — Giant Axe Beak

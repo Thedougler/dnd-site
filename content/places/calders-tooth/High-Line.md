@@ -4,13 +4,13 @@ aliases:
   - High Line
 title: High-Line
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - village
   - fishing
 ---
 
-# [[High-Line-Secrets|High-Line]]
+# High-Line
 
 A fishing hamlet built into the northeastern cliffs of [[places/calders-tooth/index|Calder's Tooth]], where the cold upwellings come in thick with yellowtail and the rock face drops straight to the water. There is no beach. There are no docks. What there is: massive counterweighted wooden winches bolted to the cliff edge, lowering nets down the face and hauling the catch back up.
 

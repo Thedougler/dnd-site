@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-vulture.md
 aliases:
   - Giant Vulture
 title: Giant Vulture

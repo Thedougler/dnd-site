@@ -1,12 +1,11 @@
 ---
 publish: true
-permalink: /places/sunken-crown/Keth-Naar.md
 aliases:
   - Keth Naar
   - Keth-Naar Island
 title: Keth-Naar
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - city
   - tabaxi

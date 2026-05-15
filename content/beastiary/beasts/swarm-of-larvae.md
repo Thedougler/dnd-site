@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-larvae.md
 aliases:
   - Swarm of Larvae
 title: Swarm of Larvae

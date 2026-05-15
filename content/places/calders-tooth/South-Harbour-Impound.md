@@ -1,18 +1,17 @@
 ---
 publish: true
-permalink: /places/calders-tooth/South-Harbour-Impound.md
 aliases:
   - Tidefall Impound
 title: South Harbour Impound
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - south_harbour
   - dravosi
 ---
 
-# [[South-Harbour-Impound-Secrets|South Harbour Impound]]
+# South Harbour Impound
 
 The east pier ends at a chain hung between two iron posts, a hand-lettered sign wired to the middle: _Crown Impound — No Access Without Clerk Authorization._ Several vessels on the far side, sitting low in their berths. A lamp burns in the small hut at the pier head.
 

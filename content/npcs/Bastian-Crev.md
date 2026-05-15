@@ -52,4 +52,4 @@ The bird outlived three ships and one mutiny. It died aboard the _Loud Argument_
 - [[Maren]]
 - [[Detto-Kalash]]
 - [[Sienne-Orre]]
-- [[Pearl-of-Souls-Secrets|Pearl of Souls]]
+- [[situations/Pearl-of-Souls-Item|Pearl of Souls]]

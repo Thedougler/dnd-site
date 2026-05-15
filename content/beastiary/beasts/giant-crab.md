@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-crab.md
 aliases:
   - Giant Crab
 title: Giant Crab

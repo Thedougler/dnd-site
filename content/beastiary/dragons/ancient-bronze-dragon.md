@@ -31,5 +31,5 @@ An ancient bronze dragon old enough to have watched the Antheri ruins since befo
 
 ## Related
 
-- [[High-Eyrie-Secrets]] — The High Eyrie
+- [[High-Eyrie]] — The High Eyrie
 - [[Antheri-Ruins]] — Antheri Ruins

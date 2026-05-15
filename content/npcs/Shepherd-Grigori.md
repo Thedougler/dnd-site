@@ -36,5 +36,5 @@ He's supposed to be impossible to kill. Poison. Drowning. Worse. He survives. Th
 - [[Royal courts]]
 - [[HCS-Surety]]
 - [[Barnaby-Rook]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
 - [[Shattered-Sea]]

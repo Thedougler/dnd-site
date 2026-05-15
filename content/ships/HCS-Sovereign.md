@@ -160,4 +160,4 @@ For full broadside and multi-deck volley mechanics: see [[Ship-Combat]].
 - [[Ship-Combat]]
 - [[ships/index]]
 - [[Port-Tidefall]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]

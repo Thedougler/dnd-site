@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-bat.md
 aliases:
   - Giant Bat
 title: Giant Bat

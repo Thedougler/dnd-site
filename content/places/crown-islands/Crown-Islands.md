@@ -4,7 +4,7 @@ aliases:
   - Crown Islands
 title: The Crown Islands
 created: 2026-05-01
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - location
   - crown-islands
@@ -14,7 +14,7 @@ tags:
 
 # The Crown Islands
 
-![[raw/assets/1778025470700~2.png]]
+![[1778025470700~2.png]]
 ![[raw/assets/banners/Crown-Islands.webp|Mountainous green Crown Islands ringed by bright reefs under clearing storm clouds]]
 
 ## Overview
@@ -45,4 +45,4 @@ The northern Greyteeth is a different category of concern. An [[beastiary/dragon
 
 ---
 
-- [[places/crown-islands/index|Crown Islands Index]] · [[places/index|Places]] · [[index|The Shattered Sea]] · [[Crown-Islands-Secrets|DM Notes ⚿]]
+- [[places/crown-islands/index|Crown Islands Index]] · [[places/index|Places]] · [[index|The Shattered Sea]]

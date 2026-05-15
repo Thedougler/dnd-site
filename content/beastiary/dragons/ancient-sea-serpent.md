@@ -37,4 +37,4 @@ The most repeated recent account comes from a Tail longliner that worked too far
 - [[young-sea-serpent]] — Young Sea Serpent
 - [[Tail|The Tail]]
 - [[Outer-Reach]] — The Outer Reach
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea

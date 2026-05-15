@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/monstrosity/mimic.md
 title: Mimic
 created: 2026-04-25
 modified: 2026-05-05

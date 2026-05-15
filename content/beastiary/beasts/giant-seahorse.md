@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-seahorse.md
 aliases:
   - Giant Seahorse
 title: Giant Seahorse

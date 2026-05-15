@@ -53,5 +53,5 @@ She sold them something disposable — cheap enough to pass Crown intake as "amp
 - [[Sorn]]
 - [[Grung-Clans]]
 - [[Verdant-Teeth]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
 - [[Shattered-Sea]]

@@ -16,14 +16,6 @@ tags:
 
 See [[Crown-Islands|The Crown Islands]] for region overview.
 
-- [[Calders-Tooth-Overview]]
-- [[Aldenmere]]
-- [[calven-summary|Calven]]
-- [[Harwick]]
-- [[Stenmark]]
-
----
-
 ## Islands & Settlements
 
 ### [[places/calders-tooth/index|Calder's Tooth]]
@@ -40,21 +32,17 @@ The oldest settled island in the northern arc, three days east of Tidefall. Low-
 - [[places/calveno/index|Calveno]] — canal city of pale stone, witnessed deals, and a thousand conversations in the open; oldest continuous commercial centre in the Scatter.
 - [[Warren|The Warren]] — rumoured Rattkin settlement beneath Calveno's Le Paludi district; only a member of the Passage could confirm the details.
 
-### [[places/crown-islands/harwick/index|Harwick]]
+### [[Harwick]]
 
 The Crown's primary naval base in the Shattered Sea and the military centre of Dravosi power in the region. The Harwick Naval Yard has built every class of Crown warship for six generations of governors. The Admiralty here administers patrol rotations, commission papers, and sealed orders for the entire fleet.
 
-### [[places/crown-islands/aldenmere/index|Aldenmere]]
+### [[Aldenmere]]
 
 The quietest island in the northern arc — farms, fishing fleets, and a small harbour organised around a broad inland tidal lake called the mere. No military installation. The Crown collects tithes twice a year and otherwise leaves it alone.
 
-### [[places/crown-islands/stenmark/index|Stenmark]]
+### [[Stenmark]]
 
 The easternmost Crown island. From the eastern cliffs, the Drowned Maw's water discolouration is visible on clear days — the blue-green of the Scatter going flat and dark at the horizon. A Crown signal station watches the Maw edge and files monthly reports nobody cross-references as often as they should.
-
-### [[High-Eyrie|The High Eyrie]]
-
-A basalt sea-stack monastery of the Sentinels of the Eyrie; the Tail's main watch post.
 
 ---
 

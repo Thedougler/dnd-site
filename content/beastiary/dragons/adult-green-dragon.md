@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/adult-green-dragon.md
 aliases:
   - Adult Green Dragon
 title: Adult Green Dragon

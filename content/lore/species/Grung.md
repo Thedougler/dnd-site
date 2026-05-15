@@ -20,7 +20,9 @@ _Small Humanoid_
 
 Grung are brilliantly colored amphibious humanoids native to tropical rainforests and fetid swamps. Their vivid hues — emerald green, blazing orange, royal blue, imperial purple, vibrant red, and gleaming gold — simultaneously signal lethal toxicity to predators and denote rigid social caste within grung civilization. To touch a grung uninvited is to invite a miserable death.
 
-In the [[Shattered-Sea|Shattered Sea]], grung are found primarily in the interior of the [[Verdant-Teeth|Verdant Teeth]] island cluster. See [[Grung-Clans]] for the full society, caste structure, and faction details.
+In the [[Shattered-Sea|Shattered Sea]], grung are found primarily in the interior of the [[Verdant-Teeth|Verdant Teeth]] island cluster. They appear as short, lean, humanoid poison dart frogs with vibrant toxic skin in one of several bright shades—vivid green, orange, blue, purple, red, or gold—with patterns of black intermixed in the color. Their skin is smooth and slick, a constant visual warning of their lethal biology.
+
+See [[Grung-Clans]] for the full society, caste structure, and faction details.
 
 ---
 
@@ -85,5 +87,5 @@ Skin colour determines social caste at birth. See [[Grung-Clans]] for full proto
 - [[Verdant-Teeth]]
 - [[places/midchain/index]]
 - [[characters/jean-claude/Jean-Claude-Tabarnack]]
-- [[Midchain-Secrets]]
+- [[Midchain]]
 - [[raw/ingested/Grappled]]

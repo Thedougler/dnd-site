@@ -13,7 +13,7 @@ tags:
 
 # Crisdalynn Khinriss
 
-![[Crissdalynn.webp|Crissdalynn, a blue-feathered aarakocra, bracing on a ship's deck in high wind|355x193]]
+![[raw/assets/banners/Crissdalynn-Archer.webp|Crissdalynn, a blue-feathered aarakocra, bracing on a ship's deck in high wind|355x193]]
 
 > _Strangers hide their children. Crewmates know she'll pocket anything that catches the light._
 

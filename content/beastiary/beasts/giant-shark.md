@@ -24,7 +24,7 @@ The distinction pilots draw is size. Hunter sharks are routine. A giant shark is
 ## Related
 
 - [[Tail|The Tail]]
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea
 - [[giant-constrictor-snake]] — Giant Constrictor Snake
 - [[giant-axe-beak]] — Giant Axe Beak

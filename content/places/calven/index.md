@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/calven/index.md
 aliases:
   - Calven Island
   - Isle of Calven
@@ -17,7 +16,7 @@ tags:
 
 # Calven
 
-![[raw/assets/1778025387596~2.png]]
+![[1778025387596~2.png]]
 
 ## Overview
 

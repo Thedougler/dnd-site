@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/index.md
 title: Beasts
 created: 2026-05-05
 modified: 2026-05-05

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-ravens.md
 aliases:
   - Swarm of Ravens
 title: Swarm of Ravens

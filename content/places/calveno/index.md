@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/calveno/index.md
 title: Calveno — Index
 created: 2026-05-01
 modified: 2026-05-05
@@ -29,7 +28,7 @@ See [[Calveno]] for city overview.
 - [[Iacopo-Fieschi|Iacopo Fieschi]] — Tessarine Concordat envoy to Calveno; the public human face of Concordat authority here.
 - [[Catarina-DaVirelli|Catarina Da Virelli]] — artificer operating by referral only; the foremost living practitioner in the region.
 - [[Anzolo|Anzolo]] — a contact vouched for by Nona Black-Jaw; "a nice young man who always helps an old lady out with chores."
-- [[Cosimo-Verantio-Secrets|Cosimo Verantio]] — elderly Tessarine merchant, white-bearded, dressed in plain cloth that costs more than it looks.
+- [[Cosimo-Verantio|Cosimo Verantio]] — elderly Tessarine merchant, white-bearded, dressed in plain cloth that costs more than it looks.
 
 ---
 

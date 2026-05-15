@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-rats.md
 aliases:
   - Swarm of Rats
 title: Swarm of Rats

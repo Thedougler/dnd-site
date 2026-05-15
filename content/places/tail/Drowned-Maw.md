@@ -5,7 +5,7 @@ aliases:
   - Maw
 title: The Drowned Maw
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - landmark
 ---
@@ -63,7 +63,6 @@ Below the shelf, the scale stops being useful for practical planning. The Maw ha
 - [[Antheri-Ruins|Antheri Ruins]]
 - [[places/tail/index|The Tail]]
 - [[Outer-Reach|The Outer Reach]]
-- [[Drowned-Maw-Secrets|Drowned Maw - DM Notes]]
 
 ## Related
 

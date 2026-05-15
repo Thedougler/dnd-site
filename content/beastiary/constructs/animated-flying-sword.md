@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/constructs/animated-flying-sword.md
 aliases:
   - Animated Flying Sword
 title: Animated Flying Sword

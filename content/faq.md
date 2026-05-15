@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /faq.md
 title: FAQ
 created: 2026-05-03
 modified: 2026-05-03

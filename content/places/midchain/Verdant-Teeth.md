@@ -4,7 +4,7 @@ aliases:
   - Verdant Teeth
 title: The Verdant Teeth
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - island
   - grung
@@ -55,4 +55,3 @@ The Teeth's interior hazard layer starts at the waterline and runs without gap t
 
 - [[places/midchain/index|The Midchain]]
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Verdant-Teeth-Secrets|DM Notes ⚿]]

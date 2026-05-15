@@ -10,7 +10,7 @@ tags:
   - umberlee
 ---
 
-# [[Umberlee-Secrets|Umberlee]] and the Waveservants
+# [[Umberlee-DM|Umberlee]] and the Waveservants
 
 Umberlee is the sea as sailors fear it: black water under moonless cloud, a mast cracking in a squall, a reef appearing where the chart promised depth, the wave that takes one person and leaves the rest alive to remember it. Her common title is **the Bitch Queen**, and in the [[Shattered-Sea|Shattered Sea]] the name is spoken with less blasphemy than caution.
 

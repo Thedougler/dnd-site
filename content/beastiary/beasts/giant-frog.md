@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-frog.md
 aliases:
   - Giant Frog
 title: Giant Frog

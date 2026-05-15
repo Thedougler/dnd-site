@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/constrictor-snake.md
 aliases:
   - Constrictor Snake
 title: Constrictor Snake

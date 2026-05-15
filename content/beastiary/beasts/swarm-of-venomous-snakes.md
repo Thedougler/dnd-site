@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/swarm-of-venomous-snakes.md
 aliases:
   - Swarm of Venomous Snakes
 title: Swarm of Venomous Snakes

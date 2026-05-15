@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-toad.md
 aliases:
   - Giant Toad
 title: Giant Toad

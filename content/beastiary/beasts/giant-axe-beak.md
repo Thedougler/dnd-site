@@ -38,4 +38,4 @@ Farther east, the [[places/tail/index|Tail]] can support colder cliff-saddle bir
 
 - [[Tail|The Tail]]
 - [[Calders-Tooth-Overview|Calder's Tooth]]
-- [[Midchain-Secrets]] — The Midchain
+- [[Midchain]] — The Midchain

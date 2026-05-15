@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-wasp.md
 aliases:
   - Giant Wasp
 title: Giant Wasp

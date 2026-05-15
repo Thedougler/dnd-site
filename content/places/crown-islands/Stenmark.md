@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/crown-islands/Stenmark.md
 aliases:
   - Stenmark Island
   - Isle of Stenmark
@@ -18,7 +17,7 @@ tags:
 
 # Stenmark
 
-![[raw/assets/1778027722232~2 1.png]]
+![[1778027722232~2 1.png]]
 
 ## Overview
 

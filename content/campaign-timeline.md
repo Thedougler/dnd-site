@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /campaign-timeline.md
 title: Campaign Timeline
 created: 2026-04-15
 modified: 2026-05-02

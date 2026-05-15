@@ -1,8 +1,7 @@
 ---
 publish: true
-permalink: /ships/index.md
 title: Ships
-created: 2026-05-06T02:31:45.152-07:00
+created: 2026-05-14T21:51:39.200-07:00
 modified: 2026-05-02
 tags:
   - player-resource
@@ -50,4 +49,4 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 ---
 
-For ship rules and mechanics, see [[Ship-Stats|Ship Stats]] and [[Ship-Bastion|Ship Bastion]] · [[index|The Shattered Sea]].
+For ship rules and mechanics, see [[Ship-Stats|Ship Stats]] · [[Ship-Bastion|Ship Bastion]] · [[ships/upgrades/index|Upgrades]] · [[index|The Shattered Sea]].

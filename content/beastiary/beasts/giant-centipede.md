@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-centipede.md
 aliases:
   - Giant Centipede
 title: Giant Centipede

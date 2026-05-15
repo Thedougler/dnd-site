@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/boar.md
 aliases:
   - Boar
 title: Boar

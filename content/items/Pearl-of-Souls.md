@@ -9,9 +9,9 @@ tags:
   - souls
 ---
 
-# [[items/Pearl-of-Souls-Secrets|Pearl of Souls]]
+# [[situations/Pearl-of-Souls-Item|Pearl of Souls]]
 
-![[Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
+![[raw/assets/banners/Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
 A pearl the size of a closed fist. Black as deep water, with an iridescent sheen that shifts under the light in a way that never quite resolves. It is never entirely still. Anyone with a sensitivity to the dead will feel it before they see it.
 
 The Pearl is a divine instrument of [[lore/Umberlee|Umberlee]]. For years it sat in one of her shrines, tended by the [[Waveservants|Waveservants]], doing what it does. [[characters/delmar/Delmar-Fisk|Delmar Fisk]] took it. He did not know what it was.

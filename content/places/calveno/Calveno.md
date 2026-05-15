@@ -2,7 +2,7 @@
 publish: true
 title: Calveno
 created: 2026-05-01
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - location
   - city
@@ -13,9 +13,7 @@ tags:
 
 # Calveno
 
-> _See also: [[Calveno-Secrets]] (GM only)_
-
-![[Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
+![[raw/assets/banners/Calveno.webp|Sunlit canal city of pale stone buildings and boats moving through turquoise water]]
 
 ## Overview
 

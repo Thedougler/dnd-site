@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-wolf-spider.md
 aliases:
   - Giant Wolf Spider
 title: Giant Wolf Spider

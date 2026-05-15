@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/index.md
 aliases:
   - Bestiary
   - Shattered Sea Bestiary

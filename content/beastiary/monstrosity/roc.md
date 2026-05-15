@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/monstrosity/roc.md
 aliases:
   - Roc
 title: Roc

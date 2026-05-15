@@ -4,7 +4,7 @@ aliases:
   - Veth Island
 title: Veth
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - island
   - grung
@@ -46,4 +46,3 @@ The limestone ridges above the beach are [[beastiary/beasts/giant-scorpion|giant
 
 - [[places/midchain/index|The Midchain]]
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Veth-Secrets|DM Notes ⚿]]

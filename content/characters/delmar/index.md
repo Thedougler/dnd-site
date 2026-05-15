@@ -1,8 +1,7 @@
 ---
 publish: true
-permalink: /characters/delmar/index.md
-created: 2026-05-06T04:33:31.760-07:00
-modified: 2026-05-09T19:22:07.292-07:00
+created: 2026-05-14T21:39:30.872-07:00
+modified: 2026-05-14T21:39:30.872-07:00
 ---
 
 # Delmar Fisk Player Character Index

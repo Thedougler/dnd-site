@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/ancient-dragon-turtle.md
 aliases:
   - Ancient Dragon Turtle
 title: Ancient Dragon Turtle

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/fiend/sahuagin-baron.md
 aliases:
   - Sahuagin Baron
 title: Sahuagin Baron

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/species/Aarakocra.md
 title: Aarakocra
 created: 2026-04-21
 modified: 2026-04-22

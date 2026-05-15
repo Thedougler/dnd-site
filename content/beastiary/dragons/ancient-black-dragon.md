@@ -19,7 +19,7 @@ cssclasses:
 
 ---
 
-## In [[Shattered-Sea-Secrets|The Shattered Sea]]
+## In [[Shattered-Sea|The Shattered Sea]]
 
 The oldest Midchain pilots know that [[Aruhe|Aruhe]] is not avoided because of the [[Grung]]. The Grung don't go there either.
 
@@ -31,7 +31,7 @@ The Grung name for Aruhe doesn't translate, but the [[Sorn]] intermediaries who 
 
 ## Related
 
-- [[Midchain-Secrets]] — The Midchain
+- [[Midchain]] — The Midchain
 - [[Shattered-Sea]] — The Shattered Sea
 - [[Grung-Clans]] — The Grung Clans
 - [[Sorn]] — Sorn

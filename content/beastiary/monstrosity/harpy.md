@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/monstrosity/harpy.md
 aliases:
   - Harpy
 title: Harpy

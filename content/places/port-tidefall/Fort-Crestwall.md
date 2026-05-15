@@ -1,15 +1,14 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Fort-Crestwall.md
 title: Fort Crestwall
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - dravosi
 ---
 
-# [[Fort-Crestwall-Secrets|Fort Crestwall]]
+# Fort Crestwall
 
 ![[raw/assets/banners/Fort-Crestwall.webp|Round stone sea fort on a cliff edge above crashing waves]]
 

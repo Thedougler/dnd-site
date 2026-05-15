@@ -128,7 +128,7 @@ Replacing the Captain's Cabin with an Expanded Cargo Hold is possible, but it ch
 - [[Dravosi-Crown]]
 - [[The-Bad-Receipt]]
 - [[The-Glass-Debt]]
-- [[Midchain-Secrets]]
+- [[Midchain]]
 
 ## Session Events
 

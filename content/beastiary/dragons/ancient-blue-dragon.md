@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/ancient-blue-dragon.md
 aliases:
   - Ancient Blue Dragon
 title: Ancient Blue Dragon
@@ -20,7 +19,7 @@ cssclasses:
 
 ---
 
-## In [[Shattered-Sea-Secrets|The Shattered Sea]]
+## In [[Shattered-Sea|The Shattered Sea]]
 
 The Redwind Isles are described on pilot charts as hot, arid, and barely inhabited. The barely is doing significant work.
 

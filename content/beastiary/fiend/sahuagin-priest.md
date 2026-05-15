@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/fiend/sahuagin-priest.md
 aliases:
   - Sahuagin Priest
 title: Sahuagin Priest

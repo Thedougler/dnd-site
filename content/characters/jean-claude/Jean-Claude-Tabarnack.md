@@ -13,7 +13,7 @@ tags:
 
 # Jean-Claude Tabarnack
 
-![[Jean-Claude.webp|Jean-Claude, a blue grung ranger in a red beret, standing on a docked boat with a bow]]
+![[raw/assets/banners/Jean-Claude-Archer.webp|Jean-Claude, a blue grung ranger in a red beret, standing on a docked boat with a bow]]
 
 > _He moves through human ports wearing a beret and a fake moustache. His reasoning is internally consistent._
 

@@ -97,7 +97,7 @@ The Mark goes on the character sheet as a standard mechanical note. Disadvantage
 
 - [[characters/perrin/Perrin-Black-Jaw]]
 - [[characters/jean-claude/Jean-Claude-Tabarnack]]
-- [[Shattered-Sea-Secrets]]
+- [[Shattered-Sea]]
 - [[Shattered-Sea]]
 - [[SRD-Actions]]
 - [[raw/ingested/session-zero]]

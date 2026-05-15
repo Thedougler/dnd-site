@@ -1,17 +1,16 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Tidefall-Chandlery.md
 aliases:
   - The Tidefall Chandlery
 title: Tidefall Chandlery
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - dravosi
 ---
 
-# [[Tidefall-Chandlery-Secrets|Tidefall Chandlery]]
+# Tidefall Chandlery
 
 Tidefall Chandlery is the main resupply shop for vessels clearing [[places/port-tidefall/index|Port Tidefall]] inspection. It sits at the Dockfront end of the Shelf, with barrels and supply crates stacked outside, a long counter inside, and a price board mounted where nobody can claim they did not see it.
 

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/constructs/animated-rug-of-smothering.md
 aliases:
   - Animated Rug of Smothering
 title: Animated Rug of Smothering

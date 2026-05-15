@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/conditions/index.md
 title: Conditions
 created: 2026-05-03
 modified: 2026-05-03

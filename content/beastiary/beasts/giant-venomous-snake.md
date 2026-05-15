@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-venomous-snake.md
 aliases:
   - Giant Venomous Snake
 title: Giant Venomous Snake

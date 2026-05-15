@@ -1,19 +1,18 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Governors-Seat.md
 aliases:
   - Governor's Seat
   - Tidefall Governor's Seat
 title: Governor's Seat — Port Tidefall
 created: 2026-05-02
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - building
   - dravosi
   - government
 ---
 
-# [[Governors-Seat-Tidefall-Secrets|Governor's Seat — Port Tidefall]]
+# Governor's Seat — Port Tidefall
 
 Colonial stonework set back from the Shelf trade houses — pale stone, iron shutters on the ground floor, the largest Dravosi flag in the city above the door. Two guards in parade dress flank the entrance, hands behind backs, eyes forward. A small brass placard beside the door reads: _Formal Petitions — First Tide, Tuesday._
 

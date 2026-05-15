@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/class/index.md
 title: Classes
 created: 2026-05-03
 modified: 2026-05-03

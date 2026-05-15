@@ -1,16 +1,15 @@
 ---
 publish: true
-permalink: /places/port-tidefall/Anchor-and-Line.md
 title: The Anchor & Line
 created: 2026-05-05
-modified: 2026-05-05
+modified: 2026-05-14
 tags:
   - building
   - tavern
   - rattkin
 ---
 
-# [[Anchor-and-Line-Secrets|The Anchor & Line]]
+# The Anchor & Line
 
 The Anchor & Line is the only tavern on the [[places/port-tidefall/index|Port Tidefall]] Dockfront proper. Low ceiling, long benches, a bar running the full length of one wall. The smell hits first — cheap rum, salt, wet rope.
 

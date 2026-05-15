@@ -1,11 +1,10 @@
 ---
 publish: true
-permalink: /places/midchain/Kalowe.md
 aliases:
   - Kalowe Free Port
 title: Kalowe
 created: 2026-05-01
-modified: 2026-05-03
+modified: 2026-05-14
 tags:
   - harbour
 ---
@@ -44,4 +43,3 @@ Piracy enters Kalowe through repair bills, not banners. A [[beastiary/humanoid/p
 - [[places/midchain/index|The Midchain]]
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Kalowe-Secrets|DM Notes ⚿]]

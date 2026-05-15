@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/adult-blue-dragon.md
 aliases:
   - Adult Blue Dragon
 title: Adult Blue Dragon
@@ -20,7 +19,7 @@ cssclasses:
 
 ---
 
-## In [[Shattered-Sea-Secrets|The Shattered Sea]]
+## In [[Shattered-Sea|The Shattered Sea]]
 
 Blue dragons are territorial rather than predatory in the way that matters to shipping. They don't hunt vessels. They tax them.
 

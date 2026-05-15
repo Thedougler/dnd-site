@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-rat.md
 aliases:
   - Giant Rat
 title: Giant Rat

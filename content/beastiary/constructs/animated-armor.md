@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/constructs/animated-armor.md
 aliases:
   - Animated Armor
 title: Animated Armor

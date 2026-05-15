@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-octopus.md
 aliases:
   - Giant Octopus
 title: Giant Octopus

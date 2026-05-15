@@ -14,7 +14,7 @@ tags:
 
 # The Tessarine Concordat
 
-![[Tessarine-Concordat-Flag.webp]]
+![[raw/assets/banners/Tessarine-Concordat-Flag.webp]]
 
 > The Concordat does not conquer. It lends. By the time a city notices, the vote is already theirs.
 

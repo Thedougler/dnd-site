@@ -13,7 +13,7 @@ cssclasses:
 
 # The Vestra
 
-![[The-Vestra.webp]]
+![[raw/assets/banners/The-Vestra.webp]]
 
 > [!READ-ALOUD]
 > A small two-masted brig rides low in the water, old-built and hard-worked, her topsides painted a deep green that has been reapplied so many times it no longer matches from plank to plank. At the prow stands a rat figurehead with one hand extended, palm up. She is compact, practical, and clearly modified for a small crew travelling light.
@@ -49,5 +49,5 @@ Fitted for a small independent crew — not cargo hauling or line fighting, just
 - [[characters/perrin/Perrin-Black-Jaw]]
 - [[Nona-Black-Jaw]]
 - [[ships/index]]
-- [[Midchain-Secrets]]
-- [[Shattered-Sea-Secrets]]
+- [[Midchain]]
+- [[Shattered-Sea]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-scorpion.md
 aliases:
   - Giant Scorpion
 title: Giant Scorpion
@@ -28,5 +27,5 @@ Most crews learn about them from repair work. A hull carpenter named Duvane, sen
 
 - [[giant-bat]] — Giant Bat
 - [[Narrow]] — The Narrow
-- [[Midchain-Secrets]] — The Midchain
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Midchain]] — The Midchain
+- [[Shattered-Sea]] — The Shattered Sea

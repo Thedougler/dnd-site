@@ -13,7 +13,7 @@ tags:
 
 # Stripes Bitemore
 
-![[Belmore.webp|Belmore, a tiger tabaxi fighter, crouched on a ship's deck with spear ready]]
+![[raw/assets/banners/Belmore-Archer.webp|Belmore, a tiger tabaxi fighter, crouched on a ship's deck with spear ready]]
 
 ---
 

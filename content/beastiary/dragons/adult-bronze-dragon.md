@@ -29,6 +29,6 @@ The shapechange ability is the reason the legend has no single face. Bronze drag
 
 ## Related
 
-- [[Shattered-Sea-Secrets]] — The Shattered Sea
+- [[Shattered-Sea]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea
 - [[Galewall]] — The Galewall

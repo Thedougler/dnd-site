@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/unicorn.md
 aliases:
   - Unicorn
 title: Unicorn

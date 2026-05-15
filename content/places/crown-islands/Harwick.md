@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /places/crown-islands/Harwick.md
 aliases:
   - Harwick Island
 title: Harwick
@@ -18,7 +17,7 @@ tags:
 
 # Harwick
 
-![[raw/assets/1778027612063~2.png]]
+![[1778027612063~2.png]]
 
 ## Overview
 

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/index.md
 title: Dragons
 created: 2026-05-05
 modified: 2026-05-05

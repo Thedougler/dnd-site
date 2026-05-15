@@ -49,8 +49,6 @@ The Alchemist was brought down. Rook hauled himself back over the rail, raised h
 
 ![[raw/assets/session-art/session-01-07-beaumont-deflection.webp|Archer-style adult animated illustration, widescreen final beat on the Saltwright deck, Barnaby Rook hauls himself over the rail from the HCS Surety side in a dark Crown officer coat and fires a flintlock at Beaumont Sel; the bullet sparks off Beaumont's mirror-bright Salvaged Antheri Plate, a single dark Antheri-alloy pauldron fitted flush over the upper-right breach of his river-mud brown ridged tortle shell, ricocheting toward the sea; Beaumont is an old alligator-snapping tortle captain with sun-bleached leather eye cover, broad undershot jaw, short clay pipe, Bisou the capuchin clinging to his left shoulder, unhurried and unimpressed as he reaches for a boat hook; wet deck, Crown cutter beside old merchant brig, clean vector-like linework, cel-shaded storm light, no text]]
 
-Beaumont picked up a boat hook.
-
 _"Boy, I shit out harder things than you every mornin'."_
 
 That's where we left it.
@@ -59,17 +57,17 @@ That's where we left it.
 
 ## State at Break
 
-| | |
-|---|---|
-| **[[Barnaby-Rook\|Barnaby Rook]]** | Unharmed. Alone. Flintlock expended. |
-| **All [[Dravosi-Crown\|Dravosi]] crew** | Dead or defected |
-| **[[Geoffrey-Draves\|Geoffrey Draves]]** | Defected; party's first crew member |
-| **[[Beaumont-Sel\|Beaumont Sel]]** | In the fight, boat hook |
-| **Party resources** | Largely intact |
+|                                          |                                      |
+| ---------------------------------------- | ------------------------------------ |
+| **[[Barnaby-Rook\|Barnaby Rook]]**       | Unharmed. Alone. Flintlock expended. |
+| **All [[Dravosi-Crown\|Dravosi]] crew**  | Dead or defected                     |
+| **[[Geoffrey-Draves\|Geoffrey Draves]]** | Defected; party's first crew member  |
+| **[[Beaumont-Sel\|Beaumont Sel]]**       | In the fight now.                    |
+| **Party resources**                      | Largely spent                        |
 
 ## Threads Left Open
 
-- **The Rook Resolution** — He is pragmatic. There is a conversation to be had if the party wants it.
+- **The Rook Resolution**
 - **The Canister** — Jean-Claude knows. The party doesn't yet. [[Simone-Tabarnack|Simone Tabarnack]] is supplying the [[Dravosi-Crown|Dravosi Crown]] with [[Grung-Clans|Grung]]-made toxin. The Alchemist's bandolier may still have canisters on it.
 - **The [[HCS-Surety|HCS Surety]]** — Rook's ship, uncrewed. What happens to it depends on what happens to Rook.
 - **[[Geoffrey-Draves|Geoffrey Draves]]** — First crew member. No ship to assign him to yet.

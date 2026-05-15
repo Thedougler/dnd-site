@@ -19,9 +19,11 @@ The Enforcer came first. The crew had taken to calling him Cap'n Gorgeous, and t
 
 ![[raw/assets/session-art/session-01-02-capn-gorgeous-ambush.webp|Archer-style adult animated illustration, widescreen action scene in the dim cargo hold of the Saltwright, Cap'n Gorgeous the Dravosi enforcer has just stepped off the ladder into ambush, tall athletic human with long golden hair, coin-worthy jawline, pale blue eyes, dark Crown naval coat, and heavy crossbow; Delmar Fisk fires from the shadows with sandy red topknot, thick sandy-red beard and curled moustache, scarlet admiral coat, and musket flash filling the tight hold with smoke; Crisdalynn Khinriss, a dark blue-black crow aarakocra monk, moves fast to drag the fallen enforcer back through Perrin Black-Jaw's subtle purple Minor Illusion doorway; cramped barrels and rope everywhere, clean vector-like linework, cel-shaded lantern light, no gore, no text]]
 
-Delmar knelt at the foot of the ladder and Crisdalynn didn't slow down. She hit his hands at a run and he launched her up through the hatch like a crack of thunder. Her wings snapped open the moment she cleared the weather deck and sent the two nearest Dravosi sprawling. Perrin and [[private/players/Jean-Claude-Tabarnack|Jean-Claude]] emerged through a gap in the decking at a second angle, catching the remaining crew between them. It was over quickly. Both Dravosi Enforcers died in the press of it. When the last deckhand, a young man maybe nineteen with frightened eyes, dropped his sword and went still, Rook's voice cut across the deck from the gangplank.
+Delmar knelt at the foot of the ladder and Crisdalynn didn't slow down. She hit his hands at a run and he launched her up through the hatch like a crack of thunder. Her wings snapped open the moment she cleared the weather deck and sent the two nearest Dravosi sprawling. Perrin and [[private/players/Jean-Claude-Tabarnack|Jean-Claude]] emerged through a gap in the decking at a second angle, catching the remaining crew between them. It was over quickly. Both Dravosi Enforcers died in the press of it.
 
 ![[raw/assets/session-art/session-01-03-crisdalynn-breach.webp|Archer-style adult animated illustration, widescreen deck fight on the Saltwright weather deck under grey Midchain light, Delmar Fisk with sandy red topknot and thick sandy-red beard braces at the hatch in a scarlet admiral coat after launching Crisdalynn Khinriss upward; Crisdalynn explodes through the opening as a dark blue-black crow aarakocra monk with wings snapping wide, talons forward, geometric leatherwork, and chart satchel, knocking two navy-blue Dravosi sailors with brass buttons sprawling across wet planks; Perrin Black-Jaw, a three-foot hooded fancy-rat Rattkin, and Jean-Claude Tabarnack, a three-foot lean electric-blue humanoid poison dart frog with long thin limbs, splayed adhesive fingers and toes, large black underside patches, geometric black bands, red beret, false black moustache, ranger harness, shortbow and quiver, emerge from a second deck gap with hunter readiness; old plain merchant brig details, patched rail, working rigging, low deckhouse aft, clean vector-like linework, cel-shaded storm light, no text]]
+
+When the last deckhand, a young man maybe nineteen with frightened eyes, dropped his sword and went still, Rook's voice cut across the deck from the gangplank.
 
 _"I'll shoot you myself for that, you turncoat."_
 
@@ -64,8 +66,6 @@ That's where we left it.
 | **[[Geoffrey-Draves\|Geoffrey Draves]]** | Defected; party's first crew member |
 | **[[Beaumont-Sel\|Beaumont Sel]]** | In the fight, boat hook |
 | **Party resources** | Largely intact |
-
----
 
 ## Threads Left Open
 

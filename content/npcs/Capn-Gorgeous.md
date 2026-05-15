@@ -11,7 +11,7 @@ tags:
 
 # Cap'n Gorgeous
 
-![[Capn-Gorgeous.webp|Cap'n Gorgeous, a striking golden-haired Dravosi enforcer in a dark naval coat, holding a heavy crossbow in the HCS Surety's hold]]
+![[raw/assets/portraits/Capn-Gorgeous-Archer.webp|Cap'n Gorgeous, a striking golden-haired Dravosi enforcer in a dark naval coat, holding a heavy crossbow in the HCS Surety's hold]]
 
 _Real name unknown. It didn't come up._
 

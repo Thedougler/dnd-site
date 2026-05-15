@@ -7,9 +7,7 @@ tags:
   - session-recap
 ---
 
-# Session 01 Recap — The Saltwright
-
-_Canon as delivered. Last updated 2026-05-14._
+# Session 01 Recap — Boarding of the Saltwright
 
 ---
 

@@ -45,7 +45,7 @@ She went to sea because the sea had a set of systems she didn't yet understand, 
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Fernen]]
 - [[Maren]]
 - [[Fisks-Fleet]]

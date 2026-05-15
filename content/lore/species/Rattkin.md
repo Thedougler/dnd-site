@@ -117,7 +117,7 @@ Fancy Rats are the community's go-betweens. Where Black and Brown Rats rely on p
 
 - [[Passage|The Passage]] — canonical Rattkin faction; the traveling network of Runs, Holds, and the universal law
 - [[Warren]] — the only fixed Rattkin settlement, beneath [[places/calveno/index]]
-- [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[places/calveno/index]] Run
+- [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Fancy Rat PC (hooded coloring); from the [[places/calveno/index]] Run
 
 ## Overview
 
@@ -128,6 +128,6 @@ Small humanoids calibrated for getting into places they are not supposed to be. 
 - [[Passage]]
 - [[Warren]]
 - [[places/calveno/index]]
-- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/party/Perrin-Black-Jaw]]
 - [[Calveno]]
 - [[Tail]]

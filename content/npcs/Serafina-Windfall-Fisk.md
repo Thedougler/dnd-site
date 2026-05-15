@@ -43,7 +43,7 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[private/players/Delmar-Fisk]]
 - [[The-Duchess]]
 - [[Red-Lady]]

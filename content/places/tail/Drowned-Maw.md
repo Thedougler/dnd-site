@@ -30,7 +30,7 @@ Pirates do not anchor over the Maw any more than honest captains do, but the rim
 
 ## The Vestra Water
 
-Sailors have started using "Vestra water" for the bad stretch near the Maw where [[characters/perrin/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
+Sailors have started using "Vestra water" for the bad stretch near the Maw where [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
 
 What hit the _Vestra_ remains argued rather than proven. Perrin's signs match the old [[beastiary/sea-life/Leviathan|Leviathan]] chapter in [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary]], but they also match the practical warnings attached to [[ancient-dragon-turtle|ancient dragon turtles]]: scalding fog, heat before impact, and a shell-dark mass rising under the keel. Most captains do not care which name is correct. They care that someone survived long enough to say the water went hot before the ship died. ^\[ambiguous]
 
@@ -67,4 +67,4 @@ Below the shelf, the scale stops being useful for practical planning. The Maw ha
 ## Related
 
 - [[Vestra]] — The Vestra
-- [[characters/perrin/Perrin-Black-Jaw]] — Perrin Black Jaw
+- [[characters/party/Perrin-Black-Jaw]] — Perrin Black Jaw

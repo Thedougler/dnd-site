@@ -20,7 +20,7 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Anzolo|Anzolo]]** — A [[places/calveno/index|Calveno]] contact vouched for by [[Nona-Black-Jaw|Nona]], who describes him as "a nice young man who always helps an old lady out with chores." Take that as you will.
 
-**[[Bastian-Crev|Bastian Crev]]** _(deceased)_ — Combat specialist and captain of the _[[Loud-Argument|Loud Argument]]_, Fisk's gun brig. Drowned at the [[Drowned-Maw|Drowned Maw]]. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
+**[[Bastian-Crev|Bastian Crev]]** _(deceased)_ — Combat specialist and captain of the _[[Loud-Argument|Loud Argument]]_, Fisk's gun brig. Drowned at the [[Drowned-Maw|Drowned Maw]]. His soul is inside [[characters/party/Delmar-Fisk|Delmar Fisk]].
 
 **[[Beaumont-Sel|Beaumont Sel]]** — Tortle captain of the _[[Saltwright|Saltwright]]_. Eleven years on the [[places/midchain/index|Midchain]]. Patient, practical, and rarely without his capuchin on his shoulder.
 
@@ -30,17 +30,17 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Algernon-Reginald-Clyde|Algernon Reginald Clyde]]** — Gnome naturalist on book tour. Meticulous, rigorous, and openly contemptuous of every creature he has spent his life documenting.
 
-**[[Detto-Kalash|Detto Kalash]]** — Earth Genasi captain of the _[[Heft|Heft]]_. Drowned at the Maw when Umberlee sank Fisk's fleet. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
+**[[Detto-Kalash|Detto Kalash]]** — Earth Genasi captain of the _[[Heft|Heft]]_. Drowned at the Maw when Umberlee sank Fisk's fleet. His soul is inside [[characters/party/Delmar-Fisk|Delmar Fisk]].
 
 **[[Aldous-Draves|Aldous Draves]]** — Crown-licensed import factor in [[places/port-tidefall/index|Port Tidefall]] and Geoffrey Draves's father. Thirty years of Crown administrative work, a good coat in an outdated cut, and an unanswered inquiry to the Harbourmaster's Office about a missing patrol cutter.
 
-**[[Geoffrey-Draves|Geoffrey Draves]]** — Young Dravosi ship's carpenter from the [[HCS-Surety]], signed on for marine boarding duties at supplement pay. Surrendered during the Saltwright boarding, accepted his sword back from [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and became the party's first recruited crew member.
+**[[Geoffrey-Draves|Geoffrey Draves]]** — Young Dravosi ship's carpenter from the [[HCS-Surety]], signed on for marine boarding duties at supplement pay. Surrendered during the Saltwright boarding, accepted his sword back from [[characters/party/Delmar-Fisk|Delmar Fisk]], and became the party's first recruited crew member.
 
 **[[Iacopo-Fieschi|Iacopo Fieschi]]** — Tessarine Concordat envoy to [[places/calveno/index|Calveno]]. The visible face of Concordat interests in the city.
 
 **[[Maggie-Porcelain-Pots|Maggie 'Porcelain' Pots]]** — Dragonborn potter, three generations of kilns. Left Delmar Fisk with a shiner that lasted a week.
 
-**[[Maren|Maren]]** — Water Genasi captain of the _[[Narrow|Narrow]]_. Fisk's scout and underwater specialist. Drowned at the Maw. Her soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]]. It is pronounced MARE-EN.
+**[[Maren|Maren]]** — Water Genasi captain of the _[[Narrow|Narrow]]_. Fisk's scout and underwater specialist. Drowned at the Maw. Her soul is inside [[characters/party/Delmar-Fisk|Delmar Fisk]]. It is pronounced MARE-EN.
 
 **[[Master-Kyzil|Master Kyzil]]** — Senior master of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]. Barn owl aarakocra, quiet authority. The man who assigned Crisdalynn her pilgrimage.
 
@@ -48,7 +48,7 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Pell|Pell]]** — Gnome slave and scholar at [[Sorn|Sorn]]. Taught Jean-Claude to see through the caste system. Tortured to death over 31 days. Jean-Claude is living her thesis.
 
-**[[Rael-Corven|Rael Corven]]** — Sorcerer and flag captain of the _[[Red-Lady|Red Lady]]_. The only captain who entered the shrine with Fisk. His soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]], and by all accounts the loudest of the five.
+**[[Rael-Corven|Rael Corven]]** — Sorcerer and flag captain of the _[[Red-Lady|Red Lady]]_. The only captain who entered the shrine with Fisk. His soul is inside [[characters/party/Delmar-Fisk|Delmar Fisk]], and by all accounts the loudest of the five.
 
 **[[Serafina-Windfall-Fisk|Serafina Windfall Fisk]]** — Aasimar fortune-teller, Delmar Fisk's wife. Drawn to specific places by a precognitive pull she stopped trying to fight years ago.
 
@@ -56,7 +56,7 @@ People the party has met, heard about, or probably should remember. Private moti
 
 **[[Shepherd-Grigori|Shepherd Grigori]]** — A wandering holy man known for curing incurable noble afflictions. Moves in royal circles. Impossible to kill, by all accounts.
 
-**[[Sienne-Orre|Sienne Orre]]** — Druid and captain of the _[[Fernen|Fernen]]_. Led the second aquatic scout team with [[Maren|Maren]]. Drowned at the Maw. Her soul is inside [[characters/delmar/Delmar-Fisk|Delmar Fisk]].
+**[[Sienne-Orre|Sienne Orre]]** — Druid and captain of the _[[Fernen|Fernen]]_. Led the second aquatic scout team with [[Maren|Maren]]. Drowned at the Maw. Her soul is inside [[characters/party/Delmar-Fisk|Delmar Fisk]].
 
 **[[Simone-Tabarnack|Simone Tabarnack]]** — Jean-Claude's younger sister. Purple-caste garrison soldier from [[Sorn|Sorn]], disciplined, clan-loyal. The one who told their parents about Pell.
 

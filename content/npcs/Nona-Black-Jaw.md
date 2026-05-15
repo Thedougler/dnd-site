@@ -49,7 +49,7 @@ Her late husband built the ship, captained her for decades, and left her to the 
 
 ## Connections
 
-- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/party/Perrin-Black-Jaw]]
 - [[private/players/Perrin-Black-Jaw]]
 - [[Warren]]
 - [[Warren]]

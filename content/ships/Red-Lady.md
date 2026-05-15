@@ -31,7 +31,7 @@ Built for extended independent operations: fast enough to disengage, armed enoug
 
 ## Crew and Command
 
-[[Rael-Corven|Rael Corven]] served as flag captain. [[characters/delmar/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
+[[Rael-Corven|Rael Corven]] served as flag captain. [[characters/party/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
 
 Every new hand on the _Red Lady_ went through Rael's training program before touching a line in action. He knew every name aboard and built each sailor's duties around their specific capabilities. The ship's reputation as the best-run vessel in the fleet was not incidental — it was a direct result of how he ran it. He worked closely with any natural spellcasters in the fleet alongside his own crew, helping them develop what they had. Several of the _Red Lady_'s more useful fixtures — a self-clearing galley table, a navigation stool that moved with the ship's pitch — were his own quiet craftsmanship.
 
@@ -89,7 +89,7 @@ Three decks, organized for long independent operations.
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Rael-Corven]]
 - [[Crissdalynn-Khinriss]]
 - [[items/Pearl-of-Souls]]

@@ -68,6 +68,6 @@ Battle Master, Champion, Eldritch Knight, Psi Warrior _(2024 PHB)_
 - [[Battle Master]]
 - [[private/players/Stripes-Bitemore]]
 - [[Shattered-Sea]]
-- [[characters/stripes/Stripes-Bitemore]]
+- [[characters/party/Stripes-Bitemore]]
 - [[Shattered-Sea]]
 - [[weapons]]

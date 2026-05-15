@@ -44,7 +44,7 @@ She is currently expanding the operation and scouting locations on other islands
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Serafina-Windfall-Fisk]]
 - [[Vrtek]]
 - [[Elder-Anton]]

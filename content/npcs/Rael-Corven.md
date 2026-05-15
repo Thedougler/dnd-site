@@ -59,7 +59,7 @@ He plays the shawm. He has never done so where anyone could hear him.
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Red-Lady]]
 - [[ships/Red-Lady]]
 - [[Fisks-Fleet]]

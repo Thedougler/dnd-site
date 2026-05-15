@@ -44,7 +44,7 @@ What surfaced, once: he had a horse before the sea. White, almost completely —
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Heft]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

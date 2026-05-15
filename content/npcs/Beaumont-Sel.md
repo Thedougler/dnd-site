@@ -30,7 +30,7 @@ tags:
 
 Beaumont Sel is the captain of the _[[Saltwright]]_, a merchant brig out of [[Kalowe|Kalowe]] working the [[places/midchain/index|Midchain]] route. He has run the same route for eleven years. Same vessel, same patched shell, same monkey on his left shoulder. He handles the route's complications — and the [[places/midchain/index|Midchain]] has plenty — with the patience of someone who has seen most things before and knows that alarm rarely helps.
 
-He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] and [[characters/delmar/Delmar-Fisk|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
+He speaks in an unhurried patois. He does not volunteer information about himself, but he is not unfriendly. When he pulled [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] and [[characters/party/Delmar-Fisk|Delmar Fisk]] from the water after their fleet went down, he did not ask questions. He gave them passage west and left it there.
 
 ## Appearance
 
@@ -67,6 +67,6 @@ He does not appear to find this remarkable.
 - [[Beaumonts-Crew]]
 - [[Bisou]]
 - [[Crissdalynn-Khinriss]]
-- [[characters/delmar/Delmar-Fisk]]
-- [[characters/stripes/Stripes-Bitemore]]
-- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[characters/party/Delmar-Fisk]]
+- [[characters/party/Stripes-Bitemore]]
+- [[characters/party/Jean-Claude-Tabarnack]]

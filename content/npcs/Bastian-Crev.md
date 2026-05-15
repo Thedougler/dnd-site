@@ -19,7 +19,7 @@ tags:
 |              |                                                                        |
 | ------------ | ---------------------------------------------------------------------- |
 | **Role**     | Captain, _[[Loud-Argument\|Loud Argument]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
-| **Status**   | Deceased — soul inside [[characters/delmar/Delmar-Fisk\|Delmar Fisk]]     |
+| **Status**   | Deceased — soul inside [[characters/party/Delmar-Fisk\|Delmar Fisk]]     |
 
 ---
 
@@ -43,7 +43,7 @@ The bird outlived three ships and one mutiny. It died aboard the _Loud Argument_
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Loud-Argument]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

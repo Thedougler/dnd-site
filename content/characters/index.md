@@ -18,5 +18,5 @@ tags:
 
 ## Not Yet Joined
 
-- [[characters/stripes/Stripes-Bitemore|Stripes Bitemore]]
+- [[characters/party/Stripes-Bitemore|Stripes Bitemore]]
 - [[Coralyra-Dranra|Coralyra Dranra]]

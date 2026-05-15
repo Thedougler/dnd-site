@@ -50,7 +50,7 @@ She goes where people tell her not to go. The places with the richest pickings a
 
 ## Connections
 
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Delmar-Fisk]]
 - [[Narrow]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

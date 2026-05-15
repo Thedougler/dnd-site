@@ -130,6 +130,6 @@ The ship can move with three hands, but a normal run carries eight people: a cap
 - [[ships/index]]
 - [[Ship-Stats]]
 - [[Ship-Bastion]]
-- [[characters/perrin/Perrin-Black-Jaw]]
-- [[characters/delmar/Delmar-Fisk]]
+- [[characters/party/Perrin-Black-Jaw]]
+- [[characters/party/Delmar-Fisk]]
 - [[Umberlee]]

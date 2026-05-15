@@ -44,6 +44,6 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 - [[places/midchain/index]]
 - [[Ship-Stats]]
 - [[Clydes-Bestiary-of-Oceanic-Creatures]]
-- [[characters/perrin/Perrin-Black-Jaw]]
+- [[characters/party/Perrin-Black-Jaw]]
 - [[Algernon-Reginald-Clyde]]
 - [[Tail]]

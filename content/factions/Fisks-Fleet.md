@@ -17,7 +17,7 @@ tags:
 ![[raw/assets/banners/Fisks-Fleet-Flag.webp]]
 _Five ships, five captains, one commission. Umberlee took all of them in under a minute._
 
-A five-ship independent privateer fleet operating under Rear Admiral [[characters/delmar/Delmar-Fisk|Delmar Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw|Drowned Maw]]. [[characters/delmar/Delmar-Fisk|Delmar Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.
+A five-ship independent privateer fleet operating under Rear Admiral [[characters/party/Delmar-Fisk|Delmar Fisk]]. All five ships were destroyed simultaneously in the [[Drowned-Maw|Drowned Maw]]. [[characters/party/Delmar-Fisk|Delmar Fisk]] and [[Crisdalynn-Khinriss]] are the only known survivors.
 
 ---
 
@@ -73,12 +73,12 @@ The wrecks lie somewhere in the Maw. Their exact position is unknown to the worl
 
 ## See Also
 
-- [[characters/delmar/Delmar-Fisk|Delmar Fisk]]
+- [[characters/party/Delmar-Fisk|Delmar Fisk]]
 - [[Drowned-Maw|Drowned Maw]]
 - [[Shelfworks|Shelfworks]]
 
 ## Related
 
-- [[characters/delmar/Delmar-Fisk]] — Delmar Fisk
+- [[characters/party/Delmar-Fisk]] — Delmar Fisk
 - [[Umberlee]] — Umberlee and the Waveservants
 - [[Drowned-Maw]] — The Drowned Maw

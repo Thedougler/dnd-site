@@ -86,6 +86,6 @@ Skin colour determines social caste at birth. See [[Grung-Clans]] for full proto
 - [[Grung-Clans]]
 - [[Verdant-Teeth]]
 - [[places/midchain/index]]
-- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[characters/party/Jean-Claude-Tabarnack]]
 - [[Midchain]]
 - [[raw/ingested/Grappled]]

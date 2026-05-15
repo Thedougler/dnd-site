@@ -41,7 +41,7 @@ She was younger than him and always more certain. Where he questioned the system
 
 ## Session 01 — The Canister
 
-During the [[Session-01-Recap|Session 01]] boarding of the [[Saltwright]], a [[Dravosi-Crown|Dravosi]] Alchemist threw a gas canister into the fight on the gangplank between the Saltwright and the [[HCS-Surety|HCS Surety]]. [[Jean-Claude-Tabarnack|Jean-Claude]] was caught in the cloud. He placed the compound immediately — standard [[Grung-Clans|Grung]] hunting toxin, cheap bulk stock. What stopped him was the preparation method. He knew that hand. He and Simone had brewed versions of it together before he left.
+During the [[Session-01-Recap|Session 01]] boarding of the [[Saltwright]], a [[Dravosi-Crown|Dravosi]] Alchemist threw a gas canister into the fight on the gangplank between the Saltwright and the [[HCS-Surety|HCS Surety]]. [[private/players/Jean-Claude-Tabarnack|Jean-Claude]] was caught in the cloud. He placed the compound immediately — standard [[Grung-Clans|Grung]] hunting toxin, cheap bulk stock. What stopped him was the preparation method. He knew that hand. He and Simone had brewed versions of it together before he left.
 
 His sister is supplying the [[Dravosi-Crown|Dravosi Crown]].
 
@@ -49,7 +49,7 @@ She sold them something disposable — cheap enough to pass Crown intake as "amp
 
 ## Connections
 
-- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[characters/party/Jean-Claude-Tabarnack]]
 - [[Sorn]]
 - [[Grung-Clans]]
 - [[Verdant-Teeth]]

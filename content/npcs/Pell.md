@@ -56,7 +56,7 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 
 ## Connections
 
-- [[characters/jean-claude/Jean-Claude-Tabarnack]]
+- [[characters/party/Jean-Claude-Tabarnack]]
 - [[private/players/Jean-Claude-Tabarnack]]
 - [[Simone-Tabarnack]]
 - [[Grung-Clans]]

@@ -56,5 +56,5 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 - [[Drowned-Maw]]
 - [[Drowned-Maw-Secrets]]
 - [[places/port-tidefall/index]]
-- [[Port-Tidefall-Secrets]]
+- [[Port-Tidefall]]
 - [[Red-Lady]]

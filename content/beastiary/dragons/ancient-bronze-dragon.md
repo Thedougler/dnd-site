@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/ancient-bronze-dragon.md
 aliases:
   - Ancient Bronze Dragon
 title: Ancient Bronze Dragon
@@ -33,4 +32,4 @@ An ancient bronze dragon old enough to have watched the Antheri ruins since befo
 ## Related
 
 - [[High-Eyrie-Secrets]] — The High Eyrie
-- [[Antheri-Ruins-Secrets]] — Antheri Ruins
+- [[Antheri-Ruins]] — Antheri Ruins

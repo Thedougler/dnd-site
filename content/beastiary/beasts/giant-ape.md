@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-ape.md
 aliases:
   - Giant Ape
 title: Giant Ape
@@ -35,5 +34,5 @@ This is not a port monster. It is a sign that the island interior is older and l
 ## Related
 
 - [[Narrow]] — The Narrow
-- [[Karath-Secrets]] — Karath
-- [[Kalowe-Secrets]] — Kalowe
+- [[Karath]]
+- [[Kalowe]]

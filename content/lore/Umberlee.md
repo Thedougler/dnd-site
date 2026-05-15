@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /lore/Umberlee.md
 aliases:
   - The Bitch Queen
 title: Umberlee and the Waveservants
@@ -92,6 +91,6 @@ You do not need to worship Umberlee to live under her shadow. In the [[Shattered
 
 ## Related
 
-- [[Port-Tidefall-Secrets]] — Port Tidefall
+- [[Port-Tidefall|Port Tidefall]]
 - [[Dravosi-Crown]] — The Dravosi Crown
 - [[Umberlee-Shrine]] — Umberlee's Shrine — Sunken Crown

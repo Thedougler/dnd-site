@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-axe-beak.md
 aliases:
   - Giant Axe Beak
 title: Giant Axe Beak
@@ -37,6 +36,6 @@ Farther east, the [[places/tail/index|Tail]] can support colder cliff-saddle bir
 
 ## Related
 
-- [[Tail-Secrets]] — The Tail
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
+- [[Tail|The Tail]]
+- [[Calders-Tooth-Overview|Calder's Tooth]]
 - [[Midchain-Secrets]] — The Midchain

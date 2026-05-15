@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/adult-black-dragon.md
 aliases:
   - Adult Black Dragon
 title: Adult Black Dragon
@@ -31,5 +30,5 @@ The account that made it into Midchain pilot circles came from a brig becalmed f
 ## Related
 
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Doldrums-Secrets]] — The Doldrums
+- [[Doldrums]] — The Doldrums
 - [[ancient-dragon-turtle]] — Ancient Dragon Turtle

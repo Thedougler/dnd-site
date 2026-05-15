@@ -159,5 +159,5 @@ For full broadside and multi-deck volley mechanics: see [[Ship-Combat]].
 - [[HCS-Constancy]]
 - [[Ship-Combat]]
 - [[ships/index]]
-- [[Port-Tidefall-Secrets]]
+- [[Port-Tidefall]]
 - [[Shattered-Sea-Secrets]]

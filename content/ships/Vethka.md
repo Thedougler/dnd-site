@@ -99,6 +99,6 @@ If a _vethka_ crew cannot run, they swim. Grung are amphibious. Abandoning the h
 - [[Grung-Clans]]
 - [[Verdant-Teeth]]
 - [[ships/index]]
-- [[Karath-Secrets]]
+- [[Karath]]
 - [[Shattered-Sea-Secrets]]
 - [[Shattered-Sea]]

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/ancient-black-dragon.md
 aliases:
   - Ancient Black Dragon
 title: Ancient Black Dragon
@@ -28,7 +27,7 @@ The public story — patrol boats, territorial pressure, a settlement that never
 
 The water around Aruhe's eastern tip runs a faint brown-gold at low tide. Not silt. Not algae. Old Midchain pilots who have passed close enough know the smell — the same sharp-mineral bite as a hull plank dissolved by acid seep. Something in the flooded interior drains into the sea, and what drains out of something that old, in something that large, in an island it has had to itself for long enough to shape the drainage — that is not weather. The terraces didn't fall from neglect. They dissolved from the base up, slowly, over the kind of time that an ancient black dragon uses the way other things use a season. ^\[inferred]
 
-The Grung name for Aruhe doesn't translate, but the [[Sorn-Secrets|Sorn]] intermediaries who know enough of the language to trade have described the nearest equivalent as something like _the island that is already eaten_. Nobody from outside has verified this. Nobody from outside has had a reason to get close enough to try. ^\[inferred]
+The Grung name for Aruhe doesn't translate, but the [[Sorn]] intermediaries who know enough of the language to trade have described the nearest equivalent as something like _the island that is already eaten_. Nobody from outside has verified this. Nobody from outside has had a reason to get close enough to try. ^\[inferred]
 
 ## Related
 

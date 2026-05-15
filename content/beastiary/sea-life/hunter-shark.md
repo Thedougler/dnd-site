@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/sea-life/hunter-shark.md
 aliases:
   - Hunter Shark
 title: Hunter Shark
@@ -25,5 +24,4 @@ The [[Central-Strait|Central Strait]] has them year-round in the deeper lanes, t
 ## Related
 
 - [[Shattered-Sea-Secrets]] — The Shattered Sea
-- [[Verdant-Scatter-Secrets]] — The Verdant Scatter
 - [[Verdant-Scatter]] — The Verdant Scatter

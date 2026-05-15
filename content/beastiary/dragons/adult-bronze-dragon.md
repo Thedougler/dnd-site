@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/adult-bronze-dragon.md
 aliases:
   - Adult Bronze Dragon
 title: Adult Bronze Dragon
@@ -32,4 +31,4 @@ The shapechange ability is the reason the legend has no single face. Bronze drag
 
 - [[Shattered-Sea-Secrets]] — The Shattered Sea
 - [[Shattered-Sea]] — The Shattered Sea
-- [[Galewall-Secrets]] — The Galewall
+- [[Galewall]] — The Galewall

@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/elementals/arclight-phoenix.md
 aliases:
   - Arclight Phoenix
 title: Arclight Phoenix
@@ -30,7 +29,7 @@ The cycle follows the statblock's own logic: when a phoenix dies, it explodes an
 
 The most repeated crossing account has a burning-white shape moving along a failing ship's mastline without touching it, lightning jumping from spar to spar as if the vessel were a ladder. The crew lost the mainmast and most of its topside hands before making the Ashwall lee. One survivor insisted the bird was not riding the storm but hunting through it — moving deliberately toward iron fittings and wet rigging and breathing crew. Burns ran along contact points rather than down from a single strike. Iron fittings magnetized hard enough to pull nails from a workbench. The accounts match well enough that Ashwall pilots now keep arclight phoenix reports separate from ordinary lightning-strike stories, and treat lateral stormlight as a different warning from thunder. ^\[inferred]
 
-## [[Galewall-Secrets|The Galewall]] Question
+## [[Galewall|The Galewall]] Question
 
 Ashwall crews hold a belief the colonial weather-offices dismiss: that the Galewall is not the environment the arclight phoenix inhabits — it is what the arclight phoenix makes. The storm belt exists because the birds charge it, fly through it continuously, and sustain it the way a fire sustains itself on new wood. The permanent weather is not a natural feature of the western ocean. It is the accumulated output of something alive. ^\[inferred]
 

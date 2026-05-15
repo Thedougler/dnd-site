@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/dragon-turtle-wyrmling.md
 aliases:
   - Dragon Turtle Wyrmling
 title: Dragon Turtle Wyrmling
@@ -32,6 +31,6 @@ The warning signs overlap with adult dragon turtle reports: water warming withou
 
 ## Related
 
-- [[Tail-Secrets]] — The Tail
+- [[Tail|The Tail]]
 - [[Keth-Naar-Secrets]] — Keth-Naar
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

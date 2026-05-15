@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/ancient-sea-serpent.md
 aliases:
   - Ancient Sea Serpent
 title: Ancient Sea Serpent
@@ -36,6 +35,6 @@ The most repeated recent account comes from a Tail longliner that worked too far
 ## Related
 
 - [[young-sea-serpent]] — Young Sea Serpent
-- [[Tail-Secrets]] — The Tail
-- [[Outer-Reach-Secrets]] — The Outer Reach
+- [[Tail|The Tail]]
+- [[Outer-Reach]] — The Outer Reach
 - [[Shattered-Sea-Secrets]] — The Shattered Sea

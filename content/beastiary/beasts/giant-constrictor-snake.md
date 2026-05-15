@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/beasts/giant-constrictor-snake.md
 aliases:
   - Giant Constrictor Snake
 title: Giant Constrictor Snake
@@ -37,5 +36,5 @@ They are not limited to Grung territory. [[Veth|Veth]] can have them along the w
 
 ## Related
 
-- [[Oshas-Slip-Secrets]] — Osha's Slip
-- [[Calders-Tooth-Secrets]] — Calder's Tooth
+- [[Oshas-Slip]] — Osha's Slip
+- [[Calders-Tooth-Overview|Calder's Tooth]]

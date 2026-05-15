@@ -61,6 +61,6 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 - [[Simone-Tabarnack]]
 - [[Grung-Clans]]
 - [[Sorn]]
-- [[Sorn-Secrets]]
+- [[Sorn]]
 - [[Algernon-Reginald-Clyde]]
 - [[Midchain-Secrets]]

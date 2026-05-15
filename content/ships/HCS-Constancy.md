@@ -115,6 +115,6 @@ Three decks above the hold.
 - [[places/port-tidefall/index]]
 - [[HCS-Ordinance]]
 - [[ships/index]]
-- [[Harbourmasters-Office-Secrets]]
-- [[Port-Tidefall-Secrets]]
+- [[Harbourmasters-Office]]
+- [[Port-Tidefall]]
 - [[Shattered-Sea-Secrets]]

@@ -19,7 +19,7 @@ tags:
 
 # Whip Shark (Welak)
 
-![[Whip-Shark-2.webp|Giant whip shark breaching beside a sailing ship, its long barbed tail arcing over the waves]]
+![[raw/assets/banners/Whip-Shark-2.webp|Giant whip shark breaching beside a sailing ship, its long barbed tail arcing over the waves]]
 
 ---
 
@@ -46,4 +46,4 @@ At the [[Shelfworks|Shelfworks]], they patrol the Abyssal Bore perimeter (40–2
 - [[Clydes-Bestiary-of-Oceanic-Creatures]]
 - [[characters/perrin/Perrin-Black-Jaw]]
 - [[Algernon-Reginald-Clyde]]
-- [[Tail-Secrets]]
+- [[Tail]]

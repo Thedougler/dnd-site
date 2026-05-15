@@ -62,7 +62,7 @@ She does not pay cash for Antheri metalwork. She trades. If you have a piece and
 - [[Dravosi-Crown]]
 - [[Brass-Cat]]
 - [[Calveno-Secrets]]
-- [[Cats-Curios-Secrets]]
+- [[Cats-Curios]]
 - [[Ship-Mechanics]]
 - [[Salvaged-Antheri-Plate]]
 - [[Beaumont-Sel-Secrets]]

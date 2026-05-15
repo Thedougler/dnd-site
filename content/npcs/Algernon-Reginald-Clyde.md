@@ -65,9 +65,9 @@ He is easy to find at the docks. He is usually the one in an argument about some
 
 - [[Clydes-Bestiary-of-Oceanic-Creatures]]
 - [[places/port-tidefall/index]]
-- [[Port-Tidefall-Secrets]]
+- [[Port-Tidefall]]
 - [[Kalowe]]
-- [[Kalowe-Secrets]]
+- [[Kalowe]]
 - [[places/calveno/index]]
 - [[Calveno-Secrets]]
 - [[Sawek]]

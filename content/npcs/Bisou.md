@@ -13,7 +13,7 @@ tags:
 
 # Bisou
 
-![[Bisou.webp|Bisou, a small monkey-like sailor, perched on a ship at sunset]]
+![[raw/assets/banners/Bisou.webp|Bisou, a small monkey-like sailor, perched on a ship at sunset]]
 
 ---
 
@@ -45,6 +45,6 @@ She has an opinion about coin tricks. The results depend on how good the trick i
 
 - [[Beaumont-Sel]]
 - [[Saltwright]]
-- [[Tail-Secrets]]
+- [[Tail]]
 - [[Midchain-Secrets]]
 - [[Shattered-Sea-Secrets]]

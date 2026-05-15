@@ -33,8 +33,8 @@ _High-magic. Age of sail. 1495 DR. Sixty thousand square miles of reef, deep cha
 
 ## Session Recaps
 
-- [[private/sessions/index|Sessions]] — all published recaps
-- [[private/sessions/Session-01-Recap|Session 01 — The Saltwright]]
+- [[sessions/index|Sessions]] — all published recaps
+- [[Session-01-Recap|Session 01 — The Saltwright]]
 
 ---
 

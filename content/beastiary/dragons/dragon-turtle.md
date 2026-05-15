@@ -1,6 +1,5 @@
 ---
 publish: true
-permalink: /beastiary/dragons/dragon-turtle.md
 aliases:
   - Dragon Turtle
 title: Dragon Turtle
@@ -30,5 +29,5 @@ The attack pattern clusters around the Blue Hole edge and the eastern approaches
 
 ## Related
 
-- [[Tail-Secrets]] — The Tail
-- [[Sunken-Crown-Secrets]] — The Sunken Crown
+- [[Tail|The Tail]]
+- [[Sunken-Crown|The Sunken Crown]]

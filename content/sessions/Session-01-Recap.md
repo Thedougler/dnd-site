@@ -11,7 +11,7 @@ tags:
 
 ---
 
-The hold of the [[Saltwright]] was dark and close, smelling of bilge water and old rope, and the party waited in it like a held breath. Above, they could hear [[Beaumont-Sel|Beaumont]]'s voice carrying across the deck, easy and unhurried, keeping [[Barnaby-Rook|Barnaby Rook]]'s attention fixed at the wheel while three of his crew descended the ladder into the dark below.
+The hold of the [[Saltwright]] was dark and close, smelling of bilge water, shrimp and old rope, and the party waited in it like a held breath. Above, they could hear [[Beaumont-Sel|Beaumont]]'s voice carrying across the deck, easy and unhurried, keeping [[Barnaby-Rook|Barnaby Rook]]'s attention fixed at the wheel while three of his crew descended the ladder into the dark below.
 
 ![[raw/assets/session-art/session-01-01-hold-waiting.webp|Archer-style adult animated illustration, widescreen cinematic scene inside the Saltwright's cramped cargo hold, old grey-brown two-masted merchant brig interior with stacked barrels, crates, sacks, two swinging lanterns, wet cedar beams, bilge-water sheen, and a narrow sliver of daylight through an aft gap above the waterline; Delmar Fisk waits with a musket, sandy red hair in a messy topknot, thick sandy-red beard and curled moustache with grey edges, salt-stiff scarlet admiral coat with gold epaulettes; Crisdalynn Khinriss crouches as a dark blue-black crow aarakocra monk with folded wings, talons, geometric leatherwork, and chart satchel; Perrin Black-Jaw hides as a three-foot hooded fancy-rat Rattkin sailor in an olive-drab cloak with a bodhran drum on his back; Jean-Claude Tabarnack is a three-foot lean humanoid poison dart frog scaled to adventurer size, electric-blue slick skin, long thin frog limbs, splayed adhesive fingers and toes, large black underside patches, geometric black bands across arms, legs, shoulders, and face, red beret, false black moustache, ranger harness, shortbow and quiver, small scars, hard escaped-hunter stare, gripping a heavy ceramic decanter; clean vector-like linework, cel-shaded lantern lighting, no text]]
 
@@ -57,19 +57,19 @@ That's where we left it.
 
 ## State at Break
 
-|                                          |                                      |
-| ---------------------------------------- | ------------------------------------ |
-| **[[Barnaby-Rook\|Barnaby Rook]]**       | Unharmed. Alone. Flintlock expended. |
-| **All [[Dravosi-Crown\|Dravosi]] crew**  | Dead or defected                     |
-| **[[Geoffrey-Draves\|Geoffrey Draves]]** | Defected; party's first crew member  |
-| **[[Beaumont-Sel\|Beaumont Sel]]**       | In the fight now.                    |
-| **Party resources**                      | Largely spent                        |
+|                                          |                                     |
+| ---------------------------------------- | ----------------------------------- |
+| **[[Barnaby-Rook\|Barnaby Rook]]**       | Unharmed. Alone. Pissed.            |
+| **All [[Dravosi-Crown\|Dravosi]] crew**  | Dead or defected                    |
+| **[[Geoffrey-Draves\|Geoffrey Draves]]** | Defected; party's first crew member |
+| **[[Beaumont-Sel\|Beaumont Sel]]**       | In the fight now.                   |
+| **Party resources**                      | Largely spent                       |
 
 ## Threads Left Open
 
 - **The Rook Resolution**
 - **The Canister** — Jean-Claude knows. The party doesn't yet. [[Simone-Tabarnack|Simone Tabarnack]] is supplying the [[Dravosi-Crown|Dravosi Crown]] with [[Grung-Clans|Grung]]-made toxin. The Alchemist's bandolier may still have canisters on it.
-- **The [[HCS-Surety|HCS Surety]]** — Rook's ship, uncrewed. What happens to it depends on what happens to Rook.
+- **The [[HCS-Surety|HCS Surety]]** — Rook's ship
 - **[[Geoffrey-Draves|Geoffrey Draves]]** — First crew member. No ship to assign him to yet.
 
 ---

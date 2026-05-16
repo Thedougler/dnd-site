@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Factions
-created: 2026-05-14T21:39:30.468-07:00
+created: 2026-05-15T23:57:16.057-07:00
 modified: 2026-05-03
 tags:
   - player-resource

@@ -51,8 +51,16 @@ _Three days from Tidefall on good wind. A week on bad._
 
 | Place | Type | Notes |
 |---|---|---|
+| [[Ponte-Bassa\|The Ponte Bassa]] | Tavern / inn | Canal-level tavern at the main bridge crossing; cheap food, basic beds, proprietor with a twenty-year memory for boats. |
+| [[Moretti-and-Sons\|Moretti & Sons Chandlery]] | Ship chandlery | Mercatura canal-front outfitter for rope, provisions, canvas, and naval fittings. |
+| [[Carpenters-Slip\|Carpenters' Slip]] | Boatyard | Small independent repair yard at the Arsenal end; no queue, no Commission paperwork, Savia Brentino decides what's urgent. |
+| [[Casa-Lupo\|Casa Lupo]] | General store | Le Paludi general goods; old Ettore prices everything from memory and has not been wrong. |
+| [[Studio-Orsini\|Studio Orsini]] | Alchemist | Le Paludi side canal, off the map; Marta Orsini does not ask what the compounds are for. |
+| [[Cabinet-of-Morsani\|The Cabinet of Morsani]] | Curio / magic items | Velo Quarter eccentric dealer in magical and exotic items of uncertain provenance; Prospero Morsani knows the previous owner of everything. |
+| [[Waveservant-Shrine\|Waveservant Shrine]] | Shrine | Umberlee's canal-front shrine on the Mercatura; tribute paid in full view of passing boats. |
 | [[Cats-Curios\|Cat's Curios]] | Artificer workshop | Referral-only artificer workshop; no sign, no walk-ins, best work in the Scatter. |
 | [[Warren\|The Warren]] | Hidden settlement | Fixed Rattkin settlement beneath Le Paludi and deepest anchor of [[Passage\|the Passage]]. |
+| [[Acqua-Nera\|Acqua Nera]] | Boatyard | Outer harbour hull conversion and repainting yard; specialises in prize conversions, no Canal Commission filing on quiet work, Dario Vanni prices discreet jobs at double rate. |
 | The Arsenal | Shipyard | Walled shipyard in the southwest; fourteen-month wait for non-House commissions. |
 | Tessarine factor house | Trade house | Concordat factor building at the harbour end of the Mercatura; no dedicated page yet. |
 

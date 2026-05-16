@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Species
-created: 2026-05-15T18:57:19.379-07:00
+created: 2026-05-15T23:57:16.283-07:00
 modified: 2026-05-03
 tags:
   - player-resource

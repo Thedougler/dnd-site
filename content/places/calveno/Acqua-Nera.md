@@ -1,0 +1,66 @@
+---
+publish: true
+aliases:
+  - Acqua Nera
+title: Acqua Nera
+created: 2026-05-15
+modified: 2026-05-15
+tags:
+  - building
+  - shipyard
+---
+
+# Acqua Nera
+
+## Overview
+
+Acqua Nera sits at the outer harbour on Calveno's southwest approach, past the Arsenal fortified canal and well clear of the Mercatura's line of sight. It does legitimate prize conversion work — captured vessels bought at auction that need their previous owners scrubbed off before sale — which means the business of changing a hull's appearance is normal here. Dario Vanni charges more for jobs that don't go through the Canal Commission, and he does not ask where the vessel came from.
+
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Hull conversion and repainting yard |
+| Location | [[Calveno]], outer harbour, southwest approach |
+| Operated By | Dario Vanni |
+| Public Access | Walk-in for assessment; discreet work by negotiation only |
+| Known For | Prize conversions; re-identification work for vessels that need a new history |
+
+## Description
+
+A low stone building against the outer harbour wall with a single wide slip open to the water. The slip can take a vessel up to 90 feet without hauling out — in-water work for the hull below the waterline, dry staging for the topsides. The smell is tar, pine resin, and the particular mineral sharpness of the pigment mixes Vanni makes himself. Finished vessels leave looking like they have always been what they now claim to be.
+
+## People & Operations
+
+**Proprietor: Dario Vanni** — Fifties, deliberate, with the unhurried manner of someone who is never surprised by what a customer needs. Runs two workers who do not ask questions because Vanni does not answer them. Prices discreet work at double the standard rate, cited without embarrassment. Will not work with anyone who seems uncertain about whether they should be there.
+
+_Roleplay concept: old prizefighter turned art restorer + a man who makes problems disappear by making them look like something else._
+
+**Sample lines:**
+
+- _"Prize conversion or something else? — same rate either way, before you answer."_
+- _"I don't need the story. I need the name you want on the board and the colour you want on the hull."_
+- _"She'll float out of here looking like she was built somewhere else. What she actually is — that's your concern."_
+
+## Stock / Services
+
+| Service | Notes |
+|---|---|
+| Hull repaint | Full colour strip and repaint; pigment mixed on site |
+| Registry plate removal and replacement | Old plate disposed of; blank replacement plate supplied at cost |
+| Nameboard replacement | Carved and fitted; lettering included in the price |
+| Pennant and colours disposal | Included; no ceremony |
+| Hull caulking and copper work | Repair included for any seams opened during paint strip |
+| In-water assessment | Included before any job; he will not quote without seeing the hull |
+
+**Discreet rate:** Double standard pricing. No Canal Commission filing. No record of the vessel's previous appearance kept on site.
+
+## Access & Security
+
+Outer harbour, past the Arsenal canal — accessible by sea directly into the slip, or on foot from the Arsenal end of the southwest district. No appointment needed for assessment. Discreet work is agreed in a private conversation after assessment; Vanni will not commit in writing. The two workers are present during all hull work and are not introduced.
+
+## See Also
+
+- [[Calveno]]
+- [[Carpenters-Slip|Carpenters' Slip]]
+- [[Moretti-and-Sons|Moretti & Sons Chandlery]]

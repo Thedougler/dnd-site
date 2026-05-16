@@ -1,0 +1,63 @@
+---
+publish: true
+aliases:
+  - Fifita's
+title: Fifita's Slip
+created: 2026-05-15
+modified: 2026-05-15
+tags:
+  - building
+  - shipyard
+---
+
+# Fifita's Slip
+
+## Overview
+
+Fifita's Slip is on the lagoon side of the second limestone island, away from the dry-dock cranes and the causeway traffic. It does not appear in the harbour books. The covered berth is barely wide enough for a cutter's beam. The work it takes on does not need to be on record anywhere, and Noa Fifita does not discuss the difference between what a vessel looks like when it arrives and what it looks like when it leaves.
+
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Informal boatyard and hull works |
+| Location | [[Kalowe]], lagoon side, second limestone island |
+| Operated By | Noa Fifita |
+| Public Access | Not walk-in; reached by introduction or prior arrangement |
+| Known For | Work that does not go in the harbour ledger |
+
+## Description
+
+One covered slip tight to the island's back face, masked by overgrown palms and a decommissioned skiff that looks abandoned. A flat staging area with a caulking iron, two paint pots, a board rack, and a smell of linseed oil that has soaked into the stone over years. The water inside the slip is dark and still. There is no signage.
+
+## People & Operations
+
+**Proprietor: Noa Fifita** — Connected by family name to the Taufa Fifita trading house, which keeps harbour bosses from asking about his schedule. Works slowly and accurately. Speaks when money is the subject; otherwise does not. Prices a job by looking at the hull, not by listening to the customer. Does not negotiate.
+
+_Roleplay concept: reef pilot who's seen every kind of trouble + a man who only talks when the number comes up._
+
+**Sample lines:**
+
+- _"Two hundred. Three days, maybe five."_
+- _"She'll still look like a cutter. Paint her any colour."_
+- _"The plate goes in the lagoon. Not my problem after that."_
+
+## Stock / Services
+
+| Service | Notes |
+|---|---|
+| Hull repaint | Full colour change; no stripe, no military finish by default |
+| Registry plate removal | Disposed of on site; no paperwork |
+| Nameboard replacement | Plain boards sold; lettering not included |
+| Pennant disposal | Burned |
+| Hull caulking | Seam repair included in a full repaint job |
+| Passage paper referral | He does not do papers; he knows who does; he does not introduce strangers |
+
+## Access & Security
+
+Reached from the water by following the lagoon side of the second island past the decommissioned skiff. From land, through the back of the Fifita family chandlery on the second causeway — there is no handle on the outside of the connecting door. Cold approach from the water gets nothing. The slip looks like storage.
+
+## See Also
+
+- [[Kalowe]]
+- [[places/midchain/Kalowe-Waveservant-Shrine|Waveservant Shrine]]

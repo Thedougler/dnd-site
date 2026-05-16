@@ -5,7 +5,7 @@ aliases:
   - Shattered Sea Campaign
   - Campaign Hub
 title: The Shattered Sea
-created: 2026-05-14T21:51:15.425-07:00
+created: 2026-05-15T23:59:51.497-07:00
 modified: 2026-05-03
 tags:
   - player-resource
@@ -42,7 +42,7 @@ _High-magic. Age of sail. 1495 DR. Sixty thousand square miles of reef, deep cha
 ## DM Reference
 
 - [[lines-and-veils|Lines and Veils]] — hard content boundaries for the campaign (lines fully forbidden, veils fade to black)
-- [[private/guides/Shattered-Sea-Tone-Guide|Tone Guide]] — core tone equation, NPC construction formula, scene rules
+- [[private/system/guides/Shattered-Sea-Tone-Guide|Tone Guide]] — core tone equation, NPC construction formula, scene rules
 
 ---
 

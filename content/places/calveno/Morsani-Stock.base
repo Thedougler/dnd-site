@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.inFolder("content/shattered-sea/items/")
+    - file.hasTag("morsani-stock")
+
+properties:
+  rarity:
+    displayName: Rarity
+  price:
+    displayName: Price
+  summary:
+    displayName: Description
+
+views:
+  - type: table
+    name: Current Stock
+    order:
+      - file.name
+      - rarity
+      - price
+      - summary

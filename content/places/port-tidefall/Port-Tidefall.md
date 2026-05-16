@@ -46,6 +46,7 @@ This is where the Crown's authority is loudest, which also makes it where that a
 
 | Place | Type | Notes |
 |---|---|---|
+| [[Waveservant-Shrine\|Waveservant Shrine]] | Shrine | Umberlee's Dockfront shrine cut into the cliff base; mariners pay before sailing or after surviving. |
 | [[Inspection-Pier\|Inspection Pier]] | Pier / inspection station | First-stop Crown rating, manifest check, and fee assessment. |
 | [[Harbourmasters-Office\|Harbourmaster's Office]] | Office | Vessel ratings, harbour fees, commission board, impound processing, and official charts. |
 | [[Fare-Ia\|Fare I'a]] | Stall | Grung-style fish jerky in the Dockfront market. |

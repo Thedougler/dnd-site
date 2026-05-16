@@ -1,0 +1,98 @@
+---
+publish: true
+aliases:
+  - Wibowo's
+title: Wibowo's Provisions
+created: 2026-05-15
+modified: 2026-05-15
+tags:
+  - building
+---
+
+# Wibowo's Provisions
+
+## Overview
+
+Wibowo's Provisions is on [[Kalowe]]'s first island, on the harbour-side lane that runs between the dry-dock offices and the primary berth. It is a ship's victualler: the place captains send a crew member when they need to top off stores before leaving port. Suryo Wibowo stocks salt pork, hard biscuit, rice, dried fish, water casks, rum, and fresh produce when the supply boats from the interior islands have come in. He runs a bulk rate that does not require negotiation; he simply charges less per unit on orders above a certain weight, and the price board outside makes this clear.
+
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Ship's victualler and provisions store |
+| Location | [[Kalowe]], first island, harbour-side lane |
+| Operated By | Suryo Wibowo |
+| Public Access | Open from dawn until the fourth hour after dark |
+| Known For | Reliable bulk provisions and a faster turnaround than the dry dock |
+
+## Description
+
+A long, low building with a wide loading door that stays open all day. Inside: barrels stacked three high along the left wall, sacks of grain and rice along the right, crates of fresh produce at the back when they're in stock. The smell is salt and molasses and the slightly fermented note of barrel staves that have held many things. Wibowo keeps a weight scale at the counter and a slate board with bulk prices chalked on it. The floor is worn smooth from hand trucks.
+
+## Function
+
+Victuals for ships provisioning out of Kalowe. Short-haul sailors pick up a few items; captains outfitting for the Strait or the Teeth send a full list. Wibowo prefers lists. He has the order ready before the crew member expected to carry it arrives.
+
+## People & Operations
+
+**Suryo Wibowo** — proprietor, fifties, broad and efficient. He works fast and talks at the same speed. He knows how long a given crew complement can run on a given number of stores, and he will tell a captain who is under-ordering in terms that are not unkind but are precise. He extends credit to captains he has dealt with three times or more; the terms are a handshake and a specific memory he keeps without a ledger.
+
+_Roleplay concept: a man who has spent thirty years watching captains make bad supply decisions and has made peace with offering the right answer once._
+
+**Sample lines:**
+
+- _"How many crew, how many days, where are you headed?"_
+- _"Citrus came in yesterday. Take some. Scurvy costs more than the fruit."_
+- _"Bulk starts at fifty pounds. Price is on the board."_
+
+One hired labourer loads carts and moves barrels. Does not speak to customers; Wibowo handles the counter.
+
+## Stock / Services
+
+**Standard Stock**
+
+| Item | Cost | Notes |
+|---|---|---|
+| Ship's biscuit (10 lb) | 2 sp | Hard tack; long shelf life |
+| Salt pork (10 lb) | 3 sp | Barrelled; ready to cask |
+| Salt fish, dried (10 lb) | 2 sp | Local catch, well-preserved |
+| Rice (10 lb) | 5 sp | Reliable staple; padded for damp |
+| Dried beans (10 lb) | 3 sp | — |
+| Dried fruit, assorted (5 lb) | 5 sp | Raisins, mango strips, tamarind |
+| Citrus, basket (20 pieces) | 5 sp | Fresh; prevents scurvy; ask about availability |
+| Fresh produce, mixed (10 lb) | 4 sp | Varies with supply; ask |
+| Salt (per lb) | 2 cp | — |
+| Vinegar, quart | 1 sp | Cask-cleaning and preservation |
+| Spices, mixed (per lb) | 1 gp | Pepper, clove, ginger; varies |
+| Coffee, ground (per lb) | 6 sp | — |
+| Tobacco, loose (per lb) | 6 sp | — |
+| Cooking oil, quart | 4 sp | Palm; clean |
+| Fresh water, small cask (5 gal) | 1 sp | Filled and sealed; for immediate use |
+| Water cask, ship's (40 gal) | 8 sp | Emptied cask; fill at the cistern station, 1 sp per fill |
+| Rum, bottle | 5 sp | Local distill; reliable |
+| Rum, cask (10 gal) | 4 gp | Bulk rate |
+| Wine, common, bottle | 2 sp | Imported; average |
+| Beer, small (non-intoxicating), keg | 6 sp | Safer than water on long hauls |
+
+**Bulk Rate** _(orders above 50 lb dry weight or 20 gal liquid)_
+
+| Category | Discount |
+|---|---|
+| Dry stores | 10% off board price |
+| Cased liquids | 10% off board price |
+| Mixed order, both categories | 15% off board price |
+
+## Access & Security
+
+Wide loading door faces the harbour lane; always open during trading hours. A side hatch at waist height opens to the barrel storage for rolling deliveries without bringing a cart inside. Wibowo does not close early for weather. He does close if the harbour bosses close the lane, which happens rarely.
+
+## Current Hooks
+
+- Wibowo is short on salt pork; his usual supplier from Dreth did not arrive last week and has sent no word. He is filling orders from the current stock but will run out within five days if a full provisioning comes in.
+- **Ghost Ship** — A salt merchant coming through for provisions yesterday mentioned a two-masted schooner drifting 4 miles north — green stripe, ochre hull, hatch open, no lights, no crew on deck, two nights running. Wibowo mentions it without drama while weighing an order: _"First boarding party claims salvage under free-port custom. Harbour bosses take their ten percent."_ He does not know what's aboard. _(→ [[situations/Kalowe-Drifting-Hulk|The Drifting Hulk]])_
+
+## See Also
+
+- [[Kalowe]]
+- [[Ormssons-Fittings|Ormsson's Fittings]]
+- [[The-Flat-Water|The Flat Water]]

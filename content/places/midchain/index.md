@@ -21,6 +21,13 @@ See [[Midchain|The Midchain]] for region overview.
 ## Kalowe & Independent Waters
 
 - [[Kalowe|Kalowe]] — primary Midchain free port and repair harbour.
+- [[The-Flat-Water|The Flat Water]] — main tavern and lodging house; second island, Reweti Kahurangi.
+- [[Taufa-Fifita-and-Sons|Taufa Fifita & Sons]] — chandlery and nautical trade house; second island causeway.
+- [[Wibowos-Provisions|Wibowo's Provisions]] — ship's victualler; first island harbour-side lane.
+- [[Ormssons-Fittings|Ormsson's Fittings]] — ironworks, dry-dock hardware, and arms; first island.
+- [[Grimaldis-Dispensary|Grimaldi's Dispensary]] — apothecary and healer's supply; third island.
+- [[Fifitas-Slip|Fifita's Slip]] — informal back-channel boatyard; second island lagoon side.
+- [[Kalowe-Waveservant-Shrine|Waveservant Shrine — Kalowe]] — Umberlee's causeway shrine; the reef gap is visible from the doorway.
 - [[Chain-Council|The Chain Council]] — occasional assembly of independent Midchain representatives.
 - [[The-Bad-Receipt|The Bad Receipt]] — Kalowe-linked schooner and local cautionary name.
 - [[Knifes-Wake|Knife's Wake]] — small raider suited to the Midchain's tight channels.

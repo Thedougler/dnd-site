@@ -50,7 +50,14 @@ Piracy enters Kalowe through repair bills, not banners. A [[beastiary/humanoid/p
 
 | Place | Type | Notes |
 |---|---|---|
+| [[The-Flat-Water\|The Flat Water]] | Tavern / lodging | Main drinking house and hammock berths on the second island; Reweti Kahurangi runs it and knows more than she says. |
+| [[Taufa-Fifita-and-Sons\|Taufa Fifita & Sons]] | Chandlery / trade house | Rope, canvas, oil, navigation tools, and block and tackle on the second island causeway. |
+| [[Wibowos-Provisions\|Wibowo's Provisions]] | Victualler | Ship's stores, salt pork, water casks, rum, and fresh produce on the harbour-side lane. |
+| [[Ormssons-Fittings\|Ormsson's Fittings]] | Ironworks / arms | Dry-dock hardware, anchor chain, tools, and a back-shelf arms trade near the first island cranes. |
+| [[Grimaldis-Dispensary\|Grimaldi's Dispensary]] | Apothecary | Healer's kits, antitoxins, wound care, and discretionary stock on the quieter third island. |
+| [[Kalowe-Waveservant-Shrine\|Waveservant Shrine]] | Shrine | Umberlee's causeway shrine; the reef gap is visible from the doorway and does most of the persuasion. |
 | Primary dry dock | Shipyard / repair | Tier 2 dry dock; currently occupied by a Dravosi vessel whose stated stay has expired. |
+| [[Fifitas-Slip\|Fifita's Slip]] | Boatyard | Informal back-channel yard on the lagoon side of the second island; no harbour books, no questions, Noa Fifita prices the job by looking at the hull. |
 | Harbour offices | Port services | Berths, repair arrangements, local obligations, and the paperwork Kalowe chooses to respect. |
 
 ## People & Power
@@ -68,7 +75,11 @@ The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter s
 ## Current Hooks
 
 - A Dravosi vessel has occupied the primary dry-dock berth for eleven days; its stated stay was three.
-- The [[The-Bad-Receipt|Bad Receipt]] is the local cautionary name for what can come out of Kalowe with enough false paperwork and repair money.
+- The [[The-Bad-Receipt|Bad Receipt]] is the local cautionary name for what can come out of Kalowe with enough false paperwork and repair money — and she has just anchored in the secondary berth.
+- A drunk ex-first mate at [[The-Flat-Water|The Flat Water]] wants divers for a sunken strongbox on the reef shelf; something large has moved into the wreck since it went down.
+- A two-masted schooner has been drifting dark and crewless 4 miles north for two nights; Midchain custom gives salvage rights to the first boarding party.
+- The harbour bosses are offering 300gp for the ridge-plate of the [[Sawek|Sawek]] that has been wrecking fishing boats in the inter-island channel.
+- A dying old privateer at [[Grimaldis-Dispensary|Grimaldi's Dispensary]] has half a treasure chart tattooed on her forearm and wants passage out.
 
 ## See Also
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Lore
-created: 2026-05-14T21:51:29.417-07:00
+created: 2026-05-15T23:57:16.314-07:00
 modified: 2026-05-14
 tags:
   - player-resource

@@ -19,7 +19,7 @@ tags:
 |              |                                                                        |
 | ------------ | ---------------------------------------------------------------------- |
 | **Role**     | Captain, _[[Loud-Argument\|Loud Argument]]_; [[Fisks-Fleet\|Fisk's Fleet]] |
-| **Status**   | Deceased — soul inside [[characters/party/Delmar-Fisk\|Delmar Fisk]]     |
+| **Status**   | Deceased — soul inside [[characters/player/Delmar-Fisk\|Delmar Fisk]]     |
 
 ---
 
@@ -31,7 +31,7 @@ He drowned in the Maw when Umberlee closed the water over all five ships. His so
 
 ## Role
 
-Bastian is one of the souls inside [[characters/party/Delmar-Fisk|Delmar Fisk]] and a lens on the _Loud Argument_, Fisk's combat doctrine, and the theatrical defiance of the fleet.
+Bastian is one of the souls inside [[characters/player/Delmar-Fisk|Delmar Fisk]] and a lens on the _Loud Argument_, Fisk's combat doctrine, and the theatrical defiance of the fleet.
 
 ## Appearance & Manner
 
@@ -55,7 +55,7 @@ Bastian knows the _Loud Argument_, the fleet's bombardment role, and the surface
 
 ## Relationships
 
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[Loud-Argument]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

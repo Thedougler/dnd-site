@@ -95,7 +95,7 @@ The Sunken Crown's hazards are unstable reef channels, the Blue Hole drop-off, s
 
 - A watch rotation failed near the Blue Hole edge, and the next crew found the Meth-Var landing ropes scalded stiff enough to crack. The survivor described heat before impact, a black ridge rising through the indigo water, and a tail strike that threw the skiff into the reef channel. The scale points toward a [[dragon-turtle-wyrmling|dragon turtle wyrmling]] rather than an adult, though the distinction matters more to scholars than to anyone rowing over the drop. ^\[inferred]
 - The Keth-Naar watchers have noted, without elaborating to outsiders, that heat events since the skiff attack cluster nearer the outer beaches of the less-inhabited islands. The elders call the current season by a name they do not translate. ^\[inferred]
-- [[Stripes-Bitemore]] was sent from Keth-Naar to find why the sea turned. The region's survival depends on whether that question can be answered and acted on.
+- [[private/players/Stripes-Bitemore]] was sent from Keth-Naar to find why the sea turned. The region's survival depends on whether that question can be answered and acted on.
 
 ## See Also
 

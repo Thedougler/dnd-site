@@ -95,8 +95,8 @@ The Mark goes on the character sheet as a standard mechanical note. Disadvantage
 
 ## Connections
 
-- [[characters/party/Perrin-Black-Jaw]]
-- [[characters/party/Jean-Claude-Tabarnack]]
+- [[characters/player/Perrin-Black-Jaw]]
+- [[characters/player/Jean-Claude-Tabarnack]]
 - [[Shattered-Sea]]
 - [[Shattered-Sea]]
 - [[SRD-Actions]]

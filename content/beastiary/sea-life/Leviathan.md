@@ -19,7 +19,7 @@ No sensible captain says they have seen the Leviathan. That is how you lose a cr
 
 They say they have seen where it passed. Fish cooked white in calm water, miles from any reef. A hull limping into harbour with the underside scorched black. Lines hauled in hot enough to blister palms. The sea boiling in the distance.
 
-[[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] is why the old story has started moving again. The _Vestra_ went down three days before the campaign began, on an ordinary fishing day that stopped being ordinary all at once. The water around the hull began to bubble. Perrin touched the rail and the wood burned his hand. Then something enormous struck from below, and the ship was gone.
+[[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] is why the old story has started moving again. The _Vestra_ went down three days before the campaign began, on an ordinary fishing day that stopped being ordinary all at once. The water around the hull began to bubble. Perrin touched the rail and the wood burned his hand. Then something enormous struck from below, and the ship was gone.
 
 Perrin survived. That alone makes his version harder to dismiss.
 
@@ -49,7 +49,7 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 
 ## Connections
 
-- [[characters/party/Perrin-Black-Jaw]]
+- [[characters/player/Perrin-Black-Jaw]]
 - [[Clydes-Bestiary-of-Oceanic-Creatures]]
 - [[Drowned-Maw]]
 - [[Sawek]]

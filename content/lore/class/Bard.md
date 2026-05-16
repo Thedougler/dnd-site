@@ -64,7 +64,7 @@ College of Dance, College of Glamour, College of Lore, College of Valor _(2024 P
 - [[weapons]]
 - [[raw/ingested/Frightened]]
 - [[raw/ingested/Charmed]]
-- [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Bard / Warlock PC
+- [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] — Bard / Warlock PC
 
 ## Source
 

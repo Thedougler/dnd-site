@@ -35,7 +35,7 @@ Her hair is silver-streaked and cut close, practical in the way that suggests sh
 
 ## Fleet Role
 
-Sienne is one of the souls inside [[characters/party/Delmar-Fisk|Delmar Fisk]] and the fleet's strongest expression of investigation, pattern-reading, and cautious second looks.
+Sienne is one of the souls inside [[characters/player/Delmar-Fisk|Delmar Fisk]] and the fleet's strongest expression of investigation, pattern-reading, and cautious second looks.
 
 ## Backstory
 
@@ -49,7 +49,7 @@ She went to sea because the sea had a set of systems she didn't yet understand, 
 
 ## Relationships
 
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[Fernen]]
 - [[Maren]]
 - [[Fisks-Fleet]]

@@ -47,7 +47,7 @@ Her late husband built the ship, captained her for decades, and left her to the 
 
 ## Relationships
 
-- [[characters/party/Perrin-Black-Jaw]]
+- [[characters/player/Perrin-Black-Jaw]]
 - [[Warren]]
 - [[Passage]]
 - [[Vestra]]

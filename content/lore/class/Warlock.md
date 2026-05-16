@@ -62,7 +62,7 @@ Archfey Patron, Celestial Patron, Fiend Patron, Great Old One Patron _(2024 PHB)
 - [[Hexblade]]
 - [[Great-Old-One|Great Old One]]
 - [[weapons]]
-- [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Bard / Warlock PC
+- [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] — Bard / Warlock PC
 
 ## Source
 

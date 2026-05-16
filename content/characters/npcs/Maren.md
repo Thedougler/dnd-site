@@ -38,7 +38,7 @@ She will correct you on the pronunciation. MARE-EN. She has always corrected peo
 
 ## Fleet Role
 
-Maren is one of the souls inside [[characters/party/Delmar-Fisk|Delmar Fisk]] and the fleet's strongest connection to underwater scouting, access, and Navy contempt.
+Maren is one of the souls inside [[characters/player/Delmar-Fisk|Delmar Fisk]] and the fleet's strongest connection to underwater scouting, access, and Navy contempt.
 
 ## Backstory
 
@@ -54,7 +54,7 @@ She goes where people tell her not to go. The places with the richest pickings a
 
 ## Relationships
 
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[Narrow]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

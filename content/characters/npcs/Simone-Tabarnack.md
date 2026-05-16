@@ -48,7 +48,7 @@ She sold them something disposable — cheap enough to pass Crown intake as "amp
 
 ## Relationships
 
-- [[characters/party/Jean-Claude-Tabarnack]]
+- [[characters/player/Jean-Claude-Tabarnack]]
 - [[Sorn]]
 - [[Grung-Clans]]
 - [[Verdant-Teeth]]

@@ -52,7 +52,7 @@ It is an ambush predator, the tentacles emerge from the entrance and grab whatev
 - [[Whip-Shark]]
 - [[places/midchain/index]]
 - [[Clydes-Bestiary-of-Oceanic-Creatures]]
-- [[characters/party/Perrin-Black-Jaw]]
+- [[characters/player/Perrin-Black-Jaw]]
 - [[Algernon-Reginald-Clyde]]
 - [[Midchain]]
 - [[Shattered-Sea]]

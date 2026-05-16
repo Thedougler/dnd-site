@@ -35,7 +35,7 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 ## Connections
 
 - [[Sienne-Orre]]
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[Red-Lady]]
 - [[Drowned-Maw]]
 - [[ships/index]]

@@ -81,7 +81,7 @@ No Maw flora is documented. The region is defined by open water, trench edge, su
 
 ## The Vestra Water
 
-Sailors have started using "Vestra water" for the bad stretch near the Maw where [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
+Sailors have started using "Vestra water" for the bad stretch near the Maw where [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. The public version is simple enough to travel: an ordinary fishing day, sudden heat through the hull, water boiling around the rails, then a strike from below hard enough that the ship stopped being a ship.
 
 What hit the _Vestra_ remains argued rather than proven. Perrin's signs match the old [[beastiary/sea-life/Leviathan|Leviathan]] chapter in [[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary]], but they also match the practical warnings attached to [[ancient-dragon-turtle|ancient dragon turtles]]: scalding fog, heat before impact, and a shell-dark mass rising under the keel. Most captains do not care which name is correct. They care that someone survived long enough to say the water went hot before the ship died. ^\[ambiguous]
 
@@ -113,7 +113,7 @@ The Maw's hazards are compass drift, star-only navigation, still water, no ancho
 
 ## Current Hooks
 
-- "Vestra water" is now a public sailor phrase for the bad stretch where [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. ^\[ambiguous]
+- "Vestra water" is now a public sailor phrase for the bad stretch where [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. ^\[ambiguous]
 - The [[Shelfworks|Shelfworks]] gold rush is pulling safety architecture off a deeper Antheri containment system, and the [[situations/Pearl-of-Souls-Item|Pearl of Souls]] signal is making the Maw more dangerous.
 
 ## See Also

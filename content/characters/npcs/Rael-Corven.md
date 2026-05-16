@@ -41,7 +41,7 @@ He is built for endurance rather than impression, broad through the shoulders, s
 
 ## Fleet Role
 
-Rael is the loudest soul inside [[characters/party/Delmar-Fisk|Delmar Fisk]] and the clearest witness to the shrine entry itself.
+Rael is the loudest soul inside [[characters/player/Delmar-Fisk|Delmar Fisk]] and the clearest witness to the shrine entry itself.
 
 ## Backstory
 
@@ -63,7 +63,7 @@ He plays the shawm. He has never done so where anyone could hear him.
 
 ## Relationships
 
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[Red-Lady]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

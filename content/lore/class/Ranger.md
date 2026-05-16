@@ -62,4 +62,4 @@ Beast Master, Fey Wanderer, Gloom Stalker, Hunter _(2024 PHB)_
 - [[weapons]]
 - [[Gloom-Stalker]]
 - [[raw/ingested/Invisible]]
-- [[characters/party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — Gloom Stalker Ranger PC
+- [[characters/player/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] — Gloom Stalker Ranger PC

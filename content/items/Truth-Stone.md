@@ -41,10 +41,10 @@ The stone does not distinguish between lies told aloud and elaborate performance
 
 [[Beaumont-Sel]] carries one as a matter of course. He has run the [[places/midchain/index|Midchain]] for eleven years and has had occasion to use it. He produces it without ceremony and without apology — it is a tool, not a threat, and anyone who has nothing to hide will find it stays cool in their hand without effort.
 
-The stone appeared in Session 02 when Beaumont used it to assess [[characters/party/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] after the Saltwright boarding. See [[Scene-02b-Deck-Confrontation]].
+The stone appeared in Session 02 when Beaumont used it to assess [[characters/player/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]] after the Saltwright boarding. See [[Scene-02b-Deck-Confrontation]].
 
 ## Connections
 
 - [[Beaumont-Sel]]
-- [[characters/party/Jean-Claude-Tabarnack]]
+- [[characters/player/Jean-Claude-Tabarnack]]
 - [[Scene-02b-Deck-Confrontation]]

@@ -160,5 +160,5 @@ The _Glass Debt_ can sail with twenty-four but only becomes itself at seventy-tw
 - [[Ship-Stats]]
 - [[Ship-Bastion]]
 - [[Knifes-Wake]]
-- [[characters/party/Perrin-Black-Jaw]]
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Perrin-Black-Jaw]]
+- [[characters/player/Delmar-Fisk]]

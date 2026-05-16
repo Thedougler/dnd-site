@@ -139,4 +139,4 @@ The ship can limp by with nine hands but works properly with twenty-six. Most cr
 - [[Ship-Bastion]]
 - [[Knifes-Wake]]
 - [[The-Glass-Debt]]
-- [[characters/party/Perrin-Black-Jaw]]
+- [[characters/player/Perrin-Black-Jaw]]

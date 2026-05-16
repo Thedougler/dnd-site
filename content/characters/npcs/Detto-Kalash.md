@@ -36,7 +36,7 @@ He is broad and low to the ground, the kind of build that looks immovable becaus
 
 ## Fleet Role
 
-Detto is one of the souls inside [[characters/party/Delmar-Fisk|Delmar Fisk]] and the clearest link to the _Heft_, the shrine entry route, and the fleet's heavy-work doctrine.
+Detto is one of the souls inside [[characters/player/Delmar-Fisk|Delmar Fisk]] and the clearest link to the _Heft_, the shrine entry route, and the fleet's heavy-work doctrine.
 
 ## Backstory
 
@@ -48,7 +48,7 @@ What surfaced, once: he had a horse before the sea. White, almost completely —
 
 ## Relationships
 
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[Heft]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]

@@ -12,7 +12,7 @@ tags:
 
 ## Player Characters
 
-- [[characters/party/index|Party Characters]]
+- [[characters/player/index|Party Characters]]
 - [[private/players/crissdalynn/index|Crissdalynn Khinriss]]
 - [[private/players/delmar/index|Delmar Fisk]]
 - [[private/players/jean-claude/index|Jean Claude Tabarnack]]

@@ -44,7 +44,7 @@ Humans originate from Sigil, the torus-shaped city at the center of the multiver
 - [[Rattkin]]
 - [[Grung]]
 - [[Antherian]]
-- [[characters/party/Delmar-Fisk|Delmar Fisk]] — Variant Human Swashbuckler Rogue PC
+- [[characters/player/Delmar-Fisk|Delmar Fisk]] — Variant Human Swashbuckler Rogue PC
 
 ## Sources
 

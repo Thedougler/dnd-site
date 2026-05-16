@@ -43,7 +43,7 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Relationships
 
-- [[characters/party/Delmar-Fisk]]
+- [[characters/player/Delmar-Fisk]]
 - [[The-Duchess]]
 - [[Red-Lady]]
 - [[situations/Maggie-Porcelain-Pots]]
@@ -58,5 +58,5 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 
 ## Related Pages
 
-- [[characters/party/Delmar-Fisk|Delmar Fisk]]
+- [[characters/player/Delmar-Fisk|Delmar Fisk]]
 - [[items/The-Duchess|The Duchess]]

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Crew Characters
+title: The Crew
 created: 2026-05-16
 modified: 2026-05-16
 tags:

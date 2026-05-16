@@ -47,7 +47,7 @@ See [[Midchain|The Midchain]] for region overview.
 
 - [[Simone-Tabarnack|Simone Tabarnack]] — Jean-Claude's younger sister; purple-caste Grung garrison soldier from Sorn.
 - [[Pell|Pell]] — gnome labour slave at Sorn; spoke to Jean-Claude as if he weren't a stranger.
-- [[Maggie-Porcelain-Pots|Maggie Porcelain-Pots]] — Dragonborn potter, peach-and-cream scales, three generations of kilns behind her.
+- [[situations/Maggie-Porcelain-Pots|Maggie Porcelain-Pots]] — Dragonborn potter, peach-and-cream scales, three generations of kilns behind her.
 
 ## Passage Notes
 

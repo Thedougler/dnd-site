@@ -46,7 +46,7 @@ She goes where the pull leads. She has learned to trust it. Some meetings she kn
 - [[characters/party/Delmar-Fisk]]
 - [[The-Duchess]]
 - [[Red-Lady]]
-- [[Maggie-Porcelain-Pots]]
+- [[situations/Maggie-Porcelain-Pots]]
 - [[Vrtek]]
 - [[Elder-Anton]]
 - [[Nona-Black-Jaw]]

@@ -56,7 +56,7 @@ Recurring NPCs with ongoing narrative presence. Private motives and GM mechanics
 
 ## Related Character Indexes
 
-- [[characters/minor-npcs/index|Minor NPCs]]
+- [[characters/minor/index|Minor NPCs]]
 - [[characters/crew/index|Crew]]
 
 ---

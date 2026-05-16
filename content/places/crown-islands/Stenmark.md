@@ -99,7 +99,6 @@ Greyteeth reefs, Maw-adjacent current shifts, harpies, giant vultures, giant sha
 
 ## See Also
 
-- [[places/crown-islands/stenmark/index|Stenmark Index]]
 - [[Crown-Islands|The Crown Islands]]
 - [[Drowned-Maw|The Drowned Maw]]
 - [[High-Eyrie|The High Eyrie]]

@@ -107,7 +107,6 @@ Military restriction, shark-filled harbour water, managed but dangerous forests,
 
 ## See Also
 
-- [[places/crown-islands/harwick/index|Harwick Index]]
 - [[Crown-Islands|The Crown Islands]]
 - [[Dravosi-Crown|The Dravosi Crown]]
 - [[HCS-Constancy|HCS Constancy]]

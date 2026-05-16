@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Ships
-created: 2026-05-15T15:35:25.497-07:00
+created: 2026-05-15T20:10:49.467-07:00
 modified: 2026-05-02
 tags:
   - player-resource
@@ -45,11 +45,31 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 **[[HCS-Constancy|HCS Constancy]]** — Dravosi Crown heavy frigate. The standard patrol vessel of the Crown fleet — the ship that was already there before the crisis. Inspects, boards, impounds.
 
+**[[HCS-Relentless|HCS Relentless]]** — Tier 1 patrol cutter, same class as HCS Surety but more heavily armed and in better condition. Naval grey hull with white stripe; Crown pennant at the masthead.
+
+**[[HCS-Surety|HCS Surety]]** — Small Crown patrol cutter. The ship Geoffrey Draves served on before his disappearance.
+
+**[[HCS-Warrant|HCS Warrant]]** — Crown brigantine, a step above the patrol cutters; carries sealed orders and Admiralty boarding authority.
+
+**[[HCS-Sovereign|HCS Sovereign]]** — The Dravosi Crown's first-rate flagship. 104 guns across three gun decks, built at Harwick Naval Yard. The most powerful warship in the Shattered Sea.
+
 **[[HCS-Ordinance|HCS Ordinance]]** — The Dravosi Crown's flagship and the largest warship in the Shattered Sea. A three-deck Ship of the Line that carries its own Admiralty Court. It does not patrol — it arrives. A speed-built cutter kept at Kalowe, used to move representatives and sealed orders between Midchain islands. No livery, no figurehead, no announcement.
 
 ---
 
 **[[Tessarine-Amberreach|Tessarine Amberreach]]** — Tessarine Concordat factor vessel; carries bonded cargo and sealed Concordat manifests between Crown Islands ports.
+
+**[[Tessarine-Silkvane|Tessarine Silkvane]]** — Tessarine Concordat dispatch sloop, single-masted, built for speed. Pale grey hull, well-maintained; registry mark in black on the bow.
+
+---
+
+**[[Brass-Cat|The Brass Cat]]** — Copper-sheathed two-masted schooner with brass-framed glass flush in the deck amidships.
+
+**[[Dead-Lady|The Dead Lady]]** — Always upwind, regardless of actual wind direction. Does not pursue. Already where you are going.
+
+**[[Greyteeth-Runner|The Greyteeth Runner]]** — Lean single-masted sloop, shallow-drafted and flat-bottomed for reef work. Plain hull, patched at the port bow, no figurehead.
+
+**[[Lasting-Insult|The Lasting Insult]]** — Courier-rigged sloop currently in South Harbour Impound.
 
 **[[Ironmantle|Ironmantle]]** — Remnant iron-hulled Tier 1 vessel; current location unknown.
 

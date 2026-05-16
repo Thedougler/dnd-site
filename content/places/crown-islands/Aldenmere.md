@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-Aldenmere is the fourth island of the [[places/crown-islands/index|Crown Islands]], one step east of [[places/crown-islands/harwick/index|Harwick]] and one step west of [[places/crown-islands/stenmark/index|Stenmark]]. There is no fortress here. No admiralty office, no naval yard, no inspection pier. The [[Dravosi-Crown|Dravosi Crown]] holds the island on paper and sends a revenue officer twice a year with a ledger and expectations about the fishing tithe. The island pays and the officer leaves. That is the full extent of colonial administration on Aldenmere.
+Aldenmere is the fourth island of the [[places/crown-islands/index|Crown Islands]], one step east of [[places/crown-islands/Harwick|Harwick]] and one step west of [[places/crown-islands/Stenmark|Stenmark]]. There is no fortress here. No admiralty office, no naval yard, no inspection pier. The [[Dravosi-Crown|Dravosi Crown]] holds the island on paper and sends a revenue officer twice a year with a ledger and expectations about the fishing tithe. The island pays and the officer leaves. That is the full extent of colonial administration on Aldenmere.
 
 The name comes from the mere — a broad, still tidal lake in the island's interior, connected to the sea by a narrow inlet channel. The farms run down to its eastern shore. The fishing fleets work both the mere and the offshore grounds. The town grew up where the ground was solid enough for stone, and has not grown much since. ^\[inferred]
 
@@ -33,7 +33,7 @@ The name comes from the mere — a broad, still tidal lake in the island's inter
 
 ## Geography
 
-The island is lower than [[places/crown-islands/harwick/index|Harwick]] and greener than [[places/calven/index|Calven]] — rolling agricultural land, hedgerow-bordered fields, and a central depression that floods with the tides and never fully drains. That depression is the mere. It is perhaps a mile across at its widest, shallower in summer and deeper in spring, ringed by reed beds and low pasture and old alder stands that give some accounts of the name a second reading.
+The island is lower than [[places/crown-islands/Harwick|Harwick]] and greener than [[places/calven/calven-summary|Calven]] — rolling agricultural land, hedgerow-bordered fields, and a central depression that floods with the tides and never fully drains. That depression is the mere. It is perhaps a mile across at its widest, shallower in summer and deeper in spring, ringed by reed beds and low pasture and old alder stands that give some accounts of the name a second reading.
 
 The coast is mostly gentle: short cliffs on the northern face taking the open ocean, shelving beaches and tidal flat on the south. The harbour is on the southwestern side, sheltered by a natural headland from the worst of the prevailing winds. The approaches are straightforward enough that a visiting captain does not strictly need a local pilot, though local pilots will tell you otherwise. ^\[inferred]
 
@@ -93,7 +93,6 @@ The mere's deeper channels, giant frogs, giant toads, giant crocodiles, hunter s
 
 ## See Also
 
-- [[places/crown-islands/aldenmere/index|Aldenmere Index]]
 - [[Crown-Islands|The Crown Islands]]
 - [[Dravosi-Crown|The Dravosi Crown]]
 - [[Harwick]]

@@ -12,16 +12,15 @@ tags:
 
 ## Player Characters
 
-- [[characters/player/index|Party Characters]]
-- [[private/players/crissdalynn/index|Crissdalynn Khinriss]]
-- [[private/players/delmar/index|Delmar Fisk]]
-- [[private/players/jean-claude/index|Jean Claude Tabarnack]]
-- [[private/players/perrin/index|Perrin Black-Jaw]]
-- [[private/players/stripes/index|Stripes Bitemore]]
+- [[Crissdalynn-Khinriss|Crissdalynn Khinriss]]
+- [[characters/player/Delmar-Fisk|Delmar Fisk]]
+- [[characters/player/Jean-Claude-Tabarnack|Jean Claude Tabarnack]]
+- [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]]
 
 ## Future Player Characters
 
-- [[private/players/coralyra/index|Coralyra Dranra]]
+- [[Coralyra-Dranra|Coralyra Dranra]]
+- [[characters/player/Stripes-Bitemore|Stripes Bitemore]]
 
 ## Crew
 

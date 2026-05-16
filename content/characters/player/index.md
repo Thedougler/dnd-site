@@ -15,6 +15,7 @@ tags:
 - [[Crissdalynn-Khinriss|Crisdalynn Khinriss]]
 - [[characters/player/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]
 - [[characters/player/Stripes-Bitemore|Stripes Bitemore]]
+- [[Coralyra-Dranra]]
 
 ## Related Indexes
 

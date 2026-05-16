@@ -60,4 +60,18 @@ Archfey Patron, Celestial Patron, Fiend Patron, Great Old One Patron _(2024 PHB)
 ## Connections
 
 - [[Hexblade]]
+- [[Great-Old-One|Great Old One]]
 - [[weapons]]
+- [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Bard / Warlock PC
+
+## Source
+
+- [[Warlock - D&D 5e (2024)|Source: Warlock — D&D 5e (2024)]]
+- [[Warlock - The Hexblade - DND 5th 2014 Edition|Source: Warlock — The Hexblade (2014)]]
+- [[raw/ingested/DnD 5.5 Warlock Class Guide-part-1|Source: DnD 5.5 Warlock Class Guide part 1]]
+- [[raw/ingested/DnD 5.5 Warlock Class Guide-part-2|Source: DnD 5.5 Warlock Class Guide part 2]]
+- [[raw/ingested/DnD 5.5 Warlock Class Guide-part-3|Source: DnD 5.5 Warlock Class Guide part 3]]
+- [[raw/ingested/DnD 5.5 Warlock Class Guide-part-4|Source: DnD 5.5 Warlock Class Guide part 4]]
+- [[raw/ingested/DnD 5.5 Warlock Class Guide-part-5-part-1-part-1-part-1-part-1-part-1-part-1|Source: DnD 5.5 Warlock Class Guide part 5]]
+- [[raw/ingested/DnD 5.5 Warlock Class Guide-part-6|Source: DnD 5.5 Warlock Class Guide part 6]]
+- [[raw/ingested/DnD 5.5 Warlock Subclasses Guide|Source: DnD 5.5 Warlock Subclasses Guide]]

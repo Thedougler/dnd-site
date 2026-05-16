@@ -5,7 +5,7 @@ created: 2026-05-14T21:51:35.117-07:00
 modified: 2026-05-04
 tags:
   - player-resource
-  - places
+  - location
   - index
 ---
 

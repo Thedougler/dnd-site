@@ -6,7 +6,7 @@ modified: 2026-05-03
 tags:
   - player-resource
   - index
-  - factions
+  - faction
 ---
 
 # Factions of the Shattered Sea

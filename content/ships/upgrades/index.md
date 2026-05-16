@@ -5,7 +5,7 @@ created: 2026-05-10
 modified: 2026-05-10
 tags:
   - index
-  - ships
+  - ship
   - mechanics
 ---
 

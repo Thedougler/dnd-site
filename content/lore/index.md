@@ -6,7 +6,7 @@ modified: 2026-05-14
 tags:
   - player-resource
   - index
-  - lore
+  - setting
 ---
 
 # Lore Index

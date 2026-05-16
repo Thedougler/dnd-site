@@ -9,7 +9,6 @@ modified: 2026-05-03
 tags:
   - creature
   - legend
-  - sea_monster
   - maritime
   - bestiary
 ---
@@ -57,3 +56,7 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 - [[Whip-Shark]]
 - [[Vestra]]
 - [[Algernon-Reginald-Clyde]]
+
+## Source
+
+- [[2026-04-13-the-leviathan-creature|Source: GM notes — The Leviathan]]

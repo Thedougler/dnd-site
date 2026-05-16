@@ -42,3 +42,7 @@ No attunement. No activation. The Pearl draws what drowns near it and holds it. 
 - [[Red-Lady]]
 - [[Drowned-Maw]]
 - [[Umberlee]]
+
+## Source
+
+- [[2026-04-13-pearl-of-souls|Source: GM notes — The Pearl of Souls]]

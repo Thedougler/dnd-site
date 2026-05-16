@@ -10,7 +10,6 @@ modified: 2026-05-03
 tags:
   - maritime
   - rattkin
-  - smuggling
 ---
 
 # The Passage
@@ -74,3 +73,7 @@ Knowing one route shown by one Rattkin is not knowledge of the Passage. Do not m
 
 - [[places/calveno/index]] — Calveno
 - [[places/port-tidefall/index]] — Port Tidefall
+
+## Source
+
+- [[2026-04-13-the-passage|Source: GM notes — The Passage]]

@@ -65,9 +65,11 @@ Battle Master, Champion, Eldritch Knight, Psi Warrior _(2024 PHB)_
 
 ## Connections
 
-- [[Battle Master]]
-- [[private/players/Stripes-Bitemore]]
-- [[Shattered-Sea]]
-- [[characters/party/Stripes-Bitemore]]
+- [[Battle-Master|Battle Master]]
+- [[characters/party/Stripes-Bitemore|Stripes Bitemore]] — Battle Master Fighter PC
 - [[Shattered-Sea]]
 - [[weapons]]
+
+## Source
+
+- [[Fighter - D&D 5e (2024)|Source: Fighter — D&D 5e (2024)]]

@@ -8,10 +8,7 @@ modified: 2026-05-05
 tags:
   - location
   - region
-  - outer-reach
-  - sunken-crown
   - player-resource
-  - places
   - index
 ---
 

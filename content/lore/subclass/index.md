@@ -13,6 +13,7 @@ tags:
 
 ## Bard
 
+- [[College-of-Eloquence|College of Eloquence]]
 - [[College-of-Valor|College of Valor]]
 
 ## Monk
@@ -48,6 +49,11 @@ tags:
 - [[Spellfire-Sorcery|Spellfire]]
 - [[Wild-Magic-Sorcery|Wild Magic]]
 
+## Fighter
+
+- [[Battle-Master|Battle Master]]
+
 ## Warlock
 
+- [[Great-Old-One|Great Old One]]
 - [[Hexblade|Hexblade]]

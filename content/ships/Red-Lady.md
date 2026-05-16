@@ -99,3 +99,8 @@ Three decks, organized for long independent operations.
 - [[ships/Loud-Argument]]
 - [[ships/Fernen]]
 - [[ships/Heft]]
+- [[situations/Red-Lady|Red Lady — DM Notes]]
+
+## Source
+
+- [[2026-04-13-red-lady|Source: GM notes — The Red Lady]]

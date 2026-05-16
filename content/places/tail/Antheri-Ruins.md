@@ -5,7 +5,7 @@ aliases:
   - Antheri
 title: Antheri Ruins
 created: 2026-05-02
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
   - ruins
   - antheri
@@ -23,6 +23,46 @@ The Antheri Ruins occupy the western wall of the [[Drowned-Maw|Drowned Maw]], be
 The architecture is disorienting at the accessible tier and outright wrong deeper in. There are no stairs. No flat floors designed as floors. No sealed chambers, no pressure bulkheads, no air pockets, no provision whatsoever for beings that needed to breathe. What there are: massive vertical shafts dropping into the dark, spherical rooms connected by sweeping archways, open pipework designed for current-flow, and a coherence throughout the structure that becomes harder to miss the longer you spend in it — the coherence of a system, not a city. Whatever the Antheri were, they moved through this the way fish move. In three dimensions, in water, without equipment. They did not build this for anyone who needed to stand.
 
 ---
+
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Submerged pre-collapse ruin system |
+| Location | Western wall of [[Drowned-Maw\|The Drowned Maw]] |
+| Controlled By | Contested by independent salvagers, [[Tessarine-Concordat\|Tessarine Concordat]], and [[Dravosi-Crown\|Dravosi Crown]] |
+| Access | Dangerous dive site; upper tier accessible, lower depths avoided |
+| Known For | Dark-alloy fittings, non-human architecture, the Shelfworks tier, and a deeper containment crisis |
+
+## Description
+
+The Antheri Ruins begin at the surface shelf around sixty feet down and continue into depths no current diver has returned from with anything useful to say. The upper structures appear as pale composite stonework and dark-alloy fittings built into the Maw's western wall rather than spread across a seafloor.
+
+## Function
+
+Publicly, the ruins are an impossible salvage prize: dark alloy, ancient mechanisms, and architecture that attracts scholars, prospectors, criminal contractors, private salvage outfits, and faction-backed crews. DM-only, the site is a planetary-scale flooded machine regulating a planar boundary rather than a simple ruin.
+
+## Access & Approach
+
+The accessible tier can be worked with air pumps and rope discipline down to roughly sixty feet. Below the thermocline, sunlight fails, Maw compass drift begins, and salvage crews stop treating the descent as a job site.
+
+## People & Power
+
+The site is in open-ended factional deadlock that has recently become less open-ended and more dangerous. The [[Tessarine-Concordat|Tessarine Concordat]] controls the intelligence war — the most accurate early maps of the upper shelf and the best salvage manifests have disappeared into debt-settlement arrangements across several seasons, and the Concordat knows considerably more about the layout of the accessible tier than any independent crew. The [[Dravosi-Crown|Dravosi Crown]] attempts to assert naval and administrative authority over a frontier that sits outside any map the Crown originally drew and refuses to be cleanly taxed. Neither faction controls the site. Independent crews work the gaps between them, and most of the actual work gets done this way.
+
+What is changing is the depth profile of the danger. Crews that worked the eighty-foot tier last season without incident are not taking return contracts this season. The stories coming back from those runs do not agree on the specifics, but they agree on the general shape: something below the thermocline is moving upward. Not fast. But consistently. Salvage schedules that operated without casualty for three consecutive seasons are now producing reports of severed air lines, unexplained cold bands in the upper dive water, and light changing colour at depth without a cloud crossing overhead. The established crew wisdom about where it is safe to work is failing quietly, without announcement, which is the worst way for it to fail.
+
+Surface danger has compounded the change. Antheri prizes leave the site in visible crates, and everyone on the water knows which boats came up heavy. [[beastiary/humanoid/pirate-captain|Pirate captains]] shadow pump barges back toward the Tail with varying levels of subtlety. The [[The-Glass-Debt|Glass Debt]] is the name crews use when they mean a threat that does not negotiate: a frigate-scale problem that can make a salvage flotilla surrender its best finds before anyone has enough wind to run. When the Glass Debt is reported near the eastern water, crews pull lines and the question of whether the pumps are worth abandoning resolves itself, once or twice, in the Glass Debt's favour.
+
+## Notable Features
+
+**The Shelfworks Tier** — The accessible upper ruins between the surface and roughly sixty feet, where ordinary dive operations can still work.
+
+**The Abyssal Bore** — The 60- to 200-foot depth range below the thermocline, where darkness, cold water, compass drift, and deeper predators change the risk profile.
+
+**The Abyssal Threshold** — The 200-foot-plus depth where organized descents return equipment rather than coherent accounts.
+
+**Dark Alloy** — Functional fittings machined to tolerances current forges cannot reproduce and valuable enough to drive the salvage economy.
 
 ## The Upper Ruins — The Shelfworks Tier (0–60 ft)
 
@@ -56,15 +96,9 @@ No one who has reached the lower depths has returned with a coherent account of 
 
 ---
 
-## The Current Situation
+## Flora
 
-The site is in open-ended factional deadlock that has recently become less open-ended and more dangerous. The [[Tessarine-Concordat|Tessarine Concordat]] controls the intelligence war — the most accurate early maps of the upper shelf and the best salvage manifests have disappeared into debt-settlement arrangements across several seasons, and the Concordat knows considerably more about the layout of the accessible tier than any independent crew. The [[Dravosi-Crown|Dravosi Crown]] attempts to assert naval and administrative authority over a frontier that sits outside any map the Crown originally drew and refuses to be cleanly taxed. Neither faction controls the site. Independent crews work the gaps between them, and most of the actual work gets done this way.
-
-What is changing is the depth profile of the danger. Crews that worked the eighty-foot tier last season without incident are not taking return contracts this season. The stories coming back from those runs do not agree on the specifics, but they agree on the general shape: something below the thermocline is moving upward. Not fast. But consistently. Salvage schedules that operated without casualty for three consecutive seasons are now producing reports of severed air lines, unexplained cold bands in the upper dive water, and light changing colour at depth without a cloud crossing overhead. The established crew wisdom about where it is safe to work is failing quietly, without announcement, which is the worst way for it to fail.
-
-Surface danger has compounded the change. Antheri prizes leave the site in visible crates, and everyone on the water knows which boats came up heavy. [[beastiary/humanoid/pirate-captain|Pirate captains]] shadow pump barges back toward the Tail with varying levels of subtlety. The [[The-Glass-Debt|Glass Debt]] is the name crews use when they mean a threat that does not negotiate: a frigate-scale problem that can make a salvage flotilla surrender its best finds before anyone has enough wind to run. When the Glass Debt is reported near the eastern water, crews pull lines and the question of whether the pumps are worth abandoning resolves itself, once or twice, in the Glass Debt's favour.
-
----
+Seagrass has found the channel-grooves in the upper civic halls. Other plant life is not documented; the composite stone itself resists ordinary biological growth.
 
 ## Fauna
 
@@ -76,14 +110,19 @@ The accessible upper tier (0–60 ft) has been colonized by the ordinary marine 
 
 ---
 
+## Hazards
+
+The Antheri Ruins' hazards are depth, thermocline transition, compass drift, cold bands, visibility changes, severed air lines, giant octopuses, giant crabs, whip sharks, pirate pressure, factional interference, and the DM-only planar containment crisis below the visible site.
+
+## Current Hooks
+
+- Crews that worked the eighty-foot tier last season without incident are not taking return contracts this season.
+- Salvage damage is concentrated on flow and pressure-regulation structures, which are not decorative ruins at all. ^\[inferred]
+- The [[situations/Pearl-of-Souls-Item|Pearl of Souls]] acts as a planar beacon at the Maw floor and is pulling danger upward through the lower tiers.
+
 ## See Also
 
 - [[Shelfworks|The Shelfworks]] — the accessible upper-tier salvage site; surface camp and dive operations
 - [[Drowned-Maw|The Drowned Maw]] — the trench the ruins are built into; the source of the Bore's compass drift
-- [[places/tail/index|The Tail]] — staging islands for the surface operations
+- [[Tail|The Tail]] — staging islands for the surface operations
 - [[Catarina-DaVirelli|Catarina DaVirelli]] — reverse-engineered the first working Antheri mechanism; sparked the gold rush; foremost living expert on Antheri materials
-
-## Related
-
-- [[Tail|The Tail]]
-- [[Drowned-Maw]] — The Drowned Maw

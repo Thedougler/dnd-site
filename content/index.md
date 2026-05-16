@@ -26,7 +26,7 @@ _High-magic. Age of sail. 1495 DR. Sixty thousand square miles of reef, deep cha
 - [[factions/index|Factions]]
 - [[items/index|Items]]
 - [[lore/index|Lore]]
-- [[npcs/index|NPCs]]
+- [[characters/npcs/index|NPCs]]
 - [[places/index|Places]]
 - [[ships/index|Ships]]
 

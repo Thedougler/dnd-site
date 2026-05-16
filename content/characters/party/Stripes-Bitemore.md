@@ -5,10 +5,10 @@ aliases:
   - Stripes
 title: Stripes Bitemore
 created: 2026-04-29
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
+  - pc
   - tabaxi
-  - fighter
 ---
 
 # Stripes Bitemore
@@ -19,8 +19,8 @@ tags:
 
 |                     |                  |
 | ------------------- | ---------------- |
-| **Species / Class** | Tabaxi Fighter 3 |
-| **Background**      | TBD              |
+| **Species / Class** | [[Tabaxi]] [[Battle-Master\|Battle Master]] [[Fighter]] 3 |
+| **Background**      | TBD                      |
 
 ---
 

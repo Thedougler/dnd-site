@@ -5,13 +5,11 @@ aliases:
   - Isle of Calven
 title: Calven
 created: 2026-05-04
-modified: 2026-05-04
+modified: 2026-05-15
 tags:
-  - location
   - island
   - crown-islands
   - tessarine
-  - player-resource
 ---
 
 # Calven
@@ -24,7 +22,16 @@ Calven is the second island east of [[places/calders-tooth/index|Calder's Tooth]
 
 The Dravosi flag flies at the harbour. The Tessarine Concordat runs the money. The island's original occupants — the Rattkin, settled deep beneath Le Paludi's oldest drainage channels — predate both, and have no particular interest in correcting the record.
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Low marsh island and commercial city-island |
+| Region | [[Crown-Islands\|The Crown Islands]] |
+| Controlled By | [[Dravosi-Crown\|The Dravosi Crown]] nominally; [[Tessarine-Concordat\|The Tessarine Concordat]] commercially |
+| Access | Open commercial approach through [[Calveno]]; northern flats unsafe without local knowledge |
+| Primary Economy | Trade, canal commerce, fishing, farming, crab harvest, and Concordat finance |
+| Known For | [[Calveno]], Le Paludi, [[Warren\|The Warren]], tidal marshes, and old structures in the mud |
 
 ## Geography
 
@@ -34,7 +41,12 @@ The tidal flats on the north and west run wide at low water. They are not naviga
 
 The prevailing winds from the northeast push straight along the northern shore and into the harbour mouth without impediment. Calveno's deep-water approach is straight and well-charted. There is no reason to approach from the north.
 
----
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| [[Calveno]] | town / canal city | The island's commercial city and public face. |
+| [[Warren\|The Warren]] | hidden settlement | Rattkin settlement beneath Le Paludi and the old drainage network. |
 
 ## Calveno
 
@@ -52,7 +64,17 @@ Access is not obtained by asking. Nobody worth asking will tell you how.
 
 [[Warren|→ The Warren]]
 
----
+## Roads & Routes
+
+Calven is approached through the deep-water route to [[Calveno]]. The north and west tidal flats are not safe to cross without channel knowledge, and the city itself moves by boat more than road.
+
+## People & Power
+
+The Dravosi flag flies at the harbour, but the [[Tessarine-Concordat|Tessarine Concordat]] controls the money. The Rattkin presence beneath Le Paludi predates both powers and remains deliberately hard to access.
+
+## Trade & Resources
+
+Calven produces grain, orchard fruit, marsh products, crab, fish, canal services, information, credit, and debt. The island's real export is commercial leverage.
 
 ## Flora
 
@@ -66,12 +88,20 @@ The tidal flats host [[beastiary/beasts/giant-crab|giant crabs]] in numbers — 
 
 Inland, [[beastiary/beasts/giant-wolf-spider|giant wolf spiders]] occupy the neglected sections of the drainage network, old cisterns, and any structure that has gone unwatched long enough. In Calveno, that means certain buildings in Le Paludi that even the landlords approach cautiously. The island's scrub interior has [[beastiary/beasts/giant-owl|giant owls]], rarely seen during the day, occasionally heard at night across the farmland. They cause problems for livestock and almost nobody else.
 
----
+## Hazards
+
+Tidal flats, mud channels, old drainage works, giant crabs, hunter sharks, and giant wolf spiders make the low island more dangerous than its commercial face suggests.
+
+## Current Hooks
+
+- Old timbers appear in the mud on very low tides, hinting at structures older than Calveno.
+- The Warren remains real, older than the city, and inaccessible by ordinary asking.
 
 ## See Also
 
-- [[places/crown-islands/index|The Crown Islands]] — regional overview
-- [[places/calveno/index|Calveno]] — the canal city
+- [[Crown-Islands|The Crown Islands]] — regional overview
+- [[Calveno]] — the canal city
+- [[places/calven/calven-summary|Calveno Quick Reference]] — districts, key people, and navigation
 - [[Warren|The Warren]] — Rattkin settlement beneath Le Paludi
 - [[Tessarine-Concordat|The Tessarine Concordat]] — dominant commercial power on Calven
 - [[Dravosi-Crown|The Dravosi Crown]] — nominal governing authority

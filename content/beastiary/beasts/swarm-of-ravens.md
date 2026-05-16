@@ -21,3 +21,7 @@ cssclasses:
 
 - [[giant-constrictor-snake]] — Giant Constrictor Snake
 - [[giant-axe-beak]] — Giant Axe Beak
+
+## Sources
+
+- [[raw/swarm-of-ravens|Swarm of Ravens — stat block]]

@@ -5,10 +5,10 @@ aliases:
   - The Shelfworks
 title: The Shelfworks
 created: 2026-05-01
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
   - ruins
-  - salvage
+  - maritime
   - antheri
 ---
 
@@ -28,6 +28,42 @@ Then the shelf ends. Twenty metres east of the last visible wall, the ruins drop
 
 ---
 
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Open-water Antheri salvage site |
+| Location | Western shelf of [[Drowned-Maw\|The Drowned Maw]] |
+| Controlled By | Contested by independent crews, [[Tessarine-Concordat\|Tessarine Concordat]], [[Dravosi-Crown\|Dravosi Crown]], and pirate pressure |
+| Access | Open-water dive site; crew, pumps, rope discipline, and weather window required |
+| Known For | Air-pump barges, dark-alloy salvage, upper ruins, and the drop-off nobody looks at |
+
+## Description
+
+The Shelfworks is a floating work camp over submerged Antheri stonework: anchored salvage vessels, marker buoys, air-pump stations, dive lines, guard cutters, factor boats, provision boats, and clear water that makes the depth look kinder than it is.
+
+## Function
+
+The site is the accessible upper-tier face of the [[Antheri-Ruins|Antheri Ruins]] and the current gold rush of the Scatter. It produces dark-alloy fittings, mechanism housings, salvage intelligence, debt arrangements, factional disputes, and enough danger that experienced divers keep rules they do not explain to new crews.
+
+## Access & Approach
+
+There is no island, harbour, or lighthouse. Visitors find the Shelfworks by following the boats. Work requires pumps, dive lines, surface watches, agreed depth limits, and a weather window. Provision boats from [[Tail|the Tail]] work through the outer ring every few days with water casks, salt fish, and information in roughly equal portions.
+
+## People & Power
+
+Independent crews do much of the work. The [[Tessarine-Concordat|Tessarine Concordat]] factor boat buys manifests, advances credit against future finds, and sometimes knows about sealed rooms before the crew that found them does. The [[Dravosi-Crown|Dravosi Crown]] inspection cutter makes the circuit on a schedule everyone knows and nobody acknowledges. Pirate captains exploit the lack of clean control.
+
+## Notable Features
+
+**Surface Camp** — A floating village of salvage barges, marker buoys, air pumps, guard cutters, factor boats, and provision traffic.
+
+**Upper Ruins** — Accessible Antheri civic architecture between the surface and roughly sixty feet.
+
+**Thermocline Boundary** — A sharp cold transition around fifty feet where light and sound begin behaving differently.
+
+**Shelf Edge** — The eastern drop-off, twenty metres past the last visible wall, where experienced salvagers do not spend time or look east.
+
 ## The Gold Rush
 
 The [[Antheri-Ruins|Antheri Ruins]] were known before the gold rush — old buildings in the water, reported by fishermen for generations, associated with the [[Drowned-Maw|Drowned Maw]] and left alone for the same reasons everything near the Maw is left alone. What changed the calculation was a single event: an artificer named [[Catarina-DaVirelli|Catarina DaVirelli]] successfully adapted a salvaged dark-alloy mechanism into a working device. The salvage had been available for years. The knowledge to use it had not.
@@ -40,7 +76,7 @@ The basic economics have not changed: one intact Antheri component changes the m
 
 ## The Surface Camp
 
-Seen from a mast, the Shelfworks surface camp is a floating village that has not decided whether it is a market, a work yard, or a disaster in progress. Salvage barges crowd the marker buoys — heavy-hulled tenders with pump machinery bolted to the deck and dive equipment stacked everywhere that pump machinery is not. Guard cutters hold the perimeter, some hired, some there for reasons the crew does not fully explain. Provision boats from [[places/tail/index|the Tail]] work through the outer ring every few days with water casks, salt fish, and information in roughly equal portions.
+Seen from a mast, the Shelfworks surface camp is a floating village that has not decided whether it is a market, a work yard, or a disaster in progress. Salvage barges crowd the marker buoys — heavy-hulled tenders with pump machinery bolted to the deck and dive equipment stacked everywhere that pump machinery is not. Guard cutters hold the perimeter, some hired, some there for reasons the crew does not fully explain. Provision boats from [[Tail|the Tail]] work through the outer ring every few days with water casks, salt fish, and information in roughly equal portions.
 
 The pumps run from before dawn to past dark. That sound is the constant: a dense mechanical thudding that travels through the hull of anything moored nearby and settles into your teeth after the first hour. Dive crews organize their day around which pumps are running and whether the hose pressure is right. Everything else — meals, disputes, business — happens around the pump schedule.
 
@@ -82,6 +118,12 @@ What they do not phrase plainly, but demonstrate by habit: experienced divers do
 
 ---
 
+## Flora
+
+Coral has taken the lintels, and seagrass roots into channels in the floor that were clearly not designed for seagrass. Other flora is not documented.
+
+---
+
 ## Fauna
 
 The upper shelf has been reef for long enough that it runs on reef ecology. Small reef sharks treat the old civic halls as territory — the archways and room entries create the kind of broken, shaded structure that reef sharks prefer, and the salvage traffic adds enough chum and vibration to keep them interested in the site year-round. Dive crews treat them as background and manage the encounters through habit rather than alarm. [[beastiary/sea-life/hunter-shark|Hunter sharks]] are a separate category: they follow the air pump vibrations and the fish waste that accumulates around barge hulls. The working heuristic is that a hunter shark near a pump line is following the pump. Removing the cause is faster than managing the animal.
@@ -90,17 +132,21 @@ The upper shelf has been reef for long enough that it runs on reef ecology. Smal
 
 [[beastiary/beasts/giant-squid|Giant squid]] appear in Shelfworks accounts at the thermocline boundary, reaching up toward the accessible tier from the drop-off. The canonical account is Orvalle's: an arm the length of a boarding pike, a partner's line surfacing alone forty minutes later. Most crews set their turnaround point above the thermocline specifically because the squid range does not extend reliably above it. Most of the time.
 
----
+## Hazards
+
+The Shelfworks' hazards are depth, hose discipline, pump failure, thermocline changes, reef sharks, hunter sharks following pump vibration, giant octopuses in archways, giant squid at the boundary, pirate pressure, factional inspection, sealed-room currents, and the DM-only lower-tier planar instability.
+
+## Current Hooks
+
+- Two salvagers failed to surface from a lower run three weeks ago; crews that worked those depths are not taking return contracts.
+- Veteran crews do not touch the sealed rooms in the lower northwest hall after three separate crews reported the same current and pressure response. ^\[inferred]
+- The [[ships/Red-Lady|Red Lady]] wreck sits at the eastern shelf edge, below the planar boundary and outside Umberlee's domain.
 
 ## See Also
 
 - [[Antheri-Ruins|Antheri Ruins]] — the full ruins structure; the Shelfworks is the accessible upper tier
 - [[Drowned-Maw|The Drowned Maw]] — the trench the shelf drops into
-- [[places/tail/index|The Tail]] — nearest staging ground; provisions, crew hire, pump maintenance
+- [[Tail|The Tail]] — nearest staging ground; provisions, crew hire, pump maintenance
 - [[Tessarine-Concordat|Tessarine Concordat]] — factor presence on site; early maps; manifest intelligence
 - [[Dravosi-Crown|Dravosi Crown]] — inspection authority; contested, partially effective
 - [[Catarina-DaVirelli|Catarina DaVirelli]] — artificer who sparked the gold rush; foremost living expert on Antheri materials
-
-## Related
-
-- [[Tail|The Tail]]

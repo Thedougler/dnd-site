@@ -4,19 +4,53 @@ aliases:
   - High Line
 title: High-Line
 created: 2026-05-02
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
   - village
-  - fishing
 ---
 
 # High-Line
 
-A fishing hamlet built into the northeastern cliffs of [[places/calders-tooth/index|Calder's Tooth]], where the cold upwellings come in thick with yellowtail and the rock face drops straight to the water. There is no beach. There are no docks. What there is: massive counterweighted wooden winches bolted to the cliff edge, lowering nets down the face and hauling the catch back up.
+## Overview
+
+A fishing hamlet built into the northeastern cliffs of [[Calders-Tooth-Overview|Calder's Tooth]], where the cold upwellings come in thick with yellowtail and the rock face drops straight to the water. There is no beach. There are no docks. What there is: massive counterweighted wooden winches bolted to the cliff edge, lowering nets down the face and hauling the catch back up.
 
 The settlement is vertical — ladders, rope platforms, creaking stairways cut into stone, winch-baskets that double as the only transport between levels. The fisherfolk here know every handhold and wind angle. Visitors take longer to learn which gaps are fatal.
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Cliff-face fishing hamlet |
+| Location | [[Calders-Tooth-Overview\|Calder's Tooth]], northeastern cliffs |
+| Controlled By | Local fishing families |
+| Public Access | No beach or docks; access is by cliff paths, baskets, ladders, or local help |
+| Primary Economy | Yellowtail netting from cold upwellings |
+| Known For | Counterweighted winches, vertical platforms, and fatal gaps |
+
+## Districts & Landmarks
+
+**Winch Line** — Massive counterweighted wooden winches bolted to the cliff edge lower nets down the face and haul the catch back up.
+
+**Rope Platforms** — Work stages, ladders, creaking stairs cut into stone, and winch-baskets that double as transport between levels.
+
+## Buildings & Services
+
+| Place | Type | Notes |
+|---|---|---|
+| Winch platforms | Working structures | Net operations, cliff access, fish hauling, and the settlement's practical centre; no dedicated page yet. |
+
+## People & Power
+
+High-Line runs on local expertise. The fisherfolk know every handhold and wind angle, and a visitor's safety depends more on listening than on rank.
+
+## Trade & Services
+
+The hamlet can provide yellowtail, cliff-water knowledge, rope work, and limited local passage. It is not a provisioning port.
+
+## Access & Approach
+
+There is no beach and no dock. Anything arriving from the water has to deal with the cliff face; anything arriving overland has to deal with wind, ladders, and narrow stone paths.
 
 ## Fauna
 
@@ -26,7 +60,14 @@ The northern cliff faces carry [[beastiary/monstrosity/harpy|harpies]] — not e
 
 ---
 
+## Current Hooks
+
+- Low-wind winch work can draw harpy attention to exposed rope-stage workers.
+- Shark sign below the cliff can delay repairs on the net face.
+
+---
+
 ## See Also
 
-- [[places/calders-tooth/index|Calder's Tooth]]
+- [[Calders-Tooth-Overview|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]

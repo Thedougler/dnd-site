@@ -5,15 +5,11 @@ aliases:
   - Calders Tooth
 title: Calder's Tooth Overview
 created: 2026-05-01
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
-  - location
   - island
   - crown-islands
   - dravosi
-  - player-resource
-  - places
-  - calders-tooth
 ---
 
 # Calder's Tooth
@@ -28,6 +24,17 @@ Calder's Tooth rises at the western mouth of the [[Central-Strait|Central Strait
 
 The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelter [[beastiary/beasts/giant-bat|giant bats]], root-torn ridge tracks carry [[beastiary/beasts/giant-boar|giant boar]] sign, and the open switchbacks are wide enough for [[beastiary/beasts/giant-axe-beak|giant axe beaks]] to pace wagons before striking. Villages along the wet side know to check old cisterns for [[beastiary/beasts/giant-wolf-spider|giant wolf spiders]] before sending children for water. Tidefall's walls keep out people better than they keep out the island.
 
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Dravosi gatekeeper island and fortress-port |
+| Region | [[Crown-Islands\|The Crown Islands]] |
+| Controlled By | [[Dravosi-Crown\|The Dravosi Crown]] |
+| Access | Restricted fortress-port on the west; tide-dependent working approaches on the east |
+| Primary Economy | Strait inspection, taxation, fishing, repairs, and Crown administration |
+| Known For | [[Port-Tidefall\|Port Tidefall]], the Western Wall, the Marrow, and the Eastern Mudflats |
+
 ## Geography
 
 **The Western Wall** is a miles-long basalt and limestone cliff face slick with sea spray and battered by [[Galewall|Galewall]] winds. Functionally unscalable from the water without magic; natural wind-tunnels in the pitted rock howl constantly.
@@ -36,18 +43,32 @@ The interior is Crown territory mostly on paper. Sinkholes and fog gullies shelt
 
 **The Eastern Mudflats** slope toward the [[Central-Strait|Central Strait]] in broad tidal flats and shallow mangrove-like estuaries. Tidal shifts can strand travelers in waist-deep muck, which makes the eastern approach difficult for armored patrols.
 
----
+## Settlements & Sites
 
-## Notable Locations
+| Place | Type | Notes |
+|---|---|---|
+| [[Port-Tidefall\|Port Tidefall]] | town / fortress-port | Dravosi administrative and military heart, carved into three tiers on the western cliff face. |
+| [[South-Harbour\|South Harbour]] | town / working harbour | Eastern harbour for fishing fleets, small traders, and independent shipwrights. |
+| [[Oshas-Slip\|Osha's Slip]] | town / fishing village | Stilt-platform village in the southeastern mudflats. |
+| [[High-Line\|High Line]] | town / cliff hamlet | Vertical northeastern cliff hamlet fishing cold upwellings with counterweighted nets. |
+| [[Overland-Track\|Overland Track]] | road | Muddy switchback toll road joining South Harbour to Port Tidefall across the southern interior. |
+| [[Cape-Solitude\|Cape Solitude]] | wilderness / landmark | Wind-battered northern point and site of the ruined Dead Light. |
 
-- [[Port-Tidefall|Port Tidefall]] — Dravosi administrative and military heart, carved into three tiers on the western cliff face
-- [[South-Harbour|South Harbour]] — eastern working harbour for fishing fleets, small traders, and independent shipwrights
-- [[Oshas-Slip|Osha's Slip]] — stilt-platform fishing village in the southeastern mudflats
-- [[High-Line|High Line]] — vertical northeastern cliff hamlet fishing cold upwellings with counterweighted nets
-- [[Overland-Track|Overland Track]] — muddy switchback toll road joining South Harbour to Port Tidefall across the southern interior
-- [[Cape-Solitude|Cape Solitude]] — wind-battered northern point and site of the ruined Dead Light
+## Roads & Routes
 
----
+Ships normally enter through [[Port-Tidefall|Port Tidefall]] under Crown inspection or use the calmer eastern working waters around [[South-Harbour|South Harbour]]. Overland movement depends on the [[Overland-Track|Overland Track]], a muddy switchback route that becomes worse after rain, fog, or animal disturbance.
+
+## People & Power
+
+The [[Dravosi-Crown|Dravosi Crown]] controls the official harbours, fortifications, inspection records, and toll roads. Away from cannon range, cliff-net hamlets, mudflat villages, and interior tracks operate with more practical independence than the ledgers imply.
+
+## Trade & Resources
+
+Calder's Tooth makes money from Strait inspection, harbour fees, fishing, repair work, and Crown taxation. The east side supplies working food and repair capacity; the west side supplies authority.
+
+## Flora
+
+Iron-oak and crown-pine dominate the Marrow canopy, with razor-vine and stinging nettles in the undergrowth. Mangrove-like estuaries and tidal plants define the eastern mudflats, while cliff vegetation clings to the storm-battered western face.
 
 ## Fauna
 
@@ -59,6 +80,19 @@ The interior ridge runs wet and broken — sinkholes, fog gullies, root-torn tra
 
 Industrial noise from Port Tidefall keeps much of the island wildlife pushed east and north. Coastal drakes nest in the limestone crags of the Marrow and attack logging details. Canopy constrictors drop from the dense forest canopy, and trench-crawlers hunt the eastern mudflats during low tide.
 
----
+## Hazards
 
-- [[places/calders-tooth/index|Calder's Tooth Index]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+Fog, sinkholes, mudflats, Crown inspection, cliff exposure, and interior predators all matter. The island is administered, not tame.
+
+## Current Hooks
+
+- A ship trying to avoid Tidefall inspection may risk the northern reefs or eastern mudflats.
+- Interior travel between South Harbour and Port Tidefall can be interrupted by fog, sinkholes, or animal sign.
+
+## See Also
+
+- [[places/calders-tooth/index|Calder's Tooth Index]]
+- [[Crown-Islands|The Crown Islands]]
+- [[Dravosi-Crown|The Dravosi Crown]]
+- [[Central-Strait|The Central Strait]]
+- [[places/index|Places]]

@@ -6,7 +6,7 @@ modified: 2026-05-09
 tags:
   - mechanics
   - reference
-  - ships
+  - ship
   - bastion
 ---
 

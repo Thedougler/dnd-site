@@ -5,14 +5,12 @@ aliases:
   - Isle of Stenmark
 title: Stenmark
 created: 2026-05-04
-modified: 2026-05-05
+modified: 2026-05-15
 tags:
-  - location
   - island
   - crown-islands
   - dravosi
   - drowned-maw
-  - player-resource
 ---
 
 # Stenmark
@@ -25,7 +23,16 @@ Stenmark is the easternmost island in the [[places/crown-islands/index|Crown Isl
 
 The island is stone and cold water and wind from the east. The [[Dravosi-Crown|Dravosi Crown]] maintains a signal station here, the easternmost in the Crown chain, staffed by a small watch rotation that reports on Maw weather patterns and anything unusual coming out of the east. Beyond that, the Crown presence is thin. The island does not invite administration the way a trade port does. The people here are fishing people and watch people and the occasional salvager using Stenmark as a staging point for work on the [[Shelfworks|Shelfworks]]. They understand the eastern water in ways that the rest of the Crown Islands do not bother to.
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Eastern Crown watch island on the Maw edge |
+| Region | [[Crown-Islands\|The Crown Islands]] |
+| Controlled By | Stenmark settlement and [[Dravosi-Crown\|The Dravosi Crown]] signal station |
+| Access | Dangerous eastern shelf; western harbour with costly local pilots |
+| Primary Economy | Cold-water fishing, preserved fish, salvage staging, and Maw observation |
+| Known For | Eastern cliffs, the signal station, cold upwelling, and visible Maw waterline |
 
 ## Geography
 
@@ -35,7 +42,13 @@ The Greyteeth reefs are at their worst in the approaches to Stenmark — the ree
 
 The northern tip of the island is the closest point to [[High-Eyrie|the High Eyrie]] — the Sentinels' basalt sea stack sits to the northeast, and on clear mornings the Eyrie is visible from Stenmark's northern headland before the morning fog burns off. ^\[inferred]
 
----
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| The Signal Station | building / watch station | Crown watch post logging Maw conditions, fog lines, and unusual sightings. |
+| Stenmark Settlement | town | Small western harbour town of fishers, watchers, and salvagers. |
+| Eastern Cliffs | wilderness / cliff line | Sheer deep-water face looking toward the [[Drowned-Maw\|Drowned Maw]]. |
 
 ## The Signal Station
 
@@ -51,7 +64,17 @@ The harbour town — also called Stenmark — is built on the western slope, fac
 
 The fish out of Stenmark are different from fish caught further west. Deeper-water species, cold-water varieties, longline catches that come up from depths the western islands' fleets do not work. There is a modest trade in preserved Stenmark fish with a reputation for flavour that the island's residents have learned to leverage without explaining too carefully where the fish come from or what else shares the water with them. ^\[inferred]
 
----
+## Roads & Routes
+
+Most travel uses the western harbour and slope settlement. The eastern cliff face has no useful landing, while northern approaches face Greyteeth reef trouble and Maw current effects.
+
+## People & Power
+
+The Crown maintains the signal station, but the island's daily authority rests with fishing families, watch officers, and pilots who understand the eastern water.
+
+## Trade & Resources
+
+Stenmark trades preserved cold-water fish, pilot knowledge, Maw observations, and occasional salvage support for the [[Shelfworks|Shelfworks]].
 
 ## Flora
 
@@ -65,6 +88,19 @@ The western slopes support rough pasture, heather, and gorse — shallow-soiled 
 
 [[beastiary/beasts/giant-vulture|Giant vultures]] ride the eastern thermals, particularly after storms, working the cliff updrafts for hours at a time. The watch log records them as routine. The offshore water is a different matter. [[beastiary/beasts/giant-shark|Giant sharks]] work the eastern shelf, drawn up by the cold upwelling and the deep-water species it lifts toward the surface. Longline crews know to pull gear before the light goes. The deeper water below the eastern cliff base — where the shelf drops quickly toward the Maw — is where the stories come from. Stenmark fishermen report occasional sightings of large wakes, surface disturbances, and shapes in the water that the light catches wrong. The Sentinels log the same things from the Eyrie and call them [[beastiary/dragons/young-sea-serpent|sea serpents]] without apparent concern. Stenmark residents use a different word and change the subject. ^\[inferred]
 
----
+## Hazards
 
-- [[places/crown-islands/stenmark/index|Stenmark Index]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+Greyteeth reefs, Maw-adjacent current shifts, harpies, giant vultures, giant sharks, cliff exposure, and possible sea serpent sign make Stenmark unforgiving.
+
+## Current Hooks
+
+- The signal logs may reveal patterns nobody at Harwick has cross-referenced.
+- The water below the eastern cliff produces wakes and shapes locals do not like naming.
+
+## See Also
+
+- [[places/crown-islands/stenmark/index|Stenmark Index]]
+- [[Crown-Islands|The Crown Islands]]
+- [[Drowned-Maw|The Drowned Maw]]
+- [[High-Eyrie|The High Eyrie]]
+- [[Shelfworks|The Shelfworks]]

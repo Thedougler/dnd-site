@@ -7,10 +7,9 @@ title: The Glass Debt
 created: 2026-05-03
 modified: 2026-05-03
 tags:
-  - pirate
+  - maritime
   - tier-3
-  - frigate
-  - raiding
+  - ship
 cssclasses:
   - wiki-ship
 ---

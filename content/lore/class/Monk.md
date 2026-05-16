@@ -80,4 +80,10 @@ Warrior of Mercy, Warrior of Shadow, Warrior of the Elements, Warrior of the Ope
 - [[Way-of-the-Kensei]]
 - [[weapons]]
 - [[raw/ingested/Stunned]]
+- [[characters/party/Crissdalynn-Khinriss|Crisdalynn Khinriss]] — Kensei Monk PC
 - [[SRD-Actions]]
+
+## Source
+
+- [[Monk - Way of the Kensei|Source: Monk — Way of the Kensei]]
+- [[raw/ingested/DnD 5.5 Monk Class Guide-part-6|Source: DnD 5.5 Monk Class Guide part 6]]

@@ -8,8 +8,7 @@ modified: 2026-05-05
 tags:
   - location
   - region
-  - maw
-  - tail
+  - landmark
   - player-resource
   - index
 ---

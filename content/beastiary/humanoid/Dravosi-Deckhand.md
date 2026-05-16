@@ -8,7 +8,6 @@ tags:
   - humanoid
   - bestiary
   - dravosi
-  - cr1_8
 ---
 
 # Dravosi Deckhand — Stat Block

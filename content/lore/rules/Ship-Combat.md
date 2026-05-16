@@ -7,7 +7,7 @@ tags:
   - mechanics
   - reference
   - rule
-  - ships
+  - ship
 ---
 
 # Ship Combat

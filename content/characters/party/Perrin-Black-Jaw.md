@@ -5,8 +5,10 @@ aliases:
   - PBJ
 title: Perrin Black-Jaw
 created: 2026-04-29
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
+  - character
+  - player-character
   - rattkin
   - bard
 ---
@@ -21,8 +23,8 @@ tags:
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
-| **Species / Class** | Rattkin (Fancy Rat) Bard 1 / Warlock 2 |
-| **Background**      | Sailor                                 |
+| **Species / Class** | [[Rattkin]] (Fancy Rat) [[Bard]] 1 / [[Warlock]] 2 ([[College-of-Eloquence\|Eloquence]] / [[Great-Old-One\|Great Old One]]) |
+| **Background**      | [[Sailor]]                                         |
 
 ---
 

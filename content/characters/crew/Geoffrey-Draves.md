@@ -2,8 +2,9 @@
 publish: true
 title: Geoffrey Draves
 created: 2026-05-10
-modified: 2026-05-15
+modified: 2026-05-16
 tags:
+  - character
   - dravosi
   - crew
   - recurring

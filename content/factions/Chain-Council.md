@@ -63,7 +63,7 @@ The dry docks at Kalowe are the only neutral shipyard in the Midchain, and the C
 
 Most buyers accept the condition and ignore it later. The Council knows this. The real value is not the service clause — it is that the Council knows what was built, for whom, and where it is likely to be sailing. Ships with service conditions function as a loose, informal intelligence network. A buyer who defaults on a service call learns that Kalowe's next dock slot comes with a longer wait.
 
-The _Quorum_ is the Council's own vessel — built at Kalowe and kept as a dispatch sloop, the closest thing the Chain has to an official presence on the water.
+The _[[The-Quorum|Quorum]]_ is the Council's own vessel — built at [[Kalowe]] and kept as a dispatch sloop, the closest thing the Chain has to an official presence on the water.
 
 This arrangement means Council-built ships are spread across the Shattered Sea in the hands of buyers who may or may not feel obligated to answer when the Chain calls. The quality is consistent. The loyalty is not.
 

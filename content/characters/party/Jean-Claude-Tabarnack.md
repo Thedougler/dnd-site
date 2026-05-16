@@ -5,8 +5,10 @@ aliases:
   - Pierre Le Merde
 title: Jean-Claude Tabarnack
 created: 2026-04-29
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
+  - character
+  - player-character
   - grung
   - ranger
 ---
@@ -21,8 +23,8 @@ tags:
 
 |                     |                                            |
 | ------------------- | ------------------------------------------ |
-| **Species / Class** | Grung (Blue Caste) Ranger (Gloomstalker) 3 |
-| **Background**      | Hermit                                     |
+| **Species / Class** | [[Grung]] (Blue Caste) [[Ranger]] ([[Gloom-Stalker\|Gloomstalker]]) 3 |
+| **Background**      | [[Hermit]]                                                           |
 
 ---
 
@@ -66,7 +68,7 @@ When Jean-Claude finally ran, he freed every slave he could reach on his way out
 
 ## Desertion
 
-Jean-Claude does not describe what he did as escape. He describes it as the first step of something longer. He left with nothing except a Decanter of Endless Water and the understanding that the world outside the [[Verdant-Teeth|Verdant Teeth]] is full of things the Botukuri clan told him did not exist: peoples who have built something different, alliances across species, societies that do not run on domination. He intends to see all of it.
+Jean-Claude does not describe what he did as escape. He describes it as the first step of something longer. He left with nothing except a Flask of Endless Water and the understanding that the world outside the [[Verdant-Teeth|Verdant Teeth]] is full of things the Botukuri clan told him did not exist: peoples who have built something different, alliances across species, societies that do not run on domination. He intends to see all of it.
 
 His stated goal is not exile. It is return. He wants to come back to Grung society as someone who cannot be ignored — carrying proof that another way is possible, carrying the skills and the arguments and the weight of a wider world behind him. Pell told him every people has something unique to offer. Jean-Claude has decided to find out what that means, one port at a time, and carry it home when he is ready.
 
@@ -92,7 +94,7 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 
 ## Known Possessions
 
-- **Decanter of Endless Water** — carried since his departure from the [[Verdant-Teeth|Verdant Teeth]]. Origin unestablished. He does not explain where he got it.
+- **Flask of Endless Water** — carried since his departure from the [[Verdant-Teeth|Verdant Teeth]]. Origin unestablished. He does not explain where he got it.
 - **Red beret** — the cornerstone of his disguise methodology.
 - **False moustache** — no Grung naturally grows one. This, in his view, makes the disguise complete.
 

@@ -1,12 +1,12 @@
 ---
 publish: true
 title: Species
-created: 2026-05-14T21:39:30.756-07:00
+created: 2026-05-15T18:57:19.379-07:00
 modified: 2026-05-03
 tags:
   - player-resource
   - index
-  - species
+  - playable
 ---
 
 # Playable Species
@@ -28,3 +28,8 @@ Standard 2024 D\&D species are all available. These are the Shattered Sea additi
 ---
 
 For social context around the Grung, see [[Grung-Clans|The Grung Clans]] · [[index|The Shattered Sea]].
+
+## Sources
+
+- [[raw/clippings/Species - D&D 5e (2024)|Species — D&D 5e 2024]]
+- [[raw/clippings/DnD 5.5 Species - Character Optimization Guides|DnD 5.5 Species Optimization Guide]]

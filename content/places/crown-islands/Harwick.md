@@ -4,15 +4,13 @@ aliases:
   - Harwick Island
 title: Harwick
 created: 2026-05-04
-modified: 2026-05-05
+modified: 2026-05-15
 tags:
-  - location
   - island
   - crown-islands
   - dravosi
   - military
-  - naval
-  - player-resource
+  - maritime
 ---
 
 # Harwick
@@ -25,7 +23,16 @@ Harwick is the second-largest island in the [[places/crown-islands/index|Crown I
 
 Two days east of Calder's Tooth, Harwick sits near the middle of the northern arc — accessible from both ends of the Crown Island chain and close enough to open ocean to move the fleet quickly when it has to. The deep-water anchorage on the island's south face is the largest natural harbour in the Scatter that a Ship of the Line can enter, and the Crown has spent considerable money making sure that advantage is fortified rather than merely scenic.
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Dravosi naval island and fleet anchorage |
+| Region | [[Crown-Islands\|The Crown Islands]] |
+| Controlled By | [[Dravosi-Crown\|The Dravosi Crown]] and Harwick Admiralty |
+| Access | Restricted naval harbour; civilian town access around the Yard |
+| Primary Economy | Shipbuilding, naval administration, provisions, timber, and sailor services |
+| Known For | Harwick Naval Yard, the Bight, Admiralty offices, and Crown warship construction |
 
 ## Geography
 
@@ -33,7 +40,13 @@ The island is broader and flatter than the limestone ridges of Calder's Tooth. T
 
 The northern coast takes open ocean swell directly. It is uninhabited outside of a signal station and a few fishing hamlets that have learned not to be surprised when a Crown frigate requests water. The eastern marshes drain through a network of channels into a shallow bay used by small craft, fishing boats, and anyone who wants to avoid the Yard's official entry points.
 
----
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| Harwick Naval Yard | building / naval yard | Dry docks, covered slipways, storehouses, and Crown military shipbuilding. |
+| The Admiralty | building / office | Hilltop naval administration and sealed order archive. |
+| Harwick Town | town | Civilian settlement serving the Yard, fleet, and market wharf. |
 
 ## The Naval Yard
 
@@ -59,7 +72,17 @@ The civilian settlement, also called Harwick, clusters along the eastern edge of
 
 The naval rating pool that crews Crown ships on rotation lives mostly here, in barracks along the north edge of town. Harwick sailors are not the Scatter's most adventurous. They are, reliably, the Scatter's most sober when they need to be.
 
----
+## Roads & Routes
+
+The main access is by the deep-water anchorage inside the Bight. Interior logging roads connect the managed northwestern forests to the Yard, while eastern marsh channels support smaller craft that avoid the official entry points.
+
+## People & Power
+
+Crown military authority dominates the island through the Yard, Admiralty, rating pool, and harbour protocols. Civil harbour officials govern the town day to day, but the Admiralty sets the limits.
+
+## Trade & Resources
+
+Harwick consumes timber, pitch, cordage, food, labour, and paperwork, and produces warships, patrol schedules, naval orders, and military employment.
 
 ## Flora
 
@@ -73,6 +96,19 @@ The interior forest holds [[beastiary/beasts/giant-boar|giant boar]], particular
 
 [[beastiary/beasts/giant-axe-beak|Giant axe beaks]] range across the open plateau — visible from the Admiralty walls on clear days, moving in loose groups across the grassland. They occasionally push close to the town outskirts, which the locals treat as an inconvenience rather than a crisis. [[beastiary/beasts/giant-owl|Giant owls]] are common in the older unmanaged forest in the northwest, hunting at dusk along the treeline. The harbour waters hold [[hunter-shark|hunter sharks]] year-round, drawn by fish offal and waste the Yard puts into the Bight. The Admiralty posts shark warnings at the bathing steps. It does not do much else about it. ^\[inferred]
 
----
+## Hazards
 
-- [[places/crown-islands/harwick/index|Harwick Index]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+Military restriction, shark-filled harbour water, managed but dangerous forests, giant boars, axe beaks, giant wolf spiders, and Yard security all shape visitor movement.
+
+## Current Hooks
+
+- A civilian needs Admiralty permission to pass the Yard gate.
+- The sealed key protocol for Crown warships makes Harwick an administrative target as much as a military one.
+
+## See Also
+
+- [[places/crown-islands/harwick/index|Harwick Index]]
+- [[Crown-Islands|The Crown Islands]]
+- [[Dravosi-Crown|The Dravosi Crown]]
+- [[HCS-Constancy|HCS Constancy]]
+- [[HCS-Ordinance|HCS Ordinance]]

@@ -2,21 +2,33 @@
 publish: true
 title: Characters
 created: 2026-05-03
-modified: 2026-05-14
+modified: 2026-05-16
 tags:
   - player-resource
   - index
-  - characters
 ---
 
 # The Party
 
+## Player Characters
+
+- [[characters/party/index|Party Characters]]
 - [[characters/crissdalynn/index|Crissdalynn Khinriss]]
 - [[characters/delmar/index|Delmar Fisk]]
 - [[characters/jean-claude/index|Jean Claude Tabarnack]]
 - [[characters/perrin/index|Perrin Black-Jaw]]
+- [[characters/stripes/index|Stripes Bitemore]]
 
-## Not Yet Joined
+## Future Player Characters
 
-- [[characters/party/Stripes-Bitemore|Stripes Bitemore]]
-- [[Coralyra-Dranra|Coralyra Dranra]]
+- [[characters/coralyra/index|Coralyra Dranra]]
+
+## Crew
+
+- [[characters/crew/index|Crew Characters]]
+- [[characters/The-Crew|Party Crew Roster]]
+
+## Non-Player Characters
+
+- [[characters/npcs/index|Recurring NPCs]]
+- [[characters/minor-npcs/index|Minor NPCs]]

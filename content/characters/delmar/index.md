@@ -1,10 +1,16 @@
 ---
 publish: true
-created: 2026-05-14T21:39:30.872-07:00
-modified: 2026-05-14T23:38:49.364-07:00
+title: Delmar Fisk Player Character Index
+created: 2026-05-03
+modified: 2026-05-16
+tags:
+  - player-resource
+  - index
+  - characters
 ---
 
 # Delmar Fisk Player Character Index
 
 - [[characters/party/Delmar-Fisk|Delmar Fisk]]
 - [[characters/delmar/Delmar-Sheet|Delmar-Sheet]]
+- [[characters/delmar/Delmar-Fisk-Interview|Character Interview]]

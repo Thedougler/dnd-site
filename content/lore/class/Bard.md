@@ -60,6 +60,13 @@ College of Dance, College of Glamour, College of Lore, College of Valor _(2024 P
 ## Connections
 
 - [[College-of-Valor]]
+- [[College-of-Eloquence|College of Eloquence]]
 - [[weapons]]
 - [[raw/ingested/Frightened]]
 - [[raw/ingested/Charmed]]
+- [[characters/party/Perrin-Black-Jaw|Perrin Black-Jaw]] — Bard / Warlock PC
+
+## Source
+
+- [[Bard - D&D 5e (2024)|Source: Bard — D&D 5e (2024)]]
+- [[College of Valor - D&D 5e (2024)|Source: College of Valor — D&D 5e (2024)]]

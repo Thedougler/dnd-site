@@ -8,7 +8,6 @@ tags:
   - humanoid
   - bestiary
   - dravosi
-  - cr1
 ---
 
 # Dravosi Alchemist — Stat Block

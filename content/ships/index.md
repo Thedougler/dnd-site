@@ -1,12 +1,12 @@
 ---
 publish: true
 title: Ships
-created: 2026-05-14T21:51:39.200-07:00
+created: 2026-05-15T15:35:25.497-07:00
 modified: 2026-05-02
 tags:
   - player-resource
   - index
-  - ships
+  - ship
 ---
 
 # Ships
@@ -49,4 +49,10 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 ---
 
-For ship rules and mechanics, see [[Ship-Stats|Ship Stats]] · [[Ship-Bastion|Ship Bastion]] · [[ships/upgrades/index|Upgrades]] · [[index|The Shattered Sea]].
+**[[Tessarine-Amberreach|Tessarine Amberreach]]** — Tessarine Concordat factor vessel; carries bonded cargo and sealed Concordat manifests between Crown Islands ports.
+
+**[[Ironmantle|Ironmantle]]** — Remnant iron-hulled Tier 1 vessel; current location unknown.
+
+---
+
+For ship rules and mechanics, see [[Ship-Stats|Ship Stats]] · [[Ship-Bastion|Ship Bastion]] · [[ships/upgrades/index|Upgrades]] · [[ships-cheat-sheet|Ships & Bastion Quick Reference]] · [[index|The Shattered Sea]].

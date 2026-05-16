@@ -95,3 +95,8 @@ Tabaxi do not form social bonds easily. They are creatures of territory and comp
 - [[Rattkin]] — Rattkin
 - [[Grung]] — Grung
 - [[Antherian]] — Antherian
+- [[characters/party/Stripes-Bitemore|Stripes Bitemore]] — Tiger Tabaxi Battle Master Fighter PC
+
+## Sources
+
+- [[raw/clippings/Tabaxi - DND 5th 2014 Edition|Tabaxi — DnD 5th 2014 Edition]]

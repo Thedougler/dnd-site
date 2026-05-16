@@ -111,3 +111,8 @@ A Mortis pairs a permanent mechanical disadvantage (the **Mark**) with a targete
 ## Context
 
 Session zero option only — not available mid-campaign. Requires DM approval on both sides. The Mark must have real teeth; the Gift must exceed the Mark in value and target the player's core fantasy. See Design Rules and Constraints above for creation guidance.
+
+## Source
+
+- [[2026-04-13-mortis-rule|Source: GM notes — The Mortis rule]]
+- [[raw/ingested/mortis-rule|Source: Mortis rule (standalone)]]

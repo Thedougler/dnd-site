@@ -6,7 +6,6 @@ modified: 2026-04-14
 tags:
   - playable
   - rattkin
-  - smuggling
   - maritime
 cssclasses:
   - wiki-species

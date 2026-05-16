@@ -6,10 +6,12 @@ aliases:
   - Delmar Atticus Fisk
 title: Delmar Fisk
 created: 2026-04-29
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
+  - character
+  - player-character
   - human
-  - fighter
+  - rogue
 ---
 
 # Delmar Atticus Fisk
@@ -22,8 +24,8 @@ tags:
 
 |                     |                            |
 | ------------------- | -------------------------- |
-| **Species / Class** | Human Swashbuckler Rogue 3 |
-| **Background**      | Sailor                     |
+| **Species / Class** | [[Human]] [[Swashbuckler]] [[Rogue]] 3 |
+| **Background**      | [[Sailor]]                             |
 
 ---
 
@@ -142,3 +144,7 @@ On the gangplank Delmar was active through to the session break — Rook unharme
 What gets said about Delmar Fisk depends on who's saying it and what they lost. To some he's everything the title claims — daring, loyal, difficult to kill, an admiral in all the ways that count and a few that aren't technically sanctioned. To others he's a privateer with a dangerous reputation and a fleet-sized tragedy in his recent past.
 
 What isn't disputed is that he survived. He's aboard the _[[Saltwright|Saltwright]]_, alive and moving, and whatever drove him to the Maw and back hasn't finished with him yet.
+
+## Source
+
+- [[Delmar-Fisk Continued Backstory|Source: Delmar Fisk — continued backstory]]

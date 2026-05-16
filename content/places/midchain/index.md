@@ -8,9 +8,7 @@ modified: 2026-05-05
 tags:
   - location
   - region
-  - midchain
   - player-resource
-  - places
   - index
 ---
 

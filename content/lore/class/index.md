@@ -26,3 +26,9 @@ tags:
 - [[Wizard|Wizard]]
 
 For subclasses, see [[lore/subclass/index|Subclasses]].
+
+## Sources
+
+- [[raw/clippings/DnD 5.5 Classes and Subclasses - Character Build Guides for 2024 DnD-part-1|DnD 5.5 Classes & Subclasses Build Guide (part 1)]]
+- [[raw/clippings/DnD 5.5 Classes and Subclasses - Character Build Guides for 2024 DnD-part-2|DnD 5.5 Classes & Subclasses Build Guide (part 2)]]
+- [[raw/clippings/DnD 5.5 Classes and Subclasses - Character Build Guides for 2024 DnD|DnD 5.5 Classes & Subclasses Build Guide]]

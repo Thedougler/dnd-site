@@ -4,7 +4,7 @@ aliases:
   - Sorn Island
 title: Sorn
 created: 2026-05-01
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
   - island
   - grung
@@ -26,7 +26,43 @@ Sorn's known threats are the kind that thrive around farms and wet interior work
 
 The crop terraces make Sorn one of the few places where giant ape sign can reach the edge of public knowledge. A huge forager does not need to attack the beach to become a problem; it only needs to break fruit trees, tear down watch platforms, or throw stones from the ridge when patrols push too close. Traders have no direct right to see the interior, so the rumor travels as aftermath: repaired palisade sections, sudden delays in resin shipments, and grung guards returning from inland with crushed shields. ^\[inferred]
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Agricultural Grung island with guarded trade beach |
+| Region | [[Verdant-Teeth\|The Verdant Teeth]] |
+| Controlled By | Botukuri clan of the [[Grung-Clans\|Grung Clans]] |
+| Access | Sanctioned beach traffic only; no inland access |
+| Primary Economy | Interior agriculture, resin, pigments, specimens, and guarded exchange |
+| Known For | Green wall coastline, pale trade beach, Botukuri control, and interior work |
+
+## Geography
+
+Sorn presents as reef-fringed pale sand, dense jungle, and limestone ridge above canopy. The western trade beach is the only cleared public edge; everything behind it closes quickly into Grung-held interior.
+
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| Western trade beach | trade beach | Only point where outsiders are expected to conduct business. |
+| Interior crop terraces | wilderness / agricultural site | Managed Grung agricultural interior that outsiders cannot enter. |
+
+## Roads & Routes
+
+Boat traffic lands only at the cut-back western beach. No permanent docking is allowed, and no public road inland exists for outsiders; the Grung use interior paths that remain off-limits.
+
+## People & Power
+
+The Botukuri clan holds Sorn. A purple-caste garrison controls the beach, intermediaries handle trade at the waterline, and the interior remains invisible by policy.
+
+## Trade & Resources
+
+Sorn is known for agricultural work, resin shipments, pigments, alchemical specimens, and guarded exchange through intermediaries.
+
+## Flora
+
+Sorn's visible flora is dense reef-edge jungle and cut-back beach growth. Its concealed interior includes crop terraces and fruiting canopy significant enough to draw giant ape pressure.
 
 ## Fauna
 
@@ -34,16 +70,19 @@ The trade beach gives traders a narrow window of observation. [[beastiary/beasts
 
 The interior is where the more significant sign accumulates. The crop terraces attract [[beastiary/beasts/giant-ape|giant apes]] from the ridgelines — animals large enough to break fruit trees, pull down watch platforms, and throw stone from elevation. Traders don't see the interior, so the evidence travels as consequence: repaired palisade sections visible from the beach, delays in resin shipments that Grung intermediaries do not explain, and guards returning from inland with crushed equipment. The island is managed. That work is ongoing.
 
----
+## Hazards
+
+Boundary enforcement, poisonous Grung contact protocols, giant wasps, giant centipedes, giant frogs, giant apes, and a managed but not tame interior.
+
+## Current Hooks
+
+- Delays in resin shipments and repaired palisades hint at giant ape pressure inland.
+- Sorn is not where the recent raids come from, which makes traders more willing to use the beach.
 
 ## See Also
 
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Veth]]
 - [[Karath|Karath]]
-
-## Related
-
-- [[Verdant-Teeth|The Verdant Teeth]]
-- [[places/midchain/index|The Midchain]]
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Midchain|The Midchain]]
+- [[Grung-Clans|The Grung Clans]]

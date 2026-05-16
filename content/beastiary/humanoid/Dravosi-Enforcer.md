@@ -8,7 +8,6 @@ tags:
   - humanoid
   - bestiary
   - dravosi
-  - cr1_2
 ---
 
 # Dravosi Enforcer — Stat Block

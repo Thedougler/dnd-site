@@ -2,9 +2,8 @@
 publish: true
 title: Calveno
 created: 2026-05-01
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
-  - location
   - city
   - tessarine
   - crown-islands
@@ -25,9 +24,18 @@ Rumour has it the [[Warren]] is hidden somewhere within Calveno, though only a m
 
 _Three days from Tidefall on good wind. A week on bad._
 
----
+## At a Glance
 
-## Notable Locations
+| Field | Detail |
+|---|---|
+| Type | Canal city and commercial centre |
+| Location | Calven island in the [[Crown-Islands\|Crown Islands]], northern [[Central-Strait\|Central Strait]] |
+| Controlled By | Seven merchant families; [[Tessarine-Concordat\|Tessarine Concordat]] debt leverage |
+| Public Access | Open by canal traffic; true privacy is expensive and brokered |
+| Primary Economy | Witnessed trade, finance, shipping, shipyard work, brokerage, and information |
+| Known For | Pale stone canals, public negotiations, the Mercatura, and the hidden [[Warren]] |
+
+## Districts & Landmarks
 
 - **The Mercatura** — The commercial artery, running straight from the harbour inward. Boats press in from both sides; the smell is salt, spice, and coin changing hands in volume. The Tessarine factor building anchors the harbour end — a full story above everything around it, pale stone, no signage.
 
@@ -39,9 +47,32 @@ _Three days from Tidefall on good wind. A week on bad._
 
 - **The Velo Quarter** — A separate island attached by two low bridges. Lantern light at all hours, music from several directions at once, buildings painted in colours the rest of Calveno doesn't permit itself. Whatever authority governs the city stops at the bridges.
 
----
+## Buildings & Services
 
-## Connections
+| Place | Type | Notes |
+|---|---|---|
+| [[Cats-Curios\|Cat's Curios]] | Artificer workshop | Referral-only artificer workshop; no sign, no walk-ins, best work in the Scatter. |
+| [[Warren\|The Warren]] | Hidden settlement | Fixed Rattkin settlement beneath Le Paludi and deepest anchor of [[Passage\|the Passage]]. |
+| The Arsenal | Shipyard | Walled shipyard in the southwest; fourteen-month wait for non-House commissions. |
+| Tessarine factor house | Trade house | Concordat factor building at the harbour end of the Mercatura; no dedicated page yet. |
+
+## People & Power
+
+Seven hereditary merchant families hold Council seats. [[Tessarine-Concordat|The Tessarine Concordat]] holds debt leverage over six of the seven and does not need to announce it. [[Passage|The Passage]] and the [[Warren]] operate beneath the visible city where money flow, canal traffic, and hidden routes meet.
+
+## Trade & Services
+
+Calveno offers high-end brokerage, shipyard commissions, artificer referrals, private meetings, credit, information, and every lesser service that accretes around a city built on witnessed deals.
+
+## Access & Approach
+
+There are no docks in the usual sense. Flat-bottomed boats move through channels between buildings, and newcomers learn quickly that being seen with the right person matters as much as what they say.
+
+## Current Hooks
+
+- The [[Warren]] exists beneath Le Paludi, but surface Calveno knows it mostly as rumour.
+
+## See Also
 
 - [[Tessarine-Concordat]]
 - [[Warren]]
@@ -50,6 +81,4 @@ _Three days from Tidefall on good wind. A week on bad._
 - [[Crown-Islands]]
 - [[places/calveno/index]]
 - [[places/calven/index]]
-- [[places/crown-islands/index]]
-- [[places/index]]
-- [[index]]
+- [[situations/Calveno|Calveno — DM Notes]]

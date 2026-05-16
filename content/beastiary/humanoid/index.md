@@ -24,3 +24,4 @@ Pirates and raiders. Found wherever ships go.
 - [[beastiary/humanoid/Dravosi-Alchemist|Dravosi Alchemist]] - CR 1 support officer; Incendiary Flask, Caustic Vial, Poison Gas Canister; the canister reveal wires to Jean-Claude's thread
 - [[beastiary/humanoid/Dravosi-Deckhand|Dravosi Deckhand]] - CR 1/8 patrol sailor; inspection and boarding duties; fights to buy time for a shout
 - [[beastiary/humanoid/Dravosi-Enforcer|Dravosi Enforcer]] - CR 1/2 boarding veteran; Pack Tactics, Boarding Hook, confined-space specialist
+- [[beastiary/humanoid/guard-captain|Guard Captain]] - Leads soldiers and guards; skilled melee combatant with multiattack

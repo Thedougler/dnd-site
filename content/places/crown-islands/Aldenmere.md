@@ -5,13 +5,11 @@ aliases:
   - Isle of Aldenmere
 title: Aldenmere
 created: 2026-05-04
-modified: 2026-05-05
+modified: 2026-05-15
 tags:
-  - location
   - island
   - crown-islands
   - dravosi
-  - player-resource
 ---
 
 # Aldenmere
@@ -22,7 +20,16 @@ Aldenmere is the fourth island of the [[places/crown-islands/index|Crown Islands
 
 The name comes from the mere — a broad, still tidal lake in the island's interior, connected to the sea by a narrow inlet channel. The farms run down to its eastern shore. The fishing fleets work both the mere and the offshore grounds. The town grew up where the ground was solid enough for stone, and has not grown much since. ^\[inferred]
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Quiet farming and fishing island |
+| Region | [[Crown-Islands\|The Crown Islands]] |
+| Controlled By | Local fishing families under nominal [[Dravosi-Crown\|The Dravosi Crown]] tithe authority |
+| Access | Open harbour approach; local pilots preferred around the mere and inlet |
+| Primary Economy | Fishing, farming, eel and crayfish harvest, provisions, and modest harbour fees |
+| Known For | The inland tidal mere, practical stone town, and old alder stands |
 
 ## Geography
 
@@ -30,7 +37,12 @@ The island is lower than [[places/crown-islands/harwick/index|Harwick]] and gree
 
 The coast is mostly gentle: short cliffs on the northern face taking the open ocean, shelving beaches and tidal flat on the south. The harbour is on the southwestern side, sheltered by a natural headland from the worst of the prevailing winds. The approaches are straightforward enough that a visiting captain does not strictly need a local pilot, though local pilots will tell you otherwise. ^\[inferred]
 
----
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| Aldenmere Town | town | Small harbour settlement and market on the eastern shore of the mere. |
+| The Mere | wilderness / tidal lake | Broad inland tidal lake, fishery, and sheltered small-craft anchorage. |
 
 ## The Mere
 
@@ -46,7 +58,17 @@ The main settlement, also called Aldenmere, runs along the eastern shore of the 
 
 The fishing fleet is the island's real economy. Two dozen boats working the offshore grounds and the northern upwelling, a smaller number working the mere year-round. The catch goes to Harwick and Tidefall by the regular provisioning routes. ^\[inferred]
 
----
+## Roads & Routes
+
+Ships use the southwestern harbour or the sheltered headland. Flat-bottomed boats can work the inlet into the mere at high tide, while roads connect the harbour, town, farms, and lake shore.
+
+## People & Power
+
+The island pays its tithe and is otherwise governed by local habit, fishing families, and practical harbour officials. Crown administration appears as a revenue officer twice a year.
+
+## Trade & Resources
+
+Aldenmere sends fish, preserved catch, eels, crayfish, grain, root vegetables, orchard fruit, reeds, and provisions toward Harwick and Tidefall.
 
 ## Flora
 
@@ -60,6 +82,19 @@ The mere holds [[beastiary/beasts/giant-frog|giant frogs]] in the reed beds and 
 
 Offshore, the southern approaches carry [[hunter-shark|hunter sharks]] as a matter of course. The northern cliff base produces [[beastiary/beasts/giant-crab|giant crabs]] in the rock pools and kelp tangles. [[beastiary/beasts/giant-owl|Giant owls]] nest in the oldest alder stands, hunting the farmland at night. They are considered good luck by the island's farmers, who hold the opinion partly on the basis of the owls eating smaller things that would otherwise eat the grain. ^\[inferred]
 
----
+## Hazards
 
-- [[places/crown-islands/aldenmere/index|Aldenmere Index]] · [[places/crown-islands/index|The Crown Islands]] · [[places/index|Places]] · [[index|The Shattered Sea]]
+The mere's deeper channels, giant frogs, giant toads, giant crocodiles, hunter sharks, and understated local knowledge are the main dangers.
+
+## Current Hooks
+
+- Visitors are not always told which mere channels are unsafe.
+- The fishing tithe can become a pressure point when the Crown wants more than the island usually pays.
+
+## See Also
+
+- [[places/crown-islands/aldenmere/index|Aldenmere Index]]
+- [[Crown-Islands|The Crown Islands]]
+- [[Dravosi-Crown|The Dravosi Crown]]
+- [[Harwick]]
+- [[Stenmark]]

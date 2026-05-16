@@ -6,13 +6,10 @@ title: Port Tidefall — Index
 created: 2026-05-01
 modified: 2026-05-05
 tags:
-  - location
   - harbour
   - dravosi
   - crown-islands
   - player-resource
-  - places
-  - port-tidefall
   - index
 ---
 

@@ -10,7 +10,7 @@ modified: 2026-05-14
 tags:
   - dravosi
   - fleet
-  - tier-4
+  - tier-3
 cssclasses:
   - wiki-ship
 ---

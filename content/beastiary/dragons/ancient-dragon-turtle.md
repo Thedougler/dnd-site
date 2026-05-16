@@ -7,7 +7,6 @@ created: 2026-04-25
 modified: 2026-05-03
 tags:
   - creature
-  - dragon
   - bestiary
 cssclasses:
   - wiki-monster

@@ -131,3 +131,19 @@ Introduced in the 2024 DMG as the official stronghold/home base system. Availabl
 - [[Species]]
 - [[Human]]
 - [[poisons]]
+
+## Sources
+
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-1|Bastions — D&D 5e 2024 (part 1)]]
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-2|Bastions — D&D 5e 2024 (part 2)]]
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-3|Bastions — D&D 5e 2024 (part 3)]]
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-4|Bastions — D&D 5e 2024 (part 4)]]
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-5|Bastions — D&D 5e 2024 (part 5)]]
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-6|Bastions — D&D 5e 2024 (part 6)]]
+- [[raw/clippings/Bastions - D&D 5e (2024)-part-7|Bastions — D&D 5e 2024 (part 7)]]
+- [[raw/clippings/DnD 5.5 Bastions Guide - 2024 DnD-part-1|DnD 5.5 Bastions Guide (part 1)]]
+- [[raw/clippings/DnD 5.5 Bastions Guide - 2024 DnD-part-2|DnD 5.5 Bastions Guide (part 2)]]
+- [[raw/clippings/DnD 5.5 Bastions Guide - 2024 DnD-part-3|DnD 5.5 Bastions Guide (part 3)]]
+- [[raw/clippings/DnD 5.5 Bastions Guide - 2024 DnD-part-4|DnD 5.5 Bastions Guide (part 4)]]
+- [[raw/clippings/Exploring Bastions from the 2024 Dungeon Master’s Guide-part-1|Exploring Bastions from 2024 DMG (part 1)]]
+- [[raw/clippings/Exploring Bastions from the 2024 Dungeon Master’s Guide-part-2|Exploring Bastions from 2024 DMG (part 2)]]

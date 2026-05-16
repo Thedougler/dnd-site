@@ -34,6 +34,10 @@ Every sailor working the Scatter has a story. The sea that fills the space betwe
 - [[beastiary/plants/index|Plants]] — Myconid colonies and fungal hazards of the underdark beneath the Scatter
 - [[beastiary/ooze/index|Oozes]] — Dissolving predators of the deep underdark; no confirmed surface sightings
 
+## The Undead
+
+- [[beastiary/undead/index|Undead]] — Pointy Hat lich variants: Hierarch (bloodline phylactery), Intoner (memory phylactery), Blight (place phylactery)
+
 ## Made Things and Outliers
 
 - [[beastiary/humanoid/index|Humanoids]] — Pirates, admirals, and the people most likely to try to take your ship

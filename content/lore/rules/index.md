@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Rules
-created: 2026-05-14T21:39:30.803-07:00
+created: 2026-05-15T19:14:33.645-07:00
 modified: 2026-05-03
 tags:
   - player-resource
@@ -25,4 +25,19 @@ Rules references for ship play, character options, and campaign systems.
 
 ---
 
+**[[Mounts-And-Vehicles|Mounts & Vehicles]]** — 2024 PHB rules for mounts, vehicles, and carrying capacity. Reference when overland travel or draft animals come up.
+
+**[[Sports-Match-Rules|Sports Match Rules]]** — Rules framework for adjudicating competitive sports encounters.
+
+**[[Optimization-Meta-2024|Optimization Meta (2024)]]** — State of the 2024 character optimization meta; useful for understanding what builds players may be running.
+
+---
+
 For the broader campaign setup, see [[player-primer|The Shattered Sea Player Primer]] · [[index|The Shattered Sea]].
+
+## Sources
+
+- [[raw/ingested/Pointy Hat Hellish Adepts|Source: Pointy Hat — Hellish Adepts]]
+- [[raw/clippings/DnD 5e’s Area of Effect Rules – A Guide|DnD 5e Area of Effect Rules Guide]]
+- [[raw/clippings/DnD 5e’s Area of Effect Rules – A Guide-part-1|DnD 5e Area of Effect Rules Guide (part 1)]]
+- [[raw/clippings/DnD 5e’s Area of Effect Rules – A Guide-part-2|DnD 5e Area of Effect Rules Guide (part 2)]]

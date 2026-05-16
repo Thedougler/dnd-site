@@ -41,7 +41,11 @@ Humans originate from Sigil, the torus-shaped city at the center of the multiver
 - [[Species]]
 - [[private/rules/Feats]]
 - [[Shattered-Sea]]
-- [[Shattered-Sea]]
 - [[Rattkin]]
 - [[Grung]]
 - [[Antherian]]
+- [[characters/party/Delmar-Fisk|Delmar Fisk]] — Variant Human Swashbuckler Rogue PC
+
+## Sources
+
+- [[raw/clippings/Human - D&D 5e (2024)|Human — D&D 5e 2024]]

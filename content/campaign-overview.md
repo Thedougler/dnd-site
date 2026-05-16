@@ -105,3 +105,8 @@ There are things in the Scatter that do not fit the economy yet: impossible ston
 ## Related
 
 - [[Narrow]] — The Narrow
+
+## Source
+
+- [[raw/ingested/Dawn of the Godborn-part-1|Source: Dawn of the Godborn part 1]]
+- [[raw/ingested/Dawn of the Godborn-part-2|Source: Dawn of the Godborn part 2]]

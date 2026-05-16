@@ -4,10 +4,7 @@ title: Truth Stone
 created: 2026-05-15
 modified: 2026-05-15
 tags:
-  - magic-item
-  - common
-  - truth
-  - detection
+  - wondrous-item
 ---
 
 # Truth Stone

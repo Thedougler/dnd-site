@@ -9,7 +9,7 @@ created: 2026-05-01
 modified: 2026-05-03
 tags:
   - dravosi
-  - colonial_power
+  - faction
 ---
 
 # The Dravosi Crown

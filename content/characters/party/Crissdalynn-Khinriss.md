@@ -5,10 +5,10 @@ aliases:
   - Crissdalynn
 title: Crisdalynn Khinriss
 created: 2026-04-29
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
+  - pc
   - aarakocra
-  - monk
 ---
 
 # Crisdalynn Khinriss
@@ -21,14 +21,14 @@ tags:
 
 |                     |                                  |
 | ------------------- | -------------------------------- |
-| **Species / Class** | Aarakocra (Crow) Monk (Kensei) 3 |
-| **Background**      | Acolyte / Cartographer           |
+| **Species / Class** | [[Aarakocra]] (Crow) [[Monk]] ([[Way-of-the-Kensei\|Kensei]]) 3 |
+| **Background**      | [[Acolyte]] / Cartographer                                     |
 
 ---
 
 ## Overview
 
-**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. Young by any measure, still finding her edges. She's also one of two survivors of the _Red Lady_ disaster — the aarakocra who dove through thirty feet of black seawater to pull Admiral [[party/Delmar-Fisk|Delmar Fisk]] out of a closing trench — and she's currently sitting aboard [[Saltwright|the *Saltwright*]] with a satchel of unfinished charts and a pilgrimage that isn't done yet.
+**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. Young by any measure, still finding her edges. She's also one of two survivors of the _Red Lady_ disaster — the aarakocra who dove through thirty feet of black seawater to pull Admiral [[characters/party/Delmar-Fisk|Delmar Fisk]] out of a closing trench — and she's currently sitting aboard [[Saltwright|the *Saltwright*]] with a satchel of unfinished charts and a pilgrimage that isn't done yet.
 
 She's irreverent and impulsive on deck, exacting and silent when a fight starts. She looks dangerous. She acts like she hasn't decided to take herself seriously. Both are true.
 
@@ -91,7 +91,7 @@ What she says she wants is Kyzil's approval, the pilgrimage finished, kinship wi
 
 ## Key Relationships
 
-**[[party/Delmar-Fisk|Delmar Fisk]]** is the fixed point. She saved his life and can't seem to put that down. His opinion is the measure she uses. If someone threatens him, the lightness drains out and everything else follows.
+**[[characters/party/Delmar-Fisk|Delmar Fisk]]** is the fixed point. She saved his life and can't seem to put that down. His opinion is the measure she uses. If someone threatens him, the lightness drains out and everything else follows.
 
 **[[Master-Kyzil|Master Kyzil]]** assigned the task, gave her the dreidel, and told her the pilgrimage isn't over. His approval is what she's working toward. She hasn't received it yet.
 
@@ -116,3 +116,7 @@ She was active through the rest of the gangplank fight. [[Geoffrey-Draves|Geoffr
 Crisdalynn's reputation is still forming, the way a fourteen-year-old's tends to be. Among people who know only the Maw story, she's a survivor and an unlikely rescuer: the scout who dove into a closing trench and came back up with an admiral. Among people who've shared a deck with her, she's harder to summarize. Young, sharp, easier to underestimate than she looks, and considerably more dangerous once she stops talking.
 
 The charts in her satchel show the southern arc and most of the eastern rim of the [[Drowned-Maw|Drowned Maw]] — two years of careful work, close to something that's never been completed. She hasn't given up on finishing them. Whether she knows it or not, that may be the thing most worth noting about her.
+
+## Sources
+
+- [[raw/CK Voice Suggestions|CK — Voice & Personality Guide]]

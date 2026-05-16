@@ -2,7 +2,7 @@
 publish: true
 title: Calveno Summary
 created: 2026-05-06
-modified: 2026-05-10
+modified: 2026-05-15
 tags:
   - location
   - city
@@ -12,15 +12,22 @@ tags:
 
 # Calveno
 
+## Summary
+
 The oldest commercial centre in the Scatter. Pale stone buildings rise four and five stories straight from the water, detailed where they face the canal, bare on the backs where nobody is meant to look. No docks, no streets wide enough for a cart — flat-bottomed boats are the only way through. Deals are struck in the open, where the right people can see who smiled and who didn't. That's not incidental. That's how the city works.
 
-**Travel time:** 3 days from Tidefall on good wind. A week on bad.\
-**Region:** [[places/crown-islands/index|Crown Islands]], northern Central Strait.\
-**Power:** Seven hereditary merchant families hold Council seats. [[Tessarine-Concordat|The Tessarine Concordat]] holds debt leverage over six of the seven and does not need to announce it.
+## Key Facts
 
----
+| Field | Detail |
+|---|---|
+| Canonical Page | [[Calveno]] |
+| Parent Location | [[places/calven/index\|Calven]], [[Crown-Islands\|Crown Islands]] |
+| Travel Time | 3 days from Tidefall on good wind; a week on bad |
+| Power | Seven hereditary merchant families hold Council seats; [[Tessarine-Concordat\|The Tessarine Concordat]] holds debt leverage over six of the seven |
+| Access | Flat-bottomed boats through canals; no docks or cart streets |
+| Known For | Openly visible dealmaking, canal navigation, hereditary merchant power, and hidden Rattkin infrastructure |
 
-## Districts
+## Districts / Areas
 
 **The Mercatura** — The commercial artery, running straight from the harbour inward. Boats press from both sides; the air smells of salt, spice, and coin in volume. The Tessarine factor building anchors the harbour end — a full story taller than everything around it, pale stone, no signage.
 
@@ -32,8 +39,6 @@ The oldest commercial centre in the Scatter. Pale stone buildings rise four and 
 
 **The Velo Quarter** — A separate island reached by two low bridges. Lanterns at all hours, music from several directions at once, buildings painted in colours the rest of Calveno doesn't allow. Whatever authority governs the city stops at the bridges.
 
----
-
 ## Key People
 
 **[[Iacopo-Fieschi|Iacopo Fieschi]]** — Tessarine Concordat envoy. The public face of Concordat authority here. Holds debt leverage over six of the Seven Houses.
@@ -44,14 +49,15 @@ The oldest commercial centre in the Scatter. Pale stone buildings rise four and 
 
 **[[Anzolo|Anzolo]]** — A contact vouched for by Nona Black-Jaw. "A nice young man who always helps an old lady out with chores."
 
----
-
-## How It Actually Works
+## How It Works
 
 Being seen with the right person here carries the same weight as whatever you said to them. Privacy exists — it's just expensive, and someone is always selling it.
 
 Beneath Le Paludi's drainage network sits [[Warren|The Warren]], the only fixed Rattkin settlement in the Scatter. The city above has no idea what's down there. The [[Passage]] runs its anchor point through it, and the Tangle monitors money flows and canal traffic both — which means they usually know what's moving through this city before the people moving it do.
 
----
+## See Also
 
-[[Calveno]] · [[places/calveno/index|Calveno Index]] · [[places/crown-islands/index|Crown Islands]]
+- [[Calveno]]
+- [[places/calveno/index|Calveno Index]]
+- [[Crown-Islands|Crown Islands]]
+- [[places/calven/index|Calven]]

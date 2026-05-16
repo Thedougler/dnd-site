@@ -25,6 +25,7 @@ Natural predators, swarms, and wildlife of the Scatter's islands and waters.
 - [[beastiary/beasts/panther|Panther]] - Silent apex predator of the dense canopy of the [[Verdant-Teeth|Verdant Teeth]]; a party may be stalked for hours before it commits
 - [[beastiary/beasts/tiger|Tiger]] - Forest and grassland predator; fast, powerful, and rarely seen before the first strike
 - [[beastiary/beasts/owlbear|Owlbear]] - Ambush predator of the dense interior forests of the [[places/crown-islands/index|Crown Islands]]; the screech is usually the last thing heard before contact
+- [[beastiary/beasts/primeval-owlbear|Primeval Owlbear]] - A massive prehistoric variant, CR 7; significantly stronger and more durable than its common cousin
 - [[beastiary/beasts/giant-axe-beak|Giant Axe Beak]] - Aggressive flightless predator on the clifftop scrublands of the [[places/crown-islands/index|Crown Islands]] and exposed ridgelines; fast enough to run down a horse
 
 ## Birds

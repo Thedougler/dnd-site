@@ -20,3 +20,7 @@ cssclasses:
 ## Related
 
 - [[ancient-dragon-turtle]] — Ancient Dragon Turtle
+
+## Sources
+
+- [[raw/ingested/Young-Sea-Serpent|Young Sea Serpent — D&D Beyond stat block]]

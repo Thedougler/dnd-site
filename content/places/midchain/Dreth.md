@@ -4,7 +4,7 @@ aliases:
   - Dreth Island
 title: Dreth
 created: 2026-05-02
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
   - island
   - grung
@@ -22,7 +22,43 @@ The quiet eastern swamps have their own guards. [[beastiary/beasts/giant-frog|Gi
 
 The Dreth-Orak channel is the best public sign of the larger constrictor problem in the Teeth. A snake does not have to cross open ground here; it can lie under root shadow, take a frog, a scout, or a careless boat-pole, and vanish into water too shallow for a vessel but deep enough for a Huge body. Grung paths avoid some pools and deliberately clear others, which tells outsiders nothing except that the locals know the difference. ^\[inferred]
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Low eastern Verdant Teeth rainforest island |
+| Region | [[Verdant-Teeth\|The Verdant Teeth]] |
+| Controlled By | [[Grung-Clans\|The Grung Clans]] |
+| Access | No sanctioned outside access; channel approach is dangerous |
+| Primary Economy | Concealed Grung interior work |
+| Known For | The Dreth-Orak channel, low rainforest coast, and crocodile water |
+
+## Geography
+
+Dreth has a low coastal profile, dense rainforest interior, rainwater smell, wet limestone, and a channel with [[Orak]] that reads more like flooded jungle than open sea.
+
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| Dreth-Orak channel | route / hazard | Shadowed channel where giant crocodiles and constrictor snakes hold. |
+| Rainforest interior | wilderness | Dense interior with audible work somewhere inland. |
+
+## Roads & Routes
+
+The public approach is effectively none. The channel to [[Orak]] looks slow and manageable from a distance, but the water and root systems favour ambush rather than travel.
+
+## People & Power
+
+The [[Grung-Clans|Grung clans]] hold Dreth with less visible military display than [[Karath]], but no less practical control.
+
+## Trade & Resources
+
+No public trade is documented. Any productive work happens inland and out of sight.
+
+## Flora
+
+Dreth is dense rainforest, wet limestone, root shadow, flooded channels, and eastern swamp. Specific useful plant resources are not yet documented.
 
 ## Fauna
 
@@ -32,14 +68,19 @@ The Dreth-Orak channel holds the island's most documented hazard. [[beastiary/be
 
 [[beastiary/beasts/giant-wasp|Giant wasps]] nest high in the canopy on the dry eastern slope — high enough that landing parties at ground level hear the colony before they see it, which means the warning arrives after the approach is already committed. The nests are large and the colony is protective of the airspace below them.
 
----
+## Hazards
+
+Giant crocodiles, giant frogs, giant constrictor snakes, giant wasps, shadowed channel water, and Grung boundary control.
+
+## Current Hooks
+
+- A Kalowe supply skiff was taken in the Dreth-Orak channel, giving pilots a practical reason to avoid it.
+- Inland work can be heard when the trees go quiet, but outsiders do not know what it is.
 
 ## See Also
 
 - [[Verdant-Teeth|Verdant Teeth]]
-
-## Related
-
+- [[Orak]] — Orak
 - [[Karath]] — Karath
 - [[Kalowe]] — Kalowe
-- [[Shattered-Sea]] — The Shattered Sea
+- [[Grung-Clans|The Grung Clans]]

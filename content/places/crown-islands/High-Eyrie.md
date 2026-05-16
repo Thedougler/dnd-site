@@ -4,10 +4,10 @@ aliases:
   - High Eyrie
 title: The High Eyrie
 created: 2026-05-01
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
-  - landmark
   - building
+  - landmark
   - aarakocra
 ---
 
@@ -18,13 +18,22 @@ tags:
 
 ## Overview
 
-The High Eyrie is a 200-foot basalt sea stack at the far northeastern edge of the [[places/crown-islands/index|Crown Islands]], where the northern arc narrows toward [[places/tail/index|the Tail]] and the water starts to feel close to the [[Drowned-Maw|Drowned Maw]]. The rock rises sheer from the sea, salt-streaked from waterline to summit. There is no dock below, no real beach, and nothing on the face worth calling a handhold.
+The High Eyrie is a 200-foot basalt sea stack at the far northeastern edge of the [[Crown-Islands|Crown Islands]], where the northern arc narrows toward [[Tail|the Tail]] and the water starts to feel close to the [[Drowned-Maw|Drowned Maw]]. The rock rises sheer from the sea, salt-streaked from waterline to summit. There is no dock below, no real beach, and nothing on the face worth calling a handhold.
 
 The [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] have lived and trained here for roughly two hundred years. They predate both Dravosi and Tessarine authority in the Scatter, and they have kept that independence. Three Dravosi administrators have tried to formalize an arrangement with the monastery. All three were politely declined.
 
 What the Eyrie produces is record. From the summit, on a clear day, the water changes colour at the horizon where the Maw begins. The Sentinels have watched that line and everything around it for generations: compass drift, weather anomalies, surface stillness, depth sightings, wrecks, and anything else visible from circuit altitude. A Sentinel will tell you what they recorded. What it means is not a question they answer.
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Basalt sea-stack monastery and landmark |
+| Location | Far northeastern [[Crown-Islands\|Crown Islands]], toward [[Tail\|the Tail]] |
+| Controlled By | [[Sentinels-Of-The-Eyrie\|Sentinels of the Eyrie]] |
+| Operated By | Aarakocra monastic order |
+| Public Access | Invitation, carried harness, magic, or deliberate climb; no dock below |
+| Known For | Observation ledgers, aerial training terraces, and Maw-facing sightlines |
 
 ## Approach
 
@@ -36,7 +45,7 @@ The stack's height keeps out most land predators, but the air has its own scaven
 
 ---
 
-## The Monastery
+## Description
 
 The summit is broad enough to hold a working monastery, but never comfortable enough to forget the edge. Stone walls are low. Rooflines are blunt. Doorways face away from the worst gusts. Courtyards are open, swept clean by weather, and worn by generations of landing drills and kensei footwork.
 
@@ -51,6 +60,18 @@ Common details:
 - No ornamental banners. Loose cloth is a liability here.
 
 ---
+
+## Function
+
+The High Eyrie produces record. Its main public function is observation of the Maw-facing waters, weather anomalies, compass drift, wrecks, depth sightings, and other events visible from the summit or circuit altitude.
+
+## People & Operations
+
+The [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]] live, train, observe, copy ledgers, and maintain independence from colonial authority. They record what they see exactly as they see it: no conclusions, no interpretation, no editorializing.
+
+## Access & Security
+
+The only practical approach is aerial. Non-flying visitors arrive by invitation, carried harness, magic, or a deliberate climbing operation watched from above. The emergency stair is for rope work, rescue, and drills, not ordinary visitors.
 
 ## Public Reputation
 
@@ -70,6 +91,11 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 
 ---
 
+## Current Hooks
+
+- Researchers may be granted access to the public record, but the Sentinels provide observation rather than interpretation.
+- A Sentinel pilgrimage task can send an aarakocra far from the Eyrie for a specific observation or correction.
+
 ## Notable Places
 
 **The Training Terraces** — Cantilevered off the eastern face, open to the drop on three sides. New arrivals spend weeks here learning to land, move, and hold still in the peak wind.
@@ -87,12 +113,11 @@ Every Sentinel also completes a pilgrimage before returning to the Eyrie as a fu
 ## See Also
 
 - [[Drowned-Maw|The Drowned Maw]]
-- [[places/tail/index|The Tail]]
-- [[places/crown-islands/index|The Crown Islands]]
+- [[Tail|The Tail]]
+- [[Crown-Islands|The Crown Islands]]
 - [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]
 - [[Aarakocra|Aarakocra]]
 
-## Related
+## Source
 
-- [[places/tail/index|The Tail]]
-- [[Drowned-Maw|The Drowned Maw]]
+- [[2026-04-13-the-high-eyrie|Source: GM notes — The High Eyrie]]

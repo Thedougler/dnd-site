@@ -7,13 +7,10 @@ title: Calder's Tooth — Index
 created: 2026-05-01
 modified: 2026-05-05
 tags:
-  - location
   - island
   - crown-islands
   - dravosi
   - player-resource
-  - places
-  - calders-tooth
   - index
 ---
 

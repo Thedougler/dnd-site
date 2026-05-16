@@ -14,4 +14,5 @@ tags:
 
 Mindless dissolving predators of the underdark. No confirmed surface sightings in the Scatter.
 
-_No public entries yet._
+- [[beastiary/ooze/black-pudding|Black Pudding]] - CR 4 ooze that dissolves metal and wood; splits into smaller puddings when hit with slashing or lightning damage
+- [[beastiary/ooze/ochre-jelly|Ochre Jelly]] - CR 2 ooze that splits when struck; clings to ceilings and drops on prey

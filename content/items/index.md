@@ -1,12 +1,11 @@
 ---
 publish: true
 title: Items
-created: 2026-05-15T11:43:18.199-07:00
+created: 2026-05-15T15:36:22.047-07:00
 modified: 2026-05-11
 tags:
   - player-resource
   - index
-  - items
 ---
 
 # Notable Items
@@ -26,6 +25,14 @@ Things the party owns, has encountered, or should probably be able to identify i
 **[[The-Duchess|The Duchess]]** — Delmar Fisk's musket. Same.
 
 **[[Truth-Stone|Truth Stone]]** — A smooth grey stone that heats white-hot when held by someone who knowingly lies. Common on the Midchain. Favored by captains who've been burned by a false manifest. [[Beaumont-Sel|Beaumont Sel]] carries one.
+
+---
+
+## Available Equipment
+
+**[[items/Pneumatic-Grapple|Pneumatic Grapple]]** — Wrist-mounted grapple that fires 60 feet and retracts mechanically. Three shots before a 10-minute repressurize. Available from [[Catarina-DaVirelli|Catarina DaVirelli]] by referral.
+
+**[[items/Lantern-of-Revealing|Lantern of Revealing]]** — Illuminates invisible creatures and objects within range.
 
 ---
 

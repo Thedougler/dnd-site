@@ -4,11 +4,11 @@ aliases:
   - Veth Island
 title: Veth
 created: 2026-05-02
-modified: 2026-05-14
+modified: 2026-05-15
 tags:
   - island
   - grung
-  - trade
+  - maritime
 ---
 
 # Veth
@@ -23,7 +23,44 @@ From the water, the important thing about Veth is how little of it can be seen. 
 
 The trade path is cleared because the Grung keep it cleared. Beyond that narrow permission, the island is dense with ordinary rainforest danger: [[beastiary/beasts/giant-venomous-snake|giant venomous snakes]] on warm stone, [[beastiary/beasts/giant-spider|giant spiders]] in the upper green, and [[beastiary/beasts/giant-frog|giant frogs]] wherever water sits long enough to forget the tide. The limestone ridges above the beach hold [[giant-scorpion|giant scorpions]] — they work the rock face at night and occasionally reach the beach by dawn, when the stone is still holding the previous day's heat. A Midchain trader waiting at anchor reported one on the beach at first light, moving along the tideline. His shore party, already in the dinghy, turned back and waited two hours before attempting the exchange. The Grung intermediaries arrived on schedule and appeared unbothered by it. Merchants who describe Veth as safe mean the beach, during trade, while watched. ^\[inferred]
 
----
+## At a Glance
+
+| Field | Detail |
+|---|---|
+| Type | Largest Verdant Teeth island and sanctioned Grung trade point |
+| Region | [[Verdant-Teeth\|The Verdant Teeth]] |
+| Controlled By | [[Grung-Clans\|The Grung Clans]] |
+| Access | Sanctioned western beach trade only; no inland access |
+| Primary Economy | Beach exchange, resin, carved bone, pigments, specimens, imported food and materials |
+| Known For | Controlled western trade beach and everything hidden above the sightline |
+
+## Geography
+
+Veth presents a western beach, reef water, rainforest wall, and limestone ridges inland. From the water, the important fact is how little of the island can be seen.
+
+## Settlements & Sites
+
+| Place | Type | Notes |
+|---|---|---|
+| Western trade beach | trade beach | Only sanctioned contact point with the Grung clans. |
+| Cleared trade path | route / controlled corridor | Maintained by the Grung from the beach into the unseen interior. |
+| Limestone ridges | wilderness / hazard | Scorpion territory above the beach, especially active at night and dawn. |
+
+## Roads & Routes
+
+Traders anchor offshore and wait. Blue-caste intermediaries use the cleared path; outsiders stay at the beach and do not follow.
+
+## People & Power
+
+The [[Grung-Clans|Grung clans]] control all contact. The beach exists for exchange because the Grung decided it should, and every part of the protocol reinforces that fact.
+
+## Trade & Resources
+
+Veth imports preserved food, worked timber, salvaged metal, rope, and poison-crafting materials. It exports carved bone, resin pieces, pigments, alchemical specimens, and interior goods nobody describes too carefully.
+
+## Flora
+
+Veth is dense rainforest above reef water, with warm limestone ledges, standing-water pockets, and a cleared trade corridor maintained by the Grung.
 
 ## Fauna
 
@@ -33,16 +70,18 @@ The trade path is kept clear because the Grung keep it clear. Past that narrow c
 
 The limestone ridges above the beach are [[beastiary/beasts/giant-scorpion|giant scorpion]] territory. The scorpions work the rock face at night and retain heat long enough to be active at dawn, occasionally reaching the beach before the first trade parties arrive. Merchants who describe Veth as safe mean the beach, during trade, while watched. The qualifier matters.
 
----
+## Hazards
+
+Poisonous contact rules, reef water, giant venomous snakes, giant spiders, giant frogs, giant scorpions, and narrow permission.
+
+## Current Hooks
+
+- Veth is profitable enough that Midchain merchants keep using it despite the discomfort.
+- Merchants who call Veth safe mean the beach, during trade, while watched.
 
 ## See Also
 
 - [[Verdant-Teeth|The Verdant Teeth]]
-- [[places/midchain/index|The Midchain]]
+- [[Midchain|The Midchain]]
 - [[Kalowe|Kalowe]]
 - [[Grung-Clans|The Grung Clans]]
-
-## Related
-
-- [[places/midchain/index|The Midchain]]
-- [[Shattered-Sea]] — The Shattered Sea

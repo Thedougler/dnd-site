@@ -109,3 +109,4 @@ The Tail's hazards are fog windows, compass drift, Maw discolouration, cold shel
 - [[Drowned-Maw|The Drowned Maw]]
 - [[Outer-Reach|The Outer Reach]]
 - [[Shelfworks|The Shelfworks]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

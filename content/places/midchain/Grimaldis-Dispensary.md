@@ -37,7 +37,7 @@ Healer's supplies, apothecary goods, and minor medical services. Grimaldi does n
 
 ## People & Operations
 
-**Ilaria Grimaldi** — proprietor, early sixties, from the northern Scatter originally. She moved to Kalowe after a period she does not discuss. Her manner is exact and economical: she identifies what the customer needs, names the price, and prepares it. She does not do small talk. She does accurate work. If someone needs something she does not advertise, she listens to how they ask before deciding whether to tell them what she has.
+**[[Ilaria-Grimaldi|Ilaria Grimaldi]]** — proprietor, early sixties, a tiefling originally from the northern Scatter — Calveno, by the accent she has mostly shed. Small horns, grey-violet skin, a composure built across a long time in a profession that requires it. She moved to Kalowe after a period she does not discuss. Her manner is exact and economical: she identifies what the customer needs, names the price, and prepares it. She does not do small talk. She does accurate work. If someone needs something she does not advertise, she listens to how they ask before deciding whether to tell them what she has.
 
 _Roleplay concept: a woman who has seen every kind of trouble that can arrive at a port and found none of it particularly interesting._
 

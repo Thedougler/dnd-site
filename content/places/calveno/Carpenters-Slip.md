@@ -34,7 +34,7 @@ A tight space that functions better than it looks. One covered slip for dry work
 
 ## People & Operations
 
-**Proprietor: Savia Brentino** — Thirty, small, sawdust permanently in her eyebrows and probably her bloodstream. Speaks in structural assessments: "that transom's carrying too much" is hello; "she'll hold through the Strait" is as warm as she gets. Does not quote a timeline she cannot keep. Does not do cosmetic work.
+**Proprietor: [[Savia-Brentino|Savia Brentino]]** — Compact and broad-shouldered, sawdust permanently in her eyebrows and probably her bloodstream. Speaks in structural assessments: "that transom's carrying too much" is hello; "she'll hold through the Strait" is as warm as she gets. Does not quote a timeline she cannot keep. Does not do cosmetic work.
 
 ## Stock / Services
 

@@ -26,14 +26,14 @@ _Three days from Tidefall on good wind. A week on bad._
 
 ## At a Glance
 
-| Field | Detail |
-|---|---|
-| Type | Canal city and commercial centre |
-| Location | Calven island in the [[Crown-Islands\|Crown Islands]], northern [[Central-Strait\|Central Strait]] |
-| Controlled By | Seven merchant families; [[Tessarine-Concordat\|Tessarine Concordat]] debt leverage |
-| Public Access | Open by canal traffic; true privacy is expensive and brokered |
-| Primary Economy | Witnessed trade, finance, shipping, shipyard work, brokerage, and information |
-| Known For | Pale stone canals, public negotiations, the Mercatura, and the hidden [[Warren]] |
+| Field           | Detail                                                                                                               |
+| --------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Type            | Canal city and commercial centre                                                                                     |
+| Location        | Calven island in the [[Crown-Islands]], northern [[situations/Central-Strait\|Central-Strait]] |
+| Controlled By   | Seven merchant families; [[Tessarine-Concordat]] debt leverage                                                       |
+| Public Access   | Open by canal traffic; true privacy is expensive and brokered                                                        |
+| Primary Economy | Witnessed trade, finance, shipping, shipyard work, brokerage, and information                                        |
+| Known For       | Pale stone canals, public negotiations, the Mercatura, and the hidden [[Warren]]                                     |
 
 ## Districts & Landmarks
 
@@ -50,7 +50,7 @@ _Three days from Tidefall on good wind. A week on bad._
 ## Buildings & Services
 
 | Place | Type | Notes |
-|---|---|---|
+| --- | --- | --- |
 | [[Ponte-Bassa\|The Ponte Bassa]] | Tavern / inn | Canal-level tavern at the main bridge crossing; cheap food, basic beds, proprietor with a twenty-year memory for boats. |
 | [[Moretti-and-Sons\|Moretti & Sons Chandlery]] | Ship chandlery | Mercatura canal-front outfitter for rope, provisions, canvas, and naval fittings. |
 | [[Carpenters-Slip\|Carpenters' Slip]] | Boatyard | Small independent repair yard at the Arsenal end; no queue, no Commission paperwork, Savia Brentino decides what's urgent. |
@@ -63,6 +63,7 @@ _Three days from Tidefall on good wind. A week on bad._
 | [[Acqua-Nera\|Acqua Nera]] | Boatyard | Outer harbour hull conversion and repainting yard; specialises in prize conversions, no Canal Commission filing on quiet work, Dario Vanni prices discreet jobs at double rate. |
 | The Arsenal | Shipyard | Walled shipyard in the southwest; fourteen-month wait for non-House commissions. |
 | Tessarine factor house | Trade house | Concordat factor building at the harbour end of the Mercatura; no dedicated page yet. |
+| [[Il-Gioco-delle-Beffe\|Il Gioco delle Beffe]] | Annual festival | The city's prank competition — teams design and execute public hoaxes on willing marks, judged on craft and surprise; prize pool, side betting, and Beffa Medallion for the winner. |
 
 ## People & Power
 
@@ -79,6 +80,7 @@ There are no docks in the usual sense. Flat-bottomed boats move through channels
 ## Current Hooks
 
 - The [[Warren]] exists beneath Le Paludi, but surface Calveno knows it mostly as rumour.
+- [[Il-Gioco-delle-Beffe|Il Gioco delle Beffe]] registration opens tomorrow morning on the Mercatura bridge. Giacomo Moretti has signed the Accord for the twentieth consecutive year without being pranked. The committee finds this professionally embarrassing.
 
 ## See Also
 
@@ -88,5 +90,6 @@ There are no docks in the usual sense. Flat-bottomed boats move through channels
 - [[Port-Tidefall]]
 - [[Crown-Islands]]
 - [[places/calveno/index]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics
 - [[places/calven/index]]
 - [[situations/Calveno|Calveno — DM Notes]]

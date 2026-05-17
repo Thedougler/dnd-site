@@ -40,7 +40,9 @@ The shop does not advertise magic, commission work, or custom devices. It sells 
 
 ## People & Operations
 
-The instrument dealer runs a practical counter business in charts, almanacs, and precision equipment rather than a magical or custom commission shop.
+**Dealer: [[Oswald-Crench|Oswald Crench]]** — A dwarf, unhurried, with the permanently squinted expression of someone who has spent decades looking at things through lenses. Has been calibrating instruments for Crown patrols since before most current officers were posted east. Does not offer small talk or discounts. Does not need to.
+
+Runs a practical counter business in charts, almanacs, and precision equipment rather than a magical or custom commission shop.
 
 ## Stock / Services
 

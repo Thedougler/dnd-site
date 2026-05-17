@@ -39,7 +39,9 @@ At the back, a locked glass case holds the magic items. The clerk knows the list
 
 ## People & Operations
 
-The chandlery clerk runs a Crown-sanctioned counter built for practical shipboard needs, legal stock, and clear prices.
+**Clerk: [[Nigel-Strutt|Nigel Strutt]]** — A human man, young for the post, trained to be helpful in a way that communicates exactly how much help is available. Knows the price board and the stock list and volunteers nothing beyond them.
+
+Runs a Crown-sanctioned counter built for practical shipboard needs, legal stock, and clear prices.
 
 ## Stock / Services
 

@@ -43,7 +43,7 @@ His terms are simple: the consignment period is three weeks, no exceptions. Afte
 
 ## People & Operations
 
-**Marrow** gives no other name and is not asked for one. He has operated from this alcove for at least fifteen years; the Tangle regards his work as a Passage-adjacent service and leaves him to it. He accepts Kin by default. Dry need a Kin introduction and Marrow's own read of the situation — he has turned away people with good introductions before and offered no explanation.
+**[[Marrow]]** gives no other name and is not asked for one. He has operated from this alcove for at least fifteen years; the Tangle regards his work as a Passage-adjacent service and leaves him to it. He accepts Kin by default. Dry need a Kin introduction and Marrow's own read of the situation — he has turned away people with good introductions before and offered no explanation.
 
 ## Stock / Services
 

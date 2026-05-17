@@ -33,7 +33,7 @@ The smell reaches you before the door. It is not one smell but several, layered 
 
 ## People & Operations
 
-**Proprietor: Marta Orsini** — Late forties, pale in the way of someone who works by artificial light, damp in the way of someone who works in Le Paludi. Speaks with the precision of someone who knows exactly what she is making and exactly what it is likely to be used for. She does not ask. She specifies what her compounds will and will not do, gives instructions once, and expects them to be followed. Returns are not accepted.
+**Proprietor: [[Marta-Orsini|Marta Orsini]]** — Late forties, ash-pale skin with a faint violet cast and two short horns she keeps filed flat. Permanently damp in the way of someone who never leaves Le Paludi. Speaks with the precision of someone who knows exactly what she is making and exactly what it is likely to be used for. She does not ask. She specifies what her compounds will and will not do, gives instructions once, and expects them to be followed. Returns are not accepted.
 
 ## Stock / Services
 

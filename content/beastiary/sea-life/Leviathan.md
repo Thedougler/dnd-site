@@ -5,7 +5,7 @@ aliases:
   - Leviathan
 title: The Leviathan
 created: 2026-05-03
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
   - creature
   - legend
@@ -14,6 +14,8 @@ tags:
 ---
 
 # The Leviathan
+
+![[raw/assets/banners/Leviathan.webp|The Leviathan passing beneath a doomed ship as the sea boils from below]]
 
 No sensible captain says they have seen the Leviathan. That is how you lose a crew.
 

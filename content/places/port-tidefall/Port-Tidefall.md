@@ -81,3 +81,4 @@ The harbour mouth is narrow, and incoming vessels are expected to stop at the [[
 - [[Calders-Tooth-Overview|Calder's Tooth]]
 - [[South-Harbour|South Harbour]]
 - [[places/index|Places]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

@@ -95,3 +95,4 @@ Keth-Naar is the most populated of five small islands arranged around the Blue H
 - [[Meth-Var]] — watch island
 - [[Vel-Orn]] — shrine island
 - [[Vestra]] — wreck survivor context
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

@@ -108,3 +108,4 @@ The Sunken Crown's hazards are unstable reef channels, the Blue Hole drop-off, s
 - [[Ral-Arn]]
 - [[Dath-Mar]]
 - [[Meth-Var]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

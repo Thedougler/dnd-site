@@ -94,6 +94,7 @@ He also believes, in complete sincerity, that any non-combat skin-to-skin contac
 
 ## Known Possessions
 
+- **[[Shortbow]]** — primary weapon.
 - **Flask of Endless Water** — carried since his departure from the [[Verdant-Teeth|Verdant Teeth]]. Origin unestablished. He does not explain where he got it.
 - **Red beret** — the cornerstone of his disguise methodology.
 - **False moustache** — no Grung naturally grows one. This, in his view, makes the disguise complete.

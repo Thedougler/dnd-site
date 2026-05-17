@@ -32,7 +32,7 @@ A low stone building against the outer harbour wall with a single wide slip open
 
 ## People & Operations
 
-**Proprietor: Dario Vanni** — Fifties, deliberate, with the unhurried manner of someone who is never surprised by what a customer needs. Runs two workers who do not ask questions because Vanni does not answer them. Prices discreet work at double the standard rate, cited without embarrassment. Will not work with anyone who seems uncertain about whether they should be there.
+**Proprietor: [[Dario-Vanni|Dario Vanni]]** — Shell worn and paint-scarred along the right rim from decades of drydock work. Deliberate, with the unhurried manner of someone who is never surprised by what a customer needs. Runs two workers who do not ask questions because Vanni does not answer them. Prices discreet work at double the standard rate, cited without embarrassment. Will not work with anyone who seems uncertain about whether they should be there.
 
 _Roleplay concept: old prizefighter turned art restorer + a man who makes problems disappear by making them look like something else._
 

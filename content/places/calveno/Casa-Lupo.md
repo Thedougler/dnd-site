@@ -32,7 +32,7 @@ Low ceiling, oil lamps on iron hooks, floorboards that have been settling uneven
 
 ## People & Operations
 
-**Proprietor: Ettore Lupo** — Seventy-something, moves with the energy conservation of a man who has decided he has already moved enough. Prices everything from memory and has not written a price list in decades because he does not need one and would not trust one that was not his. Will tell you clearly if he does not have something. Will not tell you where to get it unless he has formed an opinion of you, which takes a while.
+**Proprietor: [[Ettore-Lupo|Ettore Lupo]]** — Seventy-something, moves with the energy conservation of a man who has decided he has already moved enough. Prices everything from memory and has not written a price list in decades because he does not need one and would not trust one that was not his. Will tell you clearly if he does not have something. Will not tell you where to get it unless he has formed an opinion of you, which takes a while.
 
 ## Stock / Services
 

@@ -35,7 +35,7 @@ Victuals for ships provisioning out of Kalowe. Short-haul sailors pick up a few 
 
 ## People & Operations
 
-**Suryo Wibowo** — proprietor, fifties, broad and efficient. He works fast and talks at the same speed. He knows how long a given crew complement can run on a given number of stores, and he will tell a captain who is under-ordering in terms that are not unkind but are precise. He extends credit to captains he has dealt with three times or more; the terms are a handshake and a specific memory he keeps without a ledger.
+**[[Suryo-Wibowo|Suryo Wibowo]]** — proprietor, fifties, broad even for an orc, efficient. He works fast and talks at the same speed — no flourish, no softening. He knows how long a given crew complement can run on a given number of stores, and he will tell a captain who is under-ordering in terms that are precise rather than unkind. He extends credit to captains he has dealt with three times or more; the terms are a handshake and a specific memory he keeps without a ledger.
 
 _Roleplay concept: a man who has spent thirty years watching captains make bad supply decisions and has made peace with offering the right answer once._
 

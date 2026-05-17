@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Species
-created: 2026-05-15T23:57:16.283-07:00
+created: 2026-05-17T02:04:15.767-07:00
 modified: 2026-05-03
 tags:
   - player-resource
@@ -28,6 +28,8 @@ Standard 2024 D\&D species are all available. These are the Shattered Sea additi
 ---
 
 For social context around the Grung, see [[Grung-Clans|The Grung Clans]] · [[index|The Shattered Sea]].
+
+For where each species is most commonly found, see [[lore/Demographics|Peoples of the Shattered Sea]].
 
 ## Sources
 

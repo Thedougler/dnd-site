@@ -119,3 +119,4 @@ The Midchain's practical dangers are shifting reefs, uncertain channels, Sawek b
 - [[Kalowe]]
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Doldrums|The Doldrums]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

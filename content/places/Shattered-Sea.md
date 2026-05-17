@@ -120,6 +120,7 @@ The Shattered Sea's hazards are structural: unreliable charts, reef shifts, colo
 - [[Drowned-Maw|The Drowned Maw]]
 - [[Doldrums|The Doldrums]]
 - [[Outer-Reach|The Outer Reach]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics
 
 ## Source
 

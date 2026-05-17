@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Items
-created: 2026-05-16T20:06:55.206-07:00
+created: 2026-05-17T02:10:28.334-07:00
 modified: 2026-05-11
 tags:
   - player-resource
@@ -30,6 +30,8 @@ Things the party owns, has encountered, or should probably be able to identify i
 
 **[[Truth-Stone|Truth Stone]]** — A smooth grey stone that heats white-hot when held by someone who knowingly lies. Common on the Midchain. Favored by captains who've been burned by a false manifest. [[Beaumont-Sel|Beaumont Sel]] carries one.
 
+**[[Phrase-Box|Phrase Box]]** — A clockwork brass-and-wood case with rows of labeled buttons that emit tones for common maritime words and phrases. The standard communication aid for Kenku working ships. 8 gp, no attunement, Maritime Standard layout.
+
 ---
 
 ## Available Equipment
@@ -42,9 +44,23 @@ Things the party owns, has encountered, or should probably be able to identify i
 
 ## Weapon Reference
 
-**[[Flintlock-Pistol|Flintlock Pistol]]** — _Martial ranged weapon._ 2d6 piercing, range 30/90, Loading, Light. One-handed firearm. Loud; misfires on a 1; powder must stay dry.
+### Bows
 
-**[[Musket]]** — _Martial ranged weapon._ 2d8 piercing, range 40/120, Loading, Two-Handed. Heaviest common ranged option. Loud; misfires on a 1; higher wet-weather risk than the pistol.
+**[[Shortbow]]** — _Simple ranged weapon._ 1d6 piercing, range 80/320, Ammunition, Two-Handed. No martial proficiency required.
+
+**[[Longbow]]** — _Martial ranged weapon._ 1d8 piercing, range 150/600, Ammunition, Heavy, Two-Handed. Best range of any standard bow; Heavy shuts out Small creatures.
+
+### Crossbows
+
+**[[Hand-Crossbow|Hand Crossbow]]** — _Martial ranged weapon._ 1d6 piercing, range 30/120, Ammunition, Light, Loading. Only ranged weapon usable alongside a melee weapon; Loading caps it at one shot per action without Crossbow Expert.
+
+**[[Heavy-Crossbow|Heavy Crossbow]]** — _Martial ranged weapon._ 1d10 piercing, range 100/400, Ammunition, Heavy, Loading, Two-Handed. Highest crossbow damage; Loading and Heavy are both costs.
+
+### Firearms (Homebrew)
+
+**[[Flintlock-Pistol|Flintlock Pistol]]** — _Martial ranged weapon._ 1d10 piercing, range 30/90, Loading, Light. Heavy crossbow damage in a one-handed package. Loud; misfires on a 1; powder must stay dry.
+
+**[[Musket]]** — _Martial ranged weapon._ 1d12 piercing, range 40/120, Loading, Two-Handed. Highest single-shot damage of any ranged weapon. Loud; misfires on a 1; higher wet-weather risk than the pistol.
 
 ---
 

@@ -36,7 +36,7 @@ Chandlery: standard marine supplies, rigging materials, navigation tools, and a 
 
 ## People & Operations
 
-**Taufa Fifita** — proprietor, sixties, compact and unhurried. He wears his authority lightly and his accounting precisely. He knows every ship that has bought rope from him in the last decade and what they used it for in general terms. He does not ask about specific terms. If a customer wants something he does not stock, he will tell them who might have it — once — without elaboration.
+**[[Taufa-Fifita|Taufa Fifita]]** — proprietor, sixties, grey-green scaled, unhurried. He wears his authority lightly and his accounting precisely. Lizardfolk flat affect works in his favour: he asks no unnecessary questions and registers no personal reaction to the answers. He knows every ship that has bought rope from him in the last decade and what they used it for in general terms. He does not ask about specific terms. If a customer wants something he does not stock, he will tell them who might have it — once — without elaboration.
 
 _Roleplay concept: family patriarch who survived in Kalowe by being useful and forgettable to people with power on both sides of the ledger._
 

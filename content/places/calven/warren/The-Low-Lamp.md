@@ -42,7 +42,7 @@ Essa feeds everyone who comes through the door. Refusing her food is possible. S
 
 ## People & Operations
 
-**Essa Two-Tooth** is a Rattkin elder, old enough that she knew Nona's late husband by his first name. She runs the Low Lamp with her grand-nephew **Pip** — a young Rattkin whose enthusiasm outruns his competence but who is improving, she will grudgingly confirm. Essa moves slowly and hears everything. She keeps no written accounts; everything she is owed she carries in her head, and she has not yet been wrong.
+**[[Essa-Two-Tooth|Essa Two-Tooth]]** is a Rattkin elder, old enough that she knew Nona's late husband by his first name. She runs the Low Lamp with her grand-nephew **Pip** — a young Rattkin whose enthusiasm outruns his competence but who is improving, she will grudgingly confirm. Essa moves slowly and hears everything. She keeps no written accounts; everything she is owed she carries in her head, and she has not yet been wrong.
 
 She insists every person who enters is too thin. She provides food before conducting any discussion. If you eat, you have, in a small way, acknowledged the Low Lamp's claim on your goodwill. This is the point.
 

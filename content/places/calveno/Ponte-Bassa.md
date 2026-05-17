@@ -32,7 +32,7 @@ The low ceiling on the canal side is where the bridge arch comes down; the back 
 
 ## People & Operations
 
-**Proprietor: Oleandro Fuschi** — Wide, soft-spoken, moves like he has all day and has been here long enough to know he does. Keeps a mental ledger of every vessel that has moored at the bridge canal in twenty years; he has never been caught wrong about one. He does not volunteer this information unprompted. If you're looking for someone who came through Calveno recently, Oleandro either knows or knows who would.
+**Proprietor: [[Oleandro-Fuschi|Oleandro Fuschi]]** — Wide-shouldered, green-grey, soft-spoken in the way that makes people unsure whether they should be louder. Keeps a mental ledger of every vessel that has moored at the bridge canal in twenty years; he has never been caught wrong about one. He does not volunteer this information unprompted. If you're looking for someone who came through Calveno recently, Oleandro either knows or knows who would.
 
 ## Stock / Services
 

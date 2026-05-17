@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Lore
-created: 2026-05-15T23:57:16.314-07:00
+created: 2026-05-17T02:04:34.108-07:00
 modified: 2026-05-14
 tags:
   - player-resource
@@ -10,6 +10,10 @@ tags:
 ---
 
 # Lore Index
+
+## Setting
+
+- [[lore/Demographics|Peoples of the Shattered Sea]] — who lives where and why the mix changes east of the Galewall
 
 ## Character Options
 

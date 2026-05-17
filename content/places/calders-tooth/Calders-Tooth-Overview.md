@@ -96,3 +96,4 @@ Fog, sinkholes, mudflats, Crown inspection, cliff exposure, and interior predato
 - [[Dravosi-Crown|The Dravosi Crown]]
 - [[Central-Strait|The Central Strait]]
 - [[places/index|Places]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

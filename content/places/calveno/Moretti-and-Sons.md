@@ -33,7 +33,7 @@ A warehouse built flush with the Mercatura canal, long and low, with a loading d
 
 ## People & Operations
 
-**Proprietor: Giacomo Moretti** — Mid-sixties, grey stubble, squints at manifests the way other men squint at the sun. Can quote the current market price of oakum, sail canvas, lamp oil, and rope in bulk without looking anything up. Gives a discount if you've moored at Calveno before and he remembers you; he usually does. Does not bargain on provisions.
+**Proprietor: [[Giacomo-Moretti|Giacomo Moretti]]** — A halfling in his middle years, grey at the temples, squints at manifests the way other men squint at the sun. Can quote the current market price of oakum, sail canvas, lamp oil, and rope in bulk without looking anything up. Gives a discount if you've moored at Calveno before and he remembers you; he usually does. Does not bargain on provisions.
 
 ## Stock / Services
 

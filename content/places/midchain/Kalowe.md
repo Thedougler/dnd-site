@@ -59,6 +59,7 @@ Piracy enters Kalowe through repair bills, not banners. A [[beastiary/humanoid/p
 | Primary dry dock | Shipyard / repair | Tier 2 dry dock; currently occupied by a Dravosi vessel whose stated stay has expired. |
 | [[Fifitas-Slip\|Fifita's Slip]] | Boatyard | Informal back-channel yard on the lagoon side of the second island; no harbour books, no questions, Noa Fifita prices the job by looking at the hull. |
 | Harbour offices | Port services | Berths, repair arrangements, local obligations, and the paperwork Kalowe chooses to respect. |
+| [[The-Mud-Pits\|The Mud Pits]] | Combat arena | No-holds-barred brawls to unconsciousness on the third island; [[Bala-Tane\|Bala Tane]] makes the matches, the crowd makes the bets. |
 
 ## People & Power
 
@@ -82,6 +83,7 @@ The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter s
 - A two-masted schooner has been drifting dark and crewless 4 miles north for two nights; Midchain custom gives salvage rights to the first boarding party.
 - The harbour bosses are offering 300gp for the ridge-plate of the [[Sawek|Sawek]] that has been wrecking fishing boats in the inter-island channel.
 - A dying old privateer at [[Grimaldis-Dispensary|Grimaldi's Dispensary]] has half a treasure chart tattooed on her forearm and wants passage out.
+- The [[The-Mud-Pits|Mud Pits]] champion, Vort Kessen, has not lost in two years. [[Bala-Tane|Bala Tane]] is looking for someone who might change that.
 
 ## See Also
 
@@ -91,6 +93,7 @@ The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter s
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Central-Strait|The Central Strait]]
 - [[situations/Kalowe|Kalowe — DM Notes]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics
 
 ## Source
 

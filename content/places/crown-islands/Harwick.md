@@ -111,3 +111,4 @@ Military restriction, shark-filled harbour water, managed but dangerous forests,
 - [[Dravosi-Crown|The Dravosi Crown]]
 - [[HCS-Constancy|HCS Constancy]]
 - [[HCS-Ordinance|HCS Ordinance]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

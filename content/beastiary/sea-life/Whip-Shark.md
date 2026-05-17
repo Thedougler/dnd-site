@@ -7,7 +7,7 @@ aliases:
   - Whip Shark Welak
 title: Whip Shark
 created: 2026-04-12
-modified: 2026-05-03
+modified: 2026-05-16
 tags:
   - creature
   - monstrosity

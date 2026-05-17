@@ -34,7 +34,7 @@ Lanterns on at all hours — outside, inside, several on chains over the canal-f
 
 ## People & Operations
 
-**Proprietor: Prospero Morsani** — Seventies, theatrical, wears more rings than is comfortable on old hands but shows no sign of stopping. He greets customers by name if he has met them before and by an accurate physical description if he hasn't. Every item in the shop has a previous owner and he knows the story; the stories just never get to the point.
+**Proprietor: [[Prospero-Morsani|Prospero Morsani]]** — A gnome whose theatrical impulse has hardened into identity over a very long life, trailing rings on every finger and showing no sign of stopping. He greets customers by name if he has met them before and by an accurate physical description if he hasn't. Every item in the shop has a previous owner and he knows the story; the stories just never get to the point.
 
 ## Stock / Services
 

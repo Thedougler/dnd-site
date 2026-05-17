@@ -40,7 +40,9 @@ The tavern is a paperwork-adjacent meeting room where harbour gossip, freight de
 
 ## People & Operations
 
-The regular crowd is the paper side of port traffic: pursers, quartermasters, freight factors, impound runners, petty officers, and shipmasters too mean to drink at home. The owner keeps the room respectable enough for uniforms and loose enough for side deals.
+The regular crowd is the paper side of port traffic: pursers, quartermasters, freight factors, impound runners, petty officers, and shipmasters too mean to drink at home.
+
+**Owner: [[Hector-Podge|Hector Podge]]** — A heavyset human man in his fifties, grey and steady, who has been running this room long enough that Crown officers stop asking his name and start asking which table is free. Keeps the room respectable enough for uniforms and loose enough for side deals.
 
 ## Notable Areas
 

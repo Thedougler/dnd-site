@@ -40,7 +40,7 @@ The office processes vessel ratings, impound paperwork, harbour fees, official c
 
 ## People & Operations
 
-Harbour clerks and the chart clerk operate the counter, ledgers, certificates, commission board, and chart sales.
+Harbour clerks and [[Reginald-Fenn|Reginald Fenn]] operate the counter, ledgers, certificates, commission board, and chart sales. The clerks are human; Fenn is an elf — old enough to have surveyed some of these routes himself, working from Crown charts he once helped draft. The Crown keeps him because his accuracy is not improvable.
 
 ## Stock / Services
 

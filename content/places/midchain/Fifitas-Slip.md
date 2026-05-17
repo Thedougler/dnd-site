@@ -32,7 +32,7 @@ One covered slip tight to the island's back face, masked by overgrown palms and 
 
 ## People & Operations
 
-**Proprietor: Noa Fifita** — Connected by family name to the Taufa Fifita trading house, which keeps harbour bosses from asking about his schedule. Works slowly and accurately. Speaks when money is the subject; otherwise does not. Prices a job by looking at the hull, not by listening to the customer. Does not negotiate.
+**Proprietor: [[Noa-Fifita|Noa Fifita]]** — Connected by family to the Taufa Fifita trading house, which keeps harbour bosses from asking about his schedule. Dark-scaled, younger than his father, works slowly and accurately. Speaks when money is the subject; otherwise does not. Prices a job by looking at the hull, not by listening to the customer explain it. Does not negotiate. He has nothing against anyone and does not require that the job be legal, only that the number be met.
 
 _Roleplay concept: reef pilot who's seen every kind of trouble + a man who only talks when the number comes up._
 

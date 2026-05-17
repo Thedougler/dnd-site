@@ -35,7 +35,7 @@ Hardware for ship repair and dry-dock work; general iron tools; a quiet arms tra
 
 ## People & Operations
 
-**Kettil Ormsson** — proprietor, late forties, broad-shouldered, from one of the northern island chains originally though he has been in the Midchain long enough to have lost most of the accent. He does not chat. He reads a customer's needs fast and gives a price with minimal elaboration. If someone asks about the back shelf without preamble, he tells them what's there. If they explain why they need it, he loses interest.
+**[[Kettil-Ormsson|Kettil Ormsson]]** — proprietor, late forties, stocky and broad-shouldered, a dwarf from one of the northern island chains — Harwick or thereabouts — though he has been in the Midchain long enough to have lost most of the accent. He does not chat. He reads a customer's needs fast and gives a price with minimal elaboration. He left Crown work because colonial smiths ask too many questions. If someone asks about the back shelf without preamble, he tells them what's there. If they explain why they need it, he loses interest.
 
 _Roleplay concept: a hardware man who found a free port because colonial smiths ask too many questions._
 

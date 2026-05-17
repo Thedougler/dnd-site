@@ -41,7 +41,7 @@ The Splint provides wound care, bone-setting, medicine preparation, and basic re
 
 ## People & Operations
 
-**Colla** is in his late twenties. His aunt **Tetta** trained him over ten years and now lives in the deep dry chambers, retired. He has taken over the Splint entirely. He does not enjoy explaining his reasoning to patients, but he will write it down if asked.
+**[[Colla]]** is in his late twenties. His aunt **Tetta** trained him over ten years and now lives in the deep dry chambers, retired. He has taken over the Splint entirely. He does not enjoy explaining his reasoning to patients, but he will write it down if asked.
 
 His silences are not hostile. He simply does not see the point of conversation during a procedure, and he has limited patience for people who arrive with injuries they could have avoided. His expression makes this clear. He never says it.
 

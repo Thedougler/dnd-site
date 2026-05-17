@@ -105,3 +105,4 @@ The Crown Islands' hazards are documented rather than solved: Greyteeth reef err
 - [[Calders-Tooth-Overview|Calder's Tooth]]
 - [[Port-Tidefall|Port Tidefall]]
 - [[Midchain|The Midchain]]
+- [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

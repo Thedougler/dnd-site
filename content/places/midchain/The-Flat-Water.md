@@ -37,7 +37,7 @@ Food, drink, and a place to sleep. The Flat Water is not a social club and does 
 
 ## People & Operations
 
-**Reweti Kahurangi** — proprietor, works the bar herself from mid-morning until the last customer leaves, which is usually when she puts the lamp out. She has the compact stillness of someone who spent years on a working deck and found bar work comparatively easy. She does not volunteer information. She does not pretend not to have heard things. If the party is straightforwardly polite and spends money without causing a scene, she will occasionally say something useful, once, without preamble, and then not say it again.
+**[[Reweti-Kahurangi|Reweti Kahurangi]]** — proprietor, a tortle who works the bar herself from mid-morning until the last customer leaves. She moves with the unhurried deliberateness of someone who has been doing a job long enough to stop performing it — shell turned slightly to the room, arms free. She does not volunteer information. She does not pretend not to have heard things. If the party is straightforwardly polite and spends money without causing a scene, she will occasionally say something useful, once, without preamble, and then not say it again.
 
 _Roleplay concept: ex-deckhand who retired into a room where she controls the exits._
 

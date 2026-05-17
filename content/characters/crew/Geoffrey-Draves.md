@@ -19,8 +19,8 @@ tags:
 | **Species**   | Human (Dravosi)                                                           |
 | **Post**      | Formerly the [[HCS-Surety]], under [[Barnaby-Rook\|Barnaby Rook]] |
 | Rank          | Seaman                                                                    |
-| **Crew Role** | TBD                                                                       |
-| **Wage**      | TBD                                                                       |
+| **Crew Role** | Carpenter                                                                 |
+| **Wage**      | 6 gp/week (carpenter rate)                                                |
 
 ## Overview
 
@@ -79,6 +79,8 @@ He picked it up. He hasn't said more than that.
 The contract listed his work as carpenter-plus-supplement: seven gold, five silver a week. He signed it. He has not done the full arithmetic against Crown wage tables yet — a rated marine earns fourteen gold weekly, plus the standard carpenter rate on top for any secondary role. Eighteen months of double work at a third of the combined rate. He knows his savings are short. He does not yet know why.
 
 [[Barnaby-Rook|Barnaby Rook]] knew. Crew costs are operational line items. The arrangement was not an accident.
+
+With the party, his terms are carpenter only, six gold a week, no boarding duties. If asked about the marine work: Barnaby shorted him on the supplement, the bonus wasn't worth it, and he'd rather be below with the hull where it's quiet and nobody interrupts him. No drama. Just a man who knows what he prefers.
 
 ---
 

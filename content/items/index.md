@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Items
-created: 2026-05-15T23:57:16.126-07:00
+created: 2026-05-16T20:06:55.206-07:00
 modified: 2026-05-11
 tags:
   - player-resource
@@ -23,6 +23,10 @@ Things the party owns, has encountered, or should probably be able to identify i
 **[[The-Baroness|The Baroness]]** — Delmar Fisk's rapier. Well-traveled.
 
 **[[The-Duchess|The Duchess]]** — Delmar Fisk's musket. Same.
+
+**[[Miras-Blade|Mira's Blade]]** — A +1 shortsword with a distinctive notched pommel. Found in a confiscation crate aboard the HCS Surety. The matching pendant in the same crate reads _"For Mira, from the sea."_ Who Mira is, and who Rook took these from, is unresolved.
+
+**[[Potion-of-Water-Breathing|Potion of Water Breathing]]** — For one hour, breathe underwater as easily as air. Standard emergency kit on serious sea vessels. Harder to source at most Midchain free ports.
 
 **[[Truth-Stone|Truth Stone]]** — A smooth grey stone that heats white-hot when held by someone who knowingly lies. Common on the Midchain. Favored by captains who've been burned by a false manifest. [[Beaumont-Sel|Beaumont Sel]] carries one.
 

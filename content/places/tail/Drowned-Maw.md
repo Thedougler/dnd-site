@@ -5,7 +5,7 @@ aliases:
   - Maw
 title: The Drowned Maw
 created: 2026-05-01
-modified: 2026-05-15
+modified: 2026-05-16
 tags:
   - landmark
 ---
@@ -110,6 +110,8 @@ Below the shelf, the scale stops being useful for practical planning. The Maw ha
 ## Hazards
 
 The Maw's hazards are compass drift, star-only navigation, still water, no anchoring, whip sharks at the rim, giant squid at night near the drop-off, pirate pressure around salvage traffic, kraken and dragon turtle rumours, the Leviathan thread, and active planar instability below the Shelfworks.
+
+The lower Shelfworks dive tier is currently abandoned — no crews will work below 60 feet after a heat event at 80 feet cooked a crew's bait line without warning. One Maw crossing ship has logged a warm water patch and dead-fish smell on the Shelfworks approach; the pilot filed it as a vent anomaly.
 
 ## Current Hooks
 

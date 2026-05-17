@@ -67,6 +67,12 @@ Her late husband built the ship, captained her for decades, and left her to the 
 - Perrin's silence is becoming its own message.
 - The loss of the _Vestra_ is both family grief and Passage logistics.
 
+## Session Events
+
+### World Tick — 2026-05-16
+
+Put out a circuit-wide Passage inquiry for a confirmed sighting of Perrin. Got back a fragmentary report — fancy rat matching his description, Crown Island waters, approximately six weeks old, no ship name, no port, secondhand harbour talk from a Run not in direct contact. She knows he's alive and in the Central Strait corridor. She does not know the ship, the crew, or why he hasn't answered. Circuit inquiry stays active. Anzolo deployed from Calveno to search independently. Perrin does not know.
+
 ## Related Pages
 
 - [[situations/What-Sunk-The-Vestra|What Sunk The Vestra]]

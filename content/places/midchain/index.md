@@ -33,6 +33,10 @@ See [[Midchain|The Midchain]] for region overview.
 - [[Knifes-Wake|Knife's Wake]] — small raider suited to the Midchain's tight channels.
 - [[The-Glass-Debt|The Glass Debt]] — name sailors connect with increasingly expensive convoy routes.
 
+## Murrat
+
+- [[Murrat|Murrat]] — limestone reef island between Kalowe and the Verdant Teeth; inhabited by Moucheron villages; outsiders are prey.
+
 ## Verdant Teeth
 
 - [[Verdant-Teeth|The Verdant Teeth]] — five reef-fringed Grung islands with strict trade protocols and lethal boundaries.
@@ -65,6 +69,7 @@ See [[Midchain|The Midchain]] for region overview.
 
 ## Hazards
 
+- [[Moucheron|Moucherons]] — Murrat island, between Kalowe and the Verdant Teeth; no safe approach; landing parties are prey.
 - [[beastiary/dragons/ancient-black-dragon|Ancient black dragon]] — Aruhe; the real reason the island is abandoned and the Grung won't land on it.
 - [[Sawek|Sawek]] — apex sinkhole predators whose lairs can look like useful shelter from above.
 - [[beastiary/beasts/giant-crocodile|Giant crocodiles]] — mangrove cuts and river mouths.

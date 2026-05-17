@@ -68,6 +68,8 @@ There is no colonial authority here, which is not the same as no authority. The 
 
 Kalowe is where unregistered vessels, hired crews, cargo that skipped the ledger, repair work, and people working hard to be difficult to locate can move. Missing papers are forgiven faster than missing payment.
 
+The most visible [[Moucheron|Moucheron]] presence in Kalowe is [[Five-Blades|The Five Blades]], a four-member mercenary company that works out of [[The-Flat-Water|The Flat Water]]. Well-fed and steady-working, they're not difficult to be around and are findable most evenings. Captains who need to hire contact them directly or through a factor. The Island Council does not officially sanction the arrangement, which is not the same as discouraging it.
+
 ## Access & Approach
 
 The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter sharks]] work the current through the gap, and the bosses quietly maintain a bell rope after a caulker was bitten near the staging barges.
@@ -83,6 +85,7 @@ The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter s
 
 ## See Also
 
+- [[Moucheron|Moucheron]] — fey mercenary squads available for hire through Kalowe back channels
 - [[Midchain|The Midchain]]
 - [[Chain-Council|The Chain Council]]
 - [[Verdant-Teeth|The Verdant Teeth]]

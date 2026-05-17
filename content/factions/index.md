@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Factions
-created: 2026-05-15T23:57:16.057-07:00
+created: 2026-05-16T23:49:30.583-07:00
 modified: 2026-05-03
 tags:
   - player-resource
@@ -28,6 +28,12 @@ Expect dock searches, fines, warrants, and sealed orders. If you haven't broken 
 The Concordat doesn't carry weapons. It carries ledgers. They deal in credit, contracts, insurance, and route money — the invisible infrastructure that keeps trade moving across the Sea. Debt to the Concordat has a way of becoming something more complicated than debt. It becomes leverage. It becomes politics.
 
 Their factors are unfailingly polite. The collateral clauses are buried deep.
+
+---
+
+## [[Five-Blades|The Five Blades]]
+
+A [[Moucheron|Moucheron]] mercenary company out of [[Kalowe|Kalowe]]. Four blades and a stinger — the name is a reference to how they fight. Well-fed and steady-working, they're easy to find at [[The-Flat-Water|The Flat Water]] and not difficult to be around. Contract terms are stated upfront, including the feeding clause. Experienced captains have learned to read that clause carefully.
 
 ---
 

@@ -40,7 +40,7 @@ Common legal tools:
 - **Rating inspection:** A vessel, crew, cargo, and destination are checked against Crown registry standards before passage.
 - **Impound:** Ships disappear into fee disputes, seizure yards, and "temporary holds" that can last years.
 - **Privateer commission:** Legal cover for approved private captains to inspect non-Crown vessels in contested waters.
-- **Species relocation bounty:** Public notices classify Rattkin as subject to live-capture relocation in several Crown territories.
+- **Species relocation bounty:** Public notices classify [[Rattkin|Rattkin]] as subject to live-capture relocation in several Crown territories. [[Moucheron|Moucherons]] carry a separate, higher bounty filed under hazardous wildlife removal — the distinction reflects what happens to officers who try to collect it without adequate preparation.
 - **Admiralty pass:** A named access document that opens fort gates, restricted piers, military archives, and sealed roads.
 
 ## Territory
@@ -72,7 +72,7 @@ Dravosi speech in the islands leans formal in office and practical on deck. Offi
 - The Crown controls the western mouth of the [[Central-Strait|Central Strait]] through [[places/port-tidefall/index|Port Tidefall]].
 - Tidefall's inspection pier is unavoidable for vessels entering under Crown law.
 - Crown papers matter. Missing papers matter more.
-- Rattkin bounties exist, are rarely enforced consistently, and become dangerous whenever an ambitious officer wants leverage.
+- Rattkin bounties exist, are rarely enforced consistently, and become dangerous whenever an ambitious officer wants leverage. Moucheron bounties exist, are never enforced in Midchain waters, and are universally ignored by officers who have read the incident reports.
 - The Crown and [[Tessarine-Concordat|the Tessarine Concordat]] are rivals, but both recognize enough of each other's commercial law to make life difficult for everyone else.
 - The Crown's grip is strongest at forts, harbours, and roads; it weakens sharply in caves, mudflats, local villages, and [[places/midchain/index|Midchain]] waters.
 

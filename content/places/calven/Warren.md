@@ -5,7 +5,7 @@ aliases:
   - The Warren
 title: The Warren
 created: 2026-05-01
-modified: 2026-05-15
+modified: 2026-05-16
 tags:
   - city
   - rattkin
@@ -43,7 +43,11 @@ The sound of Calveno filters down through disguised vents: faint voices, water t
 
 | Place | Type | Notes |
 |---|---|---|
-| Hidden holds | Shelter / cache | Storage, refuge, and route infrastructure; no dedicated page yet. |
+| [[places/calven/warren/The-Low-Lamp\|The Low Lamp]] | Tavern / gathering hall | The communal heart of the Warren. Essa Two-Tooth runs it. Everyone gets called too thin. |
+| [[places/calven/warren/Marrows\|Marrow's]] | Cargo broker | Sealed cargo, documents, and deniable logistics. Kin introduction required. Three-week consignment limit. |
+| [[places/calven/warren/The-Splint\|The Splint]] | Apothecary / healer | Colla sets bones and stocks the Warren's only reliable healing preparations. |
+| [[places/calven/warren/Tangle-Chambers\|The Tangle Chambers]] | Council chambers / residence | Where the seven Tangle elders deliberate and Nona Black-Jaw keeps her apartments. Summons only. |
+| Hidden holds | Shelter / cache | Storage, refuge, and route infrastructure throughout the Warren's corridors. |
 | Rope bridges | Access routes | Cross flooded sections of the old drainage channels. |
 | Disguised vents | City interface | Carry sound and air between Calveno above and the Warren below. |
 
@@ -71,6 +75,11 @@ Access is not obtained by asking. A person may be shown a door and still know al
 - [[Calveno]]
 - [[Passage|The Passage]]
 - [[Rattkin|Rattkin]]
+- [[Nona-Black-Jaw|Nona Black-Jaw]]
+- [[places/calven/warren/The-Low-Lamp|The Low Lamp]]
+- [[places/calven/warren/Marrows|Marrow's]]
+- [[places/calven/warren/The-Splint|The Splint]]
+- [[places/calven/warren/Tangle-Chambers|The Tangle Chambers]]
 - [[situations/Warren|The Warren — DM Notes]]
 
 ## Source

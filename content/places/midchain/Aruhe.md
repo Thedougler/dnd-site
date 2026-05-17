@@ -4,7 +4,7 @@ aliases:
   - Aruhe Island
 title: Aruhe
 created: 2026-05-02
-modified: 2026-05-15
+modified: 2026-05-16
 tags:
   - island
 ---
@@ -77,6 +77,7 @@ Acid-tainted drainage, giant frogs, giant venomous snakes, giant scorpions, gian
 
 - The Grung patrol the reefs around Aruhe but do not land.
 - The brown-gold drainage suggests something old and acidic in the flooded interior.
+- Anyone who does land finds the coastal strip unnaturally crowded — too many giant frogs, scorpions, snakes, and spiders packed against the shoreline, pressed there as if something worse holds the interior.
 
 ## See Also
 

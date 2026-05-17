@@ -31,6 +31,10 @@ The Tangle vouches for him. That is enough.
 
 Anzolo is a Calveno contact and Passage-adjacent ally whose importance comes from Nona's recommendation.
 
+## Current Status — World Tick 2026-05-16
+
+Deployed by Nona from Calveno to find Perrin Black-Jaw. Working independently through Passage contacts. Carrying Tangle authority — any Passage contact he reaches will cooperate. Not looking for trouble. Looking for Perrin. Currently moving toward the Central Strait corridor based on the fragmentary sighting Nona's inquiry returned.
+
 ## Relationships
 
 - [[Nona-Black-Jaw]]

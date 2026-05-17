@@ -61,6 +61,8 @@ One hired hand clears tables and refills the water cisterns. No name given; leav
 | Rum, bottle | 4 sp | Take it with you |
 | Wine, common, pitcher | 2 sp | Imported, average |
 | Fresh water, jug | 1 cp | Cistern-collected; reliable |
+| **The Red Flat** | 8 cp | Not on the board. Dark rum, fresh pig blood, lime. Reweti keeps a small clay pot of blood behind the bar specifically because the [[Five-Blades\|Five Blades]] are regulars. Will make it for anyone who asks correctly. |
+| **Shark Pull** | 2 sp | Not on the board. Overproof rum, hunter shark blood from the gap, nothing else. Only available when the dock crew has cleaned a shark recently. The Five Blades order it when a contract just closed. |
 | Hammock berth (upper floor) | 1 sp/night | Shared floor, canvas partition |
 | Private room | 5 sp/night | One window, a door that latches, no lock |
 | Stabling (small dinghy or launch) | 2 cp/night | Lagoon-side tie-up behind the building |

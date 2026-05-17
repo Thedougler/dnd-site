@@ -38,11 +38,11 @@ He is a sleazy operator in the way a charming person with no illusions about peo
 
 ## Appearance
 
-He travels with the hood up. What registers first is a short figure in an olive-drab cloak, three feet tall and moving with the unhurried confidence of someone who has already noted all the exits. Then the hood comes down.
+He travels with the hood up. What registers first is a cloaked figure barely three feet tall, moving with the unhurried confidence of someone who has already noted all the exits. The hood is olive-drab and genuinely large on him — it drapes past his shoulders in a way that reads less like fashion and more like deliberate cover. Then it comes down.
 
-Perrin is a fancy rat Rattkin — hooded colouring, a black head and a white body with brown patches, distinctive enough that people remember it. He carries a longsword at his hip and a bodhran drum on his back, which together produce an impression that is simultaneously diplomat and something that crawled in off the docks.
+Perrin is a fancy rat Rattkin — black head, clean white body, a colouring people remember. He is lean and slight, narrow across the shoulder, and small even by Rattkin standards; in any lineup he is the shortest person present by a significant margin. The longsword at his hip looks genuinely outsized on him. He carries it anyway. Add the bodhran drum across his back and the whole impression lands somewhere between Robin Hood and something that just climbed out of a ship's hold — which is more or less accurate.
 
-He is small even by Rattkin standards in the way that matters on ships — everything physical assumes a body built for it, and his isn't. He compensates with personality, and has done so for as long as he can remember.
+He compensates for the frame with personality, and has done so for as long as he can remember.
 
 ---
 

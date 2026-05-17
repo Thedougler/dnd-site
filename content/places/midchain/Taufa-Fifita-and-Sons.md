@@ -5,12 +5,14 @@ aliases:
   - Fifita Chandlery
 title: Taufa Fifita & Sons
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
 ---
 
 # Taufa Fifita & Sons
+
+![[raw/assets/banners/Taufa-Fifita.webp|Taufa Fifita, Kalowe chandler and head of the Fifita trading family]]
 
 ## Overview
 
@@ -50,29 +52,27 @@ Two adult sons work the back storeroom and handle deliveries to the dry dock. Th
 
 ## Stock / Services
 
-| Item | Cost | Notes |
-|---|---|---|
-| Rope, hempen (50 ft) | 1 gp | Always stocked; tarred at +2 sp |
-| Rope, hempen (per 10 ft) | 2 sp | Available cut to length |
-| Block and tackle | 1 gp | Two pulleys; for rigging or cargo |
-| Canvas, sailcloth (per yard) | 6 sp | Heavy weight for patching or new work |
-| Oilskin canvas (per yard) | 1 gp | Waterproofed; for covers and gear bags |
-| Lamp oil, flask | 1 sp | Clean-burning; good stock |
-| Lamp oil, gallon jug | 6 sp | Bulk; for ship's stores |
-| Tar, small keg | 2 gp | Hull caulking grade |
-| Linseed oil, quart | 4 sp | Wood treatment |
-| Lantern, hooded | 5 gp | Iron; reliable shutter |
-| Lantern, bullseye | 11 gp | Directed beam; slightly above market |
-| Compass, common | 50 gp | One in stock; navigation quality |
-| Nautical charts, local (Midchain) | 8 gp | Hand-copied; accuracy varies |
-| Spyglass | 1,100 gp | One in stock; ask to see it |
-| Fishing tackle | 1 gp | Line, hooks, leads |
-| Marlinspike | 5 sp | Rigging tool; good steel |
-| Needle and sail twine | 3 sp | Leather sailmaker's needle included |
-| Crowbar | 2 gp | — |
-| Grappling hook | 2 gp | Four-prong, iron |
-| Candles (10) | 2 cp | Tallow; burns fast |
-| Tinderbox | 5 sp | Flint, steel, tinder cloth |
+- 1 gp — [[Hempen-Rope|Hemp rope (50 ft)]] — _"Hempen or tarred? Tarred is two silver more."_
+- 2 sp — [[Hempen-Rope|Hemp rope (per 10 ft)]] — _"Cut to length. Tell me how much."_
+- 1 gp — [[Block-and-Tackle|Block and tackle]] — _"Two pulleys. Rigging or cargo, same piece."_
+- 6 sp/yd — [[Sail-Canvas|Sailcloth (per yard)]] — _"Heavy weight. Good for patching or new work."_
+- 1 gp/yd — [[Oilskin-Canvas|Oilskin canvas (per yard)]] — _"Waterproofed. For covers and bags."_
+- 1 sp — [[Lamp-Oil|Lamp oil, flask]] — _"Clean-burning. Good stock."_
+- 6 sp — [[Lamp-Oil|Lamp oil, gallon jug]] — _"Ship's stores quantity."_
+- 2 gp — [[Tar|Tar, small keg]] — _"Hull caulking grade."_
+- 4 sp — [[Linseed-Oil|Linseed oil, quart]] — _"Wood treatment."_
+- 5 gp — [[Hooded-Lantern|Lantern, hooded]] — _"Iron. Reliable shutter."_
+- 11 gp — [[Bullseye-Lantern|Lantern, bullseye]] — _"Directed beam. Slightly above market."_
+- 50 gp — [[Compass|Compass, common]] — _"Navigation quality. One in stock."_
+- 8 gp — [[Nautical-Chart|Nautical charts, local (Midchain)]] — _"Hand-copied. Accuracy varies — I say that once."_
+- 1,100 gp — [[Spyglass|Spyglass]] — _"One in stock. Ask to see it."_
+- 1 gp — [[Fishing-Tackle|Fishing tackle]] — _"Line, hooks, leads."_
+- 5 sp — [[Marlinspike|Marlinspike]] — _"Good steel."_
+- 3 sp — [[Needle-and-Sail-Twine|Needle and sail twine]] — _"Leather sailmaker's needle included."_
+- 2 gp — [[Crowbar|Crowbar]] — _"It's a crowbar."_
+- 2 gp — [[Grappling-Hook|Grappling hook]] — _"Four-prong, iron."_
+- 2 cp — [[Candles|Candles (10)]] — _"Tallow. Burns fast."_
+- 5 sp — [[Tinderbox|Tinderbox]] — _"Flint, steel, tinder cloth."_
 
 ## Access & Security
 

@@ -4,12 +4,14 @@ aliases:
   - Wibowo's
 title: Wibowo's Provisions
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
 ---
 
 # Wibowo's Provisions
+
+![[raw/assets/banners/Suryo-Wibowo.webp|Suryo Wibowo, ship's victualler and proprietor of Wibowo's Provisions]]
 
 ## Overview
 
@@ -49,38 +51,28 @@ One hired labourer loads carts and moves barrels. Does not speak to customers; W
 
 ## Stock / Services
 
-**Standard Stock**
+- 2 sp — [[Ships-Biscuit|Ship's biscuit (10 lb)]] — _"Hardtack. Long shelf life is the only thing you need to know about it."_
+- 3 sp — [[Salt-Pork|Salt pork (10 lb)]] — _"Barrelled. Ready to cask. This batch is clean."_
+- 2 sp — [[Dried-Salt-Fish|Salt fish, dried (10 lb)]] — _"Local catch. Well-preserved. I know the source."_
+- 5 sp — [[Rice|Rice (10 lb)]] — _"Padded against damp. Reliable staple. Take it."_
+- 3 sp — [[Dried-Beans|Dried beans (10 lb)]] — _"Shelf-stable. That's what matters on a long haul."_
+- 5 sp — [[Dried-Fruit|Dried fruit, assorted (5 lb)]] — _"Raisins, mango, tamarind — keeps morale above zero on a long passage."_
+- 5 sp — [[Fresh-Citrus|Citrus, basket (20 pieces)]] — _"Came in yesterday. Take some. Scurvy costs more than the fruit."_
+- 4 sp — [[Fresh-Citrus|Fresh produce, mixed (10 lb)]] — _"Varies with the supply boats. Ask first, don't assume."_
+- 2 cp — [[Salt|Salt (per lb)]] — _"Salt. You need it. It's two copper."_
+- 1 sp — [[Vinegar|Vinegar (quart)]] — _"Cask-cleaning and preservation. Keep it in the stores."_
+- 1 gp — [[Mixed-Spices|Spices, mixed (per lb)]] — _"Pepper, clove, ginger. Exact mix varies. Makes everything else edible."_
+- 6 sp — [[Ground-Coffee|Coffee, ground (per lb)]] — _"It's a luxury. Your night watch will thank you."_
+- 6 sp — [[Loose-Tobacco|Tobacco, loose (per lb)]] — _"Pipe tobacco. Trade good at ports that don't see much through-traffic."_
+- 4 sp — [[Cooking-Oil|Cooking oil (quart)]] — _"Palm. Clean. Galley stock."_
+- 1 sp — [[Water-Cask|Water cask, small (5 gal)]] — _"Filled and sealed this morning. For immediate use only."_
+- 8 sp — [[Water-Cask|Water cask, ship's (40 gal)]] — _"Empty cask. Cistern fill is one silver. Do the math before you leave."_
+- 5 sp — [[Rum|Rum, bottle]] — _"Local distill. It's reliable. I've checked."_
+- 4 gp — [[Rum|Rum, cask (10 gal)]] — _"Bulk rate. Price is on the board. No negotiation."_
+- 2 sp — [[Common-Wine|Wine, common (bottle)]] — _"Imported. Average. It's wine."_
+- 6 sp — [[Small-Beer|Beer, small (keg)]] — _"Non-intoxicating. Safer than untreated water on anything longer than three days."_
 
-| Item | Cost | Notes |
-|---|---|---|
-| Ship's biscuit (10 lb) | 2 sp | Hard tack; long shelf life |
-| Salt pork (10 lb) | 3 sp | Barrelled; ready to cask |
-| Salt fish, dried (10 lb) | 2 sp | Local catch, well-preserved |
-| Rice (10 lb) | 5 sp | Reliable staple; padded for damp |
-| Dried beans (10 lb) | 3 sp | — |
-| Dried fruit, assorted (5 lb) | 5 sp | Raisins, mango strips, tamarind |
-| Citrus, basket (20 pieces) | 5 sp | Fresh; prevents scurvy; ask about availability |
-| Fresh produce, mixed (10 lb) | 4 sp | Varies with supply; ask |
-| Salt (per lb) | 2 cp | — |
-| Vinegar, quart | 1 sp | Cask-cleaning and preservation |
-| Spices, mixed (per lb) | 1 gp | Pepper, clove, ginger; varies |
-| Coffee, ground (per lb) | 6 sp | — |
-| Tobacco, loose (per lb) | 6 sp | — |
-| Cooking oil, quart | 4 sp | Palm; clean |
-| Fresh water, small cask (5 gal) | 1 sp | Filled and sealed; for immediate use |
-| Water cask, ship's (40 gal) | 8 sp | Emptied cask; fill at the cistern station, 1 sp per fill |
-| Rum, bottle | 5 sp | Local distill; reliable |
-| Rum, cask (10 gal) | 4 gp | Bulk rate |
-| Wine, common, bottle | 2 sp | Imported; average |
-| Beer, small (non-intoxicating), keg | 6 sp | Safer than water on long hauls |
-
-**Bulk Rate** _(orders above 50 lb dry weight or 20 gal liquid)_
-
-| Category | Discount |
-|---|---|
-| Dry stores | 10% off board price |
-| Cased liquids | 10% off board price |
-| Mixed order, both categories | 15% off board price |
+**Bulk rate** applies to orders above 50 lb dry weight or 20 gal liquid: 10% off dry stores, 10% off cased liquids, 15% off mixed orders. Price is on the board outside.
 
 ## Access & Security
 

@@ -4,13 +4,15 @@ aliases:
   - Acqua Nera
 title: Acqua Nera
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - shipyard
 ---
 
 # Acqua Nera
+
+![[raw/assets/banners/Dario-Vanni.webp|Dario Vanni, proprietor of Acqua Nera boatyard]]
 
 ## Overview
 
@@ -44,16 +46,12 @@ _Roleplay concept: old prizefighter turned art restorer + a man who makes proble
 
 ## Stock / Services
 
-| Service | Notes |
-|---|---|
-| Hull repaint | Full colour strip and repaint; pigment mixed on site |
-| Registry plate removal and replacement | Old plate disposed of; blank replacement plate supplied at cost |
-| Nameboard replacement | Carved and fitted; lettering included in the price |
-| Pennant and colours disposal | Included; no ceremony |
-| Hull caulking and copper work | Repair included for any seams opened during paint strip |
-| In-water assessment | Included before any job; he will not quote without seeing the hull |
+_Discreet rate: double standard pricing. No Canal Commission filing. No record kept of the vessel's previous appearance._
 
-**Discreet rate:** Double standard pricing. No Canal Commission filing. No record of the vessel's previous appearance kept on site.
+- ask — [[Hull-Repaint|Hull repaint, full colour]] — _"Pigment mixed on site. She'll float out looking like she was built somewhere else."_
+- ask — [[Registry-Plate-Removal|Registry plate removal and replacement]] — _"Old plate goes. Blank replacement at cost. Same rate either way."_
+- ask — [[Nameboard-Replacement|Nameboard replacement]] — _"Carved and fitted. Lettering included. I don't need the story."_
+- ask — [[Hull-Caulking|Hull caulking and copper work]] — _"Seam repair included in the paint strip. I don't leave openings."_
 
 ## Access & Security
 

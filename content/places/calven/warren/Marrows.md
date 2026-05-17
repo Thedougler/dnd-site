@@ -5,7 +5,7 @@ aliases:
   - Marrow
 title: Marrow's
 created: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-17
 tags:
   - building
   - rattkin
@@ -13,6 +13,8 @@ tags:
 ---
 
 # Marrow's
+
+![[raw/assets/banners/Marrow.webp|Marrow, proprietor of Marrow's]]
 
 ## Overview
 
@@ -47,13 +49,10 @@ His terms are simple: the consignment period is three weeks, no exceptions. Afte
 
 ## Stock / Services
 
-| Offering | Notes |
-|---|---|
-| Document transit | 5gp minimum; price reflects content weight, not physical weight; no questions |
-| Small cargo brokerage | 10gp + 5% of stated value; three-week maximum hold |
-| Consignment storage | 1gp / week; three-week hard limit |
-| Kin-network introduction (for Dry) | 15gp minimum; Marrow decides eligibility |
-| Specialty sourcing | Occasional; ask and he'll tell you if it's possible |
+- 5 gp+ — [[Document-Transit|Document transit]] — _"Price reflects content weight. Not physical weight. No questions."_
+- 10 gp + 5% — [[Cargo-Brokerage|Small cargo brokerage]] — _"Three-week hold. Stated value. Non-negotiable terms."_
+- 1 gp/wk — [[Consignment-Storage|Consignment storage]] — _"Three weeks. Hard limit. After that — my concern, not yours."_
+- 15 gp+ — [[Passage-Network-Introduction|Kin-network introduction (Dry)]] — _"I decide eligibility. I'll let you know."_
 
 ## Access & Security
 

@@ -2,12 +2,14 @@
 publish: true
 title: Cat's Curios
 created: 2026-05-02
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
 ---
 
 # Cat's Curios
+
+![[raw/assets/banners/Catarina-DaVirelli.webp|Catarina Da'Virelli, proprietor of Cat's Curios]]
 
 ## Overview
 
@@ -44,7 +46,9 @@ The workshop belongs to [[Catarina-DaVirelli|Catarina Da'Virelli]]. She works fr
 
 ## Stock / Services
 
-![[cats-curios-catalog.base]]
+- ask — [[Artificer-Commission|Artificer commission]] — _"Describe the mechanism. I'll tell you if it's something I'll do, and what it takes."_
+- ask — [[Mechanism-Repair|Mechanism repair]] — _"Bring it in. I'll assess it on the bench."_
+- trade — [[Antheri-Mechanism|Antheri-alloy mechanisms (specimen cabinet)]] — _"Trade only. No cash price. What you're offering matters more than what you're offering to pay."_
 
 ## Access & Security
 

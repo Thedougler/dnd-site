@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Factions
-created: 2026-05-16T23:49:30.583-07:00
+created: 2026-05-17T07:56:09.328-07:00
 modified: 2026-05-03
 tags:
   - player-resource
@@ -63,7 +63,7 @@ If a Sentinel warns you off a route, they're not guessing.
 
 ## [[Passage|The Passage]]
 
-The Rattkin don't advertise. The Passage runs through the hidden spaces: the Runs beneath ports, the Holds, the courier routes that move messages faster than ships. There's a whole infrastructure down there that most surface-dwellers never see and don't think about. They should.
+The [[Rattkin|Rattkin]] don't advertise. The Passage runs through the hidden spaces: the Runs beneath ports, the Holds, the courier routes that move messages faster than ships. There's a whole infrastructure down there that most surface-dwellers never see and don't think about. They should.
 
 If a door appears where there wasn't one, if a message arrives before the ship that carried it — that's the Passage. Favors flow underground. So do debts.
 

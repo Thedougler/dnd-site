@@ -4,12 +4,14 @@ aliases:
   - Grimaldi's
 title: Grimaldi's Dispensary
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
 ---
 
 # Grimaldi's Dispensary
+
+![[raw/assets/banners/Ilaria-Grimaldi.webp|Ilaria Grimaldi, apothecary and proprietor of Grimaldi's Dispensary]]
 
 ## Overview
 
@@ -51,31 +53,25 @@ No staff. She works alone and sees patients by request after the shop closes.
 
 ## Stock / Services
 
-**Standard Stock**
+- 5 gp — [[Healers-Kit|Healer's kit]] — _"Ten uses. Stabilise or restore. If you're going offshore without one, that's your decision, not mine."_
+- 5 sp — [[Wound-Dressing|Bandages and wound dressing (10)]] — _"Linen. Clean. Salt-treated. Keep them dry."_
+- 3 sp — [[Medicinal-Spirits|Medicinal spirits, bottle]] — _"For the wound first. After that, your business."_
+- 5 gp — [[Herbalism-Kit|Herbalism kit]] — _"For characters with the proficiency. If you don't have it, this won't help you."_
+- 50 gp — [[Antitoxin|Antitoxin, vial]] — _"Two in stock. Resupply is uncertain. If you need it, buy it now."_
+- 30 gp — [[Sea-Poison-Antidote|Antidote, common sea-poison]] — _"Reef fish, shellfish, envenomation from common sea creatures. More specific than the broad antitoxin."_
+- 2 sp — [[Fever-Poultice|Poultice, fever-reducing]] — _"Three applications. Apply to the chest or forehead. The instructions are written on the pack."_
+- 1 gp — [[Splint-and-Wrap|Splint and wrap]] — _"I'll show you how to apply it. Once."_
+- 2 sp — [[Wound-Closure|Wound closure (service)]] — _"Cleaning and stitching. No anaesthetic. I'm fast about it."_
+- 1 gp — [[Bone-Setting|Bone setting (service)]] — _"Straightforward breaks only. Tell me what happened and I'll tell you if it qualifies."_
+- 1 sp — [[Tooth-Extraction|Tooth extraction (service)]] — _"I'm fast about it."_
+- 2 gp — [[Surgical-Consultation|Surgical consultation (service)]] — _"Assessment and a supply list for whoever operates. I don't operate."_
 
-| Item | Cost | Notes |
-|---|---|---|
-| Healer's kit | 5 gp | 10 uses; stabilise or restore 1 HP per use |
-| Bandages and wound dressing (10) | 5 sp | Linen; clean; salt-treated |
-| Medicinal spirits, bottle | 3 sp | For wound cleaning; also consumed |
-| Herbalism kit | 5 gp | For characters with the proficiency |
-| Antitoxin, vial | 50 gp | Two in stock; resupply uncertain |
-| Antidote, common sea-poison | 30 gp | Reef fish, shellfish, common envenomation |
-| Poultice, fever-reducing | 2 sp | 3 applications per pack |
-| Splint and wrap | 1 gp | Bone fracture; she'll show how to apply |
-| Wound closure (service) | 2 sp | Cleaning and stitching; no anesthetic |
-| Bone setting (service) | 1 gp | Straightforward breaks only |
-| Tooth extraction (service) | 1 sp | She is fast about it |
-| Surgical consultation (service) | 2 gp | Assessment and supply list; she does not operate |
+**Discretionary stock** _(ask; she decides)_
 
-**Discretionary Stock** _(ask; she decides whether to show it)_
-
-| Item | Cost | Notes |
-|---|---|---|
-| Potion of Healing | 55 gp | One or two in stock; varies |
-| Alchemist's fire, flask | 52 gp | She frames this as a pest control product |
-| Vial of acid | 26 gp | Same framing |
-| Poison, basic (vial) | 110 gp | DC 10 Con; 1d4 poison damage (2d4 on fail); available to those who name what they need it for clearly |
+- 55 gp — [[Potion-of-Healing|Potion of Healing]] — _"One or two in stock. I'll tell you if I have one."_
+- 52 gp — [[Alchemists-Fire|Alchemist's fire]] — _"Pest control product. That's the framing I use and you'll use the same one."_
+- 26 gp — [[Vial-of-Acid|Vial of acid]] — _"Same framing."_
+- 110 gp — [[Basic-Poison|Poison, basic (vial)]] — _"DC 10 Constitution. Tell me what you need it for, clearly, and I'll tell you whether I have it."_
 
 ## Access & Security
 

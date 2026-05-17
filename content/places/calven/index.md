@@ -20,7 +20,7 @@ tags:
 
 Calven is the second island east of [[places/calders-tooth/index|Calder's Tooth]] — three days from [[places/port-tidefall/index|Port Tidefall]] on a fair wind, longer on anything else. It is the oldest continuously settled island in the northern arc, and has been a commercial centre for long enough that the city built on it is named as its diminutive: [[places/calveno/index|Calveno]], little Calven. The name is Tessarine in origin, which tells you something about who got there first and who wrote it down.
 
-The Dravosi flag flies at the harbour. The Tessarine Concordat runs the money. The island's original occupants — the Rattkin, settled deep beneath Le Paludi's oldest drainage channels — predate both, and have no particular interest in correcting the record.
+The Dravosi flag flies at the harbour. [[Tessarine-Concordat|The Tessarine Concordat]] runs the money. The island's original occupants — the [[Rattkin|Rattkin]], settled deep beneath Le Paludi's oldest drainage channels — predate both, and have no particular interest in correcting the record.
 
 ## At a Glance
 
@@ -58,7 +58,7 @@ The island's only city occupies the southeastern coast, built across and around 
 
 ## The Warren
 
-Beneath Le Paludi — Calveno's oldest district, built on the marshy ground where the drainage channels once ran open — is the only fixed Rattkin settlement in the Shattered Sea. The Warren predates the city above it. Most people in Calveno know it as a rumour. The Rattkin know it as home.
+Beneath Le Paludi — Calveno's oldest district, built on the marshy ground where the drainage channels once ran open — is the only fixed [[Rattkin|Rattkin]] settlement in the Shattered Sea. The Warren predates the city above it. Most people in Calveno know it as a rumour. The Rattkin know it as home.
 
 Access is not obtained by asking. Nobody worth asking will tell you how.
 

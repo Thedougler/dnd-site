@@ -84,4 +84,4 @@ Access is not obtained by asking. A person may be shown a door and still know al
 
 ## Source
 
-- [[2026-04-13-the-warren|Source: GM notes — The Warren]]
+- GM notes — The Warren (2026-04-13)

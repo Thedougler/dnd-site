@@ -4,7 +4,7 @@ aliases:
   - Fare Ia
 title: Fare I'a
 created: 2026-05-03
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - grung
@@ -13,6 +13,8 @@ tags:
 # Fare I'a
 
 ![[raw/assets/banners/Fare-Ia.webp|Small dock-market fish jerky stall with clay marinade pots and hanging strips of cured fish]]
+
+![[raw/assets/banners/Ia-Miti.webp|Ia-Miti, Grung stallkeeper at Fare I'a]]
 
 ## Overview
 
@@ -43,7 +45,7 @@ The green grung behind the counter wraps parcels fast and watches the market wit
 
 ## Stock / Services
 
-The house specialty is I'a Miti: sticky saltfish jerky with a sweet-spiced marinade. Dock workers buy it cheap and portable; sailors buy it because someone dared them to. The green grung behind the counter wraps parcels fast and watches the market with the quiet attention of someone who misses very little.
+- 2 cp — [[Ia-Miti|I'a Miti (fish jerky parcel)]] — _"Sweet brine, spiced. Dock workers buy it every day. Sailors buy it on a dare and come back."_
 
 ## Access & Security
 

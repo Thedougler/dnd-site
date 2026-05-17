@@ -4,13 +4,15 @@ aliases:
   - Ponte Bassa
 title: The Ponte Bassa
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - tavern
 ---
 
 # The Ponte Bassa
+
+![[raw/assets/banners/Oleandro-Fuschi.webp|Oleandro Fuschi, proprietor of the Ponte Bassa]]
 
 ## Overview
 
@@ -36,16 +38,14 @@ The low ceiling on the canal side is where the bridge arch comes down; the back 
 
 ## Stock / Services
 
-| Item | Notes |
-|---|---|
-| Fish broth | Comes with bread, always. Bowl, not cup. |
-| Grilled canal eel | House specialty. An acquired taste that most locals claim to have acquired. |
-| Preserved meat plate | Salted pork, olives, hard cheese. For eating slowly over a long conversation. |
-| Cheap wine, carafe | From Calven's western slopes. Not bad. |
-| House spirits | Unnamed, pale yellow, arrives in a clay cup. No questions. |
-| Bed, shared room | Three per room standard. Linen changed weekly or on complaint. |
-| Bed, private room | Available. The door has a lock that works most of the time. |
-| Canal boat hire | Two flat-bottomed boats, half-day or full-day. Oleandro does not ask where you are going. |
+- 3 sp — [[Fish-Broth|Fish broth]] — _"Bowl, not cup. Bread comes with it. You didn't need to ask."_
+- 5 sp — [[Grilled-Canal-Eel|Grilled canal eel]] — _"House specialty. It's an acquired taste. Most people here have acquired it."_
+- 4 sp — [[Preserved-Meat-Plate|Preserved meat plate]] — _"Salted pork, olives, hard cheese. For sitting with someone over a long conversation."_
+- 2 sp — [[Common-Wine|Cheap wine, carafe]] — _"Calven's western slopes. Not bad."_
+- ask — [[House-Spirits|House spirits]] — _"Comes in a clay cup. No label, no questions."_
+- 2 sp — [[Hammock-Berth|Bed, shared room]] — _"Three per room. Linen changed weekly, or when someone complains."_
+- 5 sp — [[Private-Room|Bed, private room]] — _"The lock works. Most of the time."_
+- ask — [[Canal-Boat-Hire|Canal boat hire]] — _"Two boats. Half-day or full day. I don't ask where you're going."_
 
 ## Access & Security
 

@@ -4,12 +4,14 @@ aliases:
   - Flat Water
 title: The Flat Water
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
 ---
 
 # The Flat Water
+
+![[raw/assets/banners/Reweti-Kahurangi.webp|Reweti Kahurangi, proprietor of The Flat Water]]
 
 ## Overview
 
@@ -51,21 +53,19 @@ One hired hand clears tables and refills the water cisterns. No name given; leav
 
 ## Stock / Services
 
-| Offering | Cost | Notes |
-|---|---|---|
-| Meal, simple (salt fish, hard bread, pickled greens) | 3 cp | Always available |
-| Meal, cooked (rice, pork, roast plantain) | 1 sp | Evenings only; ask about availability |
-| Meal, captain's (above + fresh fish, lime, spiced rice) | 3 sp | One pot, whoever asks first |
-| Ale, mug | 4 cp | Local brew, dark and slightly sour |
-| Rum, dram | 5 cp | Good quality by Midchain standards |
-| Rum, bottle | 4 sp | Take it with you |
-| Wine, common, pitcher | 2 sp | Imported, average |
-| Fresh water, jug | 1 cp | Cistern-collected; reliable |
-| **The Red Flat** | 8 cp | Not on the board. Dark rum, fresh pig blood, lime. Reweti keeps a small clay pot of blood behind the bar specifically because the [[Five-Blades\|Five Blades]] are regulars. Will make it for anyone who asks correctly. |
-| **Shark Pull** | 2 sp | Not on the board. Overproof rum, hunter shark blood from the gap, nothing else. Only available when the dock crew has cleaned a shark recently. The Five Blades order it when a contract just closed. |
-| Hammock berth (upper floor) | 1 sp/night | Shared floor, canvas partition |
-| Private room | 5 sp/night | One window, a door that latches, no lock |
-| Stabling (small dinghy or launch) | 2 cp/night | Lagoon-side tie-up behind the building |
+- 3 cp — [[Simple-Meal|Meal, simple (salt fish, hard bread, pickled greens)]] — _"Always."_
+- 1 sp — [[Cooked-Meal|Meal, cooked (rice, pork, roast plantain)]] — _"Evenings. Ask what's left."_
+- 3 sp — [[Captains-Meal|Meal, captain's (cooked plus fresh fish, lime, spiced rice)]] — _"One pot. First one who asks."_
+- 4 cp — [[Ale|Ale, mug]] — _"Local. Dark, slightly sour."_
+- 5 cp — [[Rum|Rum, dram]] — _"Good quality for the Midchain."_
+- 4 sp — [[Rum|Rum, bottle]] — _"Take it with you."_
+- 2 sp — [[Common-Wine|Wine, common, pitcher]] — _"Imported. Average."_
+- 1 cp — [[Fresh-Water|Fresh water, jug]] — _"Cistern. It's reliable."_
+- 8 cp — [[The-Red-Flat|The Red Flat]] — _"Not on the board. Dark rum, fresh pig blood, lime. Ask for it right."_
+- 2 sp — [[Shark-Pull|Shark Pull]] — _"Not on the board. When we have it. You'll know what to ask."_
+- 1 sp — [[Hammock-Berth|Hammock berth (upper floor)]] — _"Shared floor. Canvas partition."_
+- 5 sp — [[Private-Room|Private room]] — _"Window, door, no lock."_
+- 2 cp — [[Dinghy-Mooring|Dinghy stabling, lagoon-side]] — _"Tie-up behind the building."_
 
 ## Access & Security
 

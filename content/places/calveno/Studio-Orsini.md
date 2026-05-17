@@ -4,7 +4,7 @@ aliases:
   - Orsini's
 title: Studio Orsini
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - shop
@@ -12,6 +12,8 @@ tags:
 ---
 
 # Studio Orsini
+
+![[raw/assets/banners/Marta-Orsini.webp|Marta Orsini, alchemist and proprietor of Studio Orsini]]
 
 ## Overview
 
@@ -37,19 +39,17 @@ The smell reaches you before the door. It is not one smell but several, layered 
 
 ## Stock / Services
 
-| Item | Notes |
-|---|---|
-| Potion of Healing | Standard; consistent batch quality |
-| Antitoxin | Vial; broad-spectrum |
-| Alchemist's Fire | Flask; reliable ignition |
-| Smoke Bomb | Compact; 10-foot cloud, lasts 1 minute |
-| Tanglefoot Compound | Jar; area-adhesive, sets in 6 seconds |
-| Saltseal | Paste; waterproofs wood or canvas, cures in 30 minutes, lasts a season |
-| Bioluminescent Paint | Flask; glows 8 hours, fades without trace |
-| Deepwater Ink | Vial; adheres to wet surfaces and cures underwater |
-| Dreamwort Extract | Vial; induces deep sleep within 20 minutes, no taste, metabolises completely in 6 hours. Orsini specifies: not for human dosing above 2 drops per 150 lbs of body weight |
-| Oil of Still Water | Vial; arrests surface bleeding within 10 minutes, leaves no scar tissue. Orsini notes it does not affect internal injury |
-| Bile of the Drowned | Vial; applied to a wound, causes it to present as 2–4 days older than it is under standard medical examination. Effect lasts 48 hours |
+- 50 gp — [[Potion-of-Healing|Potion of Healing]] — _"Standard. Consistent batch quality. You're buying certainty as much as the compound."_
+- 50 gp — [[Antitoxin|Antitoxin]] — _"Broad-spectrum vial. It resists new exposure. It does not cure what's already in you — those are different problems."_
+- 52 gp — [[Alchemists-Fire|Alchemist's fire]] — _"Flask. Reliable ignition. I will specify what it will not extinguish on its own, once."_
+- ask — [[Smoke-Bomb|Smoke bomb]] — _"Compact. Ten-foot cloud. One minute. I'll tell you wind dissipation rates if you ask."_
+- ask — [[Tanglefoot-Compound|Tanglefoot compound]] — _"Area-adhesive. Sets in six seconds. I'll show you the application radius."_
+- ask — [[Saltseal|Saltseal]] — _"Paste. Cures in thirty minutes. Lasts a season at sea. Apply it like this: one pass, no second coat."_
+- ask — [[Bioluminescent-Paint|Bioluminescent paint]] — _"Glows eight hours. Fades completely. No trace, no residue. I've verified this."_
+- ask — [[Deepwater-Ink|Deepwater ink]] — _"Adheres to wet surfaces. Cures underwater. Permanent once set — understand that before you use it."_
+- ask — [[Dreamwort-Extract|Dreamwort extract]] — _"Not for human dosing above two drops per one hundred fifty pounds of body weight. If you exceed that, the outcome is your concern, not mine."_
+- ask — [[Oil-of-Still-Water|Oil of Still Water]] — _"Arrests surface bleeding in ten minutes. No scar tissue. It does not affect internal injury — that is a different preparation."_
+- ask — [[Bile-of-the-Drowned|Bile of the Drowned]] — _"Applied to a wound, it presents as two to four days older under standard examination. Forty-eight hour effect. Returns are not accepted."_
 
 ## Access & Security
 

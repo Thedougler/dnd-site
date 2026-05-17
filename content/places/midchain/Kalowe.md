@@ -97,4 +97,4 @@ The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter s
 
 ## Source
 
-- [[2026-04-13-kalowe|Source: GM notes — Kalowe]]
+- GM notes — Kalowe (2026-04-13)

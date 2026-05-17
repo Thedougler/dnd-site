@@ -11,6 +11,8 @@ tags:
 
 # Reginald Fenn
 
+![[raw/assets/banners/Reginald-Fenn.webp|Reginald Fenn at the Harbourmaster's Office chart counter with official surveys and patient composure]]
+
 ## Summary
 
 Mild, unhurried, and possessed of the kind of patience that only makes sense once you know how long he has been doing this. He surveyed portions of the Crown Islands and Central Strait routes himself, during an earlier period of his career that he refers to as "the fieldwork years" in the tone of a man who found fieldwork agreeable but is comfortable with its conclusion.

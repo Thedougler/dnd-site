@@ -5,13 +5,15 @@ aliases:
   - Moretti's
 title: Moretti & Sons Chandlery
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - shop
 ---
 
 # Moretti & Sons Chandlery
+
+![[raw/assets/banners/Giacomo-Moretti.webp|Giacomo Moretti, halfling chandler and proprietor of Moretti & Sons]]
 
 ## Overview
 
@@ -37,21 +39,23 @@ A warehouse built flush with the Mercatura canal, long and low, with a loading d
 
 ## Stock / Services
 
-| Item | Notes |
-|---|---|
-| Rope, hemp (per 50 ft) | Standard rigging weight; heavier gauge available |
-| Rope, silk (per 50 ft) | Available in small quantities; priced accordingly |
-| Oakum and tar | Sold by weight; caulking tools for hire |
-| Sail canvas (per sq yd) | Several grades; ask Giacomo |
-| Lamp oil (per gallon) | Standard grade; sea-use lantern grade available |
-| Signal lanterns | Clear and coloured; shuttered models |
-| Block and tackle sets | Single and double; iron-fitted |
-| Provisions — basic | Hardtack, salt pork, salted fish, dried legumes, vinegar |
-| Provisions — quality | Salt-cured Calven ham, oil, preserved citrus, hard spirits |
-| Fresh water, cask | Drawn same morning |
-| Naval tools | Marlinspike, rigger's knife, bosun's equipment |
-| Spare fittings | Iron cleats, rings, bolts, pins; sorted by size |
-| Canvas bags and netting | Multiple sizes; cargo net on request |
+- 1 gp — [[Hempen-Rope|Hemp rope (50 ft)]] — _"Standard rigging weight. Heavier gauge in the back if you need it — same price formula, different ticket."_
+- 10 gp — [[Silk-Rope|Silk rope (50 ft)]] — _"Small quantities. I don't always have it, so if you need it, buy it now."_
+- by weight — [[Oakum|Oakum and tar]] — _"Caulking tools for hire if you don't own a set. I keep a pair on the counter."_
+- by grade — [[Sail-Canvas|Sail canvas (per sq yd)]] — _"I've got three grades. Tell me what you're patching and I'll tell you which one."_
+- 6 sp — [[Lamp-Oil|Lamp oil (per gallon)]] — _"Standard grade's the one you want for general use. Sea-lantern grade costs four more per gallon and doesn't fog up in salt air."_
+- varies — [[Signal-Lantern|Signal lanterns]] — _"Clear, red, green, shuttered — I've got them all. You want a spare panel, I've got those too."_
+- 1 gp — [[Block-and-Tackle|Block and tackle sets]] — _"Single or double. Iron-fitted. I don't keep the cheap wood-only sets."_
+- 2 sp — [[Ships-Biscuit|Ship's biscuit (10 lb)]] — _"Hardtack. Keeps. That's the whole recommendation."_
+- 3 sp — [[Salt-Pork|Salt pork (10 lb)]] — _"Barrelled, ready to cask. No issues with this batch."_
+- 2 sp — [[Dried-Salt-Fish|Salted fish (10 lb)]] — _"Local catch. I know the supplier."_
+- 3 sp — [[Dried-Beans|Dried legumes (10 lb)]] — _"Mixed. Shelf-stable. You know what they are."_
+- 1 sp — [[Vinegar|Vinegar (quart)]] — _"For the casks. Also edible, technically."_
+- ask — [[Salt-Pork|Salt-cured Calven ham]] — _"Quality stock. Worth the difference if you've got people on a long haul who'll notice."_
+- 8 sp — [[Water-Cask|Fresh water cask (40 gal)]] — _"Drawn this morning. I don't fill yesterday's water."_
+- 5 sp — [[Marlinspike|Marlinspike]] — _"Good steel. It's a marlinspike. You know whether you need one."_
+- varies — [[Iron-Cleat|Spare fittings]] — _"Cleats, rings, bolts, pins — sorted by size on the east wall. If you can't find what you need, ask me, I know where it is."_
+- varies — [[Canvas-Bag|Canvas bags and netting]] — _"Multiple sizes on the shelf. Cargo net is a special order, two days."_
 
 ## Access & Security
 

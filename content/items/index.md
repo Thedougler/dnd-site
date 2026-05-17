@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Items
-created: 2026-05-17T02:10:28.334-07:00
+created: 2026-05-17T07:50:04.343-07:00
 modified: 2026-05-11
 tags:
   - player-resource
@@ -43,6 +43,10 @@ Things the party owns, has encountered, or should probably be able to identify i
 ---
 
 ## Weapon Reference
+
+### Melee Weapons
+
+**[[Rapier]]** — _Martial melee weapon._ 1d8 piercing, Finesse. The go-to for Dexterity fighters who want a d8 damage die without committing to Strength.
 
 ### Bows
 

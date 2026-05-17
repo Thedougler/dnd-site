@@ -62,10 +62,10 @@ See [[Midchain|The Midchain]] for region overview.
 
 ## Passage Notes
 
-- Back channels can help westbound ships avoid predictable Strait inspection routes.
-- Deep blue holes are avoided unless a pilot knows them by name.
-- The Doldrums shift by season, making southern route planning a moving problem.
-- The Verdant Teeth trade route is profitable, narrow, and watched.
+- Back channels can help westbound ships avoid predictable [[Central-Strait|Strait]] inspection routes; [[Passage|the Passage]] knows which ones are clean.
+- Deep blue holes are avoided unless a pilot knows them by name — some are lairs, some are just drops; [[Halythion|Halythion]] is the rumour attached to the deepest ones.
+- [[Doldrums|The Doldrums]] shift by season, making southern route planning a moving problem.
+- The [[Verdant-Teeth|Verdant Teeth]] trade route is profitable, narrow, and watched.
 
 ## Hazards
 

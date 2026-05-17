@@ -11,6 +11,8 @@ tags:
 
 # Nigel Strutt
 
+![[raw/assets/banners/Nigel-Strutt.webp|Nigel Strutt at the Tidefall Chandlery counter with forms, ship supplies, and a concerned expression]]
+
 ## Summary
 
 Young, neat, and carrying himself with the posture of someone who read the regulations carefully and found them reassuring. He knows the price board, the stock list, and the precise wording of the Crown chandlery charter, and he will supply any of these on request without being asked twice.

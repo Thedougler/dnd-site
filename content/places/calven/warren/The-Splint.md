@@ -5,7 +5,7 @@ aliases:
   - The Splint
 title: The Splint
 created: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-17
 tags:
   - building
   - rattkin
@@ -13,6 +13,8 @@ tags:
 ---
 
 # The Splint
+
+![[raw/assets/banners/Colla.webp|Colla, proprietor of The Splint]]
 
 ## Overview
 
@@ -49,14 +51,12 @@ He has a surface-side contact — a herbalist in Le Paludi named Dosia — who s
 
 ## Stock / Services
 
-| Offering | Notes |
-|---|---|
-| Healer's kit | 5gp; limit 2 per visit |
-| Antitoxin | 50gp; 1 in stock typically |
-| Potion of healing | 45gp; 1–2 in stock; restocked irregularly |
-| Wound treatment / bone-setting | 1sp for Kin; 2gp for Dry |
-| Consultation | Free for Kin; 5sp for Dry |
-| Custom preparation | Commission only; 1–3 days depending on ingredients and availability |
+- 5 gp — [[Healers-Kit|Healer's kit]] — _"Limit two per visit."_
+- 50 gp — [[Antitoxin|Antitoxin, vial]] — _"One in stock. Typically."_
+- 45 gp — [[Potion-of-Healing|Potion of healing]] — _"One, sometimes two. Restocked irregularly."_
+- 1 sp / 2 gp — [[Wound-Closure|Wound treatment, bone-setting]] — _"Kin rate, then Dry rate. I'll do the work either way."_
+- free / 5 sp — [[Surgical-Consultation|Consultation]] — _"Kin free. Dry pay. Tell me the symptoms."_
+- ask — [[Custom-Preparation|Custom preparation]] — _"Commission only. One to three days. Ingredients determine the timeline, not me."_
 
 ## Access & Security
 

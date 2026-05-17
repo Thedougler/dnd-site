@@ -4,12 +4,14 @@ aliases:
   - Ormsson's
 title: Ormsson's Fittings
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
 ---
 
 # Ormsson's Fittings
+
+![[raw/assets/banners/Kettil-Ormsson.webp|Kettil Ormsson, dwarven ironmonger and proprietor of Ormsson's Fittings]]
 
 ## Overview
 
@@ -51,37 +53,33 @@ No staff. He works the shop alone and closes when the dry dock does.
 
 **General Hardware**
 
-| Item | Cost | Notes |
-|---|---|---|
-| Iron spike (10) | 1 gp | Deck and hull fastening |
-| Iron chain, per foot | 5 sp | Standard; heavier gauge available at +2 sp/ft |
-| Anchor chain (10 ft section) | 6 gp | Drop-forged; rated for small vessels |
-| Cleat, iron | 8 sp | Deck fittings; common sizes in stock |
-| Padlock | 5 gp | Key included; re-key at 1 gp |
-| Crowbar | 2 gp | — |
-| Hammer | 1 gp | General; also caulking mallet at 1 gp 2 sp |
-| Caulking iron | 2 gp | Dry-dock grade |
-| Iron pot | 2 gp | Cook's or tar pot |
-| Grappling hook | 2 gp | Four-prong; does not sell the line |
-| Piton (10) | 5 sp | — |
-| Block, iron-strapped | 1 gp 5 sp | Rigging pulley; oak shell |
-| Lantern, iron-cased | 4 gp | Sturdier than the chandlery's; dimmer |
-| Custom bolt pattern work | 5 gp + | Quoted per job; 1–2 day turnaround |
+- 1 gp — [[Iron-Spike|Iron spikes (10)]] — _"Deck and hull fastening. Third crate on the left."_
+- 5 sp/ft — [[Iron-Chain|Iron chain (per foot)]] — _"Standard gauge. Heavier at plus two silver a foot. Tell me which."_
+- 6 gp — [[Anchor-Chain|Anchor chain (10 ft section)]] — _"Drop-forged. Rated for small vessels. I tested the batch."_
+- 8 sp — [[Iron-Cleat|Cleat, iron]] — _"Common sizes in stock. Sorted on the wall. Take what you need."_
+- 5 gp — [[Padlock|Padlock]] — _"Key included. Re-key is one gold if you lose it."_
+- 2 gp — [[Crowbar|Crowbar]] — _"It's a crowbar."_
+- 1 gp — [[Hammer|Hammer]] — _"General. Caulking mallet is one-twenty if that's what you want."_
+- 2 gp — [[Caulking-Iron|Caulking iron]] — _"Dry-dock grade. Tempered for mallet work."_
+- 2 gp — [[Iron-Pot|Iron pot]] — _"Cook's or tar pot. Same thing."_
+- 2 gp — [[Grappling-Hook|Grappling hook]] — _"Four-prong. I don't sell the line. That's the chandlery."_
+- 5 sp — [[Piton|Pitons (10)]] — _"Ten to a lot."_
+- 1 gp 5 sp — [[Rigging-Block|Block, iron-strapped]] — _"Oak shell. Good pulley. Cheaper than Taufa's."_
+- 4 gp — [[Iron-Lantern|Lantern, iron-cased]] — _"Sturdier than the chandlery's. Dimmer. Up to you."_
+- 5 gp+ — [[Custom-Metalwork|Custom bolt pattern work]] — _"Quoted per job. One to two days. Tell me the vessel class."_
 
-**Arms (back shelf — not advertised)**
+**Arms (back shelf)**
 
-| Item | Cost | Notes |
-|---|---|---|
-| Dagger | 2 gp | — |
-| Handaxe | 5 gp | — |
-| Spear | 1 gp | — |
-| Shortsword | 10 gp | — |
-| Rapier | 26 gp | Slightly above market; good quality |
-| Crossbow, light | 25 gp | — |
-| Crossbow bolts (20) | 1 gp | — |
-| [[Flintlock-Pistol\|Flintlock pistol]] | 260 gp | Gray market; no provenance given |
-| Pistol ammunition (20 shots, powder and ball) | 12 gp | Kept dry in waxed paper |
-| [[Musket\|Musket]] | 510 gp | One in stock; ask |
+- 2 gp — [[Dagger|Dagger]] — _"Curtain's open."_
+- 5 gp — [[Handaxe|Handaxe]] — _"Good steel."_
+- 1 gp — [[Spear|Spear]] — _"One gold."_
+- 10 gp — [[Shortsword|Shortsword]] — _"Standard size."_
+- 26 gp — [[Rapier|Rapier]] — _"Slightly above market. Quality justifies it."_
+- 25 gp — [[Light-Crossbow|Crossbow, light]] — _"No questions."_
+- 1 gp — [[Crossbow-Bolts|Crossbow bolts (20)]] — _"Standard bolts."_
+- 260 gp — [[Flintlock-Pistol|Flintlock pistol]] — _"Gray market. No provenance. Works."_
+- 12 gp — [[Pistol-Ammunition|Pistol ammunition (20 shots)]] — _"Kept dry in waxed paper. Don't get it wet."_
+- 510 gp — [[Musket|Musket]] — _"One in stock. Ask."_
 
 ## Access & Security
 

@@ -64,6 +64,7 @@ _Three days from Tidefall on good wind. A week on bad._
 | The Arsenal | Shipyard | Walled shipyard in the southwest; fourteen-month wait for non-House commissions. |
 | Tessarine factor house | Trade house | Concordat factor building at the harbour end of the Mercatura; no dedicated page yet. |
 | [[Il-Gioco-delle-Beffe\|Il Gioco delle Beffe]] | Annual festival | The city's prank competition — teams design and execute public hoaxes on willing marks, judged on craft and surprise; prize pool, side betting, and Beffa Medallion for the winner. |
+| [[Il-Palio-delle-Voci\|Il Palio delle Voci Contese]] | Annual festival | Open bardic competition across the canal district — multiple bands play simultaneously for three hours while crowds move between them; judged by which stage holds the most people at the end. |
 
 ## People & Power
 
@@ -80,7 +81,7 @@ There are no docks in the usual sense. Flat-bottomed boats move through channels
 ## Current Hooks
 
 - The [[Warren]] exists beneath Le Paludi, but surface Calveno knows it mostly as rumour.
-- [[Il-Gioco-delle-Beffe|Il Gioco delle Beffe]] registration opens tomorrow morning on the Mercatura bridge. Giacomo Moretti has signed the Accord for the twentieth consecutive year without being pranked. The committee finds this professionally embarrassing.
+- [[Il-Gioco-delle-Beffe|Il Gioco delle Beffe]] registration opens tomorrow morning on the Mercatura bridge. [[Giacomo-Moretti|Giacomo Moretti]] has signed the Accord for the twentieth consecutive year without being pranked. The committee finds this professionally embarrassing.
 
 ## See Also
 

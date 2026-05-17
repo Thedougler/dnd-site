@@ -4,7 +4,7 @@ aliases:
   - Low Lamp
 title: The Low Lamp
 created: 2026-05-16
-modified: 2026-05-16
+modified: 2026-05-17
 tags:
   - building
   - rattkin
@@ -12,6 +12,8 @@ tags:
 ---
 
 # The Low Lamp
+
+![[raw/assets/banners/Essa-Two-Tooth.webp|Essa Two-Tooth, keeper of The Low Lamp]]
 
 ## Overview
 
@@ -48,15 +50,13 @@ She insists every person who enters is too thin. She provides food before conduc
 
 ## Stock / Services
 
-| Offering | Notes |
-|---|---|
-| Marsh ale | 3cp / mug — dark, bitter, better than it sounds |
-| Fermented cider | 5cp / cup — Essa calls it cider; jury is still out |
-| Salt fish and root porridge | 2cp — reliable; Kin eat it every day |
-| Boiled crab | 6cp — seasonal; when Pip brings it back, it's fresh |
-| Preserved eel | 4cp — always available; an acquired taste |
-| Floor space | 1sp / night — communal, warm, safe |
-| Private alcove | 2sp — one booth off the south wall, curtained; for conversations that need to not carry |
+- 3 cp — [[Marsh-Ale|Marsh ale, mug]] — _"Dark and bitter. Better than it sounds. Sit down first."_
+- 5 cp — [[Fermented-Cider|Fermented cider, cup]] — _"I call it cider. Drink it and form your own opinion."_
+- 2 cp — [[Salt-Fish-and-Root-Porridge|Salt fish and root porridge]] — _"You'll eat before we talk about anything else. Everyone does."_
+- 6 cp — [[Boiled-Crab|Boiled crab]] — _"Pip brought it this morning. Eat it now."_
+- 4 cp — [[Preserved-Eel|Preserved eel]] — _"Always in stock. It grows on you."_
+- 1 sp — [[Floor-Lodging|Floor space, communal]] — _"Warm. Safe. You're too thin to be sleeping in the cold."_
+- 2 sp — [[Private-Alcove|Private alcove]] — _"South wall. Curtained. For conversations that need to stay there."_
 
 ## Access & Security
 

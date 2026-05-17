@@ -5,7 +5,7 @@ aliases:
   - Brentino's
 title: Carpenters' Slip
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - shop
@@ -13,6 +13,8 @@ tags:
 ---
 
 # Carpenters' Slip
+
+![[raw/assets/banners/Savia-Brentino.webp|Savia Brentino, shipwright and proprietor of Carpenters' Slip]]
 
 ## Overview
 
@@ -38,16 +40,14 @@ A tight space that functions better than it looks. One covered slip for dry work
 
 ## Stock / Services
 
-| Service | Notes |
-|---|---|
-| Hull inspection | Assessment report included; in-water or slipped |
-| Hull caulking | Priced per running foot of seam |
-| Hull plank repair | Minor to moderate damage; full replank by negotiation |
-| Mast work | Stepping, splicing, and repair for vessels up to two masts |
-| Rudder repair or replacement | Standard sizes in stock |
-| Keel inspection | Shallow water or slipped; report provided |
-| Emergency repair | Priority queue available; costs double; Savia decides what counts as emergency |
-| Timber and fittings | Spare planks, bolts, canvas, rope; sold at chandlery rate |
+- ask — [[Hull-Inspection|Hull inspection]] — _"I'll give you the assessment in writing. In-water or slipped — your call, my recommendation."_
+- ask — [[Hull-Caulking|Hull caulking]] — _"Priced per running foot. Tell me the seam length."_
+- ask — [[Hull-Plank-Repair|Hull plank repair]] — _"Minor to moderate. Full replank we negotiate separately."_
+- ask — [[Mast-Work|Mast work]] — _"Stepping, splicing, repair. Up to two masts."_
+- ask — [[Rudder-Repair|Rudder repair or replacement]] — _"Standard sizes in stock. Tell me the vessel class."_
+- ask — [[Keel-Inspection|Keel inspection]] — _"Shallow water or slipped. Report included. If that transom's carrying too much, you'll want to know before the Strait."_
+- ask — [[Emergency-Repair|Emergency repair]] — _"Priority queue. Double rate. I decide what counts as emergency."_
+- chandlery rate — [[Timber-and-Fittings|Timber and fittings]] — _"Planks, bolts, canvas, rope. Whatever I have. Chandlery rate."_
 
 ## Access & Security
 

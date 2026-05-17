@@ -10,6 +10,8 @@ tags:
 
 # Hector Podge
 
+![[raw/assets/banners/Hector-Podge.webp|Hector Podge behind the bar at the Hook and Ledger, surrounded by ledgers, bottles, and Crown port gossip]]
+
 ## Summary
 
 Heavyset, grey, and possessed of the deeply settled quality of a man who has not moved quickly in fifteen years and sees no reason to start. He runs the Hook & Ledger with the mild authority of someone who has outlasted seven garrison commanders and three harbourmasters and expects to outlast several more.

@@ -5,7 +5,7 @@ aliases:
   - Cabinet of Morsani
 title: The Cabinet of Morsani
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - shop
@@ -13,6 +13,8 @@ tags:
 ---
 
 # The Cabinet of Morsani
+
+![[raw/assets/banners/Prospero-Morsani.webp|Prospero Morsani, gnome curio dealer and proprietor of the Cabinet of Morsani]]
 
 ## Overview
 
@@ -38,9 +40,13 @@ Lanterns on at all hours — outside, inside, several on chains over the canal-f
 
 ## Stock / Services
 
-![[Morsani-Stock.base]]
-
 _Stock turns over irregularly. Morsani does not produce a static catalogue._
+
+- 400 gp — [[Compass-of-the-Drowned|Compass of the Drowned]] — _"The previous owner was a navigator who — well. The compass works."_
+- 250 gp — [[Ringmakers-Regret|Ringmaker's Regret]] — _"Two fifty, or a trade if what you're offering has a sufficiently interesting story. The last owner's name — actually, we won't get to that today."_
+- 90 gp — [[Preserved-Specimen-Unknown|Preserved specimen, unknown origin]] — _"I have documentation of the previous three owners. The first one is the interesting part, and I haven't — the price is ninety."_
+- 80 gp — [[Salt-Lantern|Salt Lantern]] — _"Came through Port Tidefall. The captain who brought it — you know, there's a story there that I keep meaning to finish."_
+- 180 gp — [[The-Uncharted-Coast|The Uncharted Coast]] — _"Two hundred miles of coastline on no published chart. The surveyor's notes are — the price is one eighty."_
 
 ## Access & Security
 

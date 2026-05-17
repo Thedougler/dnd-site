@@ -61,4 +61,4 @@ But the _Vestra_ is gone. Perrin felt the heat before the strike. [[Clydes-Besti
 
 ## Source
 
-- [[2026-04-13-the-leviathan-creature|Source: GM notes — The Leviathan]]
+- GM notes — The Leviathan (2026-04-13)

@@ -27,10 +27,10 @@ The western gatekeeper island at the mouth of the [[Central-Strait|Central Strai
 
 ### [[places/calven/index|Calven]]
 
-The oldest settled island in the northern arc, three days east of Tidefall. Low-lying marshland and tidal flats surround farmland and old orchard rows on the interior plateau. Commercial power here is Tessarine, not Dravosi — the Seven Houses run the money, and the Tessarine Concordat factor house on the Mercatura is a full story taller than everything around it.
+The oldest settled island in the northern arc, three days east of Tidefall. Low-lying marshland and tidal flats surround farmland and old orchard rows on the interior plateau. Commercial power here is Tessarine, not Dravosi — the Seven Houses run the money, and the [[Tessarine-Concordat|Tessarine Concordat]] factor house on the Mercatura is a full story taller than everything around it.
 
 - [[places/calveno/index|Calveno]] — canal city of pale stone, witnessed deals, and a thousand conversations in the open; oldest continuous commercial centre in the Scatter.
-- [[Warren|The Warren]] — rumoured Rattkin settlement beneath Calveno's Le Paludi district; only a member of the Passage could confirm the details.
+- [[Warren|The Warren]] — rumoured Rattkin settlement beneath Calveno's Le Paludi district; only a member of [[Passage|the Passage]] could confirm the details.
 
 ### [[Harwick]]
 
@@ -42,7 +42,7 @@ The quietest island in the northern arc — farms, fishing fleets, and a small h
 
 ### [[Stenmark]]
 
-The easternmost Crown island. From the eastern cliffs, the Drowned Maw's water discolouration is visible on clear days — the blue-green of the Scatter going flat and dark at the horizon. A Crown signal station watches the Maw edge and files monthly reports nobody cross-references as often as they should.
+The easternmost Crown island. From the eastern cliffs, the [[Drowned-Maw|Drowned Maw]]'s water discolouration is visible on clear days — the blue-green of the Scatter going flat and dark at the horizon. A Crown signal station watches the Maw edge and files monthly reports nobody cross-references as often as they should.
 
 ---
 

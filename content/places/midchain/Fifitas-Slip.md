@@ -4,13 +4,15 @@ aliases:
   - Fifita's
 title: Fifita's Slip
 created: 2026-05-15
-modified: 2026-05-15
+modified: 2026-05-17
 tags:
   - building
   - shipyard
 ---
 
 # Fifita's Slip
+
+![[raw/assets/banners/Noa-Fifita.webp|Noa Fifita, proprietor of Fifita's Slip boatyard]]
 
 ## Overview
 
@@ -44,14 +46,11 @@ _Roleplay concept: reef pilot who's seen every kind of trouble + a man who only 
 
 ## Stock / Services
 
-| Service | Notes |
-|---|---|
-| Hull repaint | Full colour change; no stripe, no military finish by default |
-| Registry plate removal | Disposed of on site; no paperwork |
-| Nameboard replacement | Plain boards sold; lettering not included |
-| Pennant disposal | Burned |
-| Hull caulking | Seam repair included in a full repaint job |
-| Passage paper referral | He does not do papers; he knows who does; he does not introduce strangers |
+- ask — [[Hull-Repaint|Hull repaint, full colour change]] — _"No stripe, no military finish by default. Any colour. Price when I've seen the hull."_
+- ask — [[Registry-Plate-Removal|Registry plate removal]] — _"Disposed of on site. No paperwork. The plate goes in the lagoon."_
+- ask — [[Nameboard-Replacement|Nameboard replacement]] — _"Plain boards. Lettering not included."_
+- ask — [[Hull-Caulking|Hull caulking]] — _"Seam repair included in the full repaint job."_
+- ask — [[Passage-Paper-Referral|Passage paper referral]] — _"I know who does papers. I don't introduce strangers."_
 
 ## Access & Security
 

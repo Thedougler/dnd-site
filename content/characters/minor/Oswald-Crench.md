@@ -10,6 +10,8 @@ tags:
 
 # Oswald Crench
 
+![[raw/assets/banners/Oswald-Crench.webp|Oswald Crench behind the counter of the Shelf Instrument Dealer among sextants, chronometers, and spyglasses]]
+
 ## Summary
 
 A dwarf with the permanently squinted expression of someone who has spent decades looking at things through lenses and has concluded that most things do not hold up well under scrutiny. He is not rude. He communicates in silences that are calibrated to a degree that most people find worse than rudeness.

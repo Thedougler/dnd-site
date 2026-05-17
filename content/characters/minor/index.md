@@ -25,6 +25,7 @@ Small supporting characters, scene contacts, companions, and one-off figures.
 - **[[Hector-Podge|Hector Podge]]** — Proprietor of the Hook & Ledger, Port Tidefall's Shelf tavern.
 - **[[Maggie-Porcelain-Pots|Maggie "Porcelain" Pots]]** — Dragonborn potter with history around Delmar Fisk.
 - **[[Nigel-Strutt|Nigel Strutt]]** — Crown chandlery clerk at the Tidefall Chandlery.
+- **[[Cotter-Foss|Cotter Foss]]** — Halfling manager and public face of the _Nimmik Vollask_.
 - **[[Oswald-Crench|Oswald Crench]]** — Dwarf instrument dealer on Port Tidefall's Shelf.
 - **[[Reginald-Fenn|Reginald Fenn]]** — Elven chart clerk at the Port Tidefall Harbourmaster's Office.
 

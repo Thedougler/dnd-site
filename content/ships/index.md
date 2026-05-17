@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Ships
-created: 2026-05-15T23:57:16.145-07:00
+created: 2026-05-17T03:13:26.579-07:00
 modified: 2026-05-02
 tags:
   - player-resource
@@ -62,6 +62,8 @@ Vessels the party sails, has sailed, or should recognize on sight.
 **[[Tessarine-Silkvane|Tessarine Silkvane]]** — Tessarine Concordat dispatch sloop, single-masted, built for speed. Pale grey hull, well-maintained; registry mark in black on the bow.
 
 ---
+
+**[[Nimmik-Vollask]]** — Bright orange, alarmingly boxy Tier 2 cargo brig crewed entirely by gnomes. Pulls alongside, takes your order, serves complimentary coffee and gnomish meatballs, then heaves the bundle. Managed by [[Cotter-Foss|Cotter Foss]].
 
 **[[Brass-Cat|The Brass Cat]]** — Copper-sheathed two-masted schooner with brass-framed glass flush in the deck amidships.
 

@@ -54,6 +54,8 @@ He hates frogs most of all.
 - **[[Sawek]]** — documented personally at [[Kalowe|Kalowe]]; measured a dead specimen pulled from a blue hole by seven divers; found the experience professionally satisfying and personally grim
 - **[[Whip-Shark]]** — documented from hull damage and survivor accounts; has never seen a live specimen; considers this an acceptable outcome
 - **[[Leviathan|Leviathan]]** — Ch. 13, Volume II; the one entry that gave him genuine difficulty, not from contempt but from uncertainty; he finds this more unsettling than the creature itself
+- **[[beastiary/sea-life/Ridgeback|Ridgeback]]** — Ch. 9, Volume II; documented entirely from survivor accounts; the only entry he has concluded with practical advice, which he resents
+- **[[beastiary/sea-life/Krakling|Krakling]]** — Ch. 10, Volume II; documented from Kalowe dock reports and two days of survivor interviews he describes as the low point of the project
 
 ## On Tour
 

@@ -2,7 +2,7 @@
 publish: true
 title: Bisou
 created: 2026-05-02
-modified: 2026-05-16
+modified: 2026-05-18
 tags:
   - beast
   - companion
@@ -46,6 +46,10 @@ Bisou is an extension of Beaumont's tactics, not a passenger. She participates i
 - **The Kalowe Maneuver** — Beaumont tosses her alongside a healing potion to a downed ally; she uncorks and administers it.
 - **The Calveno Maneuver** — She carries an alchemical item to a target point, triggers it, and clears the blast radius.
 - **The Tidefall Maneuver** — Beaumont tosses her toward a target; she uses 20 ft. of movement to locate and soak any exposed black powder, using available water or her own means if none is at hand. The goal is to render powder weapons inoperable before the next shot.
+
+## Session 02
+
+During the morning after the Surety was taken, Bisou systematically removed 15 gp of shinies from the Surety's inventory before [[Beaumont-Sel|Beaumont]] called her back. She showed no remorse. [[Beaumont-Sel|Beaumont]] treated it as fair business. The party did not dispute it.
 
 ## Relationships
 

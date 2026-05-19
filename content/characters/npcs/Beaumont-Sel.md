@@ -5,7 +5,7 @@ aliases:
   - Captain Sel
 title: Beaumont Sel
 created: 2026-05-02
-modified: 2026-05-16
+modified: 2026-05-18
 tags:
   - captain
   - tortle
@@ -57,6 +57,14 @@ When [[Barnaby-Rook|Barnaby Rook]] hauled himself back aboard the Saltwright at 
 His words to Barnaby Rook: _"Boy, I shit out harder things than you every mornin'."_
 
 He does not appear to find this remarkable.
+
+## Session 02
+
+After the Surety was taken, Beaumont thanked the party — real thanks — and settled accounts on deck. He gave [[Perrin-Black-Jaw|Perrin]] a standing offer as Friend of the [[Passage]]. He slid a [[Truth-Stone|Truth Stone]] to [[Jean-Claude-Tabarnack|Jean-Claude]] without comment, heard Jean-Claude's honest account of his history, and did not ask about [[Simone-Tabarnack|Simone]]. He warned that weather toward [[shattered-sea/places/calveno/Calveno|Calveno]] looked uncertain. He mentioned he could be found in [[shattered-sea/places/midchain/Kalowe|Kalowe]] when off route.
+
+[[Bisou]] had spent the morning taking 15 gp of shinies off the Surety. Beaumont treated it as fair business.
+
+The [[shattered-sea/ships/Saltwright|Saltwright]] pulled away. Beaumont is alive, off route, and on good terms with the party.
 
 ## Wants
 

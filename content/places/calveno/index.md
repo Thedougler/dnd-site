@@ -36,6 +36,7 @@ See [[Calveno]] for city overview.
 ### Hidden & Notable
 
 - [[Warren|The Warren]] — Rattkin settlement beneath the Saltmarsh district, in old drainage channels and hidden holds; the deepest anchor of the Passage.
+- [[La-Vasca|La Vasca]] — Black-Jaw private dry dock deep in Le Paludi; officially a derelict tanning facility. _(DM only)_
 
 ## NPCs
 

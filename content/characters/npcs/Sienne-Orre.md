@@ -63,4 +63,4 @@ The green mermaid sign or figurehead is her environmental trigger. It points bac
 ## Related Pages
 
 - [[ships/Fernen|Fernen]]
-- [[situations/Red-Lady|Red Lady]]
+- [[situations/reference/Red-Lady|Red Lady]]

@@ -56,5 +56,5 @@ She sold them something disposable — cheap enough to pass Crown intake as "amp
 
 ## Related Pages
 
-- [[situations/Jean-Claudes-Desertion|Jean-Claude's Desertion]]
-- [[situations/Pell|Pell]]
+- [[situations/active/Jean-Claudes-Desertion|Jean-Claude's Desertion]]
+- [[situations/active/Jean-Claudes-Desertion|Pell]]

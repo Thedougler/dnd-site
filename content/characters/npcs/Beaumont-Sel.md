@@ -98,5 +98,5 @@ Beaumont knows the Midchain route, the Saltwright's crew and cargo, local port h
 
 ## Related Pages
 
-- [[situations/Saltwright|Saltwright]]
+- [[situations/reference/Saltwright|Saltwright]]
 - [[Bisou|Bisou]]

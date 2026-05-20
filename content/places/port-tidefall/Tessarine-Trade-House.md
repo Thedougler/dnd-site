@@ -52,4 +52,4 @@ Public access is appointment-based. The appointment book slides across the count
 
 - [[Port-Tidefall|Port Tidefall]]
 - [[Tessarine-Concordat|Tessarine Concordat]]
-- [[situations/Tessarine-Trade-House|Tessarine Trade House — DM Notes]]
+- [[situations/active/Port-Tidefall|Tessarine Trade House — DM Notes]]

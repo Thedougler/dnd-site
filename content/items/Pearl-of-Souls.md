@@ -9,7 +9,7 @@ tags:
   - souls
 ---
 
-# [[situations/Pearl-of-Souls-Item|Pearl of Souls]]
+# [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]]
 
 ![[raw/assets/banners/Pearl-of-Souls.webp|Glowing black Pearl of Souls resting in a drowned shipwreck as ghostly blue light streams through the water]]
 A pearl the size of a closed fist. Black as deep water, with an iridescent sheen that shifts under the light in a way that never quite resolves. It is never entirely still. Anyone with a sensitivity to the dead will feel it before they see it.

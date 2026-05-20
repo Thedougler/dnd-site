@@ -61,7 +61,7 @@ She goes where people tell her not to go. The places with the richest pickings a
 - [[Norrington-Kingsly|Norrington Kingsley]]
 - [[Halythion]]
 - [[Umberlee]]
-- [[situations/Maren|Maren — DM Notes]]
+- [[situations/active/Maren|Maren — DM Notes]]
 
 ## Pressure Points
 
@@ -71,4 +71,4 @@ She goes where people tell her not to go. The places with the richest pickings a
 ## Related Pages
 
 - [[ships/Narrow|Narrow]]
-- [[situations/Maren|Maren]]
+- [[situations/active/Maren|Maren]]

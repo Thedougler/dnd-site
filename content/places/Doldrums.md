@@ -97,4 +97,4 @@ The Doldrums' hazards are windless water, sound carrying too clearly, jellyfish 
 - [[Shattered-Sea|The Shattered Sea]]
 - [[Central-Strait|The Central Strait]]
 - [[Midchain|The Midchain]]
-- [[situations/Doldrums|The Doldrums — DM Notes]]
+- [[situations/active/Doldrums|The Doldrums — DM Notes]]

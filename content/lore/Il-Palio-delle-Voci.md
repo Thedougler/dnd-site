@@ -76,6 +76,6 @@ Past winners are commemorated on a plaque at the Mercatura committee offices. Th
 ## See Also
 
 - [[Calveno]]
-- [[situations/Il-Palio-delle-Voci|Il Palio delle Voci — DM Notes]]
+- [[situations/islands/Il-Palio-delle-Voci|Il Palio delle Voci — DM Notes]]
 - [[Ponte-Bassa|The Ponte Bassa]]
 - [[Prospero-Morsani|Prospero Morsani]]

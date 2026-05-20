@@ -167,5 +167,5 @@ The [[beastiary/sea-life/Sawek|Sawek]] is the Strait's rumoured apex — a blue-
 - [[Tail|The Tail]] — eastern terminus where the Strait narrows toward the Maw
 - [[Drowned-Maw|The Drowned Maw]] — visible influence in the Narrows; compass drift begins near the eastern Strait
 - [[Dravosi-Crown|The Dravosi Crown]] — nominal authority over the Strait; patrols, inspections, convoys
-- [[situations/Central-Strait|Central Strait — DM Notes]]
+- [[situations/active/Central-Strait|Central Strait — DM Notes]]
 - [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics

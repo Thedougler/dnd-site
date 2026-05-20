@@ -65,4 +65,4 @@ Prize money is drawn from the betting pool. A straight win against a standard ma
 - [[Kalowe]]
 - [[Grimaldis-Dispensary|Grimaldi's Dispensary]]
 - [[The-Flat-Water|The Flat Water]]
-- [[situations/Mud-Pits|The Mud Pits — DM Notes]]
+- [[situations/islands/Mud-Pits|The Mud Pits — DM Notes]]

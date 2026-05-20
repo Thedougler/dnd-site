@@ -102,4 +102,4 @@ The Teeth's dangers are social, toxic, and ecological at once: forbidden interio
 - [[Karath]]
 - [[Dreth]]
 - [[Orak]]
-- [[situations/Verdant-Teeth|Verdant Teeth — DM Notes]]
+- [[situations/active/Jean-Claudes-Desertion|Verdant Teeth — DM Notes]]

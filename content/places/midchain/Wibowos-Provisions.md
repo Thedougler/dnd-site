@@ -81,7 +81,7 @@ Wide loading door faces the harbour lane; always open during trading hours. A si
 ## Current Hooks
 
 - Wibowo is short on salt pork; his usual supplier from Dreth did not arrive last week and has sent no word. He is filling orders from the current stock but will run out within five days if a full provisioning comes in.
-- **Ghost Ship** — A salt merchant coming through for provisions yesterday mentioned a two-masted schooner drifting 4 miles north — green stripe, ochre hull, hatch open, no lights, no crew on deck, two nights running. Wibowo mentions it without drama while weighing an order: _"First boarding party claims salvage under free-port custom. Harbour bosses take their ten percent."_ He does not know what's aboard. _(→ [[situations/Kalowe-Drifting-Hulk|The Drifting Hulk]])_
+- **Ghost Ship** — A salt merchant coming through for provisions yesterday mentioned a two-masted schooner drifting 4 miles north — green stripe, ochre hull, hatch open, no lights, no crew on deck, two nights running. Wibowo mentions it without drama while weighing an order: _"First boarding party claims salvage under free-port custom. Harbour bosses take their ten percent."_ He does not know what's aboard. _(→ [[situations/islands/Kalowe-Drifting-Hulk|The Drifting Hulk]])_
 
 ## See Also
 

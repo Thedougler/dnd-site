@@ -95,4 +95,4 @@ Outer Reach hazards include no resupply, thin charts, Maw crossing fatigue, dama
 - [[Sunken-Crown|The Sunken Crown]]
 - [[Tail|The Tail]]
 - [[Shattered-Sea|The Shattered Sea]]
-- [[situations/Outer-Reach|The Outer Reach — DM Notes]]
+- [[situations/active/Outer-Reach|The Outer Reach — DM Notes]]

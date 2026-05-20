@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Ships
-created: 2026-05-17T03:13:26.579-07:00
+created: 2026-05-19T23:01:06.039-07:00
 modified: 2026-05-02
 tags:
   - player-resource
@@ -77,4 +77,4 @@ Vessels the party sails, has sailed, or should recognize on sight.
 
 ---
 
-For ship rules and mechanics, see [[Ship-Stats|Ship Stats]] · [[Ship-Bastion|Ship Bastion]] · [[ships/upgrades/index|Upgrades]] · [[ships-cheat-sheet|Ships & Bastion Quick Reference]] · [[index|The Shattered Sea]].
+For ship rules and mechanics, see [[Ship-Stats|Ship Stats]] · [[Ship-Bastion|Ship Bastion]] · [[ships/upgrades/index|Upgrades]] · [[ships-cheat-sheet|Ships & Bastion Quick Reference]] · [[HCS-Surety-Owners-Manual|HCS Surety Owner's Manual]] · [[index|The Shattered Sea]].

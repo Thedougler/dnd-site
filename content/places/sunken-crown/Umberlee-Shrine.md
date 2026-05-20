@@ -54,7 +54,7 @@ The [[Waveservants|Waveservants]] control the shrine and its records. Their auth
 
 **Ledger Chamber** — Holds names, tokens, coins, fish bones, carved shells, and preserved ship or sailor fragments as witness.
 
-**Deepest Chamber** — DM-only: formerly held the [[situations/Pearl-of-Souls-Item|Pearl of Souls]] over a tidal pool built to its requirements.
+**Deepest Chamber** — DM-only: formerly held the [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]] over a tidal pool built to its requirements.
 
 ## Flora
 

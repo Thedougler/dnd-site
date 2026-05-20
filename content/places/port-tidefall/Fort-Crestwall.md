@@ -51,4 +51,4 @@ The garrison has been running heavy for several weeks. The courtyard past the ga
 
 - [[Port-Tidefall|Port Tidefall]]
 - [[Calders-Tooth-Overview|Calder's Tooth]]
-- [[situations/Fort-Crestwall|Fort Crestwall — DM Notes]]
+- [[situations/active/Fort-Crestwall|Fort Crestwall — DM Notes]]

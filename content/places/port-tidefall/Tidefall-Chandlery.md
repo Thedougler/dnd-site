@@ -63,4 +63,4 @@ The shop is open to ship crews and port customers. The magic items are kept in a
 
 - [[Port-Tidefall|Port Tidefall]]
 - [[Shelf-Instrument-Dealer|Shelf Instrument Dealer]]
-- [[situations/Tidefall-Chandlery|Tidefall Chandlery — DM Notes]]
+- [[situations/active/Port-Tidefall|Tidefall Chandlery — DM Notes]]

@@ -41,4 +41,4 @@ Lost simultaneously with the rest of Fisk's Fleet when Umberlee opened the [[Dro
 - [[ships/index]]
 - [[Umberlee]]
 - [[Shattered-Sea]]
-- [[situations/Narrow|Narrow — DM Notes]]
+- [[situations/reference/Narrow|Narrow — DM Notes]]

@@ -68,4 +68,4 @@ The pier is a required processing point for arriving vessels. At low tide, the u
 - [[Port-Tidefall|Port Tidefall]]
 - [[Harbourmasters-Office|Harbourmaster's Office]]
 - [[South-Harbour-Impound|South Harbour Impound]]
-- [[situations/Inspection-Pier|Inspection Pier — DM Notes]]
+- [[situations/active/Port-Tidefall|Inspection Pier — DM Notes]]

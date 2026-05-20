@@ -75,7 +75,7 @@ The Accord list is available from the committee on request. It includes merchant
 ## See Also
 
 - [[Calveno]]
-- [[situations/Il-Gioco-delle-Beffe|Il Gioco delle Beffe — DM Notes]]
+- [[situations/islands/Il-Gioco-delle-Beffe|Il Gioco delle Beffe — DM Notes]]
 - [[Iacopo-Fieschi|Iacopo Fieschi]] — has signed the Accord; Tessarine implications
 - [[Giacomo-Moretti|Giacomo Moretti]] — twenty-year unblemished record; the committee's white whale
 - [[Cabinet-of-Morsani|The Cabinet of Morsani]] — Prospero Morsani is a former medallion holder; will not confirm it

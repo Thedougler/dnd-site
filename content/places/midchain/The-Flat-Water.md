@@ -75,8 +75,8 @@ Front entrance off the causeway alley. Terrace entrance from the lagoon-side pat
 
 - Three members of the _Takowan_'s shore party ate here this morning and asked Reweti which pilots work the reef gap at night. She gave them two names she knows to be retired.
 - The captain's room is occupied — someone paid three nights in advance, cash, no name given, has not been seen leaving.
-- **Wreck Job** — Davu Kamu, ex-first mate, has been drinking at the second table for a week and a half. He survived when the _Cormorant_ sank three months ago on the reef shelf southwest of the gap; her strongbox went down with her. He needs divers and is offering 30% of 600gp. He has the key. He hasn't mentioned what moved into the wreck since then. _(→ [[situations/Kalowe-Merrows-Prize|The Merrow's Prize]])_
-- **Cache Race** — A young fisherman named Damu has been at the corner table for three days working up to something. Reweti will catch a capable-looking party's eye and nod toward him. He knows where the Bad Receipt stashed nine crates on a reef rock two seasons ago — and the Bad Receipt just anchored in the primary berth. He wants 50gp and no involvement in what happens next. _(→ [[situations/Kalowe-Bad-Receipt-Cache|The Bad Receipt's Cache]])_
+- **Wreck Job** — Davu Kamu, ex-first mate, has been drinking at the second table for a week and a half. He survived when the _Cormorant_ sank three months ago on the reef shelf southwest of the gap; her strongbox went down with her. He needs divers and is offering 30% of 600gp. He has the key. He hasn't mentioned what moved into the wreck since then. _(→ [[situations/islands/Kalowe-Merrows-Prize|The Merrow's Prize]])_
+- **Cache Race** — A young fisherman named Damu has been at the corner table for three days working up to something. Reweti will catch a capable-looking party's eye and nod toward him. He knows where the Bad Receipt stashed nine crates on a reef rock two seasons ago — and the Bad Receipt just anchored in the primary berth. He wants 50gp and no involvement in what happens next. _(→ [[situations/islands/Kalowe-Bad-Receipt-Cache|The Bad Receipt's Cache]])_
 
 ## See Also
 

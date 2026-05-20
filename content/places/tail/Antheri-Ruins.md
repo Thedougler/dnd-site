@@ -118,7 +118,7 @@ The Antheri Ruins' hazards are depth, thermocline transition, compass drift, col
 
 - Crews that worked the eighty-foot tier last season without incident are not taking return contracts this season.
 - Salvage damage is concentrated on flow and pressure-regulation structures, which are not decorative ruins at all. ^\[inferred]
-- The [[situations/Pearl-of-Souls-Item|Pearl of Souls]] acts as a planar beacon at the Maw floor and is pulling danger upward through the lower tiers.
+- The [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]] acts as a planar beacon at the Maw floor and is pulling danger upward through the lower tiers.
 
 ## See Also
 

@@ -58,4 +58,4 @@ The stall is open during market hours in the Dockfront market. Its main barrier 
 ## See Also
 
 - [[Port-Tidefall|Port Tidefall]]
-- [[situations/Fare-Ia|Fare I'a — DM Notes]]
+- [[situations/active/Jean-Claudes-Desertion|Fare I'a — DM Notes]]

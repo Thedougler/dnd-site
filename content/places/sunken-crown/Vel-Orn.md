@@ -80,7 +80,7 @@ Sharp black stone, surge timing, no freshwater, storm-displaced giant bats, rave
 
 ## Current Hooks
 
-- The [[situations/Pearl-of-Souls-Item|Pearl of Souls]] was stolen from this shrine.
+- The [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]] was stolen from this shrine.
 - Without the Pearl, Keth-Naar loses its clearest place to petition Umberlee for terms.
 
 ## See Also

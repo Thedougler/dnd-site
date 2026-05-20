@@ -62,4 +62,4 @@ What surfaced, once: he had a horse before the sea. White, almost completely —
 ## Related Pages
 
 - [[ships/Heft|Heft]]
-- [[situations/Red-Lady|Red Lady]]
+- [[situations/reference/Red-Lady|Red Lady]]

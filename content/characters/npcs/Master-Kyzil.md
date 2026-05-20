@@ -62,5 +62,5 @@ He came to Port-Tidefall to hear her account of what she saw at the Maw. He has 
 
 ## Related Pages
 
-- [[situations/Crisdalynns-Pilgrimage|Crisdalynn's Pilgrimage]]
+- [[situations/active/Crisdalynns-Pilgrimage|Crisdalynn's Pilgrimage]]
 - [[places/crown-islands/High-Eyrie|High Eyrie]]

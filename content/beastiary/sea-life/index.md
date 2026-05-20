@@ -15,7 +15,7 @@ tags:
 Creatures of the open water, reef, and deep.
 
 - [[beastiary/sea-life/Leviathan|The Leviathan]] - Rumoured titanic black eel that boils the sea around it; sightings limited to the [[Drowned-Maw|Drowned Maw]]
-- [[beastiary/sea-life/Ridgeback|Ridgeback (The Roller)]] - Elemental serpent from the Plane of Water; second entity through the [[Maw-Fissure|Maw fissure]]; identified by rolling hump movement and tribute-demanding behaviour
+- [[beastiary/sea-life/Ridgeback|Ridgeback (The Roller)]] - Elemental serpent from the Plane of Water; second entity through the [[situations/active/Pearl-of-Souls|Maw fissure]]; identified by rolling hump movement and tribute-demanding behaviour
 - [[Sawek|Sawek (Blue Devil)]] - Ambush predator of blue holes in the [[Central-Strait|Central Strait]] and [[places/midchain/index|Midchain]]
 - [[beastiary/sea-life/Whip-Shark|Whip Shark (Welak)]] - Open-ocean hunter big enough to sink small ships, found in the [[Drowned-Maw|Drowned Maw]] and deep open water
 - [[beastiary/sea-life/Krakling|Krakling (Young Kraken)]] - Eyeless, eight-armed black predator; recent reports of arm-attacks on ships in the outer [[places/midchain/index|Midchain]]; possible juvenile form of the Kraken

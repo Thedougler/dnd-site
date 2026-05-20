@@ -64,7 +64,7 @@ Bastian knows the _Loud Argument_, the fleet's bombardment role, and the surface
 - [[Maren]]
 - [[Detto-Kalash]]
 - [[Sienne-Orre]]
-- [[situations/Pearl-of-Souls-Item|Pearl of Souls]]
+- [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]]
 
 ## Hooks
 
@@ -74,5 +74,5 @@ Bastian knows the _Loud Argument_, the fleet's bombardment role, and the surface
 ## Related Pages
 
 - [[ships/Loud-Argument|Loud Argument]]
-- [[situations/Red-Lady|Red Lady]]
-- [[situations/Pearl-of-Souls|Pearl of Souls]]
+- [[situations/reference/Red-Lady|Red Lady]]
+- [[situations/active/Pearl-of-Souls|Pearl of Souls]]

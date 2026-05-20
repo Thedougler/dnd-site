@@ -117,4 +117,4 @@ The Ashwalls' hazards are storm-edge approaches, hard landings, giant bats in wa
 - [[Shattered-Sea|The Shattered Sea]]
 - [[Verdant-Scatter|The Verdant Scatter]]
 - [[lore/legends/The-Galewall-Runners-Drop|The Galewall Runner's Drop]] — pirate legend of the crew that sailed the storm as a route
-- [[situations/Ashwall-Islands|Ashwall Islands — DM Notes]]
+- [[situations/background/Ashwall-Islands|Ashwall Islands — DM Notes]]

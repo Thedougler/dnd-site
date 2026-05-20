@@ -116,7 +116,7 @@ The lower Shelfworks dive tier is currently abandoned — no crews will work bel
 ## Current Hooks
 
 - "Vestra water" is now a public sailor phrase for the bad stretch where [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] lost the _Vestra_ and survived alone. ^\[ambiguous]
-- The [[Shelfworks|Shelfworks]] gold rush is pulling safety architecture off a deeper Antheri containment system, and the [[situations/Pearl-of-Souls-Item|Pearl of Souls]] signal is making the Maw more dangerous.
+- The [[Shelfworks|Shelfworks]] gold rush is pulling safety architecture off a deeper Antheri containment system, and the [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]] signal is making the Maw more dangerous.
 
 ## See Also
 

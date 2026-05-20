@@ -92,7 +92,7 @@ The reef gap is not as calm as the lagoon it opens into. [[hunter-shark|Hunter s
 - [[Chain-Council|The Chain Council]]
 - [[Verdant-Teeth|The Verdant Teeth]]
 - [[Central-Strait|The Central Strait]]
-- [[situations/Kalowe|Kalowe — DM Notes]]
+- [[situations/active/Kalowe|Kalowe — DM Notes]]
 - [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics
 
 ## Source

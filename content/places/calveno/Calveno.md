@@ -29,7 +29,7 @@ _Three days from Tidefall on good wind. A week on bad._
 | Field           | Detail                                                                                                               |
 | --------------- | -------------------------------------------------------------------------------------------------------------------- |
 | Type            | Canal city and commercial centre                                                                                     |
-| Location        | Calven island in the [[Crown-Islands]], northern [[situations/Central-Strait\|Central-Strait]] |
+| Location        | Calven island in the [[Crown-Islands]], northern [[situations/active/Central-Strait\|Central-Strait]] |
 | Controlled By   | Seven merchant families; [[Tessarine-Concordat]] debt leverage                                                       |
 | Public Access   | Open by canal traffic; true privacy is expensive and brokered                                                        |
 | Primary Economy | Witnessed trade, finance, shipping, shipyard work, brokerage, and information                                        |
@@ -93,4 +93,4 @@ There are no docks in the usual sense. Flat-bottomed boats move through channels
 - [[places/calveno/index]]
 - [[lore/Demographics|Peoples of the Shattered Sea]] — regional demographics
 - [[places/calven/index]]
-- [[situations/Calveno|Calveno — DM Notes]]
+- [[situations/active/Calveno|Calveno — DM Notes]]

@@ -94,4 +94,4 @@ The company was founded by the current gnomish staff collectively, under circums
 ## Connections
 
 - [[Cotter-Foss]] — manager and public face
-- [[situations/Central-Strait|Central Strait]] — primary operating circuit
+- [[situations/active/Central-Strait|Central Strait]] — primary operating circuit

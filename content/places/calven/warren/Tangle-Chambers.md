@@ -67,4 +67,4 @@ Even Kin guests with long-standing Warren access do not enter the Tangle Chamber
 - [[Passage|The Passage]]
 - [[Rattkin|Rattkin]]
 - [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]]
-- [[situations/Warren|The Warren — DM Notes]]
+- [[situations/active/Warren|The Warren — DM Notes]]

@@ -66,7 +66,7 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 - [[Sorn]]
 - [[Algernon-Reginald-Clyde]]
 - [[Midchain]]
-- [[situations/Pell|Pell — DM Notes]]
+- [[situations/active/Jean-Claudes-Desertion|Pell — DM Notes]]
 
 ## Pressure Points
 
@@ -75,5 +75,5 @@ Jean-Claude carries the count. Thirty-one days. He carries the timeline. He carr
 
 ## Related Pages
 
-- [[situations/Pell|Pell]]
-- [[situations/Jean-Claudes-Desertion|Jean-Claude's Desertion]]
+- [[situations/active/Jean-Claudes-Desertion|Pell]]
+- [[situations/active/Jean-Claudes-Desertion|Jean-Claude's Desertion]]

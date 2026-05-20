@@ -80,7 +80,7 @@ Access is not obtained by asking. A person may be shown a door and still know al
 - [[places/calven/warren/Marrows|Marrow's]]
 - [[places/calven/warren/The-Splint|The Splint]]
 - [[places/calven/warren/Tangle-Chambers|The Tangle Chambers]]
-- [[situations/Warren|The Warren — DM Notes]]
+- [[situations/active/Warren|The Warren — DM Notes]]
 
 ## Source
 

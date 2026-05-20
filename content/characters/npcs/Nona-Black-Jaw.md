@@ -75,5 +75,5 @@ Put out a circuit-wide Passage inquiry for a confirmed sighting of Perrin. Got b
 
 ## Related Pages
 
-- [[situations/What-Sunk-The-Vestra|What Sunk The Vestra]]
+- [[situations/questions/What-Sunk-The-Vestra|What Sunk The Vestra]]
 - [[factions/Passage|The Passage]]

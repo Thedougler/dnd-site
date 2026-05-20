@@ -52,4 +52,4 @@ The guards know every face on the Shelf. They are not decorative.
 
 - [[Port-Tidefall|Port Tidefall]]
 - [[Fort-Crestwall|Fort Crestwall]]
-- [[situations/Governors-Seat|Governor's Seat — DM Notes]]
+- [[situations/active/Governors-Seat|Governor's Seat — DM Notes]]

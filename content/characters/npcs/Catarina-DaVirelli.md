@@ -83,7 +83,7 @@ She does not pay cash for Antheri metalwork. She trades. If you have a piece and
 
 ## Related Pages
 
-- [[situations/Catarina-DaVirelli|Catarina Da'Virelli]]
+- [[situations/active/Catarina-DaVirelli|Catarina Da'Virelli]]
 - [[places/calveno/Cats-Curios|Cat's Curios]]
 - [[items/The-Snap|The Snap]] — prototype Antheri-fabric buckler built for a small-framed client, achievement TBD
 - [[Beaumont-Sel]]

@@ -51,4 +51,4 @@ Fitted for a small independent crew — not cargo hauling or line fighting, just
 - [[ships/index]]
 - [[Midchain]]
 - [[Shattered-Sea]]
-- [[situations/Vestra|Vestra — DM Notes]]
+- [[situations/reference/Vestra|Vestra — DM Notes]]

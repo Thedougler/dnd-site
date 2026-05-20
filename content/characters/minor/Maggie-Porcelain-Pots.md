@@ -48,4 +48,4 @@ She is currently expanding the operation and scouting locations on other islands
 - [[Serafina-Windfall-Fisk]]
 - [[Vrtek]]
 - [[Elder-Anton]]
-- [[situations/Maggie-Porcelain-Pots|DM Notes — Maggie]] — re-entry hooks and what she doesn't know
+- [[situations/active/Port-Tidefall|DM Notes — Maggie]] — re-entry hooks and what she doesn't know

@@ -67,7 +67,7 @@ He plays the shawm. He has never done so where anyone could hear him.
 - [[Red-Lady]]
 - [[Fisks-Fleet]]
 - [[Drowned-Maw]]
-- [[situations/Pearl-of-Souls-Item|Pearl of Souls]]
+- [[situations/reference/Pearl-of-Souls-Item|Pearl of Souls]]
 - [[Father]]
 - [[Umberlee]]
 
@@ -79,4 +79,4 @@ He plays the shawm. He has never done so where anyone could hear him.
 ## Related Pages
 
 - [[ships/Red-Lady|Red Lady]]
-- [[situations/Rael-Corven|Rael Corven]]
+- [[situations/active/Rael-Corven|Rael Corven]]

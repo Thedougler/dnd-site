@@ -112,4 +112,4 @@ The Galewall's hazards are storm systems, one-in-three crossing losses, lateral 
 - [[Shattered-Sea|The Shattered Sea]]
 - [[Crown-Islands]] — The Crown Islands
 - [[lore/legends/The-Galewall-Runners-Drop|The Galewall Runner's Drop]] — the legend of the crew that sailed the storm as a route
-- [[situations/Galewall|The Galewall — DM Notes]]
+- [[situations/active/Galewall|The Galewall — DM Notes]]

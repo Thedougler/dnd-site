@@ -54,4 +54,4 @@ The shrine is open to mariners and supplicants, but the obligation to pay before
 - [[Branca]] — senior Waveservant who may be assigned here
 - [[places/calveno/Waveservant-Shrine|Waveservant Shrine — Calveno]]
 - [[Kalowe-Waveservant-Shrine|Waveservant Shrine — Kalowe]]
-- [[situations/Waveservant-Shrine|Waveservant Shrine — DM Notes]]
+- [[situations/active/Port-Tidefall|Waveservant Shrine — DM Notes]]

@@ -88,7 +88,7 @@ Front entrance from the dry-dock road. The curtain to the back is always partly 
 ## Current Hooks
 
 - The _Takowan_'s boatswain placed a custom order two days ago — deck-bolt pattern specific to an enforcement-class cutter. Ormsson filled it without comment and noted it in no ledger.
-- **Sawek Bounty** — The cracked keel plank propped against the outside wall came off a fishing boat the Sawek hit five days ago. Kettil is repairing it as a favour. He'll mention it if the party asks about local trouble: the harbour bosses are offering 300gp for the ridge-plate, the inter-island channel is closed at night, and one fisherman is dead. He doesn't editorialize. The bounty is real and the money is immediate. _(→ [[situations/Kalowe-Sawek-Bounty|The Sawek Bounty]])_
+- **Sawek Bounty** — The cracked keel plank propped against the outside wall came off a fishing boat the Sawek hit five days ago. Kettil is repairing it as a favour. He'll mention it if the party asks about local trouble: the harbour bosses are offering 300gp for the ridge-plate, the inter-island channel is closed at night, and one fisherman is dead. He doesn't editorialize. The bounty is real and the money is immediate. _(→ [[situations/islands/Kalowe-Sawek-Bounty|The Sawek Bounty]])_
 
 ## See Also
 

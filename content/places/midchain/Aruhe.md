@@ -84,4 +84,4 @@ Acid-tainted drainage, giant frogs, giant venomous snakes, giant scorpions, gian
 - [[Verdant-Teeth|Verdant Teeth]]
 - [[Midchain|The Midchain]]
 - [[Sorn]] — Sorn
-- [[situations/Aruhe|Aruhe — DM Notes]]
+- [[situations/active/Aruhe|Aruhe — DM Notes]]

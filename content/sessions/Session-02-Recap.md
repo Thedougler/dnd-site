@@ -11,73 +11,65 @@ tags:
 
 ---
 
-[[shattered-sea/characters/npcs/Barnaby-Rook|Barnaby Rook]] had been in the water once. The [[Flask-of-Endless-Water|Flask of Endless Water]] hadn't been enough. He hauled himself back over the rail of the [[HCS-Surety|HCS Surety]], cold and furious, every one of his crew dead or defected. The ship's bell rang. Gun ports ground open.
+[[shattered-sea/characters/npcs/Barnaby-Rook|Barnaby Rook]] had been in the water once. The [[Flask-of-Endless-Water|Flask of Endless Water]] hadn't been enough. He hauled himself back over the rail, cold and furious, crew dead or defected. The ship's bell rang. Gun ports ground open.
 
 ![[raw/assets/session-art/session-02-01-rook-final.webp|Barnaby Rook knocked from the HCS Surety rigging into dark water]]
 
-[[Crissdalynn-Khinriss|Crisdalynn]] had his number — the wind she'd been holding bent Rook toward the rail, then away, controlling the geometry of the deck more effectively than any blade. He fired his [[Flintlock-Pistol|flintlock]] at her from close range. She caught most of it on her bracers and kept her feet.
+[[Crissdalynn-Khinriss|Crisdalynn]]'s wind bent him toward the rail, then away. He fired his [[Flintlock-Pistol|flintlock]] at close range. She caught it on her bracers.
 
-[[Beaumont-Sel|Beaumont]] answered the cannon problem in his own way. He threw [[Bisou]] through an open gun port. She soaked the nearest cannon's powder with what she had available, which is to say she pissed in the powder. [[Delmar-Fisk|Delmar]] fired through the second port and hit [[Ensign-Wouters|Ensign Wouters]] in the dark below, fatally. The gunnery crew did not fire.
+[[Beaumont-Sel|Beaumont]] solved the cannon problem by throwing [[Bisou]] through a gun port. She pissed in the powder. [[Delmar-Fisk|Delmar]] fired through the second port and hit [[Ensign-Wouters|Ensign Wouters]] in the dark below. The guns stayed quiet.
 
-Rook climbed back along the rigging. Delmar picked up a chair, called for the wind, and put his back into the throw. The chair caught Rook on the hull as he climbed, cracked against him, and he went into the water a second time. The water was dark, chummed from the fighting, and something long and eel-like moved through it.
+Rook went back up the rigging. Delmar picked up a chair, called for the wind, threw it. Rook went into the water a second time. Something long and eel-like moved through it.
 
-[[Crissdalynn-Khinriss|Crisdalynn]] fished Rook's admiral hat out with a boat hook. Jean-Claude got it. [[Beaumont-Sel|Beaumont]] said it belonged to the captain.
+[[Crissdalynn-Khinriss|Crisdalynn]] fished out his admiral hat with a boat hook. [[Beaumont-Sel|Beaumont]] said it belonged to the captain.
 
 ![[raw/assets/session-art/session-02-02-beaumont-reckoning.webp|Beaumont Sel settles accounts with the party on the captured HCS Surety]]
 
-Beaumont thanked the party. Real thanks. Then he settled accounts.
+Beaumont settled accounts.
 
-He turned to [[Perrin-Black-Jaw|Perrin]] first: declared himself a Friend of the [[Passage]], any Kin in need could ask. Then, almost as an aside, he mentioned that [[Nona-Black-Jaw|Nona Black-Jaw]] was looking for her lost grandson, and that she believed [[Anzolo]] had already been sent. Something shifted in Perrin's face. He kept it brief.
+To [[Perrin-Black-Jaw|Perrin]]: a Friend of the [[Passage]], any Kin in need could ask. Quietly: [[Nona-Black-Jaw|Nona Black-Jaw]] was looking for her lost grandson, and believed [[Anzolo]] had already been sent.
 
-[[Jean-Claude-Tabarnack|Jean-Claude]] was next. Beaumont slid a [[Truth-Stone|Truth Stone]] across the decking. He knew the blue caste and what it usually signalled. Jean-Claude took the stone and told the truth: former kinsmen had hunted him, he stowed away to survive, he was not there on anyone's behalf. The stone offered no resistance. Beaumont did not ask about [[Simone-Tabarnack|Simone]]. Jean-Claude did not mention her.
+Beaumont slid a [[Truth-Stone|Truth Stone]] across the decking to [[Jean-Claude-Tabarnack|Jean-Claude]]. He told the truth: former kinsmen had hunted him, he stowed away to survive, nobody sent him.
 
-[[Geoffrey-Draves|Geoffrey]] led them below, mentioning the cook's food ahead of everything else.
+[[Geoffrey-Draves|Geoffrey]] led them below, leading with the cook.
 
 ![[raw/assets/session-art/session-02-03-grigori-galley.webp|Shepherd Grigori hosts the party in the HCS Surety galley]]
 
-The galley smelled wrong for a ship. Good wrong. Bread, herbs, something slow on a low heat. The table was already set.
-
-[[shattered-sea/characters/npcs/Shepherd-Grigori|Shepherd Grigori]] waited at the head of it: dark wild hair, a [[Tessarine-Concordat|Tessarine]] shirt worn with complete commitment, a [[Dravosi-Crown|Dravosi]] naval coat rolled to the sleeves. Warm. Unhurried. He asked what kind of pirates they were. The answer came out in pieces: no trafficking, no cannibalism, something in the neighbourhood of Robin Hood. Grigori considered this. It appeared to meet his threshold.
-
-Then he told them about [[Capn-Gorgeous|Cap'n Gorgeous]]. House Knighton. [[Rupert-Knighton|Rupert Knighton]], his father, who will send ships rather than accept an explanation. His condition for the crew was simple: anyone who wants off at the next port walks free. Then he mentioned they'd forgotten to feed Ket. Every sailor at the table found something to look at on the ceiling.
+The galley smelled wrong for a ship — bread, herbs, something on a low heat. [[shattered-sea/characters/npcs/Shepherd-Grigori|Shepherd Grigori]] waited at the head of the table: dark wild hair, a [[Tessarine-Concordat|Tessarine]] shirt, a [[Dravosi-Crown|Dravosi]] naval coat rolled to the sleeves. He asked what kind of pirates they were. No trafficking, no cannibalism, Robin Hood — near enough. He told them about [[Capn-Gorgeous|Cap'n Gorgeous]], and [[Rupert-Knighton|Rupert Knighton]], who will send ships. His condition: anyone who wants off at the next port walks free. Then he mentioned they'd forgotten to feed Ket. Every sailor found something to look at on the ceiling.
 
 ![[raw/assets/session-art/session-02-04-ket-cage.webp|Ket watches from his brass cage in the HCS Surety hold]]
 
-[[Ket]] was not a cat. He was in fact a [[Moucheron]], a native of [[shattered-sea/places/midchain/Murrat|Murrat]], pigeon-sized, sentient, starving humanoid mosquito. Rook had captured him three weeks earlier as a specimen, having heard of Moucheron mercenaries out of [[shattered-sea/places/midchain/Kalowe|Kalowe]] — the [[Five-Blades|Five Blades]]. The crew had been rotating the feeding duty and dreading it.
+[[Ket]] was a [[Moucheron]] — pigeon-sized, sentient, a starving humanoid mosquito from [[shattered-sea/places/midchain/Murrat|Murrat]]. Rook had taken him as a specimen, curious about the mercenaries out of [[shattered-sea/places/midchain/Kalowe|Kalowe]] — the [[Five-Blades|Five Blades]].
 
-[[Jean-Claude-Tabarnack|Jean-Claude]] filled a wine glass with a measure of his own blood and offered it carefully. Ket drank. His abdomen went red. Calmer. Not safe.
+[[Jean-Claude-Tabarnack|Jean-Claude]] filled a wine glass with his own blood. Ket drank. His abdomen went red. Calmer. Not safe.
 
-The debate that followed was the session's real fight. Ket could navigate home from their position — island [[Moucheron|Moucherons]] are feral rather than contracted, open water is not a port. He could be fed and let go.
-
-[[Perrin-Black-Jaw|Perrin]] had obligations, no margin for complications, and a coherent argument. He drew his longsword and moved for the cage. [[Crissdalynn-Khinriss|Crisdalynn]] got there first — deflected the blade, put herself between Perrin and the bars. In the hurry of it she stepped past the safe distance. Ket didn't hesitate. His proboscis found her upper arm and he fed. She pulled back. Perrin cast Tasha's Hideous Laughter. Ket went down, helplessly giggling, in nasally mosquito honks.
+[[Perrin-Black-Jaw|Perrin]] drew his longsword and moved for the cage. [[Crissdalynn-Khinriss|Crisdalynn]] got there first, deflected the blade, put herself between Perrin and the bars — and stepped past the safe distance. Ket fed from her arm. She pulled back. Perrin cast Tasha's Hideous Laughter. Ket went down giggling in mosquito honks.
 
 ![[raw/assets/session-art/session-02-05-ket-release.webp|Ket feeds from Ensign Wouters' body and leaves the opened cage]]
 
-[[Jean-Claude-Tabarnack|Jean-Claude]] would not take part in the execution, though he didn't pretend the argument had no weight. The group chose to release Ket, with Ensign [[Ensign-Wouters|Wouters']] body on deck as a lure, and Perrin using Mage Hand to spring the cage from a safe distance. Ket fed for about a minute, then lifted into the air and flew toward home. Upon hearing Grigori said he was glad. The crew had always hated what Rook did to him and the trouble of feeding him.
+They used Wouters' body as a lure. Perrin sprung the cage with Mage Hand from across the room. Ket fed for a minute, lifted off, and flew toward home. Grigori said he was glad.
 
-The surviving [[HCS-Surety|Surety]] crew assembled: [[Geoffrey-Draves|Geoffrey Draves]] already the party's own; [[Sem-Holst|Sem Holst]] the shipwright; [[Alys-Kuiper|Alys Kuiper]] the surgeon; [[Old-Faas|Old Faas]] for the rigging; [[Thunk]], who specified unprompted that he liked the good kind of explosion; young [[Noor]]. [[Ensign-Wouters|Ensign Wouters]] did not make the assembly. [[Delmar-Fisk|Delmar]] had shot him in the 'cock' during the boarding. And Grigori, leaving at [[shattered-sea/places/calveno/Calveno|Calveno]] for [[Il-Gioco-delle-Beffe|Il Gioco delle Beffe]].
+Crew assembled: [[Geoffrey-Draves|Geoffrey Draves]], [[Sem-Holst|Sem Holst]] the shipwright, [[Alys-Kuiper|Alys Kuiper]] the surgeon, [[Old-Faas|Old Faas]] for the rigging, [[Thunk]] (the good kind of explosion), young [[Noor]]. Wouters was shot in the groin during boarding. Grigori was leaving at [[shattered-sea/places/calveno/Calveno|Calveno]] for [[Il-Gioco-delle-Beffe|Il Gioco delle Beffe]].
 
-Calveno became the heading. [[Perrin-Black-Jaw|Perrin]] told the crew who he was: a Black-Jaw. The [[Passage]] code alongside the captain's law — no trafficking, no cannibalism, voluntary service. Grigori heard crime family. The party knew better.
+Perrin told the crew who he was: a Black-Jaw. The [[Passage]] code alongside captain's law.
 
 ![[raw/assets/session-art/session-02-06-beaumont-departure.webp|The party watches the Saltwright depart from the captured HCS Surety]]
 
-The Surety got searched. Rook's cabin gave up 45 gp, letters of marque naming Barnaby Rook a [[Dravosi-Crown|Dravosi]] privateer, and a blunderbuss [[Delmar-Fisk|Delmar]] looked at with professional interest. Under the floor: 110 gp and two garnets. The confiscated cargo held a pendant engraved _For Mira, from the sea_, and a crate containing flintlocks, [[Miras-Blade|Mira's Blade]], and twenty vials of concentrated Grung poison tincture — the same preparation Jean-Claude had recognised on the Alchemist's bandolier. The party did not sell it. Mira's Blade went to Perrin.
+Rook's cabin: 45 gp, letters of marque, a blunderbuss. Under the floor: 110 gp, two garnets. The cargo held a pendant engraved _For Mira, from the sea_, and a crate — flintlocks, [[Miras-Blade|Mira's Blade]], twenty vials of Grung poison tincture, the same preparation Jean-Claude had recognised on the Alchemist's bandolier. Mira's Blade went to Perrin.
 
-Morning. [[Beaumont-Sel|Beaumont]] said his goodbyes, warned the weather toward Calveno looked uncertain, and said he could be found in [[shattered-sea/places/midchain/Kalowe|Kalowe]] when off route. [[Delmar-Fisk|Delmar]] told him he had a friend in Admiral Fisk. Then Beaumont called for [[Bisou]], who had spent the morning removing 15 gp of shinies from the Surety and did not look sorry. Beaumont treated it as fair business. The [[shattered-sea/ships/Saltwright|Saltwright]] pulled away.
+Morning. Beaumont warned the weather toward Calveno, said he could be found in [[shattered-sea/places/midchain/Kalowe|Kalowe]] when off route. Delmar told him he had a friend in Admiral Fisk. [[Bisou]] had spent the morning removing 15 gp of shinies from the Surety; Beaumont called it fair business. The [[shattered-sea/ships/Saltwright|Saltwright]] pulled away.
 
-The HCS Surety set heading for Calveno: still Crown-marked, still needing a new name.
+The [[HCS-Surety|HCS Surety]] set heading for Calveno: still Crown-marked, still needing a name.
 
 ![[raw/assets/session-art/session-02-07-storm.webp|The HCS Surety holds anchor in a storm as something strikes the hull|355x200]]
 
-A little over two hours into there journey a violent tropical storm formed and raced towards them with unusual malice. The storm came from the east like a dragon of old: roaring winds punctuated by the crack of lightning, ice cold rain pelting them horizontally, the sea going steep and grey. The party dropped canvas and anchors, to hold position rather than push the crew. [[Geoffrey-Draves|Geoffrey]] worked without being asked. [[Jean-Claude-Tabarnack|Jean-Claude]] was seasick.
+Two hours out, a tropical storm hit from the east — roaring winds, rain horizontal, the sea steep and grey. Canvas down, anchors out. Jean-Claude was seasick.
 
-Three hours in, the clouds tore open briefly to the northwest. A Crown Isle on the route toward Calveno — probably [[Aldenmere]]. The window closed.
+Three hours in, a gap opened to the northwest: a Crown Isle on the route toward Calveno, probably [[Aldenmere]]. It closed.
 
-Then the hull took an impact. A second. A third, high-speed and deliberate, the Surety lurched hard to port. This was not just the storm.
+Then the hull took an impact. A second. A third — the Surety lurched hard to port.
 
-Jean Claude reached for his spyglass.
-
-The sea has not finished with them yet.
+[[Jean-Claude-Tabarnack|Jean-Claude]] reached for his spyglass.
 
 ---
 
@@ -105,7 +97,6 @@ The sea has not finished with them yet.
 - **Simone's supply line** — [[Jean-Claude-Tabarnack|Jean-Claude]] has the evidence. Twenty vials of [[Simone-Tabarnack|Simone]]'s tincture reached a [[Dravosi-Crown|Dravosi]] privateer. The party doesn't have the full picture yet.
 - **Nona and Anzolo** — [[Nona-Black-Jaw|Nona Black-Jaw]] is looking. [[Anzolo]] may already be at sea. [[Perrin-Black-Jaw|Perrin]] has named himself to the crew and is still moving.
 - **The Surety needs a new name** — flying Crown colours into Calveno is a minor, but solvable problem.
-- **The Five Blades** — Rook was collecting intelligence on [[Moucheron]] mercenaries in [[shattered-sea/places/midchain/Kalowe|Kalowe]] for a reason.
 
 ---
 

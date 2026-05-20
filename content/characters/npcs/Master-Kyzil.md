@@ -4,7 +4,7 @@ aliases:
   - Kyzil
 title: Master Kyzil
 created: 2026-05-02
-modified: 2026-05-16
+modified: 2026-05-19
 tags:
   - aarakocra
   - monk
@@ -21,7 +21,7 @@ tags:
 | **Species**   | Aarakocra (barn owl)                      |
 | **Role**      | Senior Master, [[Sentinels-Of-The-Eyrie]] |
 | **Home**      | [[High-Eyrie]]                            |
-| **Currently** | [[Port-Tidefall\|Port Tidefall]]                         |
+| **Currently** | Central Strait — on the right trail, days behind       |
 
 ---
 
@@ -29,7 +29,7 @@ tags:
 
 Master Kyzil is a senior master of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]], the aarakocra observation order out of [[High-Eyrie]]. He assigned [[Crisdalynn-Khinriss]] her pilgrimage — map the [[Drowned-Maw|Drowned Maw]] from inside a storm — and staked his own reputation on her readiness when he did it. Before she left, he pressed his crystal dreidel into her talons.
 
-He tracked her by current and weather patterns after the _Red Lady_ went down, deduced where she would wash ashore, and came to [[places/port-tidefall/index|Port Tidefall]] to find her.
+He tracked her by current and weather patterns after the _Red Lady_ went down, deduced where she would wash ashore, and came to [[places/port-tidefall/index|Port Tidefall]] to find her. When she never arrived, he learned the ship had sunk and left Tidefall to search. His drift calculation sent him east into the Midchain first — reasonable model, wrong answer. At a wayport he found a maritime contact who had seen an aarakocra monk aboard a captured Crown patrol cutter heading west. He corrected course. He is now moving through the Central Strait, days behind the party, with a confirmed sighting but no ship name and no destination.
 
 ## Appearance & Manner
 

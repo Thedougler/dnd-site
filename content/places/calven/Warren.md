@@ -65,6 +65,16 @@ The Warren provides routes, hidden shelter, memory, introductions, and kin suppo
 
 Access is not obtained by asking. A person may be shown a door and still know almost nothing about what lies past it.
 
+## The Rattle
+
+The Warren's alarm system. When Dravosi enter La Paludi, someone begins striking a pan in a steady rhythm — faster when contact is close. Another household answers. Then another, then the Low Lamp, then hidden kitchens, pipes, vents. The sound travels through old stone, drainage tunnels, and cistern walls until it seems to come from everywhere at once.
+
+To Kin, the meaning is clear: Dravosi are here. Those who cannot fight hide and lock their doors. Those who can fight answer the call. Subterfuge, sabotage, ambushes, improvised incendiaries — the Warren uses everything available when the odds are asymmetrical.
+
+To the Dravosi, the Rattle is maddening. No one is brandishing a weapon. No one is technically obstructing an officer. No one can be arrested for washing pans or repairing cookware in a crowded district full of kitchens and canal workers. But every Crown officer feels it: surrounded, watched, counted, tracked.
+
+**Two quick taps after the Rattle stops** means the threat has been dealt with. The Warren is safe.
+
 ## Current Hooks
 
 - Do not mark a suspected entrance, boast about being invited, or mistake a rumour for permission.

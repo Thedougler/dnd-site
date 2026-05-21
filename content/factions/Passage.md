@@ -37,7 +37,7 @@ The operational body of the Passage has three layers recognized by those who dea
 
 - **The Run** — travelling families and crews whose circuit knowledge passes through generations, encoded in scratch-notation on bone and ceramic shards legible only to Kin.
 - **The Hold** — maintained caches inside port infrastructure: drainage conduits, wall cavities, dock substructure, cisterns. Predates most buildings it occupies.
-- **The Tangle** — seven senior elders governing the Calveno Run, the only fixed Kin settlement in the Shattered Sea. They hold the Passage's most sensitive routing intelligence.
+- **The Tangle** — seven senior elders governing the Calveno Run, the only fixed Kin settlement in the Shattered Sea. They hold the Passage's most sensitive routing intelligence. The [[factions/Black-Jaw-Run|Black-Jaw Run]], led by Tangle elder [[characters/npcs/Nona-Black-Jaw|Nona Black-Jaw]], is the Warren's anchor Run and the most established in the region.
 
 Kin distinguish internally between Rattkin (Kin) and non-Rattkin (Dry). A Dry can be a trusted partner or valued ally — still not Kin. Information that flows between Kin does not flow to Dry by default.
 

@@ -23,13 +23,13 @@ tags:
 
 ## Summary
 
-[[Nona-Black-Jaw|Nona]] has mentioned Anzolo by name — "a nice young man who always helps an old lady out with chores." Coming from Nona, that phrasing means something specific. He is trusted by the Tangle. He is not someone to trifle with.
+[[Nona-Black-Jaw|Nona]] describes him as _"a nice young man who always helps an old lady out with chores."_ Coming from Nona, that phrasing means something specific.
 
-The Tangle vouches for him. That is enough.
+Anzolo is slow-talking, methodical, and relentless. He is trusted by the Tangle, carries Nona's authority, and Passage contacts cooperate with him because the Tangle vouches for him — that is enough. He is not looking for trouble. Trouble has simply made the mistake of standing somewhere along his route.
 
 ## Role
 
-Anzolo is a Calveno contact and Passage-adjacent ally whose importance comes from Nona's recommendation.
+Tortle fixer and enforcer for the Black-Jaw Run. Passage-adjacent. Nona's first card when she needs something found or handled outside the Warren.
 
 ## Current Status — World Tick 2026-05-16
 

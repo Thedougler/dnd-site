@@ -1,17 +1,19 @@
 ---
 publish: true
 aliases:
-  - Crisdalynn Khinriss
+  - Crissdalynn Khinriss
   - Crissdalynn
-title: Crisdalynn Khinriss
+title: Crissdalynn Khinriss
 created: 2026-04-29
 modified: 2026-05-16
 tags:
-  - pc
+  - character
+  - player-character
   - aarakocra
+  - monk
 ---
 
-# Crisdalynn Khinriss
+# Crissdalynn Khinriss
 
 ![[raw/assets/banners/Crissdalynn-Archer.webp|Crissdalynn, a blue-feathered aarakocra, bracing on a ship's deck in high wind|355x193]]
 
@@ -21,14 +23,14 @@ tags:
 
 |                     |                                  |
 | ------------------- | -------------------------------- |
-| **Species / Class** | [[Aarakocra]] (Crow) [[Monk]] ([[Way-of-the-Kensei\|Kensei]]) 3 |
+| **Species / Class** | [[Aarakocra]] (Crow) [[Monk]] ([[Way-of-the-Kensei\|Kensei]]) 4 |
 | **Background**      | [[Acolyte]] / Cartographer                                     |
 
 ---
 
 ## Overview
 
-**Crisdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. Young by any measure, still finding her edges. She's also one of two survivors of the _Red Lady_ disaster — the aarakocra who dove through thirty feet of black seawater to pull Admiral [[characters/player/Delmar-Fisk|Delmar Fisk]] out of a closing trench — and she's currently sitting aboard [[Saltwright|the *Saltwright*]] with a satchel of unfinished charts and a pilgrimage that isn't done yet.
+**Crissdalynn Khinriss** is a crow aarakocra Kensei monk and cartographer, fourteen years old in a species that rarely sees fifty. Young by any measure, still finding her edges. She's also one of two survivors of the _Red Lady_ disaster — the aarakocra who dove through thirty feet of black seawater to pull Admiral [[characters/player/Delmar-Fisk|Delmar Fisk]] out of a closing trench — and she's currently sitting aboard [[Saltwright|the *Saltwright*]] with a satchel of unfinished charts and a pilgrimage that isn't done yet.
 
 She's irreverent and impulsive on deck, exacting and silent when a fight starts. She looks dangerous. She acts like she hasn't decided to take herself seriously. Both are true.
 
@@ -44,7 +46,7 @@ She wears geometric leatherwork that she maintains with more care than the rest 
 
 ## Backstory
 
-The [[High-Eyrie|High Eyrie]] sits on a basalt sea stack two hundred feet above the waterline at the northeastern edge of the [[places/crown-islands/index|Crown Islands]] — sheer face, no approach from below, nothing under the training terraces but drop and open sea. Crisdalynn grew up there. She learned to fly in the constant peak wind off that rock before she learned most of what the order had to teach her.
+The [[High-Eyrie|High Eyrie]] sits on a basalt sea stack two hundred feet above the waterline at the northeastern edge of the [[places/crown-islands/index|Crown Islands]] — sheer face, no approach from below, nothing under the training terraces but drop and open sea. Crissdalynn grew up there. She learned to fly in the constant peak wind off that rock before she learned most of what the order had to teach her.
 
 Every Sentinel who comes out of the Eyrie carries two things: the discipline to record exactly what they see, and a task their master set before sending them into the world. Not a suggestion. A task. You don't come back without it.
 
@@ -56,19 +58,19 @@ She found a berth on the _Red Lady_ as lookout and cartographer, spent two years
 
 ## The Red Lady Disaster
 
-Crisdalynn was in the crow's nest when the fog came in — so thick the water disappeared from sight around all five ships at once. A rogue trench opened beneath the fleet and all five ships plunged eighty feet into a valley of water. She dove, grabbed Admiral Fisk, and flew straight back up. She had only risen fifty feet when the walls of water closed in. Her momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet was swallowed whole.
+Crissdalynn was in the crow's nest when the fog came in — so thick the water disappeared from sight around all five ships at once. A rogue trench opened beneath the fleet and all five ships plunged eighty feet into a valley of water. She dove, grabbed Admiral Fisk, and flew straight back up. She had only risen fifty feet when the walls of water closed in. Her momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet was swallowed whole.
 
 Two days on wreckage. Then the [[Saltwright|Saltwright]] found them.
 
 The charts are still in the satchel. The task is still unfinished. She hasn't gone back.
 
-In the stories spreading through the [[places/midchain/index|Midchain]], Crisdalynn is the black-feathered scout who flew the admiral out of the Maw when the sea should have taken them both. What the stories leave out is that she was close enough to the surface to see daylight when the water closed in, and she flew through it anyway.
+In the stories spreading through the [[places/midchain/index|Midchain]], Crissdalynn is the black-feathered scout who flew the admiral out of the Maw when the sea should have taken them both. What the stories leave out is that she was close enough to the surface to see daylight when the water closed in, and she flew through it anyway.
 
 ---
 
 ## Character
 
-Crisdalynn is a jackdaw in a raven's body. Joking, irreverent, occasionally immature, wearing her whole personality on her sleeve without apparent concern for what it costs her. She'll pocket anything that catches the light and defend the decision philosophically: shiny things are valuable regardless of what they actually are. She's said this out loud. More than once.
+Crissdalynn is a jackdaw in a raven's body. Joking, irreverent, occasionally immature, wearing her whole personality on her sleeve without apparent concern for what it costs her. She'll pocket anything that catches the light and defend the decision philosophically: shiny things are valuable regardless of what they actually are. She's said this out loud. More than once.
 
 Combat is the exception. The moment a fight begins she's someone else: precise, cold, and fast. Her first three seconds are all calculation — friends, exit, weak point, in that order without thinking. The jokes stop. The calculation doesn't. If someone she's loyal to is in real danger, the shift goes further — the lightness drains out entirely, the face hardens, and she will not stop until the threat is gone.
 
@@ -103,9 +105,9 @@ What she says she wants is Kyzil's approval, the pilgrimage finished, kinship wi
 
 ### Session 01 — The Saltwright Boarding
 
-After the musket shot dropped Cap'n Gorgeous in the hold, Crisdalynn moved fast — dragging the body back through [[private/players/Perrin-Black-Jaw|Perrin]]'s Minor Illusion across the doorway before the sound could be placed. The two deckhands came down not knowing what they were walking into.
+After the musket shot dropped Cap'n Gorgeous in the hold, Crissdalynn moved fast — dragging the body back through [[characters/player/Perrin-Black-Jaw|Perrin]]'s Minor Illusion across the doorway before the sound could be placed. The two deckhands came down not knowing what they were walking into.
 
-When the hold was clear, [[private/players/Delmar-Fisk|Delmar]] knelt at the foot of the ladder. Crisdalynn hit his hands at a run and he launched her up through the hatch. Her wings snapped open the moment she cleared the weather deck and sent the two nearest Dravosi sprawling. [[private/players/Jean-Claude-Tabarnack|Jean-Claude]] and Perrin came up through a gap in the decking at a second angle. The deck fight was short.
+When the hold was clear, [[characters/player/Delmar-Fisk|Delmar]] knelt at the foot of the ladder. Crissdalynn hit his hands at a run and he launched her up through the hatch. Her wings snapped open the moment she cleared the weather deck and sent the two nearest Dravosi sprawling. [[characters/player/Jean-Claude-Tabarnack|Jean-Claude]] and Perrin came up through a gap in the decking at a second angle. The deck fight was short.
 
 She was active through the rest of the gangplank fight. [[Geoffrey-Draves|Geoffrey Draves]] is now the party's first crew member. See [[Session-01-Recap]].
 
@@ -113,7 +115,7 @@ She was active through the rest of the gangplank fight. [[Geoffrey-Draves|Geoffr
 
 ## Public Standing
 
-Crisdalynn's reputation is still forming, the way a fourteen-year-old's tends to be. Among people who know only the Maw story, she's a survivor and an unlikely rescuer: the scout who dove into a closing trench and came back up with an admiral. Among people who've shared a deck with her, she's harder to summarize. Young, sharp, easier to underestimate than she looks, and considerably more dangerous once she stops talking.
+Crissdalynn's reputation is still forming, the way a fourteen-year-old's tends to be. Among people who know only the Maw story, she's a survivor and an unlikely rescuer: the scout who dove into a closing trench and came back up with an admiral. Among people who've shared a deck with her, she's harder to summarize. Young, sharp, easier to underestimate than she looks, and considerably more dangerous once she stops talking.
 
 The charts in her satchel show the southern arc and most of the eastern rim of the [[Drowned-Maw|Drowned Maw]] — two years of careful work, close to something that's never been completed. She hasn't given up on finishing them. Whether she knows it or not, that may be the thing most worth noting about her.
 

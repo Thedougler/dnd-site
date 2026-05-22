@@ -18,7 +18,7 @@ _Medium Humanoid_
 
 Winged birdfolk originating from the Elemental Plane of Air, where their ancestors served the Wind Dukes of Aaqa. From below they resemble large birds; their humanoid nature becomes apparent only when standing close enough to see tool use and language. They are creatures of the sky — ground-dwellers are a curiosity to them.
 
-In the [[Shattered-Sea|Shattered Sea]], [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] is a known Aarakocra. The broader presence of aarakocra in the campaign is not established — distribution and population unknown.
+In the [[Shattered-Sea|Shattered Sea]], [[Crissdalynn-Khinriss|Crissdalynn Khinriss]] is a known Aarakocra. The broader presence of aarakocra in the campaign is not established — distribution and population unknown.
 
 ---
 
@@ -54,4 +54,4 @@ Aarakocra think in three dimensions where ground-dwellers think in two. What app
 - [[Rattkin]] — Rattkin
 - [[Grung]] — Grung
 - [[Antherian]] — Antherian
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — Crow Aarakocra Kensei Monk PC
+- [[Crissdalynn-Khinriss|Crissdalynn Khinriss]] — Crow Aarakocra Kensei Monk PC

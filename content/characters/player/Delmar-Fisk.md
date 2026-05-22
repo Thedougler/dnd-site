@@ -24,7 +24,7 @@ tags:
 
 |                     |                            |
 | ------------------- | -------------------------- |
-| **Species / Class** | [[Human]] [[Swashbuckler]] [[Rogue]] 3 |
+| **Species / Class** | [[Human]] [[Swashbuckler]] [[Rogue]] 4 |
 | **Background**      | [[Sailor]]                             |
 
 ---
@@ -79,7 +79,7 @@ The fleet's final commission was the theft of the [[situations/active/Pearl-of-S
 
 [[lore/Umberlee|Umberlee]]'s response was not long in coming. Fog first — so thick the water disappeared from sight around all five ships at once. Then a rogue trench opened beneath the fleet, plunging all five ships eighty feet into a valley of water. The walls closed in and swallowed them whole.
 
-[[Crissdalynn-Khinriss|Crisdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. Two days adrift before [[Saltwright|the *Saltwright*]] found them among the wreckage.
+[[Crissdalynn-Khinriss|Crissdalynn Khinriss]], the aarakocra scout aboard the _Red Lady_, dove from the crow's nest and pulled Fisk clear as the water closed in. She had risen only fifty feet when the trench sealed behind them; momentum and the buoyancy of his coat carried them both to the surface. They heard [[lore/Umberlee|Umberlee]]'s laughter on the wind, then her rage, as the fleet went under. Two days adrift before [[Saltwright|the *Saltwright*]] found them among the wreckage.
 
 Two survivors from five ships and all their crews.
 
@@ -115,7 +115,7 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It's the ce
 
 ## Key Relationships
 
-**[[Crissdalynn-Khinriss|Crisdalynn Khinriss]]** is the person whose opinion matters most to him, and the reason is specific: she dove through a closing trench to pull him out. He calls her Ms. Khinriss in public and trusts her above anyone else alive.
+**[[Crissdalynn-Khinriss|Crissdalynn Khinriss]]** is the person whose opinion matters most to him, and the reason is specific: she dove through a closing trench to pull him out. He calls her Ms. Khinriss in public and trusts her above anyone else alive.
 
 **[[Serafina-Windfall-Fisk|Serafina Windfall Fisk]]** is his wife. A fortune-teller who moves through the Scatter on compulsion, drawn to specific places and people by a precognitive pull she's stopped trying to fight. They married knowing their work would keep them apart more often than not. She was not aboard the _Red Lady_. He named his musket after her.
 
@@ -131,7 +131,7 @@ The loss of the _Red Lady_ and her captains is not a closed chapter. It's the ce
 
 ### Session 01 — The Saltwright Boarding
 
-Delmar took point on the hold ambush, coordinating the party's position while [[Beaumont-Sel|Beaumont]] kept [[Barnaby-Rook|Rook]] occupied at the wheel above. When the hold was clear, he knelt at the foot of the ladder and boosted [[Crissdalynn-Khinriss|Crisdalynn]] up through the hatch — her wings-open entrance on the weather deck knocked two Dravosi prone.
+Delmar took point on the hold ambush, coordinating the party's position while [[Beaumont-Sel|Beaumont]] kept [[Barnaby-Rook|Rook]] occupied at the wheel above. When the hold was clear, he knelt at the foot of the ladder and boosted [[Crissdalynn-Khinriss|Crissdalynn]] up through the hatch — her wings-open entrance on the weather deck knocked two Dravosi prone.
 
 When [[Geoffrey-Draves|Geoffrey Draves]] dropped his sword and Rook called across the deck to threaten him, Delmar picked the sword up. Then asked the boy: _"Would you rather fight for men who'll threaten to shoot you, or men who'll protect you?"_ Geoffrey answered and Delmar handed the sword back. Geoffrey is now the party's first crew member.
 

@@ -15,39 +15,37 @@ tags:
 
 # Nona Black-Jaw
 
-![[raw/assets/banners/Nona-Black-Jaw.webp|Nona Black-Jaw standing in a firelit canal street, wrapped in weathered red cloth|637]]
+![[raw/assets/banners/Nona-Black-Jaw-Arson.png|Nona Black-Jaw bringing bread and honest fire to a Calveno canal|637]]
 
 ---
 
-| | |
-|---|---|
-| **Species** | Rattkin |
-| **Role** | Matriarch, [[factions/Black-Jaw-Run\|Black-Jaw Run]]; senior elder, the Tangle |
+|              |                                                                                                                               |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Species**  | Rattkin                                                                                                                       |
+| **Role**     | Matriarch, [[factions/Black-Jaw-Run\|Black-Jaw Run]]; senior elder, the Tangle                          |
 | **Location** | [[places/calven/Warren\|The Warren]], beneath [[places/calveno/Calveno\|Calveno]] |
 
 ---
 
 ## Overview
 
-Nona Black-Jaw has been at war with the Dravosi Crown for sixty years. Not loudly. Not with speeches. She stayed in the Warren, she fed people, she built something the Crown doesn't know exists, and she decided that was enough of an answer.
+Nona Black-Jaw has been at war with the Dravosi Crown for sixty years. Not loudly. Not with speeches. She stayed in the Warren, she fed people, she built something the Crown doesn't know exists, and she decided that was enough was enough.
 
-To the Crown she is a smuggler, seditionist, and fugitive. To the Kin of [[places/calven/Warren|the Warren]], she is the reason there's a Warren to come home to.
+To the Crown she is a smuggler, terrorist, and fugitive. To the Kin of [[places/calven/Warren|the Warren]], she is the reason there's a Warren to come home to.
 
-She feeds people first — not as a tactic, but because people deserve to eat and because a table is what all of this is actually for. By the time business is on the table, you've already understood what she believes.
+She feeds people first — not as a tactic, but because people deserve to eat and because a table is what all of this is actually for. By the time business is on the table, you've already understood what she believes in.
 
 ## Appearance & Manner
 
 Very small, even by Rattkin measure. Her fur is almost entirely silver-white, except for the dark brown-black mask along her jaw that gives the family its name. Sharp pink-rimmed eyes under a low brow; thin ears; calloused paws. She sits perfectly straight.
 
-She wears a flour-dusted floral apron over dark, well-made cloth. She smells of garlic, fresh bread, lamp oil, and — if you're close enough — alchemist's fire. She discusses Dravosi inspection schedules and burning things down in the same tone she uses for the weather. Urgency stopped impressing her decades ago.
+She wears a flour-dusted floral apron over dark, well-made cloth. She smells of garlic and fresh bread. She discusses Dravosi inspection schedules and burning things down in the same tone she uses for the weather. Urgency stopped impressing her decades ago.
 
 ## The Nicknames
 
 She was burning boats before the current Dravosi Commendant was born. Not for leverage. Not for reputation. Because something had to burn, and she was the one standing there.
 
-Dravosi records call her **the Calveno Candle**. Kin who ran with her call her **Pitch-Paws**. One name belongs to people who lost something. The other belongs to people who were there.
-
-Nobody young uses either to her face unless they want to understand what it cost.
+Dravosi records call her **the Calveno Candle**.
 
 ## The Black-Jaw Run
 
@@ -56,10 +54,6 @@ She leads the [[factions/Black-Jaw-Run|Black-Jaw Run]], the Warren-anchored Run 
 Her specific additions to [[factions/Passage|the Passage's]] One Law:
 
 > _"If you make a coin selling someone's chain, I break your hands, take the coin, and spend it getting them free."_
-
-On poison — which she considers cowardly rather than merely wrong:
-
-> _"Poison is for cowards and Grung with no imagination. Fire is honest. Fire tells everyone exactly what happened."_
 
 ## The Cheese Rule
 
@@ -77,36 +71,26 @@ Her late husband [[characters/minor/Vincenzo-Black-Jaw|Vincenzo Black-Jaw]] buil
 
 She was angry at him for years. She's still a little angry. He left her to run the whole thing alone, and she's been doing it, and she misses him every single day.
 
-## At the Table
+## Household & Guard
 
-**Enzo** — tiger tabaxi bodyguard. Tailored suit, polished claws, immaculate shoes. Communicates through a lit cigar, a held door, and the slow unsheathing of one claw. His sentence: _"Nona asked you a question."_
+![[raw/assets/banners/Nona-Black-Jaw-Kitchen.png|Nona Black-Jaw cooking from a tall stool while Enzo and Ruk keep watch at ease in the Warren kitchen]]
 
-**Ruk** — lizardfolk bodyguard. Massive, scarred, literal. Understands territory, loyalty, feeding rituals, and the defense of hatchlings — so he understands Nona. Terrible at pretending not to notice things.
+**[[characters/minor/Enzo|Enzo]]** — jaguar tabaxi bodyguard. Tailored suit, polished claws, immaculate shoes. Communicates through a lit cigar, a held door, and the slow unsheathing of one claw.
 
-> _"He is lying. I can smell the fear-sweat. Also, he looked left before answering."_
->
-> _"Ruk, darling, we accuse guests after dessert."_
+**[[characters/minor/Ruk|Ruk]]** — lizardfolk bodyguard. Massive, scarred, literal. Understands territory, loyalty, feeding rituals, and the defense of hatchlings — so he understands Nona.
 
 **[[characters/minor/Anzolo|Anzolo]]** — Tortle enforcer, trusted fixer. Currently deployed to find Perrin.
 
 ## Current Status
 
-[[characters/minor/Anzolo|Anzolo]] has been deployed to find Perrin, who has not answered a circuit-wide Passage inquiry. See [[situations/active/Warren|The Warren — DM Notes]] for full search state, outcomes, and DM framing.
-
-## Roleplay Voice
-
-> _"Eat. You look like a starved little mouse. Ruk dear, more stew for the cleric."_
-
-> _"Never snatch. Snatching is for children and amateurs. Smile. Sit. Eat. Make them decide to be generous."_
-
-> _"Enzo, if they reach for steel before bread, break only one hand. We are not animals."_
-
-> _"Remember — laws are just threats of violence from the dominant socioeconomic group."_ \[produces rags and dark bottles, distributes them] _"Okay kids, you wanna make some bacon?"_ \[lights a molotov and lobs it toward a Dravosi cutter]
+[[characters/minor/Anzolo|Anzolo]] has been deployed to find Perrin after Perrin failed to answer a circuit-wide Passage inquiry. Perrin knows Nona is looking for him.
 
 ## Relationships
 
 - [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]] — grandson; current search target
 - [[characters/minor/Vincenzo-Black-Jaw|Vincenzo Black-Jaw]] — late husband
+- [[characters/minor/Enzo|Enzo]] — jaguar tabaxi bodyguard; present at all Tangle Chambers meetings
+- [[characters/minor/Ruk|Ruk]] — lizardfolk bodyguard; present at all Tangle Chambers meetings
 - [[characters/minor/Anzolo|Anzolo]] — trusted enforcer; deployed to find Perrin
 - [[factions/Black-Jaw-Run|The Black-Jaw Run]]
 - [[factions/Passage|The Passage]]
@@ -117,6 +101,6 @@ She was angry at him for years. She's still a little angry. He left her to run t
 
 ## Related Pages
 
-- [[situations/active/Warren|The Warren — DM Notes]]
-- [[situations/questions/What-Sunk-The-Vestra|What Sunk The Vestra]]
 - [[factions/Black-Jaw-Run|The Black-Jaw Run]]
+- [[factions/Passage|The Passage]]
+- [[places/calven/Warren|The Warren]]

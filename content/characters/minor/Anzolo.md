@@ -4,7 +4,7 @@ aliases:
   - Anzolo
 title: Anzolo
 created: 2026-05-02
-modified: 2026-05-16
+modified: 2026-05-20
 tags:
   - tortle
   - recurring
@@ -30,10 +30,6 @@ Anzolo is slow-talking, methodical, and relentless. He is trusted by the Tangle,
 ## Role
 
 Tortle fixer and enforcer for the Black-Jaw Run. Passage-adjacent. Nona's first card when she needs something found or handled outside the Warren.
-
-## Current Status — World Tick 2026-05-16
-
-Deployed by Nona from Calveno to find Perrin Black-Jaw. Working independently through Passage contacts. Carrying Tangle authority — any Passage contact he reaches will cooperate. Not looking for trouble. Looking for Perrin. Currently moving toward the Central Strait corridor based on the fragmentary sighting Nona's inquiry returned.
 
 ## Relationships
 

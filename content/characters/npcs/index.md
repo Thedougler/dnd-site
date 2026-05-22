@@ -25,7 +25,7 @@ Recurring NPCs with ongoing narrative presence. Private motives and GM mechanics
 
 **[[Maren|Maren]]** — Water Genasi captain of the _[[Narrow|Narrow]]_. Fisk's scout and underwater specialist. Drowned at the Maw. Her soul is inside [[characters/player/Delmar-Fisk|Delmar Fisk]]. It is pronounced MARE-EN.
 
-**[[Master-Kyzil|Master Kyzil]]** — Senior master of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]. Barn owl aarakocra, quiet authority. The man who assigned Crisdalynn her pilgrimage.
+**[[Master-Kyzil|Master Kyzil]]** — Senior master of the [[Sentinels-Of-The-Eyrie|Sentinels of the Eyrie]]. Barn owl aarakocra, quiet authority. The man who assigned Crissdalynn her pilgrimage.
 
 **[[Nona-Black-Jaw|Nona Black-Jaw]]** — Rattkin matriarch, head of the Black-Jaw Run, most senior voice in the Warren. Perrin's grandmother. The person he is not ready to call.
 

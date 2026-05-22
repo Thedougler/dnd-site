@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Items
-created: 2026-05-17T07:50:04.343-07:00
+created: 2026-05-21T21:23:58.305-07:00
 modified: 2026-05-11
 tags:
   - player-resource
@@ -16,7 +16,7 @@ Things the party owns, has encountered, or should probably be able to identify i
 
 **[[Clydes-Bestiary-of-Oceanic-Creatures|Clyde's Bestiary of Oceanic Creatures]]** — A naturalist's survey of oceanic creatures, written with the kind of contempt for the reader that only comes from genuine expertise. Useful for identifying things that might eat a ship.
 
-**[[Eldritch-Claw-Tattoo|Eldritch Claw Tattoo]]** — Crisdalynn's, given by Master Kyzil the day she received her pilgrimage task. Makes unarmed strikes magical; once per dawn the lines extend fifteen feet, add force damage, then snap back. A Sentinel tradition older than anyone has tried to trace.
+**[[Eldritch-Claw-Tattoo|Eldritch Claw Tattoo]]** — Crissdalynn's, given by Master Kyzil the day she received her pilgrimage task. Makes unarmed strikes magical; once per dawn the lines extend fifteen feet, add force damage, then snap back. A Sentinel tradition older than anyone has tried to trace.
 
 **[[items/Pearl-of-Souls|Pearl of Souls]]** — A divine object with ties to Umberlee, Fisk's lost fleet, and whatever is at the bottom of the Maw. Nobody who's held it seems entirely comfortable talking about it afterward.
 

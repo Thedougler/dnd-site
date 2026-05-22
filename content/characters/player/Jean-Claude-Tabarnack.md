@@ -23,7 +23,7 @@ tags:
 
 |                     |                                            |
 | ------------------- | ------------------------------------------ |
-| **Species / Class** | [[Grung]] (Blue Caste) [[Ranger]] ([[Gloom-Stalker\|Gloomstalker]]) 3 |
+| **Species / Class** | [[Grung]] (Blue Caste) [[Ranger]] ([[Gloom-Stalker\|Gloomstalker]]) 4 |
 | **Background**      | [[Hermit]]                                                           |
 
 ---

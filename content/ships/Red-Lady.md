@@ -31,7 +31,7 @@ Built for extended independent operations: fast enough to disengage, armed enoug
 
 ## Crew and Command
 
-[[Rael-Corven|Rael Corven]] served as flag captain. [[characters/player/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] served as navigator and crow for nearly two years.
+[[Rael-Corven|Rael Corven]] served as flag captain. [[characters/player/Delmar-Fisk|Delmar Fisk]] commanded as Admiral. [[Crissdalynn-Khinriss|Crissdalynn Khinriss]] served as navigator and crow for nearly two years.
 
 Every new hand on the _Red Lady_ went through Rael's training program before touching a line in action. He knew every name aboard and built each sailor's duties around their specific capabilities. The ship's reputation as the best-run vessel in the fleet was not incidental — it was a direct result of how he ran it. He worked closely with any natural spellcasters in the fleet alongside his own crew, helping them develop what they had. Several of the _Red Lady_'s more useful fixtures — a self-clearing galley table, a navigation stool that moved with the ship's pitch — were his own quiet craftsmanship.
 
@@ -41,7 +41,7 @@ Every new hand on the _Red Lady_ went through Rael's training program before tou
 
 Umberlee's retribution came as fog — thick enough to swallow the water from the deck, surrounding all five ships at once. A rogue trench opened in the fleet's path and drove them 80 feet down. The walls closed and swallowed the fleet whole.
 
-Crisdalynn dove from the crow's nest, grabbed Fisk, and flew them clear. They heard Umberlee's laughter on the wind, then her rage, as the ships went under. The _Red Lady_ went down with the [[items/Pearl-of-Souls|Pearl of Souls]] still aboard.
+Crissdalynn dove from the crow's nest, grabbed Fisk, and flew them clear. They heard Umberlee's laughter on the wind, then her rage, as the ships went under. The _Red Lady_ went down with the [[items/Pearl-of-Souls|Pearl of Souls]] still aboard.
 
 The five ships lost: _Red Lady_, _[[Narrow|The Narrow]]_, _[[Heft]]_, _[[Fernen]]_, _[[Loud-Argument|Loud Argument]]_. Two survivors.
 

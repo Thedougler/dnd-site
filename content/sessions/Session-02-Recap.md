@@ -15,13 +15,13 @@ tags:
 
 ![[raw/assets/session-art/session-02-01-rook-final.webp|Barnaby Rook knocked from the HCS Surety rigging into dark water]]
 
-[[Crissdalynn-Khinriss|Crisdalynn]]'s wind bent him toward the rail, then away. He fired his [[Flintlock-Pistol|flintlock]] at close range. She caught it on her bracers.
+[[Crissdalynn-Khinriss|Crissdalynn]]'s wind bent him toward the rail, then away. He fired his [[Flintlock-Pistol|flintlock]] at close range. She caught it on her bracers.
 
 [[Beaumont-Sel|Beaumont]] solved the cannon problem by throwing [[Bisou]] through a gun port. She pissed in the powder. [[Delmar-Fisk|Delmar]] fired through the second port and hit [[Ensign-Wouters|Ensign Wouters]] in the dark below. The guns stayed quiet.
 
 Rook went back up the rigging. Delmar picked up a chair, called for the wind, threw it. Rook went into the water a second time. Something long and eel-like moved through it.
 
-[[Crissdalynn-Khinriss|Crisdalynn]] fished out his admiral hat with a boat hook. [[Beaumont-Sel|Beaumont]] said it belonged to the captain.
+[[Crissdalynn-Khinriss|Crissdalynn]] fished out his admiral hat with a boat hook. [[Beaumont-Sel|Beaumont]] said it belonged to the captain.
 
 ![[raw/assets/session-art/session-02-02-beaumont-reckoning.webp|Beaumont Sel settles accounts with the party on the captured HCS Surety]]
 
@@ -43,7 +43,7 @@ The galley smelled wrong for a ship — bread, herbs, something on a low heat. [
 
 [[Jean-Claude-Tabarnack|Jean-Claude]] filled a wine glass with his own blood. Ket drank. His abdomen went red. Calmer. Not safe.
 
-[[Perrin-Black-Jaw|Perrin]] drew his longsword and moved for the cage. [[Crissdalynn-Khinriss|Crisdalynn]] got there first, deflected the blade, put herself between Perrin and the bars — and stepped past the safe distance. Ket fed from her arm. She pulled back. Perrin cast Tasha's Hideous Laughter. Ket went down giggling in mosquito honks.
+[[Perrin-Black-Jaw|Perrin]] drew his longsword and moved for the cage. [[Crissdalynn-Khinriss|Crissdalynn]] got there first, deflected the blade, put herself between Perrin and the bars — and stepped past the safe distance. Ket fed from her arm. She pulled back. Perrin cast Tasha's Hideous Laughter. Ket went down giggling in mosquito honks.
 
 ![[raw/assets/session-art/session-02-05-ket-release.webp|Ket feeds from Ensign Wouters' body and leaves the opened cage]]
 
@@ -110,7 +110,7 @@ Then the hull took an impact. A second. A third — the Surety lurched hard to p
 - [[Ket]]
 - [[Moucheron]]
 - [[Perrin-Black-Jaw]]
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]]
+- [[Crissdalynn-Khinriss|Crissdalynn Khinriss]]
 - [[Jean-Claude-Tabarnack]]
 - [[Delmar-Fisk]]
 - [[Miras-Blade|Mira's Blade]]

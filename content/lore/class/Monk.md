@@ -80,7 +80,7 @@ Warrior of Mercy, Warrior of Shadow, Warrior of the Elements, Warrior of the Ope
 - [[Way-of-the-Kensei]]
 - [[weapons]]
 - [[raw/ingested/Stunned]]
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]] — Kensei Monk PC
+- [[Crissdalynn-Khinriss|Crissdalynn Khinriss]] — Kensei Monk PC
 - [[SRD-Actions]]
 
 ## Source

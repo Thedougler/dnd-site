@@ -12,7 +12,7 @@ tags:
 
 - [[characters/player/Delmar-Fisk|Delmar Fisk]]
 - [[characters/player/Perrin-Black-Jaw|Perrin Black-Jaw]]
-- [[Crissdalynn-Khinriss|Crisdalynn Khinriss]]
+- [[Crissdalynn-Khinriss|Crissdalynn Khinriss]]
 - [[characters/player/Jean-Claude-Tabarnack|Jean-Claude Tabarnack]]
 - [[characters/player/Stripes-Bitemore|Stripes Bitemore]]
 - [[Coralyra-Dranra]]

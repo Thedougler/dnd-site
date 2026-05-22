@@ -23,7 +23,7 @@ tags:
 
 |                     |                                        |
 | ------------------- | -------------------------------------- |
-| **Species / Class** | [[Rattkin]] (Fancy Rat) [[Bard]] 1 / [[Warlock]] 2 ([[College-of-Eloquence\|Eloquence]] / [[Great-Old-One\|Great Old One]]) |
+| **Species / Class** | [[Rattkin]] (Fancy Rat) [[Bard]] 3 / [[Warlock]] 1 ([[College-of-Eloquence\|Eloquence]] / [[Great-Old-One\|Great Old One]]) |
 | **Background**      | [[Sailor]]                                         |
 
 ---
@@ -124,9 +124,9 @@ What he hasn't noticed yet is that the chase has become the point, and the versi
 
 ### Session 01 — The Saltwright Boarding
 
-Perrin cast Minor Illusion across the hold doorway after [[Crissdalynn-Khinriss|Crisdalynn]] dragged Cap'n Gorgeous's body back through it — the sound of the musket shot had raised the alarm, but the illusion meant the two Dravosi deckhands came down blind. Both were killed in the hold without a shout reaching the deck.
+Perrin cast Minor Illusion across the hold doorway after [[Crissdalynn-Khinriss|Crissdalynn]] dragged Cap'n Gorgeous's body back through it — the sound of the musket shot had raised the alarm, but the illusion meant the two Dravosi deckhands came down blind. Both were killed in the hold without a shout reaching the deck.
 
-On the weather deck, Perrin and [[private/players/Jean-Claude-Tabarnack|Jean-Claude]] came up through a gap in the decking at a second angle while Crisdalynn took the two nearest Dravosi prone. The deck fight was over quickly.
+On the weather deck, Perrin and [[characters/player/Jean-Claude-Tabarnack|Jean-Claude]] came up through a gap in the decking at a second angle while Crissdalynn took the two nearest Dravosi prone. The deck fight was over quickly.
 
 On the gangplank he was caught in the Dravosi Alchemist's gas canister alongside Jean-Claude. Both resisted. He is unaware that Jean-Claude recognized the compound's origin. See [[Session-01-Recap]].
 

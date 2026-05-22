@@ -3,12 +3,13 @@ publish: true
 aliases:
   - Nona
   - Black-Jaw matriarch
-  - Pitch-Paws
   - The Calveno Candle
 title: Nona Black-Jaw
 created: 2026-05-02
 modified: 2026-05-20
 tags:
+  - character
+  - npc
   - rattkin
   - matriarch
 ---
@@ -98,9 +99,3 @@ She was angry at him for years. She's still a little angry. He left her to run t
 - [[ships/Vestra|The Vestra]]
 - [[Vrtek]]
 - [[Elder-Anton]]
-
-## Related Pages
-
-- [[factions/Black-Jaw-Run|The Black-Jaw Run]]
-- [[factions/Passage|The Passage]]
-- [[places/calven/Warren|The Warren]]

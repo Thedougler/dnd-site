@@ -2,7 +2,7 @@
 publish: true
 title: Calveno — Index
 created: 2026-05-01
-modified: 2026-05-05
+modified: 2026-05-22
 tags:
   - location
   - city
@@ -30,13 +30,12 @@ See [[Calveno]] for city overview.
 - [[Casa-Lupo|Casa Lupo]] — Le Paludi general goods; Ettore prices from memory, no price list.
 - [[Studio-Orsini|Studio Orsini]] — alchemist on a Le Paludi side canal; potions, reagents, specific compounds; Orsini does not ask.
 - [[Cabinet-of-Morsani|The Cabinet of Morsani]] — Velo Quarter curio and magic item dealer; Morsani knows the previous owner of everything.
-- [[Waveservant-Shrine|Waveservant Shrine]] — Umberlee's canal-front shrine on the Mercatura; tribute paid in full view of passing boats.
+- [[places/calveno/Waveservant-Shrine|Waveservant Shrine]] — Umberlee's canal-front shrine on the Mercatura; tribute paid in full view of passing boats.
 - [[Cats-Curios|Cat's Curios]] — referral-only artificer workshop; no sign, no walk-ins.
 
 ### Hidden & Notable
 
 - [[Warren|The Warren]] — Rattkin settlement beneath the Saltmarsh district, in old drainage channels and hidden holds; the deepest anchor of the Passage.
-- [[La-Vasca|La Vasca]] — Black-Jaw private dry dock deep in Le Paludi; officially a derelict tanning facility. _(DM only)_
 
 ## NPCs
 

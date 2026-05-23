@@ -51,25 +51,25 @@ His Crown Majesty's Cutter [[HCS-Surety|*Surety*]] is a Tier 1 patrol cutter, pu
 
 **On Hull Integrity and Armour Class.** Hull Integrity functions as hit points for the vessel. When it reaches zero, the vessel is sinking. Hull Armour Class represents the difficulty of landing a meaningful strike against a ship-scale target.
 
-**On Repairs.** At-sea repair requires a skilled Carpenter on board. During a short rest, the Carpenter makes an **Intelligence (Carpenter's Tools) DC 15** check; on a success, the vessel recovers **2d8 + proficiency bonus** Hull Integrity. In port, repairs are conducted at 1 gp per Hull Point, at a rate of 25 Hull Points per workday.
+**On Repairs.** At-sea repair requires a skilled Carpenter on board. During a short rest, the Carpenter makes an **Intelligence (Carpenter's Tools) DC 15** check; on a success, the vessel recovers **2d8 + proficiency bonus** Hull Integrity. In port, repairs run 1 gp per Hull Point at 25 Hull Points per workday.
 
 ---
 
 ## Article II — Deck Arrangement
 
-**Weather Deck.** The open upper deck, running the full length of the vessel. The bow mounts a swivel gun with a 360-degree arc of fire. Two 6-lb cannon on rolling carts with securing ropes amidships, one per side. The quarterdeck is raised two feet at the stern and carries the ship's wheel; attacks made from the quarterdeck against deck-level targets are made with advantage, and ascending to it costs an additional five feet of movement. Rigging may be climbed with a **DC 10 Athletics** check as an action. The mainmast boom may be swung as an improvised weapon by a crew member who makes a **DC 12 Strength** check; any creature struck must make a **DC 13 Dexterity** saving throw or take **1d8** bludgeoning damage and be pushed ten feet.
+**Weather Deck.** The open upper deck, running the full length of the vessel. The bow mounts a swivel gun with a 360-degree arc of fire. Two 6-lb cannon on rolling carts with securing ropes amidships, one per side. The quarterdeck is raised two feet at the stern and carries the ship's wheel; attacks from the quarterdeck against deck-level targets have advantage, and ascending to it costs an additional five feet of movement. Rigging may be climbed with a **DC 10 Athletics** check as an action. The mainmast boom may be swung as an improvised weapon by a crew member who makes a **DC 12 Strength** check; any creature struck must make a **DC 13 Dexterity** saving throw or take **1d8** bludgeoning damage and be pushed ten feet.
 
 **Gun Deck.** The interior living space, with approximately 6'4" of overhead clearance. Crew quarters forward, galley, boarding locker amidships, chart table, officer's berth, and the captain's cabin aft. The boarding locker — stocked with cutlasses, boarding axes, flintlocks, and grappling hooks — may be accessed as a bonus action.
 
 **Hold.** The lowest level. Provisions are stored forward; the prisoner brig is bolted to the keel amidships; the powder magazine occupies the aft section.
 
-The Commanding Officer is directed to enforce strict fire discipline in the vicinity of the magazine. Open flame within ten feet of the magazine requires a **DC 12 Dexterity** saving throw or causes **8d6** fire damage in a twenty-foot radius and inflicts **30** points of structural damage on the vessel. This is often immediately and violently counter productive to your survival.
+The Commanding Officer is directed to enforce strict fire discipline in the vicinity of the magazine. Open flame within ten feet of the magazine requires a **DC 12 Dexterity** saving throw or causes **8d6** fire damage in a twenty-foot radius and inflicts **30** points of structural damage on the vessel. This is often immediately and violently counterproductive to your survival.
 
 ---
 
 ## Article III — Ship's Company
 
-Each of the following roles must be filled for the vessel to operate at regulation standard. A role may be filled by an officer of the ship's complement or by a hired professional. When a member of the ship's complement fills a role, that individual adds their relevant ability modifier to checks made for that role's function. A hired professional performs competently at baseline. An unfilled role either cannot perform its function at all or does so at disadvantage.
+Each of the following roles must be filled for the vessel to operate at regulation standard. A role may be filled by a member of the ship's complement or by a hired professional. When a member of the complement fills a role, they add their ability modifier to that role's checks. A hired professional performs competently at baseline. An unfilled role either cannot perform its function at all or does so at disadvantage.
 
 **On minimum complement.** The _Surety_ requires a minimum of four souls to operate. Below that number, all ship-related checks are made with disadvantage and rate of passage is reduced by twenty percent.
 
@@ -111,7 +111,7 @@ Weekly upkeep is owed to the vessel whether she is underway or berthed. The rate
 | Berthing fees (when in port) | 2–5 gp |
 | **Total (estimated, _Surety_)** | **~28 gp/week** |
 
-Failure to meet upkeep obligations carries no immediate mechanical penalty. It carries a narrative one. Experienced officers have found other employers before. The Commanding Officer is advised to maintain accounts in good order.
+Failure to meet upkeep obligations carries no immediate mechanical penalty. It carries a narrative one. Experienced hands have found other employers before. The Commanding Officer is advised to maintain accounts in good order.
 
 ---
 
@@ -135,7 +135,7 @@ When the vessel is transiting dangerous or unfamiliar waters, the Navigator make
 
 On a success, the passage proceeds without incident. On a failure, the voyage is delayed and complications arise — the severity depends on the waters.
 
-Crown survey charts — available from the [[Harbourmasters-Office|Harbourmaster's Office]], [[Port-Tidefall]] — grant advantage on navigation checks in charted waters. Crown Islands and Central Strait coverage is reliable; Midchain charts are contradictory and grant no advantage. Within five miles of the [[Drowned-Maw|Maw]], standard compasses fail and magical navigation instruments produce false readings. Celestial navigation remains unaffected. The [[Compass-of-the-Drowned|Compass Rose]] (400 gp, Port Tidefall chandleries) resolves the compass problem directly.
+Crown survey charts — available from the [[Harbourmasters-Office|Harbourmaster's Office]], [[Port-Tidefall]] — grant advantage on navigation checks in charted waters. Crown Islands and Central Strait coverage is reliable; Midchain charts are contradictory and grant no advantage. Within five miles of the [[Drowned-Maw|Maw]], standard compasses fail and magical navigation instruments produce false readings. Celestial navigation remains unaffected. The [[Compass-of-the-Drowned|Compass Rose]] (400 gp, Port Tidefall chandleries) corrects for this directly.
 
 ### Conduct During Extended Passages
 
@@ -163,7 +163,7 @@ Ship-to-ship combat is tracked in three range bands rather than exact distances.
 
 Each vessel moves on its initiative count. The faster vessel dictates the band — it may close to Boarding or open toward Distant. When both vessels have been Distant for **two consecutive rounds**, the quarry escapes.
 
-Chases may be interrupted by conditions — fog, shallows, reef channels, wind shifts. When they arise, the relevant PC makes an appropriate check; the consequences depend on whether they succeed.
+Chases may be interrupted by conditions — fog, shallows, reef channels, wind shifts. When conditions arise, the relevant PC makes an appropriate check; consequences scale with the outcome.
 
 ### Ramming
 
@@ -222,23 +222,23 @@ The Gunner declares shot type before rolling. Standard shot is **round shot**. T
 
 ## Article VIII — Ship's Facilities and Weekly Management
 
-The vessel functions as a shared operational base — formally classified under Crown Naval Code as a mobile station. Each week, the Officer Complement conducts a **Facility Review**. All special facilities aboard are issued an order for that week. The review occurs whether the vessel is underway or in port. Facilities operate normally at sea provided minimum complement is maintained.
+The vessel is formally classified under Crown Naval Code as a mobile station — the complement's shared operational base. Each week, the Officer Complement conducts a **Facility Review**. All special facilities aboard are issued an order for that week. The review occurs whether the vessel is underway or in port. Facilities operate normally at sea provided minimum complement is maintained.
 
 Officers absent from the vessel may issue orders via _Sending_ or equivalent means. An officer who issues no order defaults to Maintain for all their assigned facilities. Any facility that goes **three consecutive weeks** without orders goes dormant — hirelings have found other employment, supplies have been consumed or spoiled. Reactivating a dormant facility costs 100 gp and one week in port.
 
 ### Current Facility Status — HCS _Surety_
 
-The _Surety_ has four available space units at Tier 1. Two are currently commissioned; two remain available.
+The _Surety_ carries four facility berths at Tier 1. Two are currently commissioned; two remain available.
 
 | Facility | Status | Function |
 |---|---|---|
 | **Weapons Locker** _(Armory)_ | **Commissioned** | Upgrades defender dice from d6 to d8 while stocked. Trade order: buy or sell arms at volume. |
 | **Chart Archive** _(Library)_ | **Commissioned** | Research order: yields three pieces of intelligence — navigation data, lore, faction records, or similar. |
-| **Crew Berths** _(Barracks)_ | Available — recommended | Recruit order: enlists and berths up to 12 Defenders in a single order. The most reliable protection against hostile action events. |
+| **Crew Berths** _(Barracks)_ | Available — recommended | Recruit order: enlists and berths up to 12 Defenders. The most reliable protection against hostile action events. |
 | **Provisions Store** _(Garden)_ | Available — recommended | Harvest order: produces rations, Healer's Kits, Healing Potions, or antitoxin each week. |
-| **Surgeon's Berth** _\[Non-standard installation]_ | Pre-installed; Surgeon role required | Once per weekly review: stabilize all incapacitated crew, or remove one disease or poison over eight hours, or cast _Lesser Restoration_ without expending a spell slot. |
+| **Surgeon's Berth** _\[Non-standard installation]_ | Pre-installed; Surgeon role required | Once per weekly review: stabilize all incapacitated crew; remove one disease or poison over eight hours; or cast _Lesser Restoration_ without expending a spell slot. |
 
-_The Admiral-Commandant's office recommends commissioning the Crew Berths and Provisions Store to fill the two available slots._
+_The Admiral-Commandant's office recommends commissioning the Crew Berths and Provisions Store to bring the vessel to full operational capacity._
 
 ### Weekly Facility Orders
 
@@ -271,7 +271,7 @@ The _Surety_'s name and flag are known quantities. Standing is maintained in eac
 | **Wanted** | Port access restricted or denied; bounties registered. |
 | **Notorious** | Capable crew seek the vessel out; some quarries surrender rather than engage. |
 
-Operating without colours is grounds for suspicion in any Crown port. Operating under false colours is common practice in the Scatter and constitutes a criminal offense under Crown Naval Code should the [[Dravosi-Crown|Dravosi]] apprehend the vessel in the act.
+Operating without colours is grounds for suspicion in any Crown port. Operating under false colours is common practice in the Scatter. It also constitutes a criminal offense under Crown Naval Code, should the [[Dravosi-Crown|Dravosi]] apprehend the vessel in the act.
 
 The _Surety_'s current Crown registration is a liability. The Commanding Officer is assumed to have already given this matter appropriate consideration.
 

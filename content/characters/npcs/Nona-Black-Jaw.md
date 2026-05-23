@@ -84,11 +84,11 @@ Their love was passionate, complicated, and singular, for both their entire live
 
 ## Household & Guard
 
-![[raw/assets/banners/Nona-Black-Jaw-Kitchen.png|Nona Black-Jaw cooking from a tall stool while Enzo and Ruk keep watch at ease in the Warren kitchen]]
+![[raw/assets/banners/Nona-Black-Jaw-Kitchen.png|Nona Black-Jaw cooking from a tall stool while Enzo and Ruk keep watch at ease in the Warren kitchen|355x200]]
 
 **[[characters/minor/Enzo|Enzo]]**: jaguar tabaxi bodyguard. Tailored suit, polished claws, immaculate shoes. Communicates through a lit cigar, a held door, and the slow unsheathing of one claw.
 
-**[[characters/minor/Ruk|Ruk]]**: lizardfolk bodyguard. Massive, scarred, literal. Understands territory, loyalty, feeding rituals, and the defense of hatchlings.
+**[[characters/minor/Ruk|Ruk]]**: lizardfolk bodyguard. Massive, scarred, literal. Understands territory, loyalty, feeding rituals, and the defense of hatchlings.n
 
 **[[characters/minor/Anzolo|Anzolo]]**: Tortle enforcer, trusted fixer. Currently deployed to find Perrin.
 

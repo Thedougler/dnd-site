@@ -2,7 +2,7 @@
 publish: true
 title: The Mortis
 created: 2026-04-13
-modified: 2026-04-13
+modified: 2026-05-23
 tags:
   - rule
   - homebrew
@@ -93,26 +93,32 @@ The Mark goes on the character sheet as a standard mechanical note. Disadvantage
 
 ---
 
+## The Party's Mortises
+
+Three members of the Surety crew took a Mortis at session zero.
+
+| Character | Mark | Gift |
+| --- | --- | --- |
+| [[characters/player/Perrin-Black-Jaw\|Perrin Black-Jaw]] | Disadvantage on all Strength-based checks and saves | +2 Charisma |
+| [[characters/player/Jean-Claude-Tabarnack\|Jean-Claude Tabarnack]] | Disadvantage on Persuasion and Deception | Advantage on Perception and Survival |
+| [[characters/player/Delmar-Fisk\|Delmar Fisk]] | Disadvantage on all Wisdom saving throws; a captain surfaces involuntarily when his triggers fire | Once per short rest (bonus action): surface one captain — borrow their skill proficiencies, or gain Expertise in any you already hold |
+
+**Perrin** is small and not built for ship work, which is exactly why he leads instead of hauls. The Strength mark and Charisma gift say the same thing from opposite ends.
+
+**Jean-Claude** cannot mask himself — what he is reads clearly on his face, in his stillness, in the way he positions before a fight. That same unfiltered attention makes him a sharp reader of terrain and intent.
+
+**Delmar** is never fully alone in his own head. The five captains he lost to Umberlee surface when their triggers fire, borrowing his body and bringing their skills with them. The Wisdom disadvantage is what it costs to carry five other people inside you. The brass flagon at his belt is the return trigger — the anchor to who he is before the captains.
+
+---
+
 ## Connections
 
 - [[characters/player/Perrin-Black-Jaw]]
 - [[characters/player/Jean-Claude-Tabarnack]]
+- [[characters/player/Delmar-Fisk]]
 - [[Shattered-Sea]]
-- [[Shattered-Sea]]
-- [[SRD-Actions]]
 - [[raw/ingested/session-zero]]
-- [[Siege-Rules]]
-- [[Ship-Upgrades]]
-
-## Rule Text
-
-A Mortis pairs a permanent mechanical disadvantage (the **Mark**) with a targeted mechanical benefit (the **Gift**). One Mortis per character. Locks in at session zero. Does not change as the character levels.
-
-## Context
-
-Session zero option only — not available mid-campaign. Requires DM approval on both sides. The Mark must have real teeth; the Gift must exceed the Mark in value and target the player's core fantasy. See Design Rules and Constraints above for creation guidance.
 
 ## Source
 
-- [[2026-04-13-mortis-rule|Source: GM notes — The Mortis rule]]
-- [[raw/ingested/mortis-rule|Source: Mortis rule (standalone)]]
+- Homebrew rule — session zero, Shattered Sea campaign
